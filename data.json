@@ -1,0 +1,98 @@
+{
+  "actualizacion": "2026-02-13T16:00:00Z",
+  "instagram": {
+    "seguidores": 3544,
+    "publicaciones": 74,
+    "promedio_likes": "300+",
+    "shorts_publicados": 1,
+    "shorts_total": 9,
+    "likes_ultimo_short": 300,
+    "meta_seguidores": 10000
+  },
+  "publicidad": {
+    "gasto_total": 250,
+    "inversion_por_seguidor": 0.13,
+    "presupuesto_disponible": 250
+  },
+  "comunidad": {
+    "lista_reencuentro": 500,
+    "meta_lista": 1000,
+    "emails_enviados": 1,
+    "tasa_apertura": 39.36,
+    "tasa_clicks": 12.92
+  },
+  "email_marketing": {
+    "campanas": [
+      {
+        "nombre": "La lista del reencuentro",
+        "enviados": 503,
+        "abiertos": 198,
+        "tasa_apertura": 39.36,
+        "clicks": 65,
+        "tasa_clicks": 12.92,
+        "link_mas_clickeado": "Spotify (46)",
+        "fecha_envio": "13/02 12:21 UTC"
+      }
+    ]
+  },
+  "shows": {
+    "dias_hasta_wannaclap": 64,
+    "entradas_vendidas": 0,
+    "capacidad": 60,
+    "ensayos_completados": 0,
+    "ensayos_total": 7
+  },
+  "contenido": {
+    "shorts_publicados": 1,
+    "shorts_total": 9,
+    "proximo_short": "Hoy (13/2)",
+    "canciones_grabadas": 9
+  },
+  "finanzas": {
+    "invertido_nicolas": 1100,
+    "aportes_agustin_daniel": "Por definir",
+    "balance": -1100
+  },
+  "kpis": {
+    "seguidores_netos": 2044,
+    "meta_seguidores_mes": 500,
+    "engagement_rate": null,
+    "saves_promedio": null,
+    "shares_promedio": null,
+    "reach_mensual": null,
+    "email_open_rate": 39.36,
+    "email_click_rate": 12.92
+  },
+  "timeline": [
+    {
+      "fecha": "11/02/2026",
+      "titulo": "🚀 Lanzamiento La Saga vuelve",
+      "desc": "+2,000 seguidores en un día. Post con ángulo ser felices es un privilegio."
+    },
+    {
+      "fecha": "12/02/2026",
+      "titulo": "🎬 Primer short publicado",
+      "desc": "~300+ likes. Inicio de campaña de 9 shorts."
+    },
+    {
+      "fecha": "13/02/2026",
+      "titulo": "📧 Email La lista del reencuentro enviado",
+      "desc": "503 enviados. 39.36% apertura, 12.92% clicks. Link más clickeado: Spotify (46)."
+    },
+    {
+      "fecha": "02/03/2026",
+      "titulo": "🎸 Primer ensayo",
+      "desc": "WannaClap. 7 ensayos programados hasta el show."
+    },
+    {
+      "fecha": "17/04/2026",
+      "titulo": "🎵 Show WannaClap",
+      "desc": "Primer show del regreso. 60 personas. Inicio de fase post-show."
+    }
+  ],
+  "evolucion_seguidores": {
+    "labels": ["Antes", "11/02", "12/02"],
+    "datos": [1500, 4000, 4000],
+    "meta": [1500, 5000, 10000]
+  }
+}

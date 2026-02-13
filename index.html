@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Villa Chica Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0a0a0a; color: #fff; padding: 20px; }
+        header { text-align: center; margin-bottom: 30px; padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%); border-radius: 12px; }
+        h1 { font-size: 2em; margin-bottom: 10px; background: linear-gradient(90deg, #ff6b6b, #feca57); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .subtitle { color: #888; font-size: 0.9em; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px; }
+        .card { background: #1a1a1a; border-radius: 12px; padding: 20px; border: 1px solid #333; }
+        .card-header { display: flex; align-items: center; gap: 10px; margin-bottom: 15px; }
+        .card-icon { font-size: 1.5em; }
+        .card-title { font-size: 1.1em; font-weight: 600; }
+        .metric { display: flex; justify-content: space-between; align-items: center; padding: 12px 0; border-bottom: 1px solid #333; }
+        .metric:last-child { border-bottom: none; }
+        .metric-name { font-size: 0.9em; color: #aaa; }
+        .metric-value { font-size: 1.2em; font-weight: 600; }
+        .positive { color: #4ade80; }
+        .negative { color: #f87171; }
+        .warning { color: #fbbf24; }
+        .progress-bar { width: 100%; height: 6px; background: #333; border-radius: 3px; margin-top: 8px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #ff6b6b, #feca57); border-radius: 3px; transition: width 0.3s ease; }
+        .chart-container { background: #1a1a1a; border-radius: 12px; padding: 20px; margin-bottom: 20px; }
+        .chart-title { font-size: 1.1em; margin-bottom: 15px; color: #fff; }
+        .timeline { background: #1a1a1a; border-radius: 12px; padding: 20px; }
+        .timeline-item { display: flex; gap: 15px; padding: 15px 0; border-bottom: 1px solid #333; }
+        .timeline-item:last-child { border-bottom: none; }
+        .timeline-date { color: #feca57; font-weight: 600; min-width: 100px; }
+        .timeline-content { flex: 1; }
+        .timeline-title { font-weight: 600; margin-bottom: 5px; }
+        .timeline-desc { color: #888; font-size: 0.9em; }
+        .alert { background: #2a1a1a; border-left: 4px solid #f87171; padding: 15px; border-radius: 8px; margin-bottom: 20px; }
+        .alert-title { color: #f87171; font-weight: 600; margin-bottom: 5px; }
+        .update-btn { background: linear-gradient(135deg, #ff6b6b, #feca57); color: #000; border: none; padding: 12px 24px; border-radius: 8px; font-weight: 600; cursor: pointer; margin-top: 20px; }
+        .loading { text-align: center; padding: 20px; color: #888; }
+        .error { background: #2a1a1a; border-left: 4px solid #f87171; padding: 15px; border-radius: 8px; margin: 20px 0; color: #f87171; }
+    </style>
+</head>
+<body>
+    <div id="loading" class="loading">📊 Cargando datos...</div>
+    <div id="error" class="error" style="display:none;"></div>
+    <div id="dashboard" style="display:none;">
+        <!-- Contenido generado dinámicamente -->
+    </div>
+
+    <script>
+        // Cargar datos desde JSON
+        async function cargarDatos() {
+            try {
+                const response = await fetch('data.json');
+                if (!response.ok) throw new Error('No se pudo cargar data.json');
+                const data = await response.json();
+                renderizarDashboard(data);
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('dashboard').style.display = 'block';
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('error').style.display = 'block';
+                document.getElementById('error').textContent = '❌ Error cargando datos: ' + error.message;
+            }
+        }
+
+        function renderizarDashboard(data) {
+            const instagram = data.instagram || {};
+            const publicidad = data.publicidad || {};
+            const comunidad = data.comunidad || {};
+            const email = data.email_marketing?.campanas?.[0] || {};
+            const shows = data.shows || {};
+            const contenido = data.contenido || {};
+            const finanzas = data.finanzas || {};
+            const kpis = data.kpis || {};
+            const timeline = data.timeline || [];
+
+            document.getElementById('dashboard').innerHTML = `
+                <header>
+                    <h1>🎸 Dashboard La Saga</h1>
+                    <p class="subtitle">Métricas 360 - Actualizado: ${new Date(data.actualizacion).toLocaleDateString('es-ES')}</p>
+                </header>
+
+                <div class="grid">
+                    <!-- Instagram -->
+                    <div class="card">
+                        <div class="card-header">
+                            <span class="card-icon">📱</span>
+                            <span class="card-title">Instagram (@lasagarock)</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-name">Seguidores</span>
+                            <span class="metric-value positive">${instagram.seguidores?.toLocaleString() || '--'}</span>
+                        </div>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: ${(instagram.seguidores / instagram.meta_seguidores * 100) || 35}%"></div>
+                        </div>
+                        <small style="color: #888;">Meta 2026: ${instagram.meta_seguidores?.toLocaleString() || '10,000'}</small>
+                        <div class="metric" style="margin-top: 15px;">
+                            <span class="metric-name">Publicaciones</span>
+                            <span class="metric-value">${instagram.publicaciones || '--'}</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-name">Promedio likes últ. 10 posts</span>
+                            <span class="metric-value positive">${instagram.promedio_likes || '~300+'}</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-name">Shorts publicados</span>
+                            <span class="metric-value positive">${contenido.shorts_publicados || '0'} / ${contenido.shorts_total || '9'}</span>
+                        </div>
+                    </div>
+
+                    <!-- Email Marketing -->
+                    <div class="card">
+                        <div class="card-header">
+                            <span class="card-icon">📧</span>
+                            <span class="card-title">Email: ${email.nombre || 'Campaña'}</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-name">Enviados</span>
+                            <span class="metric-value">${email.enviados || '--'}</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-name">Tasa apertura</span>
+                            <span class="metric-value positive">${comunidad.tasa_apertura || '--'}%</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-name">Tasa clicks</span>
+                            <span class="metric-value positive">${comunidad.tasa_clicks || '--'}%</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-name">Link más clickeado</span>
+                            <span class="metric-value">Spotify (${email.clicks_por_link?.spotify || '--'})</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-name">Fecha envío</span>
+                            <span class="metric-value">${email.fecha_envio || '--'}</span>
+                        </div>
+                    </div>
+
+                    <!-- Shows -->
+                    <div class="card">
+                        <div class="card-header">
+                            <span class="card-icon">🎵</span>
+                            <span class="card-title">Shows</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-name">Días hasta WannaClap</span>
+                            <span class="metric-value warning">${shows.dias_hasta_wannaclap || '--'}</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-name">Entradas vendidas</span>
+                            <span class="metric-value negative">${shows.entradas_vendidas || '0'} / ${shows.capacidad || '60'}</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-name">Ensayos completados</span>
+                            <span class="metric-value">${shows.ensayos_completados || '0'} / ${shows.ensayos_total || '7'}</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Timeline -->
+                <div class="timeline">
+                    <h3 class="chart-title">📅 Línea de tiempo</h3>
+                    ${timeline.map(item => `
+                        <div class="timeline-item">
+                            <div class="timeline-date">${item.fecha}</div>
+                            <div class="timeline-content">
+                                <div class="timeline-title">${item.titulo}</div>
+                                <div class="timeline-desc">${item.desc}</div>
+                            </div>
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+        }
+
+        // Cargar al iniciar
+        cargarDatos();
+    </script>
+</body>
+</html>
