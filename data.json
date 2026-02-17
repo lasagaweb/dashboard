@@ -1,10 +1,10 @@
 {
-  "actualizacion": "2026-02-13T16:00:00Z",
+  "actualizacion": "2026-02-17T23:59:00.000Z",
   "instagram": {
     "seguidores": 3544,
     "publicaciones": 74,
     "promedio_likes": "300+",
-    "shorts_publicados": 1,
+    "shorts_publicados": 2,
     "shorts_total": 9,
     "likes_ultimo_short": 300,
     "meta_seguidores": 10000
@@ -18,32 +18,32 @@
     "lista_reencuentro": 500,
     "meta_lista": 1000,
     "emails_enviados": 1,
-    "tasa_apertura": 39.36,
-    "tasa_clicks": 12.92
+    "tasa_apertura": 58.65,
+    "tasa_clicks": 20.48
   },
   "email_marketing": {
     "campanas": [
       {
         "nombre": "La lista del reencuentro",
         "enviados": 503,
-        "abiertos": 198,
-        "tasa_apertura": 39.36,
-        "clicks": 65,
-        "tasa_clicks": 12.92,
+        "abiertos": 295,
+        "tasa_apertura": 58.65,
+        "clicks": 103,
+        "tasa_clicks": 20.48,
         "link_mas_clickeado": "Spotify (46)",
         "fecha_envio": "13/02 12:21 UTC"
       }
     ]
   },
   "shows": {
-    "dias_hasta_wannaclap": 64,
+    "dias_hasta_wannaclap": 59,
     "entradas_vendidas": 0,
     "capacidad": 60,
     "ensayos_completados": 0,
     "ensayos_total": 7
   },
   "contenido": {
-    "shorts_publicados": 1,
+    "shorts_publicados": 2,
     "shorts_total": 9,
     "proximo_short": "Hoy (13/2)",
     "canciones_grabadas": 9
@@ -80,6 +80,16 @@
       "desc": "503 enviados. 39.36% apertura, 12.92% clicks. Link más clickeado: Spotify (46)."
     },
     {
+      "titulo": "🎬 Segundo short publicado",
+      "fecha": "16/02/2026",
+      "desc": "Ángulo: Honestidad ('No nos acordamos'). Refuerza el concepto 'No vinimos a fingir'. ~300 likes."
+    },
+    {
+      "titulo": "⚠️ Contenido atrasado",
+      "fecha": "17/02/2026",
+      "desc": "Video C1 'Ir' debió publicarse 15/02 (domingo). Short #2 'Buscando Espacio' debió publicarse 15/02 (sábado). Ambos listos, requieren publicación inmediata."
+    },
+    {
       "fecha": "02/03/2026",
       "titulo": "🎸 Primer ensayo",
       "desc": "WannaClap. 7 ensayos programados hasta el show."
@@ -91,8 +101,26 @@
     }
   ],
   "evolucion_seguidores": {
-    "labels": ["Antes", "11/02", "12/02"],
-    "datos": [1500, 4000, 4000],
-    "meta": [1500, 5000, 10000]
+    "labels": [
+      "Antes",
+      "11/02",
+      "12/02",
+      "16/02",
+      "17/02"
+    ],
+    "datos": [
+      1500,
+      4000,
+      4300,
+      3544,
+      3544
+    ],
+    "meta": [
+      1500,
+      5000,
+      10000,
+      10000,
+      10000
+    ]
   }
 }
