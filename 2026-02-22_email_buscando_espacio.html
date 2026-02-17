@@ -6,182 +6,71 @@
     <title>La Saga - Buscando Espacio</title>
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Lato:wght@400;700&display=swap" rel="stylesheet">
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            font-size: 16px;
-            line-height: 1.6;
-            color: #1A1A1A;
-            background-color: #F5E6D0;
-            -webkit-font-smoothing: antialiased;
+            font-size: 16px; line-height: 1.6; color: #1A1A1A;
+            background-color: #F5E6D0; -webkit-font-smoothing: antialiased;
         }
-        
-        .email-wrapper {
-            max-width: 600px;
-            margin: 0 auto;
-            background-color: #FFFFFF;
-        }
-        
+        .email-wrapper { max-width: 600px; margin: 0 auto; background-color: #FFFFFF; }
         .header {
             background: linear-gradient(135deg, #D4752E 0%, #B85C1A 100%);
-            padding: 40px 30px;
-            text-align: center;
+            padding: 40px 30px; text-align: center;
         }
-        
         .header h1 {
-            font-family: 'Oswald', sans-serif;
-            font-size: 28px;
-            font-weight: 700;
-            color: #FFFFFF;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-            margin: 0;
+            font-family: 'Oswald', sans-serif; font-size: 28px; font-weight: 700;
+            color: #FFFFFF; text-transform: uppercase; letter-spacing: 2px;
         }
-        
-        .header-subtitle {
-            font-size: 14px;
-            color: #F5E6D0;
-            margin-top: 10px;
-            letter-spacing: 1px;
-        }
-        
-        .content {
-            padding: 40px 30px;
-            background-color: #FFFFFF;
-        }
-        
-        .content p {
-            margin-bottom: 20px;
-            color: #1A1A1A;
-            font-size: 16px;
-            line-height: 1.8;
-        }
-        
+        .header-subtitle { font-size: 14px; color: #F5E6D0; margin-top: 10px; letter-spacing: 1px; }
+        .content { padding: 40px 30px; background-color: #FFFFFF; }
+        .content p { margin-bottom: 20px; color: #1A1A1A; font-size: 16px; line-height: 1.8; }
         .highlight-box {
-            background-color: #F5E6D0;
-            border-left: 4px solid #D4752E;
-            padding: 20px 25px;
-            margin: 30px 0;
-            font-style: italic;
-            font-size: 18px;
-            color: #1A1A1A;
+            background-color: #F5E6D0; border-left: 4px solid #D4752E;
+            padding: 20px 25px; margin: 30px 0; font-style: italic; font-size: 18px; color: #1A1A1A;
         }
-        
-        .video-section {
-            margin: 40px 0;
-            text-align: center;
-        }
-        
+        .video-section { margin: 40px 0; text-align: center; }
         .video-link {
-            display: inline-block;
-            margin-top: 20px;
-            padding: 15px 30px;
-            background-color: #D4752E;
-            color: #FFFFFF;
-            text-decoration: none;
-            font-weight: 700;
-            font-size: 14px;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            border-radius: 4px;
-            transition: background-color 0.3s ease;
+            display: inline-block; margin-top: 20px; padding: 15px 30px;
+            background-color: #D4752E; color: #FFFFFF; text-decoration: none;
+            font-weight: 700; font-size: 14px; text-transform: uppercase;
+            letter-spacing: 1px; border-radius: 4px;
         }
-        
-        .video-link:hover {
-            background-color: #B85C1A;
-        }
-        
+        .video-link:hover { background-color: #B85C1A; }
         .cta-box {
-            background-color: #1A1A1A;
-            color: #FFFFFF;
-            padding: 30px;
-            text-align: center;
-            margin: 40px 0;
-            border-radius: 8px;
+            background-color: #1A1A1A; color: #FFFFFF; padding: 30px;
+            text-align: center; margin: 40px 0; border-radius: 8px;
         }
-        
-        .cta-box p {
-            color: #F5E6D0;
-            margin-bottom: 20px;
-            font-size: 16px;
-        }
-        
-        .cta-box strong {
-            color: #D4752E;
-        }
-        
-        .footer {
-            background-color: #1A1A1A;
-            padding: 30px;
-            text-align: center;
-        }
-        
-        .footer-logo {
-            font-family: 'Oswald', sans-serif;
-            font-size: 24px;
-            color: #D4752E;
-            margin-bottom: 15px;
-        }
-        
-        .footer-text {
-            font-size: 14px;
-            color: #F5E6D0;
-            margin-bottom: 10px;
-        }
-        
-        .footer-links {
-            margin-top: 20px;
-        }
-        
-        .footer-links a {
-            color: #D4752E;
-            text-decoration: none;
-            font-size: 13px;
-            margin: 0 10px;
-        }
-        
-        .footer-links a:hover {
-            text-decoration: underline;
-        }
-        
-        .divider {
-            height: 1px;
-            background: linear-gradient(90deg, transparent, #D4752E, transparent);
-            margin: 30px 0;
-        }
-        
+        .cta-box p { color: #F5E6D0; margin-bottom: 20px; font-size: 16px; }
+        .cta-box strong { color: #D4752E; }
+        .footer { background-color: #1A1A1A; padding: 30px; text-align: center; }
+        .footer-logo { font-family: 'Oswald', sans-serif; font-size: 24px; color: #D4752E; margin-bottom: 15px; }
+        .footer-text { font-size: 14px; color: #F5E6D0; margin-bottom: 10px; }
+        .footer-links { margin-top: 20px; }
+        .footer-links a { color: #D4752E; text-decoration: none; font-size: 13px; margin: 0 10px; }
+        .divider { height: 1px; background: linear-gradient(90deg, transparent, #D4752E, transparent); margin: 30px 0; }
         @media only screen and (max-width: 600px) {
-            .header { padding: 30px 20px; }
-            .header h1 { font-size: 24px; }
-            .content { padding: 30px 20px; }
-            .content p { font-size: 15px; }
+            .header { padding: 30px 20px; } .header h1 { font-size: 24px; }
+            .content { padding: 30px 20px; } .content p { font-size: 15px; }
             .highlight-box { font-size: 16px; padding: 15px 20px; }
         }
     </style>
 </head>
 <body>
     <div class="email-wrapper">
-        <!-- Header -->
         <div class="header">
             <h1>🎸 La Saga</h1>
             <p class="header-subtitle">LISTA DEL REENCUENTRO</p>
         </div>
         
-        <!-- Content -->
         <div class="content">
-            <p>Te dijimos que te íbamos a ir mandando lo que grabamos.</p>
+            <p>Hoy subimos "Buscando Espacio".</p>
             
-            <p>Hoy sale "Buscando Espacio". Grabada en vivo en diciembre, en una sala chica, con todo lo que teníamos.</p>
+            <p>Grabada en vivo en diciembre de 2025, en un encuentro donde empezó a gestarse que La Saga volvía.</p>
             
-            <p>Es una canción que escribimos hace años y que nunca había sonado así. A veces las canciones necesitan tiempo para encontrar su forma.</p>
+            <p>Es una canción del 2003. Hay canciones que uno hace y que se pasa buscando siempre.</p>
             
             <div class="highlight-box">
-                "Buscando espacio para respirar, buscando un lugar donde empezar."
+                Tal vez eso sea buscar espacio: no encontrarlo, sino seguir buscando.
             </div>
             
             <p>Acá la tenés, antes que nadie.</p>
@@ -192,7 +81,7 @@
             
             <div class="divider"></div>
             
-            <p>La próxima semana sale otra. Cada domingo vamos a ir soltando un tema completo.</p>
+            <p>Cada domingo vamos a ir soltando un tema completo.</p>
             
             <p>Gracias por seguir acá.</p>
             
@@ -201,12 +90,10 @@
             </div>
         </div>
         
-        <!-- Footer -->
         <div class="footer">
             <div class="footer-logo">LA SAGA</div>
             <p class="footer-text">Rock uruguayo desde 1995</p>
             <p class="footer-text">6 discos editados • 1 disco de oro</p>
-            
             <div class="footer-links">
                 <a href="https://www.instagram.com/lasagarock/" target="_blank">Instagram</a> •
                 <a href="https://open.spotify.com/playlist/37i9dQZF1DZ06evO2IOHi9" target="_blank">Spotify</a> •
