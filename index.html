@@ -103,7 +103,7 @@ body {
   gap: 16px;
   margin-bottom: 24px;
 }
-.grid-4 { grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); }
+.grid-4 { grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
 .grid-2 { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }
 .grid-3 { grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); }
 
@@ -131,12 +131,14 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.1em;
   margin-bottom: 6px;
+  text-align: center;
 }
 .kpi-value {
   font-family: 'Sora', sans-serif;
   font-size: 1.5rem;
   font-weight: 700;
   letter-spacing: -0.02em;
+  text-align: center;
 }
 .kpi-change {
   font-size: 0.75rem;
@@ -145,6 +147,60 @@ body {
 .kpi-change.pos { color: var(--green); }
 .kpi-change.neg { color: var(--red); }
 .kpi-change.neutral { color: var(--text-dim); }
+
+/* ── PLATFORM TEAROFF TABS ── */
+.tearoff {
+  display: flex;
+  gap: 3px;
+  margin-top: 14px;
+  margin-left: -16px;
+  margin-right: -16px;
+  margin-bottom: -16px;
+}
+.tearoff-tab {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 8px 4px 10px;
+  border-top: 2px dashed var(--border);
+  position: relative;
+  cursor: default;
+  transition: background 0.2s;
+}
+.tearoff-tab:hover {
+  background: rgba(0,0,0,0.02);
+}
+.tearoff-tab:first-child {
+  border-bottom-left-radius: 11px;
+}
+.tearoff-tab:last-child {
+  border-bottom-right-radius: 11px;
+}
+.tearoff-color {
+  width: 100%;
+  height: 7px;
+  border-radius: 3px;
+  margin-bottom: 6px;
+}
+.tearoff-val {
+  font-family: 'Sora', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text);
+  line-height: 1;
+}
+.tearoff-name {
+  font-size: 0.6rem;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-top: 3px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
 .kpi-detail {
   font-size: 0.65rem;
   color: var(--text-dim);
@@ -312,11 +368,7 @@ body {
 
 <div class="hero">
   <div class="hero-title">LA SAGA VUELVE</div>
-  <div class="hero-sub">Dashboard de Campaña · Actualizado 18/02/2026 16:41</div>
-  <div class="countdown">
-    <span class="countdown-num">57</span>
-    <span class="countdown-label">días para el show</span>
-  </div>
+  <div class="hero-sub">Dashboard de Campaña · Actualizado 18/02/2026 16:57</div>
 </div>
 
 <div class="container">
@@ -338,24 +390,6 @@ body {
     <div class="card">
       <div class="card-title">Evolución de Followers</div>
       <div class="chart-wrap"><canvas id="ig-chart"></canvas></div>
-    </div>
-  </div>
-</div>
-
-<!-- ═══ EMAIL ═══ -->
-<div class="section">
-  <div class="section-header">
-    <div class="section-icon em">📧</div>
-    <div class="section-title">Email Marketing</div>
-  </div>
-  <div class="grid grid-2">
-    <div class="card">
-      <div class="card-title">Estado de la Lista</div>
-      <div id="em-metrics"></div>
-    </div>
-    <div class="card">
-      <div class="card-title">Evolución de Suscriptores</div>
-      <div class="chart-wrap"><canvas id="em-chart"></canvas></div>
     </div>
   </div>
 </div>
@@ -422,14 +456,32 @@ body {
   </div>
 </div>
 
+<!-- ═══ EMAIL ═══ -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-icon em">📧</div>
+    <div class="section-title">Email Marketing</div>
+  </div>
+  <div class="grid grid-2">
+    <div class="card">
+      <div class="card-title">Estado de la Lista</div>
+      <div id="em-metrics"></div>
+    </div>
+    <div class="card">
+      <div class="card-title">Evolución de Suscriptores</div>
+      <div class="chart-wrap"><canvas id="em-chart"></canvas></div>
+    </div>
+  </div>
+</div>
+
 </div><!-- container -->
 
 <div class="footer">
-  La Saga Vuelve · Dashboard generado automáticamente · 18/02/2026 16:41
+  La Saga Vuelve · Dashboard generado automáticamente · 18/02/2026 16:57
 </div>
 
 <script>
-const DATA = {"generated_at": "2026-02-18T16:41:10.794082", "days_to_show": 57, "period_days": 7, "instagram": {"last_date": "2026-02-18", "followers": 3566, "reach": 3319, "accounts_engaged": 314, "period_posts": 2, "period_reach": 5239, "period_engagement": 644, "top_post": {"date": "2026-02-12", "type": "reel", "caption": "En esta época, ser felices es un privilegio\n\nNos juntamos, tocamos, nos reímos. ", "reach": 2711}, "trend": [{"date": "2026-02-18", "followers": 3566, "reach": 3319}], "post_types": [{"type": "reel", "posts": 2, "avg_reach": 2620.0, "avg_engagement": 322.0}]}, "email": {"last_date": "2026-02-18", "total_subs": 1635, "period_gained": 0, "period_lost": 3, "campaigns": [{"name": "Bienvenida a la lista", "sent": 503, "open_pct": 59.8, "click_pct": 20.9, "sent_at": "2026-02-13T12:21:59+00:00"}], "last_campaign": {"name": "Bienvenida a la lista", "sent": 503, "open_pct": 59.8, "click_pct": 20.9, "sent_at": "2026-02-13T12:21:59+00:00"}, "avg_open_pct": 59.8, "avg_click_pct": 20.9, "total_campaigns": 1, "trend": [{"date": "2026-02-18", "subs": 1635}]}, "youtube": {"last_date": "2026-02-18", "subscribers": 3720, "total_views": 1543200, "videos_count": 38, "period_views": 1269, "period_likes": 19, "period_shares": 12, "period_watch_min": 3199.0, "period_subs_net": 5, "unreplied_comments": 100, "top_traffic_source": "PLAYLIST", "top_traffic_views": 2740, "traffic_sources": [{"source": "PLAYLIST", "views": 2740}, {"source": "YT_SEARCH", "views": 927}, {"source": "SUBSCRIBER", "views": 793}, {"source": "RELATED_VIDEO", "views": 363}, {"source": "NO_LINK_OTHER", "views": 208}, {"source": "YT_OTHER_PAGE", "views": 174}, {"source": "EXT_URL", "views": 158}, {"source": "YT_CHANNEL", "views": 123}, {"source": "SHORTS", "views": 107}, {"source": "NOTIFICATION", "views": 19}, {"source": "SHORTS_CONTENT_LINKS", "views": 2}, {"source": "END_SCREEN", "views": 1}], "top_videos": [{"title": "LA SAGA -  \"Color\" - (Video Oficial)", "views": 498560, "likes": 2221, "type": "Video"}, {"title": "LA SAGA - ONCE", "views": 465209, "likes": 2320, "type": "Video"}, {"title": "\"Errante\" (La Saga - \"INTIMO\")", "views": 161405, "likes": 696, "type": "Video"}, {"title": "La Saga - Yo te quiero (Video Oficial)", "views": 115952, "likes": 689, "type": "Video"}, {"title": "La Saga - Vos  (video oficial)", "views": 106267, "likes": 866, "type": "Video"}], "trend": [{"date": "2026-01-19", "views": 132, "likes": 2, "net_subs": 0}, {"date": "2026-01-20", "views": 141, "likes": 2, "net_subs": 0}, {"date": "2026-01-21", "views": 180, "likes": 4, "net_subs": 1}, {"date": "2026-01-22", "views": 196, "likes": 1, "net_subs": 3}, {"date": "2026-01-23", "views": 205, "likes": 1, "net_subs": 0}, {"date": "2026-01-24", "views": 210, "likes": 1, "net_subs": 0}, {"date": "2026-01-25", "views": 144, "likes": 2, "net_subs": 0}, {"date": "2026-01-26", "views": 145, "likes": -1, "net_subs": 0}, {"date": "2026-01-27", "views": 178, "likes": 6, "net_subs": 1}, {"date": "2026-01-28", "views": 209, "likes": 1, "net_subs": 0}, {"date": "2026-01-29", "views": 218, "likes": 3, "net_subs": 0}, {"date": "2026-01-30", "views": 275, "likes": -1, "net_subs": 0}, {"date": "2026-01-31", "views": 232, "likes": 0, "net_subs": 0}, {"date": "2026-02-01", "views": 129, "likes": 0, "net_subs": 0}, {"date": "2026-02-02", "views": 201, "likes": 2, "net_subs": 0}, {"date": "2026-02-03", "views": 177, "likes": -1, "net_subs": -1}, {"date": "2026-02-04", "views": 267, "likes": 4, "net_subs": 1}, {"date": "2026-02-05", "views": 285, "likes": 0, "net_subs": 0}, {"date": "2026-02-06", "views": 186, "likes": 1, "net_subs": 0}, {"date": "2026-02-07", "views": 190, "likes": 0, "net_subs": 2}, {"date": "2026-02-08", "views": 119, "likes": 1, "net_subs": 1}, {"date": "2026-02-09", "views": 149, "likes": 1, "net_subs": -1}, {"date": "2026-02-10", "views": 178, "likes": 0, "net_subs": 0}, {"date": "2026-02-11", "views": 208, "likes": 1, "net_subs": 0}, {"date": "2026-02-12", "views": 221, "likes": 1, "net_subs": 0}, {"date": "2026-02-13", "views": 308, "likes": 2, "net_subs": 2}, {"date": "2026-02-14", "views": 211, "likes": 1, "net_subs": 1}, {"date": "2026-02-15", "views": 321, "likes": 14, "net_subs": 2}]}, "spotify": {"last_date": "2026-02-18", "monthly_listeners": 21909, "streams_28d": 100745, "followers": 11261, "super_listeners": 422, "saves": 922, "playlist_adds": 1008, "top_tracks": [], "demographics": [{"dim": "age", "value": "35-44", "pct": 37.0}, {"dim": "age", "value": "25-34", "pct": 32.0}, {"dim": "age", "value": "45-54", "pct": 18.0}, {"dim": "age", "value": "18-24", "pct": 6.0}, {"dim": "age", "value": "<18", "pct": 0.0}, {"dim": "gender", "value": "male", "pct": 63.0}, {"dim": "gender", "value": "female", "pct": 33.0}, {"dim": "gender", "value": "not_specified", "pct": 3.0}, {"dim": "gender", "value": "non-binary", "pct": 1.0}], "locations": [{"name": "Uruguay", "listeners": 15219}, {"name": "Argentina", "listeners": 4301}, {"name": "Spain", "listeners": 629}, {"name": "Mexico", "listeners": 421}, {"name": "Brazil", "listeners": 271}], "days_since_collection": 0, "trend": [{"date": "2026-02-18", "listeners": 21909, "streams": 100745, "followers": 11261}]}, "financials": {"total_expenses": 0, "total_income": 0, "balance": 0}, "show": {"status": "sin registrar", "venue": null, "capacity": null, "tickets_sold": 0}, "kpi_history": [{"date": "2026-02-18", "total_followers": 18547, "total_reach": 6508, "total_engagement": 675, "email_list_size": 1635, "tickets_sold_total": 0}]};
+const DATA = {"generated_at": "2026-02-18T16:57:32.361364", "days_to_show": 57, "period_days": 7, "instagram": {"last_date": "2026-02-18", "followers": 3566, "reach": 3319, "accounts_engaged": 314, "period_posts": 2, "period_reach": 5239, "period_engagement": 644, "top_post": {"date": "2026-02-12", "type": "reel", "caption": "En esta época, ser felices es un privilegio\n\nNos juntamos, tocamos, nos reímos. ", "reach": 2711}, "trend": [{"date": "2026-02-18", "followers": 3566, "reach": 3319}], "post_types": [{"type": "reel", "posts": 2, "avg_reach": 2620.0, "avg_engagement": 322.0}]}, "email": {"last_date": "2026-02-18", "total_subs": 1635, "period_gained": 0, "period_lost": 3, "campaigns": [{"name": "Bienvenida a la lista", "sent": 503, "open_pct": 59.8, "click_pct": 20.9, "sent_at": "2026-02-13T12:21:59+00:00"}], "last_campaign": {"name": "Bienvenida a la lista", "sent": 503, "open_pct": 59.8, "click_pct": 20.9, "sent_at": "2026-02-13T12:21:59+00:00"}, "avg_open_pct": 59.8, "avg_click_pct": 20.9, "total_campaigns": 1, "trend": [{"date": "2026-02-18", "subs": 1635}]}, "youtube": {"last_date": "2026-02-18", "subscribers": 3720, "total_views": 1543200, "videos_count": 38, "period_views": 1269, "period_likes": 19, "period_shares": 12, "period_watch_min": 3199.0, "period_subs_net": 5, "unreplied_comments": 100, "top_traffic_source": "PLAYLIST", "top_traffic_views": 2740, "traffic_sources": [{"source": "PLAYLIST", "views": 2740}, {"source": "YT_SEARCH", "views": 927}, {"source": "SUBSCRIBER", "views": 793}, {"source": "RELATED_VIDEO", "views": 363}, {"source": "NO_LINK_OTHER", "views": 208}, {"source": "YT_OTHER_PAGE", "views": 174}, {"source": "EXT_URL", "views": 158}, {"source": "YT_CHANNEL", "views": 123}, {"source": "SHORTS", "views": 107}, {"source": "NOTIFICATION", "views": 19}, {"source": "SHORTS_CONTENT_LINKS", "views": 2}, {"source": "END_SCREEN", "views": 1}], "top_videos": [{"title": "LA SAGA -  \"Color\" - (Video Oficial)", "views": 498560, "likes": 2221, "type": "Video"}, {"title": "LA SAGA - ONCE", "views": 465209, "likes": 2320, "type": "Video"}, {"title": "\"Errante\" (La Saga - \"INTIMO\")", "views": 161405, "likes": 696, "type": "Video"}, {"title": "La Saga - Yo te quiero (Video Oficial)", "views": 115952, "likes": 689, "type": "Video"}, {"title": "La Saga - Vos  (video oficial)", "views": 106267, "likes": 866, "type": "Video"}], "trend": [{"date": "2026-01-19", "views": 132, "likes": 2, "net_subs": 0}, {"date": "2026-01-20", "views": 141, "likes": 2, "net_subs": 0}, {"date": "2026-01-21", "views": 180, "likes": 4, "net_subs": 1}, {"date": "2026-01-22", "views": 196, "likes": 1, "net_subs": 3}, {"date": "2026-01-23", "views": 205, "likes": 1, "net_subs": 0}, {"date": "2026-01-24", "views": 210, "likes": 1, "net_subs": 0}, {"date": "2026-01-25", "views": 144, "likes": 2, "net_subs": 0}, {"date": "2026-01-26", "views": 145, "likes": -1, "net_subs": 0}, {"date": "2026-01-27", "views": 178, "likes": 6, "net_subs": 1}, {"date": "2026-01-28", "views": 209, "likes": 1, "net_subs": 0}, {"date": "2026-01-29", "views": 218, "likes": 3, "net_subs": 0}, {"date": "2026-01-30", "views": 275, "likes": -1, "net_subs": 0}, {"date": "2026-01-31", "views": 232, "likes": 0, "net_subs": 0}, {"date": "2026-02-01", "views": 129, "likes": 0, "net_subs": 0}, {"date": "2026-02-02", "views": 201, "likes": 2, "net_subs": 0}, {"date": "2026-02-03", "views": 177, "likes": -1, "net_subs": -1}, {"date": "2026-02-04", "views": 267, "likes": 4, "net_subs": 1}, {"date": "2026-02-05", "views": 285, "likes": 0, "net_subs": 0}, {"date": "2026-02-06", "views": 186, "likes": 1, "net_subs": 0}, {"date": "2026-02-07", "views": 190, "likes": 0, "net_subs": 2}, {"date": "2026-02-08", "views": 119, "likes": 1, "net_subs": 1}, {"date": "2026-02-09", "views": 149, "likes": 1, "net_subs": -1}, {"date": "2026-02-10", "views": 178, "likes": 0, "net_subs": 0}, {"date": "2026-02-11", "views": 208, "likes": 1, "net_subs": 0}, {"date": "2026-02-12", "views": 221, "likes": 1, "net_subs": 0}, {"date": "2026-02-13", "views": 308, "likes": 2, "net_subs": 2}, {"date": "2026-02-14", "views": 211, "likes": 1, "net_subs": 1}, {"date": "2026-02-15", "views": 321, "likes": 14, "net_subs": 2}]}, "spotify": {"last_date": "2026-02-18", "monthly_listeners": 21909, "streams_28d": 100745, "followers": 11261, "super_listeners": 422, "saves": 922, "playlist_adds": 1008, "top_tracks": [], "demographics": [{"dim": "age", "value": "35-44", "pct": 37.0}, {"dim": "age", "value": "25-34", "pct": 32.0}, {"dim": "age", "value": "45-54", "pct": 18.0}, {"dim": "age", "value": "18-24", "pct": 6.0}, {"dim": "age", "value": "<18", "pct": 0.0}, {"dim": "gender", "value": "male", "pct": 63.0}, {"dim": "gender", "value": "female", "pct": 33.0}, {"dim": "gender", "value": "not_specified", "pct": 3.0}, {"dim": "gender", "value": "non-binary", "pct": 1.0}], "locations": [{"name": "Uruguay", "listeners": 15219}, {"name": "Argentina", "listeners": 4301}, {"name": "Spain", "listeners": 629}, {"name": "Mexico", "listeners": 421}, {"name": "Brazil", "listeners": 271}], "days_since_collection": 0, "trend": [{"date": "2026-02-18", "listeners": 21909, "streams": 100745, "followers": 11261}]}, "financials": {"total_expenses": 0, "total_income": 0, "balance": 0}, "show": {"status": "sin registrar", "venue": null, "capacity": null, "tickets_sold": 0}, "kpi_history": [{"date": "2026-02-18", "total_followers": 18547, "total_reach": 6508, "total_engagement": 675, "email_list_size": 1635, "tickets_sold_total": 0}]};
 
 // ── Helpers ──
 function fmt(n) {
@@ -503,22 +555,51 @@ function lineChart(id, labels, datasets, opts) {
   const igE = ig.period_engagement||0, ytE = (yt.period_likes||0) + (yt.period_shares||0);
   const totalEngagement = igE + ytE;
 
+  const COLORS = {ig:'#C13584', yt:'#CC0000', sp:'#1DB954', em:'#2563eb'};
+
+  function tabs(segments) {
+    const active = segments.filter(s => s.val > 0).sort((a,b) => b.val - a.val);
+    if (active.length === 0) return '';
+    return `<div class="tearoff">${active.map(s =>
+      `<div class="tearoff-tab">
+        <div class="tearoff-color" style="background:${s.color}"></div>
+        <div class="tearoff-val">${fmt(s.val)}</div>
+        <div class="tearoff-name">${s.name}</div>
+      </div>`
+    ).join('')}</div>`;
+  }
+
   const kpis = [
     { label: 'Audiencia Total', value: fmt(totalAudience),
-      detail: `IG ${fmt(igF)} · YT ${fmt(ytS)} · Spotify ${fmt(spF)} · Email ${fmt(emS)}` },
+      tearoff: tabs([
+        {name:'Instagram', val:igF, color:COLORS.ig},
+        {name:'YouTube', val:ytS, color:COLORS.yt},
+        {name:'Spotify', val:spF, color:COLORS.sp},
+        {name:'Email', val:emS, color:COLORS.em}
+      ]) },
     { label: 'Followers', value: fmt(totalFollowers),
-      detail: `IG ${fmt(igF)} · YT ${fmt(ytS)} · Spotify ${fmt(spF)}` },
+      tearoff: tabs([
+        {name:'Instagram', val:igF, color:COLORS.ig},
+        {name:'YouTube', val:ytS, color:COLORS.yt},
+        {name:'Spotify', val:spF, color:COLORS.sp}
+      ]) },
     { label: 'Reach (' + DATA.period_days + 'd)', value: fmt(totalReach),
-      detail: `IG ${fmt(igR)} · YT ${fmt(ytV)}` },
+      tearoff: tabs([
+        {name:'Instagram', val:igR, color:COLORS.ig},
+        {name:'YouTube', val:ytV, color:COLORS.yt}
+      ]) },
     { label: 'Engagement (' + DATA.period_days + 'd)', value: fmt(totalEngagement),
-      detail: `IG ${fmt(igE)} · YT ${fmt(ytE)}` }
+      tearoff: tabs([
+        {name:'Instagram', val:igE, color:COLORS.ig},
+        {name:'YouTube', val:ytE, color:COLORS.yt}
+      ]) }
   ];
 
   document.getElementById('overview-kpis').innerHTML = kpis.map(k => `
     <div class="kpi">
       <div class="kpi-label">${k.label}</div>
       <div class="kpi-value">${k.value}</div>
-      <div class="kpi-detail">${k.detail}</div>
+      ${k.tearoff}
     </div>
   `).join('');
 })();
