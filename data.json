@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T14:55:25.450745",
+  "generated_at": "2026-02-19T15:29:41.711905",
   "days_to_show": 56,
   "period_days": 7,
   "instagram": {
@@ -482,7 +482,7 @@
       {
         "post_id": "7577916687123631416",
         "date": "2025-11-28",
-        "description": "COMUNICADO URGENTE: ¿de dónde querés venir mañana? La gerencia informa anomalía ",
+        "description": "COMUNICADO URGENTE - De dónde querés venir mañana",
         "views": 105,
         "likes": 0,
         "shares": 0,
@@ -492,7 +492,7 @@
       {
         "post_id": "7580842031635778872",
         "date": "2025-12-06",
-        "description": "COMUNICADO DE LA GERENCIA: ¿Te acordás de esta tapa? Quiero - La Saga Vuelve",
+        "description": "COMUNICADO DE LA GERENCIA: EL HORIZONTE OTRA VEZ - Quiero",
         "views": 89,
         "likes": 1,
         "shares": 0,
@@ -540,16 +540,32 @@
     },
     "total": 1
   },
+  "upcoming": {
+    "items": [
+      "**Nota sobre Flaca:** Es parcial y cover. Con 9 domingos disponibles y 10 canciones, Flaca queda sin domingo asignado. O",
+      "| **Domingo 20:00** | Canción completa | YouTube | **YouTube Data API v3** | Subir directo, proponer copy |",
+      "| **Martes** | Short o estribillo | IG / TikTok / YT Shorts | **IG Graph API** + manual TT | Short: subir directo. Estri",
+      "| **Jueves** | Short o estribillo | IG / TikTok / YT Shorts | **IG Graph API** + manual TT | Short: subir directo. Estri",
+      "| **Sábado** | Carrusel | IG Feed | **nano-banana-pro** → **IG Graph API** | Mostrar antes |",
+      "- Esperar 3-5 días de data.",
+      "| Mar 17 | **S3 \"Buscando Espacio\"** | Short (anticipa domingo) | IG / TikTok / YT Shorts | **IG Graph API** + manual TT",
+      "*Semana del show. Toda la carne al asador.*",
+      "Con 9 domingos disponibles y 10 canciones, Flaca (parcial, cover de Calamaro) queda sin domingo asignado. Opciones:",
+      "- Publicarla como bonus entre semana (ej: un viernes de show week)"
+    ],
+    "source": "agenda_la_saga_17A_v6.md"
+  },
   "financials": {
     "total_expenses": 0,
     "total_income": 0,
     "balance": 0
   },
   "show": {
-    "status": "sin registrar",
-    "venue": null,
-    "capacity": null,
-    "tickets_sold": 0
+    "venue": "Wannaclap",
+    "capacity": 0,
+    "tickets_sold": 0,
+    "revenue": 0.0,
+    "status": "confirmed"
   },
   "kpi_history": [
     {
