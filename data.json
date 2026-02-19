@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T12:35:08.622645",
+  "generated_at": "2026-02-19T12:49:23.712877",
   "days_to_show": 56,
   "period_days": 7,
   "instagram": {
@@ -412,8 +412,67 @@
     ]
   },
   "x": {
-    "top_posts": [],
-    "trend": []
+    "last_date": "2026-02-19",
+    "followers": 1364,
+    "following": 463,
+    "top_posts": [
+      {
+        "post_id": "2024191756430884898",
+        "date": "2026-02-19",
+        "text": "#lasagavuelve [imagen LA SAGA VUELVE]",
+        "impressions": 72,
+        "likes": 12,
+        "retweets": 1,
+        "bookmarks": 0,
+        "replies": 1
+      },
+      {
+        "post_id": "1067231560431210496",
+        "date": "2018-11-26",
+        "text": "¿Quien tiene ganas de despedida?",
+        "impressions": 0,
+        "likes": 8,
+        "retweets": 2,
+        "bookmarks": 0,
+        "replies": 0
+      },
+      {
+        "post_id": "1077578455066333185",
+        "date": "2018-12-25",
+        "text": "Esta navidad es una navidad diferente para nosotros. Luego de agradecer la salud",
+        "impressions": 0,
+        "likes": 5,
+        "retweets": 0,
+        "bookmarks": 0,
+        "replies": 0
+      },
+      {
+        "post_id": "1068257944830124033",
+        "date": "2018-11-29",
+        "text": "Te invitamos a despedir el año con nosotros el viernes 14 de diciembre, 21 hs. L",
+        "impressions": 0,
+        "likes": 3,
+        "retweets": 0,
+        "bookmarks": 0,
+        "replies": 1
+      },
+      {
+        "post_id": "1073272298747113473",
+        "date": "2018-12-13",
+        "text": "Nos vemos mañana?",
+        "impressions": 0,
+        "likes": 1,
+        "retweets": 0,
+        "bookmarks": 0,
+        "replies": 0
+      }
+    ],
+    "trend": [
+      {
+        "date": "2026-02-19",
+        "followers": 1364
+      }
+    ]
   },
   "financials": {
     "total_expenses": 0,
