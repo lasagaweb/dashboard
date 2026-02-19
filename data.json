@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T13:12:51.781405",
+  "generated_at": "2026-02-19T14:55:25.450745",
   "days_to_show": 56,
   "period_days": 7,
   "instagram": {
@@ -418,9 +418,9 @@
     "top_posts": [
       {
         "post_id": "2024191756430884898",
-        "date": "2026-02-19",
-        "text": "#lasagavuelve [imagen LA SAGA VUELVE]",
-        "impressions": 72,
+        "date": "2026-02-18",
+        "text": "#lasagavuelve [Imagen LA SAGA VUELVE]",
+        "impressions": 73,
         "likes": 12,
         "retweets": 1,
         "bookmarks": 0,
@@ -506,6 +506,39 @@
         "followers": 2
       }
     ]
+  },
+  "community": {
+    "platforms": {},
+    "total_received": 0,
+    "total_replied": 0,
+    "response_rate": 0,
+    "total_likes": 0,
+    "trend": []
+  },
+  "press": {
+    "total_contacts": 0,
+    "emails_sent": 0,
+    "responses": 0,
+    "coverage": 0,
+    "recent_activity": [],
+    "trend": []
+  },
+  "booking": {
+    "venues": [
+      {
+        "name": "Sala del Museo del Carnaval",
+        "city": "Montevideo",
+        "capacity": 0,
+        "date_target": "Agosto/Septiembre 2026",
+        "status": "identified",
+        "contacted": null,
+        "notes": "Show post-17A. Averiguar disponibilidad y condiciones."
+      }
+    ],
+    "by_status": {
+      "identified": 1
+    },
+    "total": 1
   },
   "financials": {
     "total_expenses": 0,

@@ -69,6 +69,25 @@ body {
   letter-spacing: 0.05em;
   text-transform: uppercase;
 }
+.refresh-btn {
+  margin-top: 12px;
+  padding: 8px 20px;
+  background: var(--accent);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  position: relative;
+  transition: all 0.2s;
+}
+.refresh-btn:hover { background: #b45309; transform: translateY(-1px); }
+.refresh-btn:active { transform: translateY(0); }
+.refresh-btn.loading { opacity: 0.7; pointer-events: none; }
+.refresh-btn.success { background: var(--green); }
+.refresh-btn.error { background: var(--red); }
 .countdown {
   display: inline-flex;
   align-items: baseline;
@@ -151,18 +170,20 @@ body {
 /* ── PLATFORM TEAROFF TABS ── */
 .tearoff {
   display: flex;
-  gap: 3px;
+  flex-wrap: wrap;
+  gap: 2px;
   margin-top: 14px;
   margin-left: -16px;
   margin-right: -16px;
   margin-bottom: -16px;
 }
 .tearoff-tab {
-  flex: 1;
+  flex: 1 1 auto;
+  min-width: 40px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 8px 4px 10px;
+  padding: 6px 3px 8px;
   border-top: 2px dashed var(--border);
   position: relative;
   cursor: default;
@@ -185,7 +206,7 @@ body {
 }
 .tearoff-val {
   font-family: 'Sora', sans-serif;
-  font-size: 0.85rem;
+  font-size: 0.75rem;
   font-weight: 700;
   color: var(--text);
   line-height: 1;
@@ -348,6 +369,100 @@ body {
 .tag-video { background: rgba(217,119,6,0.1); color: #b45309; }
 .tag-short { background: rgba(219,39,119,0.1); color: #be185d; }
 
+/* ── TABS ── */
+.tabs-nav {
+  display: flex;
+  gap: 4px;
+  padding: 8px 0;
+  margin-bottom: 20px;
+  border-bottom: 2px solid var(--border);
+}
+.tab-btn {
+  padding: 10px 20px;
+  border: none;
+  background: transparent;
+  color: var(--text-dim);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -2px;
+  transition: all 0.2s;
+}
+.tab-btn:hover { color: var(--text); }
+.tab-btn.active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+  font-weight: 600;
+}
+.tab-panel { display: none; }
+.tab-panel.active { display: block; }
+
+/* ── OPERATIONS ── */
+.ops-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 24px; }
+.ops-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+.ops-card-title {
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 12px;
+}
+.ops-big { font-size: 2rem; font-weight: 700; font-family: 'Sora', sans-serif; }
+.ops-label { font-size: 0.8rem; color: var(--text-dim); margin-top: 4px; }
+.pipeline-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--border);
+}
+.pipeline-item:last-child { border-bottom: none; }
+.status-badge {
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+.status-identified { background: #f3f4f6; color: #6b7280; }
+.status-contacted { background: rgba(37,99,235,0.1); color: #1d4ed8; }
+.status-negotiating { background: rgba(217,119,6,0.1); color: #b45309; }
+.status-confirmed { background: rgba(22,163,74,0.1); color: #15803d; }
+.status-rejected { background: rgba(220,38,38,0.1); color: #b91c1c; }
+.upcoming-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
+}
+.upcoming-item:last-child { border-bottom: none; }
+.upcoming-date {
+  font-size: 0.75rem;
+  color: var(--text-dim);
+  min-width: 60px;
+}
+.upcoming-type {
+  padding: 2px 8px;
+  border-radius: 8px;
+  font-size: 0.7rem;
+  font-weight: 600;
+}
+
+@media (max-width: 640px) {
+  .ops-grid { grid-template-columns: 1fr; }
+  .tabs-nav { overflow-x: auto; flex-wrap: nowrap; }
+  .tab-btn { white-space: nowrap; padding: 8px 14px; font-size: 0.85rem; }
+}
+
 /* ── FOOTER ── */
 .footer {
   text-align: center;
@@ -370,13 +485,55 @@ body {
 
 <div class="hero">
   <div class="hero-title">LA SAGA VUELVE</div>
-  <div class="hero-sub">Dashboard de Campaña · Actualizado 19/02/2026 13:12</div>
+  <div class="hero-sub">Dashboard de Campaña · Actualizado 19/02/2026 14:55</div>
+  <button class="refresh-btn" onclick="triggerRefresh()" id="refresh-btn" title="Actualizar datos">🔄 Actualizar Datos</button>
 </div>
 
 <div class="container">
 
-<!-- ═══ OVERVIEW KPIs ═══ -->
+<!-- ═══ TABS NAV ═══ -->
+<div class="tabs-nav">
+  <button class="tab-btn active" onclick="switchTab('overview')">📊 Overview</button>
+  <button class="tab-btn" onclick="switchTab('platforms')">📱 Plataformas</button>
+  <button class="tab-btn" onclick="switchTab('operations')">⚙️ Operaciones</button>
+</div>
+
+<!-- ═══ TAB: OVERVIEW ═══ -->
+<div class="tab-panel active" id="tab-overview">
+
 <div class="grid grid-4" id="overview-kpis"></div>
+
+<!-- Operations Summary Cards -->
+<div class="ops-grid" style="margin-top: 20px;">
+  <div class="ops-card">
+    <div class="ops-card-title">💬 Comunidad</div>
+    <div id="ops-community-summary"></div>
+  </div>
+  <div class="ops-card">
+    <div class="ops-card-title">📰 Prensa</div>
+    <div id="ops-press-summary"></div>
+  </div>
+  <div class="ops-card">
+    <div class="ops-card-title">🎤 Booking</div>
+    <div id="ops-booking-summary"></div>
+  </div>
+</div>
+
+<!-- Upcoming Content -->
+<div class="section" style="margin-top: 8px;">
+  <div class="section-header">
+    <div class="section-icon" style="background: rgba(217,119,6,0.12);">📅</div>
+    <div class="section-title">Próximas Publicaciones</div>
+  </div>
+  <div class="card">
+    <div id="upcoming-content"><span style="color: var(--text-dim); font-size: 0.85rem;">Cargando desde agenda-17A.md...</span></div>
+  </div>
+</div>
+
+</div><!-- tab-overview -->
+
+<!-- ═══ TAB: PLATFORMS ═══ -->
+<div class="tab-panel" id="tab-platforms">
 
 <!-- ═══ INSTAGRAM ═══ -->
 <div class="section">
@@ -530,14 +687,75 @@ body {
   </div>
 </div>
 
+</div><!-- tab-platforms -->
+
+<!-- ═══ TAB: OPERATIONS ═══ -->
+<div class="tab-panel" id="tab-operations">
+
+<!-- Community Detail -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-icon" style="background: rgba(37,99,235,0.1);">💬</div>
+    <div class="section-title">Comunidad</div>
+  </div>
+  <div class="grid grid-2">
+    <div class="card">
+      <div class="card-title">Respuestas por Plataforma</div>
+      <div id="community-detail"></div>
+    </div>
+    <div class="card">
+      <div class="card-title">Tendencia de Respuesta</div>
+      <div class="chart-wrap"><canvas id="community-chart"></canvas></div>
+    </div>
+  </div>
+</div>
+
+<!-- Press Detail -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-icon" style="background: rgba(147,51,234,0.1);">📰</div>
+    <div class="section-title">Prensa</div>
+  </div>
+  <div class="grid grid-2">
+    <div class="card">
+      <div class="card-title">Pipeline de Prensa</div>
+      <div id="press-detail"></div>
+    </div>
+    <div class="card">
+      <div class="card-title">Actividad Reciente</div>
+      <div id="press-activity"></div>
+    </div>
+  </div>
+</div>
+
+<!-- Booking Detail -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-icon" style="background: rgba(22,163,74,0.1);">🎤</div>
+    <div class="section-title">Booking</div>
+  </div>
+  <div class="grid grid-2">
+    <div class="card">
+      <div class="card-title">Pipeline de Shows</div>
+      <div id="booking-pipeline"></div>
+    </div>
+    <div class="card">
+      <div class="card-title">Estado del Pipeline</div>
+      <div class="chart-wrap"><canvas id="booking-chart"></canvas></div>
+    </div>
+  </div>
+</div>
+
+</div><!-- tab-operations -->
+
 </div><!-- container -->
 
 <div class="footer">
-  La Saga Vuelve · Dashboard generado automáticamente · 19/02/2026 13:12
+  La Saga Vuelve · Dashboard generado automáticamente · 19/02/2026 14:55
 </div>
 
 <script>
-const DATA = {"generated_at": "2026-02-19T13:12:51.781405", "days_to_show": 56, "period_days": 7, "instagram": {"last_date": "2026-02-18", "followers": 3566, "reach": 3319, "accounts_engaged": 314, "period_posts": 2, "period_reach": 5239, "period_engagement": 644, "top_post": {"date": "2026-02-12", "type": "reel", "caption": "En esta época, ser felices es un privilegio\n\nNos juntamos, tocamos, nos reímos. ", "reach": 2711}, "trend": [{"date": "2026-02-18", "followers": 3566, "reach": 3319}], "post_types": [{"type": "reel", "posts": 2, "avg_reach": 2620.0, "avg_engagement": 322.0}]}, "email": {"last_date": "2026-02-18", "total_subs": 1635, "period_gained": 0, "period_lost": 3, "campaigns": [{"name": "Bienvenida a la lista", "sent": 503, "open_pct": 59.8, "click_pct": 20.9, "sent_at": "2026-02-13T12:21:59+00:00"}], "last_campaign": {"name": "Bienvenida a la lista", "sent": 503, "open_pct": 59.8, "click_pct": 20.9, "sent_at": "2026-02-13T12:21:59+00:00"}, "avg_open_pct": 59.8, "avg_click_pct": 20.9, "total_campaigns": 1, "trend": [{"date": "2026-02-18", "subs": 1635}]}, "youtube": {"last_date": "2026-02-18", "subscribers": 3720, "total_views": 1543200, "videos_count": 38, "period_views": 1061, "period_likes": 18, "period_shares": 9, "period_watch_min": 2569.0, "period_subs_net": 5, "unreplied_comments": 100, "top_traffic_source": "PLAYLIST", "top_traffic_views": 2740, "traffic_sources": [{"source": "PLAYLIST", "views": 2740}, {"source": "YT_SEARCH", "views": 927}, {"source": "SUBSCRIBER", "views": 793}, {"source": "RELATED_VIDEO", "views": 363}, {"source": "NO_LINK_OTHER", "views": 208}, {"source": "YT_OTHER_PAGE", "views": 174}, {"source": "EXT_URL", "views": 158}, {"source": "YT_CHANNEL", "views": 123}, {"source": "SHORTS", "views": 107}, {"source": "NOTIFICATION", "views": 19}, {"source": "SHORTS_CONTENT_LINKS", "views": 2}, {"source": "END_SCREEN", "views": 1}], "top_videos": [{"title": "LA SAGA -  \"Color\" - (Video Oficial)", "views": 498560, "likes": 2221, "type": "Video"}, {"title": "LA SAGA - ONCE", "views": 465209, "likes": 2320, "type": "Video"}, {"title": "\"Errante\" (La Saga - \"INTIMO\")", "views": 161405, "likes": 696, "type": "Video"}, {"title": "La Saga - Yo te quiero (Video Oficial)", "views": 115952, "likes": 689, "type": "Video"}, {"title": "La Saga - Vos  (video oficial)", "views": 106267, "likes": 866, "type": "Video"}], "trend": [{"date": "2026-01-20", "views": 141, "likes": 2, "net_subs": 0}, {"date": "2026-01-21", "views": 180, "likes": 4, "net_subs": 1}, {"date": "2026-01-22", "views": 196, "likes": 1, "net_subs": 3}, {"date": "2026-01-23", "views": 205, "likes": 1, "net_subs": 0}, {"date": "2026-01-24", "views": 210, "likes": 1, "net_subs": 0}, {"date": "2026-01-25", "views": 144, "likes": 2, "net_subs": 0}, {"date": "2026-01-26", "views": 145, "likes": -1, "net_subs": 0}, {"date": "2026-01-27", "views": 178, "likes": 6, "net_subs": 1}, {"date": "2026-01-28", "views": 209, "likes": 1, "net_subs": 0}, {"date": "2026-01-29", "views": 218, "likes": 3, "net_subs": 0}, {"date": "2026-01-30", "views": 275, "likes": -1, "net_subs": 0}, {"date": "2026-01-31", "views": 232, "likes": 0, "net_subs": 0}, {"date": "2026-02-01", "views": 129, "likes": 0, "net_subs": 0}, {"date": "2026-02-02", "views": 201, "likes": 2, "net_subs": 0}, {"date": "2026-02-03", "views": 177, "likes": -1, "net_subs": -1}, {"date": "2026-02-04", "views": 267, "likes": 4, "net_subs": 1}, {"date": "2026-02-05", "views": 285, "likes": 0, "net_subs": 0}, {"date": "2026-02-06", "views": 186, "likes": 1, "net_subs": 0}, {"date": "2026-02-07", "views": 190, "likes": 0, "net_subs": 2}, {"date": "2026-02-08", "views": 119, "likes": 1, "net_subs": 1}, {"date": "2026-02-09", "views": 149, "likes": 1, "net_subs": -1}, {"date": "2026-02-10", "views": 178, "likes": 0, "net_subs": 0}, {"date": "2026-02-11", "views": 208, "likes": 1, "net_subs": 0}, {"date": "2026-02-12", "views": 221, "likes": 1, "net_subs": 0}, {"date": "2026-02-13", "views": 308, "likes": 2, "net_subs": 2}, {"date": "2026-02-14", "views": 211, "likes": 1, "net_subs": 1}, {"date": "2026-02-15", "views": 321, "likes": 14, "net_subs": 2}]}, "spotify": {"last_date": "2026-02-18", "monthly_listeners": 21909, "streams_28d": 100745, "followers": 11261, "super_listeners": 422, "saves": 922, "playlist_adds": 1008, "top_tracks": [], "demographics": [{"dim": "age", "value": "35-44", "pct": 37.0}, {"dim": "age", "value": "25-34", "pct": 32.0}, {"dim": "age", "value": "45-54", "pct": 18.0}, {"dim": "age", "value": "18-24", "pct": 6.0}, {"dim": "age", "value": "<18", "pct": 0.0}, {"dim": "gender", "value": "male", "pct": 63.0}, {"dim": "gender", "value": "female", "pct": 33.0}, {"dim": "gender", "value": "not_specified", "pct": 3.0}, {"dim": "gender", "value": "non-binary", "pct": 1.0}], "locations": [{"name": "Uruguay", "listeners": 15219}, {"name": "Argentina", "listeners": 4301}, {"name": "Spain", "listeners": 629}, {"name": "Mexico", "listeners": 421}, {"name": "Brazil", "listeners": 271}], "days_since_collection": 1, "trend": [{"date": "2026-02-18", "listeners": 21909, "streams": 100745, "followers": 11261}]}, "x": {"last_date": "2026-02-19", "followers": 1364, "following": 463, "top_posts": [{"post_id": "2024191756430884898", "date": "2026-02-19", "text": "#lasagavuelve [imagen LA SAGA VUELVE]", "impressions": 72, "likes": 12, "retweets": 1, "bookmarks": 0, "replies": 1}, {"post_id": "1067231560431210496", "date": "2018-11-26", "text": "¿Quien tiene ganas de despedida?", "impressions": 0, "likes": 8, "retweets": 2, "bookmarks": 0, "replies": 0}, {"post_id": "1077578455066333185", "date": "2018-12-25", "text": "Esta navidad es una navidad diferente para nosotros. Luego de agradecer la salud", "impressions": 0, "likes": 5, "retweets": 0, "bookmarks": 0, "replies": 0}, {"post_id": "1068257944830124033", "date": "2018-11-29", "text": "Te invitamos a despedir el año con nosotros el viernes 14 de diciembre, 21 hs. L", "impressions": 0, "likes": 3, "retweets": 0, "bookmarks": 0, "replies": 1}, {"post_id": "1073272298747113473", "date": "2018-12-13", "text": "Nos vemos mañana?", "impressions": 0, "likes": 1, "retweets": 0, "bookmarks": 0, "replies": 0}], "trend": [{"date": "2026-02-19", "followers": 1364}]}, "tiktok": {"last_date": "2026-02-19", "followers": 2, "likes_total": 1, "top_posts": [{"post_id": "7577916687123631416", "date": "2025-11-28", "description": "COMUNICADO URGENTE: ¿de dónde querés venir mañana? La gerencia informa anomalía ", "views": 105, "likes": 0, "shares": 0, "comments": 0, "saves": 0}, {"post_id": "7580842031635778872", "date": "2025-12-06", "description": "COMUNICADO DE LA GERENCIA: ¿Te acordás de esta tapa? Quiero - La Saga Vuelve", "views": 89, "likes": 1, "shares": 0, "comments": 0, "saves": 0}], "trend": [{"date": "2026-02-19", "followers": 2}]}, "financials": {"total_expenses": 0, "total_income": 0, "balance": 0}, "show": {"status": "sin registrar", "venue": null, "capacity": null, "tickets_sold": 0}, "kpi_history": [{"date": "2026-02-18", "total_followers": 18547, "total_reach": 6508, "total_engagement": 675, "email_list_size": 1635, "tickets_sold_total": 0}]};
+const DATA = {"generated_at": "2026-02-19T14:55:25.450745", "days_to_show": 56, "period_days": 7, "instagram": {"last_date": "2026-02-18", "followers": 3566, "reach": 3319, "accounts_engaged": 314, "period_posts": 2, "period_reach": 5239, "period_engagement": 644, "top_post": {"date": "2026-02-12", "type": "reel", "caption": "En esta época, ser felices es un privilegio\n\nNos juntamos, tocamos, nos reímos. ", "reach": 2711}, "trend": [{"date": "2026-02-18", "followers": 3566, "reach": 3319}], "post_types": [{"type": "reel", "posts": 2, "avg_reach": 2620.0, "avg_engagement": 322.0}]}, "email": {"last_date": "2026-02-18", "total_subs": 1635, "period_gained": 0, "period_lost": 3, "campaigns": [{"name": "Bienvenida a la lista", "sent": 503, "open_pct": 59.8, "click_pct": 20.9, "sent_at": "2026-02-13T12:21:59+00:00"}], "last_campaign": {"name": "Bienvenida a la lista", "sent": 503, "open_pct": 59.8, "click_pct": 20.9, "sent_at": "2026-02-13T12:21:59+00:00"}, "avg_open_pct": 59.8, "avg_click_pct": 20.9, "total_campaigns": 1, "trend": [{"date": "2026-02-18", "subs": 1635}]}, "youtube": {"last_date": "2026-02-18", "subscribers": 3720, "total_views": 1543200, "videos_count": 38, "period_views": 1061, "period_likes": 18, "period_shares": 9, "period_watch_min": 2569.0, "period_subs_net": 5, "unreplied_comments": 100, "top_traffic_source": "PLAYLIST", "top_traffic_views": 2740, "traffic_sources": [{"source": "PLAYLIST", "views": 2740}, {"source": "YT_SEARCH", "views": 927}, {"source": "SUBSCRIBER", "views": 793}, {"source": "RELATED_VIDEO", "views": 363}, {"source": "NO_LINK_OTHER", "views": 208}, {"source": "YT_OTHER_PAGE", "views": 174}, {"source": "EXT_URL", "views": 158}, {"source": "YT_CHANNEL", "views": 123}, {"source": "SHORTS", "views": 107}, {"source": "NOTIFICATION", "views": 19}, {"source": "SHORTS_CONTENT_LINKS", "views": 2}, {"source": "END_SCREEN", "views": 1}], "top_videos": [{"title": "LA SAGA -  \"Color\" - (Video Oficial)", "views": 498560, "likes": 2221, "type": "Video"}, {"title": "LA SAGA - ONCE", "views": 465209, "likes": 2320, "type": "Video"}, {"title": "\"Errante\" (La Saga - \"INTIMO\")", "views": 161405, "likes": 696, "type": "Video"}, {"title": "La Saga - Yo te quiero (Video Oficial)", "views": 115952, "likes": 689, "type": "Video"}, {"title": "La Saga - Vos  (video oficial)", "views": 106267, "likes": 866, "type": "Video"}], "trend": [{"date": "2026-01-20", "views": 141, "likes": 2, "net_subs": 0}, {"date": "2026-01-21", "views": 180, "likes": 4, "net_subs": 1}, {"date": "2026-01-22", "views": 196, "likes": 1, "net_subs": 3}, {"date": "2026-01-23", "views": 205, "likes": 1, "net_subs": 0}, {"date": "2026-01-24", "views": 210, "likes": 1, "net_subs": 0}, {"date": "2026-01-25", "views": 144, "likes": 2, "net_subs": 0}, {"date": "2026-01-26", "views": 145, "likes": -1, "net_subs": 0}, {"date": "2026-01-27", "views": 178, "likes": 6, "net_subs": 1}, {"date": "2026-01-28", "views": 209, "likes": 1, "net_subs": 0}, {"date": "2026-01-29", "views": 218, "likes": 3, "net_subs": 0}, {"date": "2026-01-30", "views": 275, "likes": -1, "net_subs": 0}, {"date": "2026-01-31", "views": 232, "likes": 0, "net_subs": 0}, {"date": "2026-02-01", "views": 129, "likes": 0, "net_subs": 0}, {"date": "2026-02-02", "views": 201, "likes": 2, "net_subs": 0}, {"date": "2026-02-03", "views": 177, "likes": -1, "net_subs": -1}, {"date": "2026-02-04", "views": 267, "likes": 4, "net_subs": 1}, {"date": "2026-02-05", "views": 285, "likes": 0, "net_subs": 0}, {"date": "2026-02-06", "views": 186, "likes": 1, "net_subs": 0}, {"date": "2026-02-07", "views": 190, "likes": 0, "net_subs": 2}, {"date": "2026-02-08", "views": 119, "likes": 1, "net_subs": 1}, {"date": "2026-02-09", "views": 149, "likes": 1, "net_subs": -1}, {"date": "2026-02-10", "views": 178, "likes": 0, "net_subs": 0}, {"date": "2026-02-11", "views": 208, "likes": 1, "net_subs": 0}, {"date": "2026-02-12", "views": 221, "likes": 1, "net_subs": 0}, {"date": "2026-02-13", "views": 308, "likes": 2, "net_subs": 2}, {"date": "2026-02-14", "views": 211, "likes": 1, "net_subs": 1}, {"date": "2026-02-15", "views": 321, "likes": 14, "net_subs": 2}]}, "spotify": {"last_date": "2026-02-18", "monthly_listeners": 21909, "streams_28d": 100745, "followers": 11261, "super_listeners": 422, "saves": 922, "playlist_adds": 1008, "top_tracks": [], "demographics": [{"dim": "age", "value": "35-44", "pct": 37.0}, {"dim": "age", "value": "25-34", "pct": 32.0}, {"dim": "age", "value": "45-54", "pct": 18.0}, {"dim": "age", "value": "18-24", "pct": 6.0}, {"dim": "age", "value": "<18", "pct": 0.0}, {"dim": "gender", "value": "male", "pct": 63.0}, {"dim": "gender", "value": "female", "pct": 33.0}, {"dim": "gender", "value": "not_specified", "pct": 3.0}, {"dim": "gender", "value": "non-binary", "pct": 1.0}], "locations": [{"name": "Uruguay", "listeners": 15219}, {"name": "Argentina", "listeners": 4301}, {"name": "Spain", "listeners": 629}, {"name": "Mexico", "listeners": 421}, {"name": "Brazil", "listeners": 271}], "days_since_collection": 1, "trend": [{"date": "2026-02-18", "listeners": 21909, "streams": 100745, "followers": 11261}]}, "x": {"last_date": "2026-02-19", "followers": 1364, "following": 463, "top_posts": [{"post_id": "2024191756430884898", "date": "2026-02-18", "text": "#lasagavuelve [Imagen LA SAGA VUELVE]", "impressions": 73, "likes": 12, "retweets": 1, "bookmarks": 0, "replies": 1}, {"post_id": "1067231560431210496", "date": "2018-11-26", "text": "¿Quien tiene ganas de despedida?", "impressions": 0, "likes": 8, "retweets": 2, "bookmarks": 0, "replies": 0}, {"post_id": "1077578455066333185", "date": "2018-12-25", "text": "Esta navidad es una navidad diferente para nosotros. Luego de agradecer la salud", "impressions": 0, "likes": 5, "retweets": 0, "bookmarks": 0, "replies": 0}, {"post_id": "1068257944830124033", "date": "2018-11-29", "text": "Te invitamos a despedir el año con nosotros el viernes 14 de diciembre, 21 hs. L", "impressions": 0, "likes": 3, "retweets": 0, "bookmarks": 0, "replies": 1}, {"post_id": "1073272298747113473", "date": "2018-12-13", "text": "Nos vemos mañana?", "impressions": 0, "likes": 1, "retweets": 0, "bookmarks": 0, "replies": 0}], "trend": [{"date": "2026-02-19", "followers": 1364}]}, "tiktok": {"last_date": "2026-02-19", "followers": 2, "likes_total": 1, "top_posts": [{"post_id": "7577916687123631416", "date": "2025-11-28", "description": "COMUNICADO URGENTE: ¿de dónde querés venir mañana? La gerencia informa anomalía ", "views": 105, "likes": 0, "shares": 0, "comments": 0, "saves": 0}, {"post_id": "7580842031635778872", "date": "2025-12-06", "description": "COMUNICADO DE LA GERENCIA: ¿Te acordás de esta tapa? Quiero - La Saga Vuelve", "views": 89, "likes": 1, "shares": 0, "comments": 0, "saves": 0}], "trend": [{"date": "2026-02-19", "followers": 2}]}, "community": {"platforms": {}, "total_received": 0, "total_replied": 0, "response_rate": 0, "total_likes": 0, "trend": []}, "press": {"total_contacts": 0, "emails_sent": 0, "responses": 0, "coverage": 0, "recent_activity": [], "trend": []}, "booking": {"venues": [{"name": "Sala del Museo del Carnaval", "city": "Montevideo", "capacity": 0, "date_target": "Agosto/Septiembre 2026", "status": "identified", "contacted": null, "notes": "Show post-17A. Averiguar disponibilidad y condiciones."}], "by_status": {"identified": 1}, "total": 1}, "financials": {"total_expenses": 0, "total_income": 0, "balance": 0}, "show": {"status": "sin registrar", "venue": null, "capacity": null, "tickets_sold": 0}, "kpi_history": [{"date": "2026-02-18", "total_followers": 18547, "total_reach": 6508, "total_engagement": 675, "email_list_size": 1635, "tickets_sold_total": 0}]};
 
 // ── Helpers ──
 function fmt(n) {
@@ -628,29 +846,29 @@ function lineChart(id, labels, datasets, opts) {
   const kpis = [
     { label: 'Audiencia Total', value: fmt(totalAudience),
       tearoff: tabs([
-        {name:'Instagram', val:igF, color:COLORS.ig},
-        {name:'YouTube', val:ytS, color:COLORS.yt},
         {name:'Spotify', val:spF, color:COLORS.sp},
+        {name:'YouTube', val:ytS, color:COLORS.yt},
+        {name:'IG', val:igF, color:COLORS.ig},
+        {name:'Email', val:emS, color:COLORS.em},
         {name:'X', val:xF, color:COLORS.x},
-        {name:'TikTok', val:tkF, color:COLORS.tk},
-        {name:'Email', val:emS, color:COLORS.em}
+        {name:'TikTok', val:tkF, color:COLORS.tk}
       ]) },
     { label: 'Followers', value: fmt(totalFollowers),
       tearoff: tabs([
-        {name:'Instagram', val:igF, color:COLORS.ig},
-        {name:'YouTube', val:ytS, color:COLORS.yt},
         {name:'Spotify', val:spF, color:COLORS.sp},
+        {name:'YouTube', val:ytS, color:COLORS.yt},
+        {name:'IG', val:igF, color:COLORS.ig},
         {name:'X', val:xF, color:COLORS.x},
         {name:'TikTok', val:tkF, color:COLORS.tk}
       ]) },
     { label: 'Reach (' + DATA.period_days + 'd)', value: fmt(totalReach),
       tearoff: tabs([
-        {name:'Instagram', val:igR, color:COLORS.ig},
+        {name:'IG', val:igR, color:COLORS.ig},
         {name:'YouTube', val:ytV, color:COLORS.yt}
       ]) },
     { label: 'Engagement (' + DATA.period_days + 'd)', value: fmt(totalEngagement),
       tearoff: tabs([
-        {name:'Instagram', val:igE, color:COLORS.ig},
+        {name:'IG', val:igE, color:COLORS.ig},
         {name:'YouTube', val:ytE, color:COLORS.yt}
       ]) }
   ];
@@ -1020,6 +1238,226 @@ function lineChart(id, labels, datasets, opts) {
           x: { grid: { display: false }, ticks: { display: false } },
           y: { grid: { color: 'rgba(0,0,0,0.05)' }, ticks: { callback: v => fmt(v) } }
         }
+      }
+    });
+  }
+})();
+
+// ═══════════════════════════════════════
+// WEBHOOK CONFIG — Edit this URL after setting up cloudflare tunnel
+const WEBHOOK_URL = localStorage.getItem('saga_webhook_url') || '';
+
+async function triggerRefresh() {
+  const btn = document.getElementById('refresh-btn');
+  if (!WEBHOOK_URL) {
+    const url = prompt('Pegá la URL del webhook (se guarda para la próxima):', '');
+    if (url) {
+      localStorage.setItem('saga_webhook_url', url);
+      location.reload();
+    }
+    return;
+  }
+  btn.classList.add('loading');
+  btn.textContent = '⏳ Actualizando...';
+  try {
+    const res = await fetch(WEBHOOK_URL + '/trigger', { method: 'POST', mode: 'cors' });
+    const data = await res.json();
+    if (data.ok) {
+      btn.classList.remove('loading');
+      btn.classList.add('success');
+      btn.textContent = '✅ Listo — Recargando...';
+      setTimeout(() => location.reload(), 5000);
+    } else {
+      throw new Error(data.error || 'Error');
+    }
+  } catch(e) {
+    btn.classList.remove('loading');
+    btn.classList.add('error');
+    btn.textContent = '❌ Error — Click para reintentar';
+    setTimeout(() => {
+      btn.classList.remove('error');
+      btn.textContent = '🔄 Actualizar Datos';
+    }, 3000);
+  }
+}
+
+// TAB SWITCHING
+// ═══════════════════════════════════════
+function switchTab(name) {
+  document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('tab-' + name).classList.add('active');
+  event.target.classList.add('active');
+}
+
+// ═══════════════════════════════════════
+// OPERATIONS — Overview Summary Cards
+// ═══════════════════════════════════════
+(function() {
+  // Community summary
+  const comm = DATA.community;
+  const commEl = document.getElementById('ops-community-summary');
+  if (commEl) {
+    const rate = comm.response_rate || 0;
+    const rateColor = rate >= 80 ? 'var(--green)' : rate >= 50 ? 'var(--accent)' : 'var(--red)';
+    commEl.innerHTML = `
+      <div class="ops-big" style="color: ${rateColor}">${rate}%</div>
+      <div class="ops-label">Tasa de respuesta</div>
+      <div style="margin-top:8px;font-size:0.8rem;color:var(--text-dim)">
+        ${fmt(comm.total_replied||0)} / ${fmt(comm.total_received||0)} interacciones
+      </div>`;
+  }
+
+  // Press summary
+  const press = DATA.press;
+  const pressEl = document.getElementById('ops-press-summary');
+  if (pressEl) {
+    const convRate = press.emails_sent > 0 ? Math.round(press.responses / press.emails_sent * 100) : 0;
+    pressEl.innerHTML = `
+      <div class="ops-big">${press.total_contacts||0}</div>
+      <div class="ops-label">Contactos en base</div>
+      <div style="margin-top:8px;font-size:0.8rem;color:var(--text-dim)">
+        ${press.emails_sent||0} enviados · ${press.responses||0} respuestas (${convRate}%)
+        <br>${press.coverage||0} coberturas
+      </div>`;
+  }
+
+  // Booking summary
+  const book = DATA.booking;
+  const bookEl = document.getElementById('ops-booking-summary');
+  if (bookEl) {
+    const confirmed = book.by_status?.confirmed || 0;
+    const contacted = book.by_status?.contacted || 0;
+    const identified = book.by_status?.identified || 0;
+    bookEl.innerHTML = `
+      <div class="ops-big" style="color: ${confirmed > 0 ? 'var(--green)' : 'var(--text)'}">${book.total||0}</div>
+      <div class="ops-label">Venues en pipeline</div>
+      <div style="margin-top:8px;font-size:0.8rem;color:var(--text-dim)">
+        ${confirmed} confirmados · ${contacted} contactados · ${identified} identificados
+      </div>`;
+  }
+})();
+
+// ═══════════════════════════════════════
+// OPERATIONS — Detail Panels
+// ═══════════════════════════════════════
+
+// ── Community Detail ──
+(function() {
+  const comm = DATA.community;
+  const el = document.getElementById('community-detail');
+  if (!el) return;
+
+  const platforms = comm.platforms || {};
+  const names = {'instagram': '📷 Instagram', 'x': '𝕏 X', 'youtube': '▶️ YouTube', 'tiktok': '♪ TikTok'};
+  let html = '<table class="data-table"><tr><th>Plataforma</th><th>Recibidos</th><th>Respondidos</th><th>Tasa</th></tr>';
+  for (const [p, d] of Object.entries(platforms)) {
+    const total = (d.comments_received||0) + (d.dms_received||0) + (d.mentions_received||0);
+    const replied = (d.comments_replied||0) + (d.dms_replied||0) + (d.mentions_replied||0);
+    const rate = total > 0 ? Math.round(replied/total*100) : 0;
+    const color = rate >= 80 ? 'var(--green)' : rate >= 50 ? 'var(--accent)' : 'var(--red)';
+    html += `<tr><td>${names[p]||p}</td><td>${total}</td><td>${replied}</td><td style="color:${color};font-weight:600">${rate}%</td></tr>`;
+  }
+  html += '</table>';
+  if (Object.keys(platforms).length === 0) {
+    html = '<div style="color:var(--text-dim);font-size:0.85rem;padding:12px">Sin datos de comunidad aún. Dylan reportará después de las rondas AM/PM.</div>';
+  }
+  el.innerHTML = html;
+
+  // Community trend chart
+  if (comm.trend && comm.trend.length > 1) {
+    lineChart('community-chart',
+      comm.trend.map(t => shortDate(t.date)),
+      [
+        { label: 'Recibidos', data: comm.trend.map(t => t.received),
+           borderColor: '#6b7280', backgroundColor: 'rgba(107,114,128,0.05)',
+           fill: false, tension: 0.3, pointRadius: 2, borderWidth: 2 },
+        { label: 'Respondidos', data: comm.trend.map(t => t.replied),
+           borderColor: '#16a34a', backgroundColor: 'rgba(22,163,74,0.08)',
+           fill: true, tension: 0.3, pointRadius: 2, borderWidth: 2 }
+      ],
+      { plugins: { legend: { display: true, position: 'bottom' } } }
+    );
+  }
+})();
+
+// ── Press Detail ──
+(function() {
+  const press = DATA.press;
+  const el = document.getElementById('press-detail');
+  if (!el) return;
+
+  let html = `
+    <div class="metric-row"><span>Contactos en base</span><strong>${press.total_contacts||0}</strong></div>
+    <div class="metric-row"><span>Emails enviados</span><strong>${press.emails_sent||0}</strong></div>
+    <div class="metric-row"><span>Respuestas</span><strong>${press.responses||0}</strong></div>
+    <div class="metric-row"><span>Coberturas publicadas</span><strong>${press.coverage||0}</strong></div>`;
+  el.innerHTML = html;
+
+  // Recent activity
+  const actEl = document.getElementById('press-activity');
+  if (actEl) {
+    const items = press.recent_activity || [];
+    if (items.length > 0) {
+      let ahtml = '<table class="data-table"><tr><th>Fecha</th><th>Contacto</th><th>Medio</th><th>Estado</th></tr>';
+      items.forEach(a => {
+        let status = '📝 Registrado';
+        if (a.published) status = '✅ Publicado';
+        else if (a.response) status = '💬 Respondió';
+        else if (a.sent) status = '📧 Enviado';
+        ahtml += `<tr><td>${a.date}</td><td>${a.contact}</td><td>${a.outlet}</td><td>${status}</td></tr>`;
+      });
+      ahtml += '</table>';
+      actEl.innerHTML = ahtml;
+    } else {
+      actEl.innerHTML = '<div style="color:var(--text-dim);font-size:0.85rem;padding:12px">Sin actividad de prensa registrada aún.</div>';
+    }
+  }
+})();
+
+// ── Booking Detail ──
+(function() {
+  const book = DATA.booking;
+  const el = document.getElementById('booking-pipeline');
+  if (!el) return;
+
+  const venues = book.venues || [];
+  if (venues.length > 0) {
+    let html = '';
+    venues.forEach(v => {
+      html += `<div class="pipeline-item">
+        <div>
+          <strong>${v.name}</strong><br>
+          <span style="font-size:0.8rem;color:var(--text-dim)">${v.city} ${v.capacity ? '· ' + v.capacity + ' cap.' : ''} ${v.date_target ? '· ' + v.date_target : ''}</span>
+          ${v.notes ? '<br><span style="font-size:0.75rem;color:var(--text-dim);font-style:italic">' + v.notes + '</span>' : ''}
+        </div>
+        <span class="status-badge status-${v.status}">${v.status}</span>
+      </div>`;
+    });
+    el.innerHTML = html;
+  } else {
+    el.innerHTML = '<div style="color:var(--text-dim);font-size:0.85rem;padding:12px">Sin venues en pipeline.</div>';
+  }
+
+  // Booking status chart
+  const statuses = book.by_status || {};
+  const statusLabels = Object.keys(statuses);
+  if (statusLabels.length > 0) {
+    const statusColors = {
+      'identified': '#9ca3af', 'contacted': '#3b82f6',
+      'negotiating': '#d97706', 'confirmed': '#16a34a', 'rejected': '#dc2626'
+    };
+    new Chart(document.getElementById('booking-chart'), {
+      type: 'doughnut',
+      data: {
+        labels: statusLabels.map(s => s.charAt(0).toUpperCase() + s.slice(1)),
+        datasets: [{ data: statusLabels.map(s => statuses[s]),
+          backgroundColor: statusLabels.map(s => statusColors[s] || '#6b7280'),
+          borderWidth: 0 }]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        plugins: { legend: { display: true, position: 'bottom' } }
       }
     });
   }
