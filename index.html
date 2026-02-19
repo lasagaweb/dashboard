@@ -512,7 +512,7 @@ body {
 
 <div class="hero">
   <div class="hero-title">LA SAGA VUELVE</div>
-  <div class="hero-sub">Dashboard de Campaña · Actualizado 19/02/2026 15:29</div>
+  <div class="hero-sub">Dashboard de Campaña · Actualizado 19/02/2026 15:47</div>
   <button class="refresh-btn" onclick="triggerRefresh()" id="refresh-btn" title="Actualizar datos">🔄 Actualizar Datos</button>
 </div>
 
@@ -776,16 +776,38 @@ body {
   </div>
 </div>
 
+<!-- Community Log -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-icon" style="background: rgba(37,99,235,0.1);">🗨️</div>
+    <div class="section-title">Últimas Interacciones</div>
+  </div>
+  <div class="card">
+    <div id="community-log"></div>
+  </div>
+</div>
+
+<!-- Suggestions -->
+<div class="section">
+  <div class="section-header">
+    <div class="section-icon" style="background: rgba(217,119,6,0.12);">💡</div>
+    <div class="section-title">Sugerencias</div>
+  </div>
+  <div class="card">
+    <div id="suggestions"></div>
+  </div>
+</div>
+
 </div><!-- tab-operations -->
 
 </div><!-- container -->
 
 <div class="footer">
-  La Saga Vuelve · Dashboard generado automáticamente · 19/02/2026 15:29
+  La Saga Vuelve · Dashboard generado automáticamente · 19/02/2026 15:47
 </div>
 
 <script>
-const DATA = {"generated_at": "2026-02-19T15:29:41.711905", "days_to_show": 56, "period_days": 7, "instagram": {"last_date": "2026-02-18", "followers": 3566, "reach": 3319, "accounts_engaged": 314, "period_posts": 2, "period_reach": 5239, "period_engagement": 644, "top_post": {"date": "2026-02-12", "type": "reel", "caption": "En esta época, ser felices es un privilegio\n\nNos juntamos, tocamos, nos reímos. ", "reach": 2711}, "trend": [{"date": "2026-02-18", "followers": 3566, "reach": 3319}], "post_types": [{"type": "reel", "posts": 2, "avg_reach": 2620.0, "avg_engagement": 322.0}]}, "email": {"last_date": "2026-02-18", "total_subs": 1635, "period_gained": 0, "period_lost": 3, "campaigns": [{"name": "Bienvenida a la lista", "sent": 503, "open_pct": 59.8, "click_pct": 20.9, "sent_at": "2026-02-13T12:21:59+00:00"}], "last_campaign": {"name": "Bienvenida a la lista", "sent": 503, "open_pct": 59.8, "click_pct": 20.9, "sent_at": "2026-02-13T12:21:59+00:00"}, "avg_open_pct": 59.8, "avg_click_pct": 20.9, "total_campaigns": 1, "trend": [{"date": "2026-02-18", "subs": 1635}]}, "youtube": {"last_date": "2026-02-18", "subscribers": 3720, "total_views": 1543200, "videos_count": 38, "period_views": 1061, "period_likes": 18, "period_shares": 9, "period_watch_min": 2569.0, "period_subs_net": 5, "unreplied_comments": 100, "top_traffic_source": "PLAYLIST", "top_traffic_views": 2740, "traffic_sources": [{"source": "PLAYLIST", "views": 2740}, {"source": "YT_SEARCH", "views": 927}, {"source": "SUBSCRIBER", "views": 793}, {"source": "RELATED_VIDEO", "views": 363}, {"source": "NO_LINK_OTHER", "views": 208}, {"source": "YT_OTHER_PAGE", "views": 174}, {"source": "EXT_URL", "views": 158}, {"source": "YT_CHANNEL", "views": 123}, {"source": "SHORTS", "views": 107}, {"source": "NOTIFICATION", "views": 19}, {"source": "SHORTS_CONTENT_LINKS", "views": 2}, {"source": "END_SCREEN", "views": 1}], "top_videos": [{"title": "LA SAGA -  \"Color\" - (Video Oficial)", "views": 498560, "likes": 2221, "type": "Video"}, {"title": "LA SAGA - ONCE", "views": 465209, "likes": 2320, "type": "Video"}, {"title": "\"Errante\" (La Saga - \"INTIMO\")", "views": 161405, "likes": 696, "type": "Video"}, {"title": "La Saga - Yo te quiero (Video Oficial)", "views": 115952, "likes": 689, "type": "Video"}, {"title": "La Saga - Vos  (video oficial)", "views": 106267, "likes": 866, "type": "Video"}], "trend": [{"date": "2026-01-20", "views": 141, "likes": 2, "net_subs": 0}, {"date": "2026-01-21", "views": 180, "likes": 4, "net_subs": 1}, {"date": "2026-01-22", "views": 196, "likes": 1, "net_subs": 3}, {"date": "2026-01-23", "views": 205, "likes": 1, "net_subs": 0}, {"date": "2026-01-24", "views": 210, "likes": 1, "net_subs": 0}, {"date": "2026-01-25", "views": 144, "likes": 2, "net_subs": 0}, {"date": "2026-01-26", "views": 145, "likes": -1, "net_subs": 0}, {"date": "2026-01-27", "views": 178, "likes": 6, "net_subs": 1}, {"date": "2026-01-28", "views": 209, "likes": 1, "net_subs": 0}, {"date": "2026-01-29", "views": 218, "likes": 3, "net_subs": 0}, {"date": "2026-01-30", "views": 275, "likes": -1, "net_subs": 0}, {"date": "2026-01-31", "views": 232, "likes": 0, "net_subs": 0}, {"date": "2026-02-01", "views": 129, "likes": 0, "net_subs": 0}, {"date": "2026-02-02", "views": 201, "likes": 2, "net_subs": 0}, {"date": "2026-02-03", "views": 177, "likes": -1, "net_subs": -1}, {"date": "2026-02-04", "views": 267, "likes": 4, "net_subs": 1}, {"date": "2026-02-05", "views": 285, "likes": 0, "net_subs": 0}, {"date": "2026-02-06", "views": 186, "likes": 1, "net_subs": 0}, {"date": "2026-02-07", "views": 190, "likes": 0, "net_subs": 2}, {"date": "2026-02-08", "views": 119, "likes": 1, "net_subs": 1}, {"date": "2026-02-09", "views": 149, "likes": 1, "net_subs": -1}, {"date": "2026-02-10", "views": 178, "likes": 0, "net_subs": 0}, {"date": "2026-02-11", "views": 208, "likes": 1, "net_subs": 0}, {"date": "2026-02-12", "views": 221, "likes": 1, "net_subs": 0}, {"date": "2026-02-13", "views": 308, "likes": 2, "net_subs": 2}, {"date": "2026-02-14", "views": 211, "likes": 1, "net_subs": 1}, {"date": "2026-02-15", "views": 321, "likes": 14, "net_subs": 2}]}, "spotify": {"last_date": "2026-02-18", "monthly_listeners": 21909, "streams_28d": 100745, "followers": 11261, "super_listeners": 422, "saves": 922, "playlist_adds": 1008, "top_tracks": [], "demographics": [{"dim": "age", "value": "35-44", "pct": 37.0}, {"dim": "age", "value": "25-34", "pct": 32.0}, {"dim": "age", "value": "45-54", "pct": 18.0}, {"dim": "age", "value": "18-24", "pct": 6.0}, {"dim": "age", "value": "<18", "pct": 0.0}, {"dim": "gender", "value": "male", "pct": 63.0}, {"dim": "gender", "value": "female", "pct": 33.0}, {"dim": "gender", "value": "not_specified", "pct": 3.0}, {"dim": "gender", "value": "non-binary", "pct": 1.0}], "locations": [{"name": "Uruguay", "listeners": 15219}, {"name": "Argentina", "listeners": 4301}, {"name": "Spain", "listeners": 629}, {"name": "Mexico", "listeners": 421}, {"name": "Brazil", "listeners": 271}], "days_since_collection": 1, "trend": [{"date": "2026-02-18", "listeners": 21909, "streams": 100745, "followers": 11261}]}, "x": {"last_date": "2026-02-19", "followers": 1364, "following": 463, "top_posts": [{"post_id": "2024191756430884898", "date": "2026-02-18", "text": "#lasagavuelve [Imagen LA SAGA VUELVE]", "impressions": 73, "likes": 12, "retweets": 1, "bookmarks": 0, "replies": 1}, {"post_id": "1067231560431210496", "date": "2018-11-26", "text": "¿Quien tiene ganas de despedida?", "impressions": 0, "likes": 8, "retweets": 2, "bookmarks": 0, "replies": 0}, {"post_id": "1077578455066333185", "date": "2018-12-25", "text": "Esta navidad es una navidad diferente para nosotros. Luego de agradecer la salud", "impressions": 0, "likes": 5, "retweets": 0, "bookmarks": 0, "replies": 0}, {"post_id": "1068257944830124033", "date": "2018-11-29", "text": "Te invitamos a despedir el año con nosotros el viernes 14 de diciembre, 21 hs. L", "impressions": 0, "likes": 3, "retweets": 0, "bookmarks": 0, "replies": 1}, {"post_id": "1073272298747113473", "date": "2018-12-13", "text": "Nos vemos mañana?", "impressions": 0, "likes": 1, "retweets": 0, "bookmarks": 0, "replies": 0}], "trend": [{"date": "2026-02-19", "followers": 1364}]}, "tiktok": {"last_date": "2026-02-19", "followers": 2, "likes_total": 1, "top_posts": [{"post_id": "7577916687123631416", "date": "2025-11-28", "description": "COMUNICADO URGENTE - De dónde querés venir mañana", "views": 105, "likes": 0, "shares": 0, "comments": 0, "saves": 0}, {"post_id": "7580842031635778872", "date": "2025-12-06", "description": "COMUNICADO DE LA GERENCIA: EL HORIZONTE OTRA VEZ - Quiero", "views": 89, "likes": 1, "shares": 0, "comments": 0, "saves": 0}], "trend": [{"date": "2026-02-19", "followers": 2}]}, "community": {"platforms": {}, "total_received": 0, "total_replied": 0, "response_rate": 0, "total_likes": 0, "trend": []}, "press": {"total_contacts": 0, "emails_sent": 0, "responses": 0, "coverage": 0, "recent_activity": [], "trend": []}, "booking": {"venues": [{"name": "Sala del Museo del Carnaval", "city": "Montevideo", "capacity": 0, "date_target": "Agosto/Septiembre 2026", "status": "identified", "contacted": null, "notes": "Show post-17A. Averiguar disponibilidad y condiciones."}], "by_status": {"identified": 1}, "total": 1}, "upcoming": {"items": ["**Nota sobre Flaca:** Es parcial y cover. Con 9 domingos disponibles y 10 canciones, Flaca queda sin domingo asignado. O", "| **Domingo 20:00** | Canción completa | YouTube | **YouTube Data API v3** | Subir directo, proponer copy |", "| **Martes** | Short o estribillo | IG / TikTok / YT Shorts | **IG Graph API** + manual TT | Short: subir directo. Estri", "| **Jueves** | Short o estribillo | IG / TikTok / YT Shorts | **IG Graph API** + manual TT | Short: subir directo. Estri", "| **Sábado** | Carrusel | IG Feed | **nano-banana-pro** → **IG Graph API** | Mostrar antes |", "- Esperar 3-5 días de data.", "| Mar 17 | **S3 \"Buscando Espacio\"** | Short (anticipa domingo) | IG / TikTok / YT Shorts | **IG Graph API** + manual TT", "*Semana del show. Toda la carne al asador.*", "Con 9 domingos disponibles y 10 canciones, Flaca (parcial, cover de Calamaro) queda sin domingo asignado. Opciones:", "- Publicarla como bonus entre semana (ej: un viernes de show week)"], "source": "agenda_la_saga_17A_v6.md"}, "financials": {"total_expenses": 0, "total_income": 0, "balance": 0}, "show": {"venue": "Wannaclap", "capacity": 0, "tickets_sold": 0, "revenue": 0.0, "status": "confirmed"}, "kpi_history": [{"date": "2026-02-18", "total_followers": 18547, "total_reach": 6508, "total_engagement": 675, "email_list_size": 1635, "tickets_sold_total": 0}]};
+const DATA = {"generated_at": "2026-02-19T15:47:40.991897", "days_to_show": 56, "period_days": 7, "instagram": {"last_date": "2026-02-18", "followers": 3566, "reach": 3319, "accounts_engaged": 314, "period_posts": 2, "period_reach": 5239, "period_engagement": 644, "top_post": {"date": "2026-02-12", "type": "reel", "caption": "En esta época, ser felices es un privilegio\n\nNos juntamos, tocamos, nos reímos. ", "reach": 2711}, "trend": [{"date": "2026-02-18", "followers": 3566, "reach": 3319}], "post_types": [{"type": "reel", "posts": 2, "avg_reach": 2620.0, "avg_engagement": 322.0}]}, "email": {"last_date": "2026-02-18", "total_subs": 1635, "period_gained": 0, "period_lost": 3, "campaigns": [{"name": "Bienvenida a la lista", "sent": 503, "open_pct": 59.8, "click_pct": 20.9, "sent_at": "2026-02-13T12:21:59+00:00"}], "last_campaign": {"name": "Bienvenida a la lista", "sent": 503, "open_pct": 59.8, "click_pct": 20.9, "sent_at": "2026-02-13T12:21:59+00:00"}, "avg_open_pct": 59.8, "avg_click_pct": 20.9, "total_campaigns": 1, "trend": [{"date": "2026-02-18", "subs": 1635}]}, "youtube": {"last_date": "2026-02-18", "subscribers": 3720, "total_views": 1543200, "videos_count": 38, "period_views": 1061, "period_likes": 18, "period_shares": 9, "period_watch_min": 2569.0, "period_subs_net": 5, "unreplied_comments": 100, "top_traffic_source": "PLAYLIST", "top_traffic_views": 2740, "traffic_sources": [{"source": "PLAYLIST", "views": 2740}, {"source": "YT_SEARCH", "views": 927}, {"source": "SUBSCRIBER", "views": 793}, {"source": "RELATED_VIDEO", "views": 363}, {"source": "NO_LINK_OTHER", "views": 208}, {"source": "YT_OTHER_PAGE", "views": 174}, {"source": "EXT_URL", "views": 158}, {"source": "YT_CHANNEL", "views": 123}, {"source": "SHORTS", "views": 107}, {"source": "NOTIFICATION", "views": 19}, {"source": "SHORTS_CONTENT_LINKS", "views": 2}, {"source": "END_SCREEN", "views": 1}], "top_videos": [{"title": "LA SAGA -  \"Color\" - (Video Oficial)", "views": 498560, "likes": 2221, "type": "Video"}, {"title": "LA SAGA - ONCE", "views": 465209, "likes": 2320, "type": "Video"}, {"title": "\"Errante\" (La Saga - \"INTIMO\")", "views": 161405, "likes": 696, "type": "Video"}, {"title": "La Saga - Yo te quiero (Video Oficial)", "views": 115952, "likes": 689, "type": "Video"}, {"title": "La Saga - Vos  (video oficial)", "views": 106267, "likes": 866, "type": "Video"}], "trend": [{"date": "2026-01-20", "views": 141, "likes": 2, "net_subs": 0}, {"date": "2026-01-21", "views": 180, "likes": 4, "net_subs": 1}, {"date": "2026-01-22", "views": 196, "likes": 1, "net_subs": 3}, {"date": "2026-01-23", "views": 205, "likes": 1, "net_subs": 0}, {"date": "2026-01-24", "views": 210, "likes": 1, "net_subs": 0}, {"date": "2026-01-25", "views": 144, "likes": 2, "net_subs": 0}, {"date": "2026-01-26", "views": 145, "likes": -1, "net_subs": 0}, {"date": "2026-01-27", "views": 178, "likes": 6, "net_subs": 1}, {"date": "2026-01-28", "views": 209, "likes": 1, "net_subs": 0}, {"date": "2026-01-29", "views": 218, "likes": 3, "net_subs": 0}, {"date": "2026-01-30", "views": 275, "likes": -1, "net_subs": 0}, {"date": "2026-01-31", "views": 232, "likes": 0, "net_subs": 0}, {"date": "2026-02-01", "views": 129, "likes": 0, "net_subs": 0}, {"date": "2026-02-02", "views": 201, "likes": 2, "net_subs": 0}, {"date": "2026-02-03", "views": 177, "likes": -1, "net_subs": -1}, {"date": "2026-02-04", "views": 267, "likes": 4, "net_subs": 1}, {"date": "2026-02-05", "views": 285, "likes": 0, "net_subs": 0}, {"date": "2026-02-06", "views": 186, "likes": 1, "net_subs": 0}, {"date": "2026-02-07", "views": 190, "likes": 0, "net_subs": 2}, {"date": "2026-02-08", "views": 119, "likes": 1, "net_subs": 1}, {"date": "2026-02-09", "views": 149, "likes": 1, "net_subs": -1}, {"date": "2026-02-10", "views": 178, "likes": 0, "net_subs": 0}, {"date": "2026-02-11", "views": 208, "likes": 1, "net_subs": 0}, {"date": "2026-02-12", "views": 221, "likes": 1, "net_subs": 0}, {"date": "2026-02-13", "views": 308, "likes": 2, "net_subs": 2}, {"date": "2026-02-14", "views": 211, "likes": 1, "net_subs": 1}, {"date": "2026-02-15", "views": 321, "likes": 14, "net_subs": 2}]}, "spotify": {"last_date": "2026-02-18", "monthly_listeners": 21909, "streams_28d": 100745, "followers": 11261, "super_listeners": 422, "saves": 922, "playlist_adds": 1008, "top_tracks": [], "demographics": [{"dim": "age", "value": "35-44", "pct": 37.0}, {"dim": "age", "value": "25-34", "pct": 32.0}, {"dim": "age", "value": "45-54", "pct": 18.0}, {"dim": "age", "value": "18-24", "pct": 6.0}, {"dim": "age", "value": "<18", "pct": 0.0}, {"dim": "gender", "value": "male", "pct": 63.0}, {"dim": "gender", "value": "female", "pct": 33.0}, {"dim": "gender", "value": "not_specified", "pct": 3.0}, {"dim": "gender", "value": "non-binary", "pct": 1.0}], "locations": [{"name": "Uruguay", "listeners": 15219}, {"name": "Argentina", "listeners": 4301}, {"name": "Spain", "listeners": 629}, {"name": "Mexico", "listeners": 421}, {"name": "Brazil", "listeners": 271}], "days_since_collection": 1, "trend": [{"date": "2026-02-18", "listeners": 21909, "streams": 100745, "followers": 11261}]}, "x": {"last_date": "2026-02-19", "followers": 1364, "following": 463, "top_posts": [{"post_id": "2024191756430884898", "date": "2026-02-18", "text": "#lasagavuelve [Imagen LA SAGA VUELVE]", "impressions": 73, "likes": 12, "retweets": 1, "bookmarks": 0, "replies": 1}, {"post_id": "1067231560431210496", "date": "2018-11-26", "text": "¿Quien tiene ganas de despedida?", "impressions": 0, "likes": 8, "retweets": 2, "bookmarks": 0, "replies": 0}, {"post_id": "1077578455066333185", "date": "2018-12-25", "text": "Esta navidad es una navidad diferente para nosotros. Luego de agradecer la salud", "impressions": 0, "likes": 5, "retweets": 0, "bookmarks": 0, "replies": 0}, {"post_id": "1068257944830124033", "date": "2018-11-29", "text": "Te invitamos a despedir el año con nosotros el viernes 14 de diciembre, 21 hs. L", "impressions": 0, "likes": 3, "retweets": 0, "bookmarks": 0, "replies": 1}, {"post_id": "1073272298747113473", "date": "2018-12-13", "text": "Nos vemos mañana?", "impressions": 0, "likes": 1, "retweets": 0, "bookmarks": 0, "replies": 0}], "trend": [{"date": "2026-02-19", "followers": 1364}]}, "tiktok": {"last_date": "2026-02-19", "followers": 2, "likes_total": 1, "top_posts": [{"post_id": "7577916687123631416", "date": "2025-11-28", "description": "COMUNICADO URGENTE - De dónde querés venir mañana", "views": 105, "likes": 0, "shares": 0, "comments": 0, "saves": 0}, {"post_id": "7580842031635778872", "date": "2025-12-06", "description": "COMUNICADO DE LA GERENCIA: EL HORIZONTE OTRA VEZ - Quiero", "views": 89, "likes": 1, "shares": 0, "comments": 0, "saves": 0}], "trend": [{"date": "2026-02-19", "followers": 2}]}, "community": {"platforms": {}, "total_received": 0, "total_replied": 0, "response_rate": 0, "total_likes": 0, "trend": []}, "community_log": [], "suggestions": [{"priority": "media", "area": "Prensa", "text": "Sin contactos de prensa registrados. Activar outreach (cron Prensa, martes)."}, {"priority": "alta", "area": "Booking", "text": "Sala del Museo del Carnaval sigue en 'identified'. Contactar esta semana."}], "press": {"total_contacts": 0, "emails_sent": 0, "responses": 0, "coverage": 0, "recent_activity": [], "trend": []}, "booking": {"venues": [{"name": "Wannaclap", "city": "Montevideo", "capacity": 0, "date_target": "17 Abril 2026", "status": "confirmed", "contacted": null, "notes": "Show principal La Saga Vuelve"}, {"name": "Sala del Museo del Carnaval", "city": "Montevideo", "capacity": 0, "date_target": "Agosto/Septiembre 2026", "status": "identified", "contacted": null, "notes": "Show post-17A. Averiguar disponibilidad y condiciones."}], "by_status": {"confirmed": 1, "identified": 1}, "total": 2}, "upcoming": {"items": [{"date": "", "platform": "", "type": "", "description": "Agenda de contenido: 16 de febrero → 19 de abril: | **ffmpeg** | Cortar estribillos, convertir horizontal→vertical con blur, texto | `sudo apt install", "status": "agenda"}, {"date": "", "platform": "", "type": "", "description": "Agenda de contenido: 16 de febrero → 19 de abril: | **Whisper** | Transcribir canciones con timestamps (para ubicar estribillos por frase) | `pip inst", "status": "agenda"}, {"date": "", "platform": "", "type": "", "description": "Agenda de contenido: 16 de febrero → 19 de abril: | **nano-banana-pro** | Generar imágenes para carruseles y placas | `npx clawhub@latest install nano", "status": "agenda"}, {"date": "", "platform": "", "type": "", "description": "Agenda de contenido: 16 de febrero → 19 de abril: | **video-frames** | Extraer frames y clips de videos | `npx clawhub@latest install video-frames` |", "status": "agenda"}, {"date": "", "platform": "", "type": "", "description": "Agenda de contenido: 16 de febrero → 19 de abril: | **YouTube Data API v3** | Subir videos a YouTube | Google Cloud Console + OAuth 2.0 |", "status": "agenda"}, {"date": "", "platform": "", "type": "", "description": "Agenda de contenido: 16 de febrero → 19 de abril: | **Instagram Graph API** | Publicar Reels, imágenes y Stories en IG | Meta for Developers + token |", "status": "agenda"}, {"date": "", "platform": "", "type": "", "description": "Agenda de contenido: 16 de febrero → 19 de abril: *Estribillos:** Dylan transcribe la canción con Whisper → le pregunta a Nico qué frase cortar → ubic", "status": "agenda"}, {"date": "", "platform": "", "type": "", "description": "Agenda de contenido: 16 de febrero → 19 de abril: *Carruseles:** Dylan le pregunta a Nico qué imagen y qué frase → genera con nano-banana-pro → se lo ", "status": "agenda"}, {"date": "", "platform": "", "type": "", "description": "Agenda de contenido: 16 de febrero → 19 de abril: | # | Tema | Canción que contiene | Anticipa en YouTube |", "status": "agenda"}, {"date": "", "platform": "", "type": "", "description": "Agenda de contenido: 16 de febrero → 19 de abril: | S7 | Gira por Argentina / grabación video de Color | — (relacionado con Color) | No (contenido ind", "status": "agenda"}], "source": "agenda-17A.md (parsed)"}, "financials": {"total_expenses": 0, "total_income": 0, "balance": 0}, "show": {"venue": "Wannaclap", "capacity": 0, "tickets_sold": 0, "revenue": 0.0, "status": "confirmed"}, "kpi_history": [{"date": "2026-02-18", "total_followers": 18547, "total_reach": 6508, "total_engagement": 675, "email_list_size": 1635, "tickets_sold_total": 0}]};
 
 // ── Helpers ──
 function fmt(n) {
@@ -1385,17 +1407,22 @@ function switchTab(name) {
   const items = upcoming.items || [];
 
   if (items.length > 0) {
+    const platformIcons = {'instagram':'📷','youtube':'▶️','x':'𝕏','tiktok':'♪','email':'📧','':'📌'};
+    const statusColors = {'agenda':'#6b7280','planned':'#3b82f6','ready':'#16a34a','pending':'#d97706'};
     let html = '<div style="font-size:0.85rem;">';
     items.forEach(item => {
-      html += `<div class="upcoming-item"><span>${item}</span></div>`;
+      const icon = platformIcons[item.platform] || '📌';
+      const date = item.date ? `<span class="upcoming-date">${item.date}</span>` : '';
+      const badge = item.status ? `<span style="background:${statusColors[item.status]||'#6b7280'}22;color:${statusColors[item.status]||'#6b7280'};padding:2px 8px;border-radius:8px;font-size:0.7rem;font-weight:600">${item.status}</span>` : '';
+      html += `<div class="upcoming-item">${date}<span>${icon} ${item.description}</span>${badge}</div>`;
     });
     html += `<div style="margin-top:8px;font-size:0.7rem;color:var(--text-dim)">Fuente: ${upcoming.source}</div>`;
     html += '</div>';
     el.innerHTML = html;
   } else {
     el.innerHTML = `<div style="color:var(--text-dim);font-size:0.85rem;padding:4px">
-      Agenda no encontrada o sin publicaciones próximas.${upcoming.source ? ' Buscado en: ' + upcoming.source : ''}
-      <br><span style="font-size:0.75rem">El script busca operaciones/agenda-17A.md en el workspace de Dylan.</span>
+      Sin publicaciones próximas en la base.<br>
+      <span style="font-size:0.75rem">Dylan llena esto semanalmente, o se parsea desde agenda-17A.md.</span>
     </div>`;
   }
 })();
@@ -1522,6 +1549,66 @@ function switchTab(name) {
         plugins: { legend: { display: true, position: 'bottom' } }
       }
     });
+  }
+})();
+
+// ── Community Log ──
+(function() {
+  const el = document.getElementById('community-log');
+  if (!el) return;
+
+  const log = DATA.community_log || [];
+  const platformIcons = {'instagram':'📷','x':'𝕏','youtube':'▶️','tiktok':'♪'};
+  const typeColors = {'reply':'#3b82f6','like':'#ef4444','follow':'#16a34a','dm':'#9333ea','mention':'#d97706'};
+
+  if (log.length > 0) {
+    let html = '<div style="max-height:300px;overflow-y:auto;">';
+    log.forEach(item => {
+      const icon = platformIcons[item.platform] || '💬';
+      const typeColor = typeColors[item.type] || '#6b7280';
+      html += `<div style="display:flex;align-items:flex-start;gap:10px;padding:8px 0;border-bottom:1px solid var(--border);">
+        <span style="font-size:1.1rem">${icon}</span>
+        <div style="flex:1;min-width:0">
+          <div style="display:flex;gap:6px;align-items:center;margin-bottom:2px">
+            <span style="background:${typeColor}15;color:${typeColor};padding:1px 8px;border-radius:8px;font-size:0.7rem;font-weight:600">${item.type}</span>
+            <span style="font-size:0.7rem;color:var(--text-dim)">${item.date}</span>
+          </div>
+          <div style="font-size:0.82rem;color:var(--text)">${item.description}</div>
+        </div>
+      </div>`;
+    });
+    html += '</div>';
+    el.innerHTML = html;
+  } else {
+    el.innerHTML = '<div style="color:var(--text-dim);font-size:0.85rem;padding:12px">Sin interacciones registradas aún. Dylan reportará después de las rondas de comunidad AM/PM.</div>';
+  }
+})();
+
+// ── Suggestions ──
+(function() {
+  const el = document.getElementById('suggestions');
+  if (!el) return;
+
+  const suggestions = DATA.suggestions || [];
+  const prioColors = {'alta':'#dc2626','media':'#d97706','info':'#3b82f6'};
+  const prioIcons = {'alta':'🔴','media':'🟡','info':'🔵'};
+
+  if (suggestions.length > 0) {
+    let html = '';
+    suggestions.forEach(s => {
+      const icon = prioIcons[s.priority] || '💡';
+      const color = prioColors[s.priority] || '#6b7280';
+      html += `<div style="display:flex;align-items:flex-start;gap:10px;padding:10px 0;border-bottom:1px solid var(--border);">
+        <span>${icon}</span>
+        <div style="flex:1">
+          <div style="font-size:0.75rem;font-weight:600;color:${color};text-transform:uppercase;letter-spacing:0.5px;margin-bottom:2px">${s.area}</div>
+          <div style="font-size:0.85rem">${s.text}</div>
+        </div>
+      </div>`;
+    });
+    el.innerHTML = html;
+  } else {
+    el.innerHTML = '<div style="color:var(--text-dim);font-size:0.85rem;padding:12px">Sin sugerencias. Todo en orden.</div>';
   }
 })();
 
