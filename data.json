@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T15:47:40.991897",
+  "generated_at": "2026-02-19T19:30:42.269822",
   "days_to_show": 56,
   "period_days": 7,
   "instagram": {
@@ -564,79 +564,8 @@
     "total": 2
   },
   "upcoming": {
-    "items": [
-      {
-        "date": "",
-        "platform": "",
-        "type": "",
-        "description": "Agenda de contenido: 16 de febrero → 19 de abril: | **ffmpeg** | Cortar estribillos, convertir horizontal→vertical con blur, texto | `sudo apt install",
-        "status": "agenda"
-      },
-      {
-        "date": "",
-        "platform": "",
-        "type": "",
-        "description": "Agenda de contenido: 16 de febrero → 19 de abril: | **Whisper** | Transcribir canciones con timestamps (para ubicar estribillos por frase) | `pip inst",
-        "status": "agenda"
-      },
-      {
-        "date": "",
-        "platform": "",
-        "type": "",
-        "description": "Agenda de contenido: 16 de febrero → 19 de abril: | **nano-banana-pro** | Generar imágenes para carruseles y placas | `npx clawhub@latest install nano",
-        "status": "agenda"
-      },
-      {
-        "date": "",
-        "platform": "",
-        "type": "",
-        "description": "Agenda de contenido: 16 de febrero → 19 de abril: | **video-frames** | Extraer frames y clips de videos | `npx clawhub@latest install video-frames` |",
-        "status": "agenda"
-      },
-      {
-        "date": "",
-        "platform": "",
-        "type": "",
-        "description": "Agenda de contenido: 16 de febrero → 19 de abril: | **YouTube Data API v3** | Subir videos a YouTube | Google Cloud Console + OAuth 2.0 |",
-        "status": "agenda"
-      },
-      {
-        "date": "",
-        "platform": "",
-        "type": "",
-        "description": "Agenda de contenido: 16 de febrero → 19 de abril: | **Instagram Graph API** | Publicar Reels, imágenes y Stories en IG | Meta for Developers + token |",
-        "status": "agenda"
-      },
-      {
-        "date": "",
-        "platform": "",
-        "type": "",
-        "description": "Agenda de contenido: 16 de febrero → 19 de abril: *Estribillos:** Dylan transcribe la canción con Whisper → le pregunta a Nico qué frase cortar → ubic",
-        "status": "agenda"
-      },
-      {
-        "date": "",
-        "platform": "",
-        "type": "",
-        "description": "Agenda de contenido: 16 de febrero → 19 de abril: *Carruseles:** Dylan le pregunta a Nico qué imagen y qué frase → genera con nano-banana-pro → se lo ",
-        "status": "agenda"
-      },
-      {
-        "date": "",
-        "platform": "",
-        "type": "",
-        "description": "Agenda de contenido: 16 de febrero → 19 de abril: | # | Tema | Canción que contiene | Anticipa en YouTube |",
-        "status": "agenda"
-      },
-      {
-        "date": "",
-        "platform": "",
-        "type": "",
-        "description": "Agenda de contenido: 16 de febrero → 19 de abril: | S7 | Gira por Argentina / grabación video de Color | — (relacionado con Color) | No (contenido ind",
-        "status": "agenda"
-      }
-    ],
-    "source": "agenda-17A.md (parsed)"
+    "items": [],
+    "source": "Dylan carga el plan los lunes y jueves"
   },
   "financials": {
     "total_expenses": 0,
