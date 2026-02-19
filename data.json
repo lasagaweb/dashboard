@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T12:49:23.712877",
+  "generated_at": "2026-02-19T13:03:46.482939",
   "days_to_show": 56,
   "period_days": 7,
   "instagram": {
@@ -473,6 +473,10 @@
         "followers": 1364
       }
     ]
+  },
+  "tiktok": {
+    "top_posts": [],
+    "trend": []
   },
   "financials": {
     "total_expenses": 0,
