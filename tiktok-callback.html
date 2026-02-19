@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TikTok Authorization — La Saga Manager</title>
+    <style>
+        body { font-family: -apple-system, sans-serif; display: flex; justify-content: center; align-items: center; min-height: 100vh; margin: 0; background: #1a1a1a; color: #fff; }
+        .container { text-align: center; max-width: 500px; padding: 40px; }
+        h1 { font-size: 24px; margin-bottom: 10px; }
+        p { color: #aaa; }
+        .code { background: #333; padding: 15px; border-radius: 8px; font-family: monospace; word-break: break-all; margin: 20px 0; font-size: 14px; }
+        .success { color: #4caf50; }
+        .error { color: #f44336; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎸 La Saga Manager</h1>
+        <p>TikTok Authorization</p>
+        <div id="status">Processing...</div>
+        <div id="code" class="code" style="display:none"></div>
+        <p id="instructions" style="display:none">Copy this code and paste it in the terminal.</p>
+    </div>
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const code = params.get('code');
+        const error = params.get('error');
+        const statusEl = document.getElementById('status');
+        const codeEl = document.getElementById('code');
+        const instrEl = document.getElementById('instructions');
+
+        if (error) {
+            statusEl.innerHTML = '<span class="error">Authorization failed: ' + error + '</span>';
+        } else if (code) {
+            statusEl.innerHTML = '<span class="success">✅ Authorization successful!</span>';
+            codeEl.textContent = code;
+            codeEl.style.display = 'block';
+            instrEl.style.display = 'block';
+        } else {
+            statusEl.innerHTML = '<span class="error">No authorization code received.</span>';
+        }
+    </script>
+</body>
+</html>
