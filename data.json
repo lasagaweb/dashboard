@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T13:03:46.482939",
+  "generated_at": "2026-02-19T13:12:51.781405",
   "days_to_show": 56,
   "period_days": 7,
   "instagram": {
@@ -475,8 +475,37 @@
     ]
   },
   "tiktok": {
-    "top_posts": [],
-    "trend": []
+    "last_date": "2026-02-19",
+    "followers": 2,
+    "likes_total": 1,
+    "top_posts": [
+      {
+        "post_id": "7577916687123631416",
+        "date": "2025-11-28",
+        "description": "COMUNICADO URGENTE: ¿de dónde querés venir mañana? La gerencia informa anomalía ",
+        "views": 105,
+        "likes": 0,
+        "shares": 0,
+        "comments": 0,
+        "saves": 0
+      },
+      {
+        "post_id": "7580842031635778872",
+        "date": "2025-12-06",
+        "description": "COMUNICADO DE LA GERENCIA: ¿Te acordás de esta tapa? Quiero - La Saga Vuelve",
+        "views": 89,
+        "likes": 1,
+        "shares": 0,
+        "comments": 0,
+        "saves": 0
+      }
+    ],
+    "trend": [
+      {
+        "date": "2026-02-19",
+        "followers": 2
+      }
+    ]
   },
   "financials": {
     "total_expenses": 0,
