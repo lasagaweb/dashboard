@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T23:28:48.745175",
+  "generated_at": "2026-02-19T23:41:11.965359",
   "days_to_show": 56,
   "period_days": 7,
   "instagram": {
@@ -561,15 +561,140 @@
     ]
   },
   "community": {
-    "platforms": {},
-    "total_received": 0,
-    "total_replied": 0,
-    "response_rate": 0,
-    "total_likes": 0,
-    "trend": []
+    "platforms": {
+      "instagram": {
+        "comments_received": 24,
+        "comments_replied": 11,
+        "dms_received": 4,
+        "dms_replied": 2,
+        "mentions_received": 0,
+        "mentions_replied": 0,
+        "likes_given": 12,
+        "response_time_avg_min": 30
+      },
+      "tiktok": {
+        "comments_received": 0,
+        "comments_replied": 0,
+        "dms_received": 0,
+        "dms_replied": 0,
+        "mentions_received": 0,
+        "mentions_replied": 0,
+        "likes_given": 0,
+        "response_time_avg_min": 0
+      },
+      "x": {
+        "comments_received": 0,
+        "comments_replied": 0,
+        "dms_received": 0,
+        "dms_replied": 0,
+        "mentions_received": 0,
+        "mentions_replied": 0,
+        "likes_given": 0,
+        "response_time_avg_min": 0
+      },
+      "youtube": {
+        "comments_received": 0,
+        "comments_replied": 0,
+        "dms_received": 0,
+        "dms_replied": 0,
+        "mentions_received": 0,
+        "mentions_replied": 0,
+        "likes_given": 0,
+        "response_time_avg_min": 0
+      }
+    },
+    "total_received": 28,
+    "total_replied": 13,
+    "response_rate": 46,
+    "total_likes": 12,
+    "trend": [
+      {
+        "date": "2026-02-20",
+        "received": 28,
+        "replied": 13
+      }
+    ]
   },
-  "community_log": [],
+  "community_log": [
+    {
+      "date": "2026-02-20",
+      "platform": "instagram",
+      "type": "opportunity",
+      "description": "Fan pide El perfume de tu cama para setlist - registrar para ensayos"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "instagram",
+      "type": "opportunity",
+      "description": "Math93 sugiere programa Suena Bien - sesiones acústicas. Idea para post-show"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "instagram",
+      "type": "like",
+      "description": "Likeados 12 comentarios en reel Buscando Espacio (todos los pendientes)"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "instagram",
+      "type": "dm_reply",
+      "description": "Respondí DM a Alejandra Scampini pidiendo El perfume de tu cama"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "instagram",
+      "type": "dm_reply",
+      "description": "Respondí DM a @mathsorum sobre Suena Bien: Buena idea, lo tenemos en la mira"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Respondí a @elgabiboroni en reel Buscando Espacio"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Respondí a @tarres.sebastian: Tamo! Nos vemos en abril"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Respondí a @mapiet_2809 en reel Buscando Espacio"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Respondí a @adrianatorres176 en reel Buscando Espacio: Gracias por el aguante!"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "[lo que hiciste en YT]"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "x",
+      "type": "reply",
+      "description": "[lo que hiciste en X]"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "[lo que hiciste hoy en IG]"
+    }
+  ],
   "suggestions": [
+    {
+      "priority": "alta",
+      "area": "Comunidad",
+      "text": "Tasa de respuesta en 46%. Objetivo: >80%. Aumentar rondas de comunidad."
+    },
     {
       "priority": "media",
       "area": "Prensa",
