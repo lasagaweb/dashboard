@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T17:20:13.028098",
+  "generated_at": "2026-02-20T17:35:10.439799",
   "days_to_show": 55,
   "period_days": 7,
   "instagram": {
@@ -568,20 +568,20 @@
         "response_time_avg_min": 60
       },
       "youtube": {
-        "comments_received": 0,
-        "comments_replied": 0,
+        "comments_received": 6,
+        "comments_replied": 6,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 0,
+        "likes_given": 6,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 58,
-    "total_replied": 35,
-    "response_rate": 60,
-    "total_likes": 23,
+    "total_received": 64,
+    "total_replied": 41,
+    "response_rate": 64,
+    "total_likes": 29,
     "today_grid": [
       {
         "platform": "instagram",
@@ -624,17 +624,60 @@
         "received": 0,
         "replied": 0,
         "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 6,
+        "replied": 6,
+        "pending": 4
       }
     ],
     "trend": [
       {
         "date": "2026-02-20",
-        "received": 58,
-        "replied": 35
+        "received": 64,
+        "replied": 41
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-20",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "manuupa: cracks"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "leabritos91: nos vemos en unas semanas"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "noeliamarrero7734: Feliz retorno"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "nataliagonzalez1995: me encanta que vuelvan"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Daamy222: Hermoso verlos volver"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "hongo-loco: Es muy bueno! Volverlos a escuchar"
+    },
     {
       "date": "2026-02-20",
       "platform": "x",
@@ -688,49 +731,13 @@
       "platform": "x",
       "type": "repost",
       "description": "MadeinUruguay (@araucaria1) reposteó el post del Short S2"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "x",
-      "type": "new_follower",
-      "description": "Radio Belcha (@RadioBelcha) nos siguió - medio de radio"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "x",
-      "type": "like",
-      "description": "Likeados 6 comentarios de fans en post de setlist"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respondí a @NachoObes - Buen regreso"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respondí a @AndresMdf182 pidiendo Suerte para el setlist"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respondí a @Nando_008 pidiendo Buscando Espacio - le avisé que sale domingo en YT"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respondí a @LORENARI1976 pidiendo Somos invisibles y Errante"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 60%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 64%. Objetivo: >80%. Aumentar rondas de comunidad."
     },
     {
       "priority": "media",
