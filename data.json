@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T17:06:42.815481",
+  "generated_at": "2026-02-20T17:20:13.028098",
   "days_to_show": 55,
   "period_days": 7,
   "instagram": {
@@ -558,14 +558,14 @@
         "response_time_avg_min": 0
       },
       "x": {
-        "comments_received": 7,
-        "comments_replied": 6,
+        "comments_received": 10,
+        "comments_replied": 9,
         "dms_received": 0,
         "dms_replied": 0,
-        "mentions_received": 3,
+        "mentions_received": 4,
         "mentions_replied": 0,
-        "likes_given": 6,
-        "response_time_avg_min": 120
+        "likes_given": 9,
+        "response_time_avg_min": 60
       },
       "youtube": {
         "comments_received": 0,
@@ -578,10 +578,10 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 54,
-    "total_replied": 32,
-    "response_rate": 59,
-    "total_likes": 20,
+    "total_received": 58,
+    "total_replied": 35,
+    "response_rate": 60,
+    "total_likes": 23,
     "today_grid": [
       {
         "platform": "instagram",
@@ -612,6 +612,13 @@
         "pending": 0
       },
       {
+        "platform": "x",
+        "shift": "PM",
+        "received": 4,
+        "replied": 3,
+        "pending": 0
+      },
+      {
         "platform": "youtube",
         "shift": "AM",
         "received": 0,
@@ -622,12 +629,24 @@
     "trend": [
       {
         "date": "2026-02-20",
-        "received": 54,
-        "replied": 32
+        "received": 58,
+        "replied": 35
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-20",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @TortuBolso, @Amaral_1806 (imagen playlist), @Amaral_1806 (disco nuevo en vivo)"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "x",
+      "type": "reply",
+      "description": "Respondido a @TortuBolso: Ahí nos vemos! Se viene con todo en abril"
+    },
     {
       "date": "2026-02-20",
       "platform": "instagram",
@@ -705,25 +724,13 @@
       "platform": "x",
       "type": "reply",
       "description": "Respondí a @LORENARI1976 pidiendo Somos invisibles y Errante"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respondí a @TortuBolso pidiendo Podemos para el setlist"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respondí a @nicoanormal1 (NIKOVEUY) sobre el regreso"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 59%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 60%. Objetivo: >80%. Aumentar rondas de comunidad."
     },
     {
       "priority": "media",
