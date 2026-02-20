@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T16:03:53.435251",
+  "generated_at": "2026-02-20T17:06:42.815481",
   "days_to_show": 55,
   "period_days": 7,
   "instagram": {
@@ -538,13 +538,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 29,
-        "comments_replied": 15,
-        "dms_received": 4,
-        "dms_replied": 2,
+        "comments_received": 38,
+        "comments_replied": 22,
+        "dms_received": 6,
+        "dms_replied": 4,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 15,
+        "likes_given": 14,
         "response_time_avg_min": 15
       },
       "tiktok": {
@@ -578,10 +578,10 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 43,
-    "total_replied": 23,
-    "response_rate": 53,
-    "total_likes": 21,
+    "total_received": 54,
+    "total_replied": 32,
+    "response_rate": 59,
+    "total_likes": 20,
     "today_grid": [
       {
         "platform": "instagram",
@@ -593,9 +593,9 @@
       {
         "platform": "instagram",
         "shift": "PM",
-        "received": 5,
-        "replied": 4,
-        "pending": 1
+        "received": 16,
+        "replied": 13,
+        "pending": 0
       },
       {
         "platform": "tiktok",
@@ -622,12 +622,36 @@
     "trend": [
       {
         "date": "2026-02-20",
-        "received": 43,
-        "replied": 23
+        "received": 54,
+        "replied": 32
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-20",
+      "platform": "instagram",
+      "type": "dm_reply",
+      "description": "DM Sofia Zapata (sofiabzapata): Gracias por tanto, reply con agradecimiento"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "instagram",
+      "type": "dm_reply",
+      "description": "DM Romii Guerrero (_lic_7): respondio a historia, reply con agradecimiento"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Reel DU3HZ8FEhi7 (Algunas canciones): 3 replies a monoraffo, karem_dayan, torito_manija"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Reel DU9IeskkUnQ (No nos acordamos): 8 replies a diegorz9, gabucha.03, pablotassani, drodedom, pepinset, beadiezdastoli, anabelpedreira, gonza__f, soulstone_69"
+    },
     {
       "date": "2026-02-20",
       "platform": "x",
@@ -693,37 +717,13 @@
       "platform": "x",
       "type": "reply",
       "description": "Respondí a @nicoanormal1 (NIKOVEUY) sobre el regreso"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respondí a @vendavalero pidiendo Peor es olvidar y Las historias del silencio para el setlist"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "instagram",
-      "type": "opportunity",
-      "description": "Fan pide El perfume de tu cama para setlist - registrar para ensayos"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "instagram",
-      "type": "opportunity",
-      "description": "Math93 sugiere programa Suena Bien - sesiones acústicas. Idea para post-show"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "instagram",
-      "type": "like",
-      "description": "Likeados 12 comentarios en reel Buscando Espacio (todos los pendientes)"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 53%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 59%. Objetivo: >80%. Aumentar rondas de comunidad."
     },
     {
       "priority": "media",
