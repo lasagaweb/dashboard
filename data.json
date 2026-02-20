@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-02-19T23:48:59.009138",
-  "days_to_show": 56,
+  "generated_at": "2026-02-20T16:03:53.435251",
+  "days_to_show": 55,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-02-20",
     "followers": 3576,
-    "reach": 1628,
-    "accounts_engaged": 164,
-    "period_posts": 3,
-    "period_reach": 7054,
-    "period_engagement": 830,
+    "reach": 1882,
+    "accounts_engaged": 178,
+    "period_posts": 2,
+    "period_reach": 4515,
+    "period_engagement": 479,
     "top_post": {
       "date": "2026-02-17",
       "type": "reel",
       "caption": "\"Algunas canciones se hacen y después se buscan toda la vida\" \n\nEl primer show e",
-      "reach": 3402
+      "reach": 3477
     },
     "trend": [
       {
@@ -30,15 +30,15 @@
       {
         "date": "2026-02-20",
         "followers": 3576,
-        "reach": 1628
+        "reach": 1882
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 3,
-        "avg_reach": 2351.0,
-        "avg_engagement": 277.0
+        "avg_reach": 2451.0,
+        "avg_engagement": 295.0
       }
     ]
   },
@@ -51,20 +51,20 @@
       {
         "name": "Bienvenida a la lista",
         "sent": 503,
-        "open_pct": 62.8,
-        "click_pct": 22.3,
+        "open_pct": 63.0,
+        "click_pct": 22.5,
         "sent_at": "2026-02-13T12:21:59+00:00"
       }
     ],
     "last_campaign": {
       "name": "Bienvenida a la lista",
       "sent": 503,
-      "open_pct": 62.8,
-      "click_pct": 22.3,
+      "open_pct": 63.0,
+      "click_pct": 22.5,
       "sent_at": "2026-02-13T12:21:59+00:00"
     },
-    "avg_open_pct": 62.8,
-    "avg_click_pct": 22.3,
+    "avg_open_pct": 63.0,
+    "avg_click_pct": 22.5,
     "total_campaigns": 1,
     "trend": [
       {
@@ -82,26 +82,26 @@
     "subscribers": 3720,
     "total_views": 1543200,
     "videos_count": 38,
-    "period_views": 1900,
-    "period_likes": 37,
-    "period_shares": 19,
-    "period_watch_min": 3848.0,
+    "period_views": 1679,
+    "period_likes": 36,
+    "period_shares": 18,
+    "period_watch_min": 3118.0,
     "period_subs_net": 9,
     "unreplied_comments": 100,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 5544,
+    "top_traffic_views": 5547,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
-        "views": 5544
+        "views": 5547
       },
       {
         "source": "YT_SEARCH",
-        "views": 1868
+        "views": 1867
       },
       {
         "source": "SUBSCRIBER",
-        "views": 1604
+        "views": 1605
       },
       {
         "source": "RELATED_VIDEO",
@@ -113,7 +113,7 @@
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 425
+        "views": 422
       },
       {
         "source": "YT_OTHER_PAGE",
@@ -345,12 +345,12 @@
   },
   "spotify": {
     "last_date": "2026-02-20",
-    "monthly_listeners": 22095,
-    "streams_28d": 100383,
-    "followers": 11267,
-    "super_listeners": 422,
-    "saves": 936,
-    "playlist_adds": 938,
+    "monthly_listeners": 22018,
+    "streams_28d": 99935,
+    "followers": 11268,
+    "super_listeners": 417,
+    "saves": 928,
+    "playlist_adds": 923,
     "top_tracks": [
       {
         "name": "Color",
@@ -372,31 +372,6 @@
       }
     ],
     "demographics": [
-      {
-        "dim": "age",
-        "value": "35-44",
-        "pct": 37.0
-      },
-      {
-        "dim": "age",
-        "value": "25-34",
-        "pct": 32.0
-      },
-      {
-        "dim": "age",
-        "value": "45-54",
-        "pct": 18.0
-      },
-      {
-        "dim": "age",
-        "value": "18-24",
-        "pct": 6.0
-      },
-      {
-        "dim": "age",
-        "value": "<18",
-        "pct": 0.0
-      },
       {
         "dim": "gender",
         "value": "male",
@@ -440,7 +415,7 @@
         "listeners": 271
       }
     ],
-    "days_since_collection": -1,
+    "days_since_collection": 0,
     "trend": [
       {
         "date": "2026-02-18",
@@ -450,26 +425,26 @@
       },
       {
         "date": "2026-02-20",
-        "listeners": 22095,
-        "streams": 100383,
-        "followers": 11267
+        "listeners": 22018,
+        "streams": 99935,
+        "followers": 11268
       }
     ]
   },
   "x": {
     "last_date": "2026-02-20",
-    "followers": 1365,
+    "followers": 1367,
     "following": 469,
     "top_posts": [
       {
-        "post_id": "2024191756430884898",
-        "date": "2026-02-18",
-        "text": "#lasagavuelve [Imagen LA SAGA VUELVE]",
-        "impressions": 73,
-        "likes": 12,
-        "retweets": 1,
+        "post_id": "2024536551791759399",
+        "date": "2026-02-19",
+        "text": "Pregunta para los que nos escuchan desde siempre: ¿qué tema de La Saga les gusta",
+        "impressions": 254,
+        "likes": 5,
+        "retweets": 0,
         "bookmarks": 0,
-        "replies": 1
+        "replies": 10
       },
       {
         "post_id": "1067231560431210496",
@@ -492,24 +467,24 @@
         "replies": 0
       },
       {
-        "post_id": "1068257944830124033",
-        "date": "2018-11-29",
-        "text": "Te invitamos a despedir el año con nosotros el viernes 14 de diciembre, 21 hs. L",
-        "impressions": 0,
-        "likes": 3,
-        "retweets": 0,
-        "bookmarks": 0,
-        "replies": 1
-      },
-      {
-        "post_id": "1073272298747113473",
-        "date": "2018-12-13",
-        "text": "Nos vemos mañana?",
-        "impressions": 0,
-        "likes": 1,
-        "retweets": 0,
+        "post_id": "2024606424383242477",
+        "date": "2026-02-19",
+        "text": "No nos acordamos de las canciones. Encontramos un libro con todas las tablaturas",
+        "impressions": 83,
+        "likes": 4,
+        "retweets": 1,
         "bookmarks": 0,
         "replies": 0
+      },
+      {
+        "post_id": "2024191756430884898",
+        "date": "2026-02-18",
+        "text": "#lasagavuelve",
+        "impressions": 186,
+        "likes": 3,
+        "retweets": 1,
+        "bookmarks": 17,
+        "replies": 1
       }
     ],
     "trend": [
@@ -519,7 +494,7 @@
       },
       {
         "date": "2026-02-20",
-        "followers": 1365
+        "followers": 1367
       }
     ]
   },
@@ -531,7 +506,7 @@
       {
         "post_id": "7577916687123631416",
         "date": "2025-11-28",
-        "description": "COMUNICADO URGENTE - De dónde querés venir mañana",
+        "description": "COMUNICADO URGENTE - De dónde querés venir mañana #lasagavuelve #rockuruguayo",
         "views": 105,
         "likes": 0,
         "shares": 0,
@@ -540,8 +515,8 @@
       },
       {
         "post_id": "7580842031635778872",
-        "date": "2025-12-06",
-        "description": "COMUNICADO DE LA GERENCIA: EL HORIZONTE OTRA VEZ - Quiero",
+        "date": "2026-02-18",
+        "description": "COMUNICADO DE LA GERENCIA: Quiero - La Saga",
         "views": 89,
         "likes": 1,
         "shares": 0,
@@ -563,14 +538,14 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 24,
-        "comments_replied": 11,
+        "comments_received": 29,
+        "comments_replied": 15,
         "dms_received": 4,
         "dms_replied": 2,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 12,
-        "response_time_avg_min": 30
+        "likes_given": 15,
+        "response_time_avg_min": 15
       },
       "tiktok": {
         "comments_received": 0,
@@ -603,15 +578,52 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 38,
-    "total_replied": 19,
-    "response_rate": 50,
-    "total_likes": 18,
+    "total_received": 43,
+    "total_replied": 23,
+    "response_rate": 53,
+    "total_likes": 21,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 28,
+        "replied": 13,
+        "pending": 0
+      },
+      {
+        "platform": "instagram",
+        "shift": "PM",
+        "received": 5,
+        "replied": 4,
+        "pending": 1
+      },
+      {
+        "platform": "tiktok",
+        "shift": "AM",
+        "received": 0,
+        "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "x",
+        "shift": "AM",
+        "received": 10,
+        "replied": 6,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 0,
+        "replied": 0,
+        "pending": 0
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-20",
-        "received": 38,
-        "replied": 19
+        "received": 43,
+        "replied": 23
       }
     ]
   },
@@ -711,7 +723,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 50%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 53%. Objetivo: >80%. Aumentar rondas de comunidad."
     },
     {
       "priority": "media",
@@ -762,39 +774,51 @@
   "upcoming": {
     "items": [
       {
+        "id": 1,
         "date": "2026-02-19",
         "platform": "instagram",
         "type": "short",
         "description": "S2 Libro de tablaturas (cross: IG + X + TikTok + YT Shorts)",
-        "status": "planned"
+        "status": "published",
+        "platforms_done": [
+          "instagram"
+        ]
       },
       {
+        "id": 2,
         "date": "2026-02-21",
         "platform": "instagram",
         "type": "carousel",
         "description": "Carrusel Buscando Espacio (concepto Memoria Imperfecta)",
-        "status": "planned"
+        "status": "planned",
+        "platforms_done": []
       },
       {
+        "id": 3,
         "date": "2026-02-22",
         "platform": "youtube",
         "type": "full_song",
         "description": "Buscando Espacio - canción completa (ya subida oculta, pasar a público)",
-        "status": "planned"
+        "status": "planned",
+        "platforms_done": []
       },
       {
+        "id": 4,
         "date": "2026-02-24",
         "platform": "instagram",
         "type": "reel",
         "description": "Estribillo Ya no saben qué decir (pedir frase a Nico)",
-        "status": "planned"
+        "status": "planned",
+        "platforms_done": []
       },
       {
+        "id": 5,
         "date": "2026-02-26",
         "platform": "instagram",
         "type": "short",
         "description": "S4 Pilsen Rock y Velódromo (cross: IG + X + TikTok + YT Shorts)",
-        "status": "planned"
+        "status": "planned",
+        "platforms_done": []
       }
     ],
     "source": "upcoming_content"
@@ -828,5 +852,16 @@
       "email_list_size": 1635,
       "tickets_sold_total": 0
     }
-  ]
+  ],
+  "platform_status": {
+    "instagram": "2026-02-20T14:01:13.710515+00:00",
+    "spotify": null,
+    "emailoctopus": "2026-02-20T15:00:06.614745+00:00",
+    "twitter": null,
+    "tiktok": null,
+    "meta_ads": null,
+    "web": null,
+    "shows": null,
+    "youtube": "2026-02-20T16:00:23.381211+00:00"
+  }
 }
