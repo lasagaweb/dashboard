@@ -1,34 +1,44 @@
 {
-  "generated_at": "2026-02-19T23:16:42.598746",
+  "generated_at": "2026-02-19T23:24:46.555108",
   "days_to_show": 56,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-02-18",
-    "followers": 3566,
-    "reach": 3319,
-    "accounts_engaged": 314,
-    "period_posts": 2,
-    "period_reach": 5239,
-    "period_engagement": 644,
+    "last_date": "2026-02-20",
+    "followers": 3576,
+    "reach": 1628,
+    "accounts_engaged": 164,
+    "period_posts": 3,
+    "period_reach": 7054,
+    "period_engagement": 830,
     "top_post": {
-      "date": "2026-02-12",
+      "date": "2026-02-17",
       "type": "reel",
-      "caption": "En esta época, ser felices es un privilegio\n\nNos juntamos, tocamos, nos reímos. ",
-      "reach": 2711
+      "caption": "\"Algunas canciones se hacen y después se buscan toda la vida\" \n\nEl primer show e",
+      "reach": 3402
     },
     "trend": [
       {
         "date": "2026-02-18",
         "followers": 3566,
         "reach": 3319
+      },
+      {
+        "date": "2026-02-19",
+        "followers": 3576,
+        "reach": 0
+      },
+      {
+        "date": "2026-02-20",
+        "followers": 3576,
+        "reach": 1628
       }
     ],
     "post_types": [
       {
         "type": "reel",
-        "posts": 2,
-        "avg_reach": 2620.0,
-        "avg_engagement": 322.0
+        "posts": 3,
+        "avg_reach": 2351.0,
+        "avg_engagement": 277.0
       }
     ]
   },
@@ -600,9 +610,9 @@
     },
     {
       "date": "2026-02-19",
-      "total_followers": 18547,
-      "total_reach": 4207,
-      "total_engagement": 301,
+      "total_followers": 18557,
+      "total_reach": 5898,
+      "total_engagement": 480,
       "email_list_size": 1635,
       "tickets_sold_total": 0
     }
