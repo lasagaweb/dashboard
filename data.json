@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T23:24:46.555108",
+  "generated_at": "2026-02-19T23:28:48.745175",
   "days_to_show": 56,
   "period_days": 7,
   "instagram": {
@@ -344,14 +344,33 @@
     ]
   },
   "spotify": {
-    "last_date": "2026-02-18",
-    "monthly_listeners": 21909,
-    "streams_28d": 100745,
-    "followers": 11261,
+    "last_date": "2026-02-20",
+    "monthly_listeners": 22095,
+    "streams_28d": 100383,
+    "followers": 0,
     "super_listeners": 422,
-    "saves": 922,
-    "playlist_adds": 1008,
-    "top_tracks": [],
+    "saves": 0,
+    "playlist_adds": 0,
+    "top_tracks": [
+      {
+        "name": "Color",
+        "streams": 0,
+        "listeners": 0,
+        "saves": 0
+      },
+      {
+        "name": "Ir",
+        "streams": 0,
+        "listeners": 0,
+        "saves": 0
+      },
+      {
+        "name": "Once",
+        "streams": 0,
+        "listeners": 0,
+        "saves": 0
+      }
+    ],
     "demographics": [
       {
         "dim": "age",
@@ -421,20 +440,26 @@
         "listeners": 271
       }
     ],
-    "days_since_collection": 1,
+    "days_since_collection": -1,
     "trend": [
       {
         "date": "2026-02-18",
         "listeners": 21909,
         "streams": 100745,
         "followers": 11261
+      },
+      {
+        "date": "2026-02-20",
+        "listeners": 22095,
+        "streams": 100383,
+        "followers": 0
       }
     ]
   },
   "x": {
-    "last_date": "2026-02-19",
-    "followers": 1364,
-    "following": 463,
+    "last_date": "2026-02-20",
+    "followers": 1365,
+    "following": 469,
     "top_posts": [
       {
         "post_id": "2024191756430884898",
@@ -491,11 +516,15 @@
       {
         "date": "2026-02-19",
         "followers": 1364
+      },
+      {
+        "date": "2026-02-20",
+        "followers": 1365
       }
     ]
   },
   "tiktok": {
-    "last_date": "2026-02-19",
+    "last_date": "2026-02-20",
     "followers": 2,
     "likes_total": 1,
     "top_posts": [
@@ -523,6 +552,10 @@
     "trend": [
       {
         "date": "2026-02-19",
+        "followers": 2
+      },
+      {
+        "date": "2026-02-20",
         "followers": 2
       }
     ]
@@ -610,7 +643,7 @@
     },
     {
       "date": "2026-02-19",
-      "total_followers": 18557,
+      "total_followers": 7296,
       "total_reach": 5898,
       "total_engagement": 480,
       "email_list_size": 1635,
