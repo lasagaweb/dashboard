@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-02-19T20:00:37.904590",
-  "days_to_show": 56,
+  "generated_at": "2026-02-20T01:00:00.000000",
+  "days_to_show": 57,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-02-18",
-    "followers": 3566,
+    "last_date": "2026-02-19",
+    "followers": 3570,
     "reach": 3319,
     "accounts_engaged": 314,
-    "period_posts": 2,
+    "period_posts": 3,
     "period_reach": 5239,
     "period_engagement": 644,
     "top_post": {
@@ -20,6 +20,11 @@
       {
         "date": "2026-02-18",
         "followers": 3566,
+        "reach": 3319
+      },
+      {
+        "date": "2026-02-19",
+        "followers": 3570,
         "reach": 3319
       }
     ],
@@ -529,7 +534,7 @@
     }
   ],
   "press": {
-    "total_contacts": 0,
+    "total_contacts": 10,
     "emails_sent": 0,
     "responses": 0,
     "coverage": 0,
