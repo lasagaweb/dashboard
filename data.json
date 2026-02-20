@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T23:41:11.965359",
+  "generated_at": "2026-02-19T23:46:53.875223",
   "days_to_show": 56,
   "period_days": 7,
   "instagram": {
@@ -583,14 +583,14 @@
         "response_time_avg_min": 0
       },
       "x": {
-        "comments_received": 0,
-        "comments_replied": 0,
+        "comments_received": 7,
+        "comments_replied": 6,
         "dms_received": 0,
         "dms_replied": 0,
-        "mentions_received": 0,
+        "mentions_received": 3,
         "mentions_replied": 0,
-        "likes_given": 0,
-        "response_time_avg_min": 0
+        "likes_given": 6,
+        "response_time_avg_min": 120
       },
       "youtube": {
         "comments_received": 0,
@@ -603,19 +603,91 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 28,
-    "total_replied": 13,
-    "response_rate": 46,
-    "total_likes": 12,
+    "total_received": 38,
+    "total_replied": 19,
+    "response_rate": 50,
+    "total_likes": 18,
     "trend": [
       {
         "date": "2026-02-20",
-        "received": 28,
-        "replied": 13
+        "received": 38,
+        "replied": 19
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-20",
+      "platform": "x",
+      "type": "opportunity",
+      "description": "Canciones pedidas para setlist: Peor es olvidar, Las historias del silencio, Podemos, Somos invisibles, Errante, Buscando Espacio, Suerte"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "x",
+      "type": "repost",
+      "description": "Metrónomo (@Metronomo_uy) y 2 más repostearon post #lasagavuelve"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "x",
+      "type": "repost",
+      "description": "MadeinUruguay (@araucaria1) reposteó el post del Short S2"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "x",
+      "type": "new_follower",
+      "description": "Radio Belcha (@RadioBelcha) nos siguió - medio de radio"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "x",
+      "type": "like",
+      "description": "Likeados 6 comentarios de fans en post de setlist"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "x",
+      "type": "reply",
+      "description": "Respondí a @NachoObes - Buen regreso"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "x",
+      "type": "reply",
+      "description": "Respondí a @AndresMdf182 pidiendo Suerte para el setlist"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "x",
+      "type": "reply",
+      "description": "Respondí a @Nando_008 pidiendo Buscando Espacio - le avisé que sale domingo en YT"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "x",
+      "type": "reply",
+      "description": "Respondí a @LORENARI1976 pidiendo Somos invisibles y Errante"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "x",
+      "type": "reply",
+      "description": "Respondí a @TortuBolso pidiendo Podemos para el setlist"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "x",
+      "type": "reply",
+      "description": "Respondí a @nicoanormal1 (NIKOVEUY) sobre el regreso"
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "x",
+      "type": "reply",
+      "description": "Respondí a @vendavalero pidiendo Peor es olvidar y Las historias del silencio para el setlist"
+    },
     {
       "date": "2026-02-20",
       "platform": "instagram",
@@ -633,67 +705,13 @@
       "platform": "instagram",
       "type": "like",
       "description": "Likeados 12 comentarios en reel Buscando Espacio (todos los pendientes)"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "instagram",
-      "type": "dm_reply",
-      "description": "Respondí DM a Alejandra Scampini pidiendo El perfume de tu cama"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "instagram",
-      "type": "dm_reply",
-      "description": "Respondí DM a @mathsorum sobre Suena Bien: Buena idea, lo tenemos en la mira"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Respondí a @elgabiboroni en reel Buscando Espacio"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Respondí a @tarres.sebastian: Tamo! Nos vemos en abril"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Respondí a @mapiet_2809 en reel Buscando Espacio"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Respondí a @adrianatorres176 en reel Buscando Espacio: Gracias por el aguante!"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "[lo que hiciste en YT]"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "x",
-      "type": "reply",
-      "description": "[lo que hiciste en X]"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "[lo que hiciste hoy en IG]"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 46%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 50%. Objetivo: >80%. Aumentar rondas de comunidad."
     },
     {
       "priority": "media",
@@ -742,8 +760,44 @@
     "total": 2
   },
   "upcoming": {
-    "items": [],
-    "source": "Dylan carga el plan los lunes y jueves"
+    "items": [
+      {
+        "date": "2026-02-19",
+        "platform": "instagram",
+        "type": "short",
+        "description": "S2 Libro de tablaturas (cross: IG + X + TikTok + YT Shorts)",
+        "status": "planned"
+      },
+      {
+        "date": "2026-02-21",
+        "platform": "instagram",
+        "type": "carousel",
+        "description": "Carrusel Buscando Espacio (concepto Memoria Imperfecta)",
+        "status": "planned"
+      },
+      {
+        "date": "2026-02-22",
+        "platform": "youtube",
+        "type": "full_song",
+        "description": "Buscando Espacio - canción completa (ya subida oculta, pasar a público)",
+        "status": "planned"
+      },
+      {
+        "date": "2026-02-24",
+        "platform": "instagram",
+        "type": "reel",
+        "description": "Estribillo Ya no saben qué decir (pedir frase a Nico)",
+        "status": "planned"
+      },
+      {
+        "date": "2026-02-26",
+        "platform": "instagram",
+        "type": "short",
+        "description": "S4 Pilsen Rock y Velódromo (cross: IG + X + TikTok + YT Shorts)",
+        "status": "planned"
+      }
+    ],
+    "source": "upcoming_content"
   },
   "financials": {
     "total_expenses": 0,
