@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T23:46:53.875223",
+  "generated_at": "2026-02-19T23:48:59.009138",
   "days_to_show": 56,
   "period_days": 7,
   "instagram": {
@@ -347,10 +347,10 @@
     "last_date": "2026-02-20",
     "monthly_listeners": 22095,
     "streams_28d": 100383,
-    "followers": 0,
+    "followers": 11267,
     "super_listeners": 422,
-    "saves": 0,
-    "playlist_adds": 0,
+    "saves": 936,
+    "playlist_adds": 938,
     "top_tracks": [
       {
         "name": "Color",
@@ -452,7 +452,7 @@
         "date": "2026-02-20",
         "listeners": 22095,
         "streams": 100383,
-        "followers": 0
+        "followers": 11267
       }
     ]
   },
