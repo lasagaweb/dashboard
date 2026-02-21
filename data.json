@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T11:01:09.576773",
+  "generated_at": "2026-02-21T12:00:10.310706",
   "days_to_show": 54,
   "period_days": 7,
   "instagram": {
@@ -54,29 +54,36 @@
     ]
   },
   "email": {
-    "last_date": "2026-02-20",
-    "total_subs": 1635,
-    "period_gained": 0,
-    "period_lost": 6,
+    "last_date": "2026-02-21",
+    "total_subs": 1663,
+    "period_gained": 28,
+    "period_lost": 9,
     "campaigns": [
+      {
+        "name": "Buscando Espacio - exclusivo lista del reencuentro",
+        "sent": 503,
+        "open_pct": 31.2,
+        "click_pct": 8.9,
+        "sent_at": "2026-02-20T17:33:54+00:00"
+      },
       {
         "name": "Bienvenida a la lista",
         "sent": 503,
-        "open_pct": 63.0,
+        "open_pct": 63.4,
         "click_pct": 22.5,
         "sent_at": "2026-02-13T12:21:59+00:00"
       }
     ],
     "last_campaign": {
-      "name": "Bienvenida a la lista",
+      "name": "Buscando Espacio - exclusivo lista del reencuentro",
       "sent": 503,
-      "open_pct": 63.0,
-      "click_pct": 22.5,
-      "sent_at": "2026-02-13T12:21:59+00:00"
+      "open_pct": 31.2,
+      "click_pct": 8.9,
+      "sent_at": "2026-02-20T17:33:54+00:00"
     },
-    "avg_open_pct": 63.0,
-    "avg_click_pct": 22.5,
-    "total_campaigns": 1,
+    "avg_open_pct": 47.3,
+    "avg_click_pct": 15.7,
+    "total_campaigns": 2,
     "trend": [
       {
         "date": "2026-02-18",
@@ -85,6 +92,10 @@
       {
         "date": "2026-02-20",
         "subs": 1635
+      },
+      {
+        "date": "2026-02-21",
+        "subs": 1663
       }
     ]
   },
@@ -867,7 +878,7 @@
   "platform_status": {
     "instagram": "2026-02-21T14:01:02.954942+00:00",
     "spotify": null,
-    "emailoctopus": "2026-02-20T15:00:06.614745+00:00",
+    "emailoctopus": "2026-02-21T15:00:07.375781+00:00",
     "twitter": null,
     "tiktok": null,
     "meta_ads": null,
