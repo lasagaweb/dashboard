@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-02-20T20:00:47.540998",
+  "generated_at": "2026-02-20T23:01:23.629566",
   "days_to_show": 55,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-02-20",
-    "followers": 3576,
-    "reach": 1882,
-    "accounts_engaged": 178,
+    "last_date": "2026-02-21",
+    "followers": 3645,
+    "reach": 7862,
+    "accounts_engaged": 307,
     "period_posts": 2,
-    "period_reach": 4515,
-    "period_engagement": 479,
+    "period_reach": 4806,
+    "period_engagement": 510,
     "top_post": {
       "date": "2026-02-17",
       "type": "reel",
       "caption": "\"Algunas canciones se hacen y después se buscan toda la vida\" \n\nEl primer show e",
-      "reach": 3477
+      "reach": 3601
     },
     "trend": [
       {
@@ -31,14 +31,19 @@
         "date": "2026-02-20",
         "followers": 3576,
         "reach": 1882
+      },
+      {
+        "date": "2026-02-21",
+        "followers": 3645,
+        "reach": 7862
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 3,
-        "avg_reach": 2451.0,
-        "avg_engagement": 295.0
+        "avg_reach": 2573.0,
+        "avg_engagement": 307.0
       }
     ]
   },
@@ -173,12 +178,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-01-21",
-        "views": 180,
-        "likes": 4,
-        "net_subs": 1
-      },
       {
         "date": "2026-01-22",
         "views": 196,
@@ -582,64 +581,7 @@
     "total_replied": 41,
     "response_rate": 64,
     "total_likes": 29,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "AM",
-        "received": 28,
-        "replied": 13,
-        "pending": 0
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 16,
-        "replied": 13,
-        "pending": 0
-      },
-      {
-        "platform": "tiktok",
-        "shift": "AM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "tiktok",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "x",
-        "shift": "AM",
-        "received": 10,
-        "replied": 6,
-        "pending": 0
-      },
-      {
-        "platform": "x",
-        "shift": "PM",
-        "received": 4,
-        "replied": 3,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 6,
-        "replied": 6,
-        "pending": 4
-      }
-    ],
+    "today_grid": [],
     "trend": [
       {
         "date": "2026-02-20",
@@ -883,7 +825,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-02-20T14:01:13.710515+00:00",
+    "instagram": "2026-02-21T02:01:19.246252+00:00",
     "spotify": null,
     "emailoctopus": "2026-02-20T15:00:06.614745+00:00",
     "twitter": null,
