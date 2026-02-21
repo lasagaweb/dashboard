@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T10:06:48.885966",
+  "generated_at": "2026-02-21T10:30:44.134211",
   "days_to_show": 54,
   "period_days": 7,
   "instagram": {
@@ -564,11 +564,11 @@
         "mentions_received": 4,
         "mentions_replied": 0,
         "likes_given": 9,
-        "response_time_avg_min": 60
+        "response_time_avg_min": 40
       },
       "youtube": {
-        "comments_received": 6,
-        "comments_replied": 6,
+        "comments_received": 569,
+        "comments_replied": 14,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -577,9 +577,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 75,
-    "total_replied": 52,
-    "response_rate": 69,
+    "total_received": 638,
+    "total_replied": 60,
+    "response_rate": 9,
     "total_likes": 31,
     "today_grid": [
       {
@@ -588,6 +588,20 @@
         "received": 11,
         "replied": 11,
         "pending": 1
+      },
+      {
+        "platform": "x",
+        "shift": "AM",
+        "received": 0,
+        "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 563,
+        "replied": 8,
+        "pending": 0
       }
     ],
     "trend": [
@@ -598,12 +612,18 @@
       },
       {
         "date": "2026-02-21",
-        "received": 11,
-        "replied": 11
+        "received": 574,
+        "replied": 19
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-21",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "8 comentarios respondidos via script (1 skipped). Temas: fans pidiendo vuelta, elogios, fan internacional."
+    },
     {
       "date": "2026-02-21",
       "platform": "instagram",
@@ -687,19 +707,13 @@
       "platform": "instagram",
       "type": "reply",
       "description": "Reel DU9IeskkUnQ (No nos acordamos): 8 replies a diegorz9, gabucha.03, pablotassani, drodedom, pepinset, beadiezdastoli, anabelpedreira, gonza__f, soulstone_69"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "x",
-      "type": "opportunity",
-      "description": "Canciones pedidas para setlist: Peor es olvidar, Las historias del silencio, Podemos, Somos invisibles, Errante, Buscando Espacio, Suerte"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 69%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 9%. Objetivo: >80%. Aumentar rondas de comunidad."
     },
     {
       "priority": "media",
