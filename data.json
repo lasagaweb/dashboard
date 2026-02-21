@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T23:01:23.629566",
-  "days_to_show": 55,
+  "generated_at": "2026-02-21T10:06:48.885966",
+  "days_to_show": 54,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-02-21",
@@ -87,11 +87,11 @@
     "subscribers": 3720,
     "total_views": 1543200,
     "videos_count": 38,
-    "period_views": 1679,
-    "period_likes": 36,
-    "period_shares": 18,
-    "period_watch_min": 3118.0,
-    "period_subs_net": 9,
+    "period_views": 1371,
+    "period_likes": 34,
+    "period_shares": 14,
+    "period_watch_min": 2265.0,
+    "period_subs_net": 7,
     "unreplied_comments": 100,
     "top_traffic_source": "PLAYLIST",
     "top_traffic_views": 5547,
@@ -414,7 +414,7 @@
         "listeners": 271
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -537,14 +537,14 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 38,
-        "comments_replied": 22,
-        "dms_received": 6,
-        "dms_replied": 4,
+        "comments_received": 48,
+        "comments_replied": 32,
+        "dms_received": 7,
+        "dms_replied": 5,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 14,
-        "response_time_avg_min": 15
+        "likes_given": 16,
+        "response_time_avg_min": 10
       },
       "tiktok": {
         "comments_received": 0,
@@ -577,20 +577,45 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 64,
-    "total_replied": 41,
-    "response_rate": 64,
-    "total_likes": 29,
-    "today_grid": [],
+    "total_received": 75,
+    "total_replied": 52,
+    "response_rate": 69,
+    "total_likes": 31,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 11,
+        "replied": 11,
+        "pending": 1
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-20",
         "received": 64,
         "replied": 41
+      },
+      {
+        "date": "2026-02-21",
+        "received": 11,
+        "replied": 11
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-21",
+      "platform": "instagram",
+      "type": "pending",
+      "description": "DM request Tania Acevedo fotógrafa quiere cubrir show - pendiente Nico"
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Respondidos 10 comentarios (2 post nuevo Buscando Espacio + 8 reel tablaturas) + 1 DM gissel"
+    },
     {
       "date": "2026-02-20",
       "platform": "youtube",
@@ -668,25 +693,13 @@
       "platform": "x",
       "type": "opportunity",
       "description": "Canciones pedidas para setlist: Peor es olvidar, Las historias del silencio, Podemos, Somos invisibles, Errante, Buscando Espacio, Suerte"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "x",
-      "type": "repost",
-      "description": "Metrónomo (@Metronomo_uy) y 2 más repostearon post #lasagavuelve"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "x",
-      "type": "repost",
-      "description": "MadeinUruguay (@araucaria1) reposteó el post del Short S2"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 64%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 69%. Objetivo: >80%. Aumentar rondas de comunidad."
     },
     {
       "priority": "media",
