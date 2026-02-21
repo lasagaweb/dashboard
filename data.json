@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-02-21T10:46:12.803259",
+  "generated_at": "2026-02-21T11:01:09.576773",
   "days_to_show": 54,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-02-21",
-    "followers": 3645,
-    "reach": 7862,
-    "accounts_engaged": 307,
-    "period_posts": 2,
-    "period_reach": 4806,
-    "period_engagement": 510,
+    "followers": 3683,
+    "reach": 9831,
+    "accounts_engaged": 352,
+    "period_posts": 3,
+    "period_reach": 5456,
+    "period_engagement": 678,
     "top_post": {
       "date": "2026-02-17",
       "type": "reel",
       "caption": "\"Algunas canciones se hacen y después se buscan toda la vida\" \n\nEl primer show e",
-      "reach": 3601
+      "reach": 3654
     },
     "trend": [
       {
@@ -34,16 +34,22 @@
       },
       {
         "date": "2026-02-21",
-        "followers": 3645,
-        "reach": 7862
+        "followers": 3683,
+        "reach": 9831
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 3,
-        "avg_reach": 2573.0,
-        "avg_engagement": 307.0
+        "avg_reach": 2632.0,
+        "avg_engagement": 316.0
+      },
+      {
+        "type": "carousel",
+        "posts": 1,
+        "avg_reach": 520.0,
+        "avg_engagement": 145.0
       }
     ]
   },
@@ -859,7 +865,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-02-21T02:01:19.246252+00:00",
+    "instagram": "2026-02-21T14:01:02.954942+00:00",
     "spotify": null,
     "emailoctopus": "2026-02-20T15:00:06.614745+00:00",
     "twitter": null,
