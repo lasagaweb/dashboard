@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T13:38:11.091872",
+  "generated_at": "2026-02-26T13:41:14.937695",
   "days_to_show": 49,
   "period_days": 7,
   "instagram": {
@@ -592,23 +592,23 @@
         "mentions_received": 4,
         "mentions_replied": 0,
         "likes_given": 9,
-        "response_time_avg_min": 30
+        "response_time_avg_min": 24
       },
       "youtube": {
-        "comments_received": 576,
+        "comments_received": 596,
         "comments_replied": 21,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 10,
+        "likes_given": 12,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 708,
+    "total_received": 728,
     "total_replied": 79,
     "response_rate": 11,
-    "total_likes": 52,
+    "total_likes": 54,
     "today_grid": [
       {
         "platform": "instagram",
@@ -639,10 +639,24 @@
         "pending": 0
       },
       {
+        "platform": "x",
+        "shift": "PM",
+        "received": 0,
+        "replied": 0,
+        "pending": 0
+      },
+      {
         "platform": "youtube",
         "shift": "AM",
         "received": 7,
         "replied": 7,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 20,
+        "replied": 0,
         "pending": 0
       }
     ],
@@ -659,12 +673,18 @@
       },
       {
         "date": "2026-02-26",
-        "received": 70,
+        "received": 90,
         "replied": 19
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-26",
+      "platform": "youtube",
+      "type": "heart",
+      "description": "Hearts a matiasretamozafontoura8289 y noeliamarrero7734"
+    },
     {
       "date": "2026-02-26",
       "platform": "instagram",
@@ -748,12 +768,6 @@
       "platform": "instagram",
       "type": "reply",
       "description": "Respondido soyceciliasoy en carrusel Buscando Espacio"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "@lauras.tovares9041: escuchando de nuevo en 2026"
     }
   ],
   "suggestions": [
