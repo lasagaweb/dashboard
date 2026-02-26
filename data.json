@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T13:46:00.301360",
+  "generated_at": "2026-02-26T17:30:57.799589",
   "days_to_show": 49,
   "period_days": 7,
   "instagram": {
@@ -595,8 +595,8 @@
         "response_time_avg_min": 24
       },
       "youtube": {
-        "comments_received": 596,
-        "comments_replied": 21,
+        "comments_received": 604,
+        "comments_replied": 28,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -605,9 +605,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 728,
-    "total_replied": 79,
-    "response_rate": 11,
+    "total_received": 736,
+    "total_replied": 86,
+    "response_rate": 12,
     "total_likes": 54,
     "today_grid": [
       {
@@ -665,6 +665,13 @@
         "received": 20,
         "replied": 0,
         "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM2",
+        "received": 8,
+        "replied": 7,
+        "pending": 0
       }
     ],
     "trend": [
@@ -680,12 +687,18 @@
       },
       {
         "date": "2026-02-26",
-        "received": 90,
-        "replied": 19
+        "received": 98,
+        "replied": 26
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-26",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "7 comentarios respondidos via API (GuitarClass10, joseestebanzeballos, thetacogaming, andreseduardo600, ghostzerosniper, veckemorales, FABRI19022). 1 skip (cumpleaños no relevante)."
+    },
     {
       "date": "2026-02-26",
       "platform": "youtube",
@@ -769,19 +782,13 @@
       "platform": "instagram",
       "type": "reply",
       "description": "Respondido antiguaantiguedades en carrusel Buscando Espacio"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Respondido soyceciliasoy en carrusel Buscando Espacio"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 11%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 12%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
