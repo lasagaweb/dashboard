@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T12:51:53.170334",
+  "generated_at": "2026-02-26T13:00:02.733340",
   "days_to_show": 49,
   "period_days": 7,
   "instagram": {
@@ -593,20 +593,20 @@
         "response_time_avg_min": 40
       },
       "youtube": {
-        "comments_received": 569,
-        "comments_replied": 14,
+        "comments_received": 574,
+        "comments_replied": 18,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 6,
+        "likes_given": 11,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 671,
-    "total_replied": 65,
+    "total_received": 676,
+    "total_replied": 69,
     "response_rate": 10,
-    "total_likes": 58,
+    "total_likes": 63,
     "today_grid": [
       {
         "platform": "instagram",
@@ -614,6 +614,13 @@
         "received": 33,
         "replied": 5,
         "pending": 1
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 5,
+        "replied": 4,
+        "pending": 0
       }
     ],
     "trend": [
@@ -629,12 +636,36 @@
       },
       {
         "date": "2026-02-26",
-        "received": 33,
-        "replied": 5
+        "received": 38,
+        "replied": 9
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-26",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "@lauras.tovares9041: escuchando de nuevo en 2026"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "@DiegoCalvete: pide Lo que viene después en acústico"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "@nachomasarino1748: fan emotivo, va al show en abril"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "@JuanDanielAcuñaBerny: problema YT Music mezclando artistas"
+    },
     {
       "date": "2026-02-26",
       "platform": "instagram",
@@ -700,30 +731,6 @@
       "platform": "youtube",
       "type": "reply",
       "description": "leabritos91: nos vemos en unas semanas"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "noeliamarrero7734: Feliz retorno"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "nataliagonzalez1995: me encanta que vuelvan"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Daamy222: Hermoso verlos volver"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "hongo-loco: Es muy bueno! Volverlos a escuchar"
     }
   ],
   "suggestions": [
