@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T13:15:49.821714",
+  "generated_at": "2026-02-26T13:24:39.782819",
   "days_to_show": 49,
   "period_days": 7,
   "instagram": {
@@ -565,13 +565,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 80,
+        "comments_received": 73,
         "comments_replied": 37,
-        "dms_received": 8,
-        "dms_replied": 5,
+        "dms_received": 10,
+        "dms_replied": 6,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 43,
+        "likes_given": 30,
         "response_time_avg_min": 8
       },
       "tiktok": {
@@ -605,17 +605,17 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 676,
-    "total_replied": 69,
+    "total_received": 671,
+    "total_replied": 70,
     "response_rate": 10,
-    "total_likes": 63,
+    "total_likes": 50,
     "today_grid": [
       {
         "platform": "instagram",
         "shift": "AM",
-        "received": 33,
-        "replied": 5,
-        "pending": 1
+        "received": 28,
+        "replied": 6,
+        "pending": 2
       },
       {
         "platform": "youtube",
@@ -638,12 +638,54 @@
       },
       {
         "date": "2026-02-26",
-        "received": 38,
-        "replied": 9
+        "received": 33,
+        "replied": 10
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "pending",
+      "description": "DM Tania Acevedo - fotógrafa show (requiere Nico)"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "pending",
+      "description": "DM Natalia Larrondo - admin grupo FB (requiere Nico)"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "DM Alejandra Scampini - respuesta casual"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Respondido maximiliano.dma en carrusel Buscando Espacio"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Respondido gabigomez_2106 en carrusel Buscando Espacio"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Respondido antiguaantiguedades en carrusel Buscando Espacio"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Respondido soyceciliasoy en carrusel Buscando Espacio"
+    },
     {
       "date": "2026-02-26",
       "platform": "youtube",
@@ -691,48 +733,6 @@
       "platform": "instagram",
       "type": "reply",
       "description": "Replied to gabigomez_2106 on Buscando Espacio (personal story 2005)"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Replied to ferchi_nando on Buscando Espacio carrusel (Punta Rock story)"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Replied to rubenaguilar1977 on La Saga Vuelve post (emotional about song)"
-    },
-    {
-      "date": "2026-02-21",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "8 comentarios respondidos via script (1 skipped). Temas: fans pidiendo vuelta, elogios, fan internacional."
-    },
-    {
-      "date": "2026-02-21",
-      "platform": "instagram",
-      "type": "pending",
-      "description": "DM request Tania Acevedo fotógrafa quiere cubrir show - pendiente Nico"
-    },
-    {
-      "date": "2026-02-21",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Respondidos 10 comentarios (2 post nuevo Buscando Espacio + 8 reel tablaturas) + 1 DM gissel"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "manuupa: cracks"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "leabritos91: nos vemos en unas semanas"
     }
   ],
   "suggestions": [
