@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T13:28:18.280156",
+  "generated_at": "2026-02-26T13:38:11.091872",
   "days_to_show": 49,
   "period_days": 7,
   "instagram": {
@@ -565,14 +565,14 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 73,
-        "comments_replied": 37,
+        "comments_received": 108,
+        "comments_replied": 43,
         "dms_received": 10,
         "dms_replied": 6,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 30,
-        "response_time_avg_min": 8
+        "likes_given": 33,
+        "response_time_avg_min": 6
       },
       "tiktok": {
         "comments_received": 0,
@@ -605,10 +605,10 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 673,
-    "total_replied": 73,
+    "total_received": 708,
+    "total_replied": 79,
     "response_rate": 11,
-    "total_likes": 49,
+    "total_likes": 52,
     "today_grid": [
       {
         "platform": "instagram",
@@ -616,6 +616,20 @@
         "received": 28,
         "replied": 6,
         "pending": 2
+      },
+      {
+        "platform": "instagram",
+        "shift": "PM",
+        "received": 35,
+        "replied": 6,
+        "pending": 2
+      },
+      {
+        "platform": "tiktok",
+        "shift": "AM",
+        "received": 0,
+        "replied": 0,
+        "pending": 0
       },
       {
         "platform": "x",
@@ -645,12 +659,48 @@
       },
       {
         "date": "2026-02-26",
-        "received": 35,
-        "replied": 13
+        "received": 70,
+        "replied": 19
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "like",
+      "description": "engranaje_uy: 🔥🔥 like"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "el_canta: El grito de león y Los Tipos"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "stevenazziclara: canciones que se meten en la piel"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "luli.mana_: Los Tipos en vivo es otra cosa"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "elcui81: Gracias por el aguante"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "nicolop_lpda: Gracias! Quedó lindo"
+    },
     {
       "date": "2026-02-26",
       "platform": "youtube",
@@ -704,42 +754,6 @@
       "platform": "youtube",
       "type": "reply",
       "description": "@lauras.tovares9041: escuchando de nuevo en 2026"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "@DiegoCalvete: pide Lo que viene después en acústico"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "@nachomasarino1748: fan emotivo, va al show en abril"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "@JuanDanielAcuñaBerny: problema YT Music mezclando artistas"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Replied to manelashiley on Buscando Espacio (grief/music connection)"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Replied to tute84 on Buscando Espacio (Argentine fan via Ares/Emule)"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Replied to el_canta on Buscando Espacio (son birth video with Grito de Leon)"
     }
   ],
   "suggestions": [
