@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-02-26T16:03:00.000000",
-  "days_to_show": 50,
+  "generated_at": "2026-02-26T13:06:11.703411",
+  "days_to_show": 49,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-02-26",
     "followers": 3976,
-    "reach": 4127,
-    "accounts_engaged": 84,
+    "reach": 4180,
+    "accounts_engaged": 86,
     "followers_prev": 3576,
     "followers_change": 400,
     "followers_pct": 11.2,
     "period_posts": 2,
     "period_reach": 3983,
-    "period_engagement": 685,
+    "period_engagement": 686,
     "top_post": {
       "date": "2026-02-21",
       "type": "carousel",
@@ -43,21 +43,21 @@
       {
         "date": "2026-02-26",
         "followers": 3976,
-        "reach": 4127
+        "reach": 4180
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 3,
-        "avg_reach": 3052.0,
+        "avg_reach": 3054.0,
         "avg_engagement": 360.0
       },
       {
         "type": "carousel",
         "posts": 1,
         "avg_reach": 2279.0,
-        "avg_engagement": 434.0
+        "avg_engagement": 435.0
       }
     ]
   },
@@ -738,19 +738,33 @@
       "priority": "alta",
       "area": "Comunidad",
       "text": "Tasa de respuesta en 10%. Objetivo: >80%. Aumentar rondas de comunidad."
-    },
-    {
-      "priority": "media",
-      "area": "Prensa",
-      "text": "Sin contactos de prensa registrados. Activar outreach (cron Prensa, martes)."
     }
   ],
   "press": {
-    "total_contacts": 19,
+    "total_contacts": 21,
     "emails_sent": 0,
     "responses": 0,
     "coverage": 0,
-    "recent_activity": [],
+    "recent_activity": [
+      {
+        "date": "2026-02-26",
+        "contact": "MasMusicas Uruguay",
+        "outlet": "MasMusicas",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
+      {
+        "date": "2026-02-26",
+        "contact": "Álvaro Carballo",
+        "outlet": "TNU - Historias Propias",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-26",
@@ -806,14 +820,32 @@
         "status": "identified",
         "contacted": "",
         "notes": "Festival municipal grande. Apuntar a edición 2027."
+      },
+      {
+        "name": "La Trastienda MVD",
+        "city": "Montevideo",
+        "capacity": 700,
+        "date_target": "2do sem 2026",
+        "status": "identified",
+        "contacted": "",
+        "notes": ""
+      },
+      {
+        "name": "Sala Zitarrosa",
+        "city": "Montevideo",
+        "capacity": 400,
+        "date_target": "2do sem 2026",
+        "status": "identified",
+        "contacted": "",
+        "notes": ""
       }
     ],
     "by_status": {
       "researched": 1,
       "confirmed": 1,
-      "identified": 3
+      "identified": 5
     },
-    "total": 5
+    "total": 7
   },
   "upcoming": {
     "items": [
@@ -914,7 +946,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-02-26T15:35:43.887109+00:00",
+    "instagram": "2026-02-26T16:06:07.322515+00:00",
     "spotify": null,
     "emailoctopus": "2026-02-26T15:36:01.042564+00:00",
     "twitter": null,
