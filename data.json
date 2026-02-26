@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T13:00:17.514328",
-  "days_to_show": 54,
+  "generated_at": "2026-02-26T12:33:41.000000",
+  "days_to_show": 50,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-02-21",
@@ -741,27 +741,32 @@
   ],
   "suggestions": [
     {
-      "priority": "alta",
-      "area": "Comunidad",
-      "text": "Tasa de respuesta en 9%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "priority": "critica",
+      "area": "Contenido",
+      "text": "Semana 2 atrasada: estribillo y carrusel 'Ya no saben qué decir' vencidos. 0 publicaciones esta semana."
     },
     {
-      "priority": "media",
+      "priority": "critica",
       "area": "Prensa",
-      "text": "Sin contactos de prensa registrados. Activar outreach (cron Prensa, martes)."
+      "text": "19 contactos, 0 emails enviados. A 50 días del show, cada semana sin prensa es oportunidad perdida."
     },
     {
       "priority": "alta",
       "area": "Booking",
-      "text": "Sala del Museo del Carnaval sigue en 'identified'. Contactar esta semana."
+      "text": "Sala del Museo (28/8) sin contactar. Enviar email esta semana."
     }
   ],
   "press": {
-    "total_contacts": 0,
+    "total_contacts": 19,
     "emails_sent": 0,
     "responses": 0,
     "coverage": 0,
-    "recent_activity": [],
+    "recent_activity": [
+      {
+        "date": "2026-02-26",
+        "action": "Base de 17 contactos armada. Nota lista. Pendiente OK de Nico para enviar."
+      }
+    ],
     "trend": []
   },
   "booking": {
@@ -769,7 +774,7 @@
       {
         "name": "Wannaclap",
         "city": "Montevideo",
-        "capacity": 0,
+        "capacity": 60,
         "date_target": "17 Abril 2026",
         "status": "confirmed",
         "contacted": null,
@@ -778,65 +783,91 @@
       {
         "name": "Sala del Museo del Carnaval",
         "city": "Montevideo",
+        "capacity": 1100,
+        "date_target": "Viernes 28 Agosto 2026",
+        "status": "researched",
+        "contacted": null,
+        "notes": "Contacto: contacto@museodelcarnaval.org. Pendiente email (requiere OK Nico)."
+      },
+      {
+        "name": "Cosquín Rock Uruguay 2027",
+        "city": "Montevideo",
         "capacity": 0,
-        "date_target": "Agosto/Septiembre 2026",
+        "date_target": "Marzo 2027",
         "status": "identified",
         "contacted": null,
-        "notes": "Show post-17A. Averiguar disponibilidad y condiciones."
+        "notes": "Edición 2026 cerrada. Target 2027."
+      },
+      {
+        "name": "Mercado Uruguay Musical",
+        "city": "Montevideo",
+        "capacity": 0,
+        "date_target": "2do sem 2026",
+        "status": "identified",
+        "contacted": null,
+        "notes": "Feria industria musical (Corchea.uy). Networking + showcase."
+      },
+      {
+        "name": "Festival de Durazno 2027",
+        "city": "Durazno",
+        "capacity": 20000,
+        "date_target": "Ene/Feb 2027",
+        "status": "identified",
+        "contacted": null,
+        "notes": "Festival municipal grande. Target 2027."
       }
     ],
     "by_status": {
       "confirmed": 1,
-      "identified": 1
+      "researched": 1,
+      "identified": 3
     },
-    "total": 2
+    "total": 5
   },
   "upcoming": {
     "items": [
       {
         "id": 1,
-        "date": "2026-02-19",
+        "date": "2026-02-24",
         "platform": "instagram",
-        "type": "short",
-        "description": "S2 Libro de tablaturas (cross: IG + X + TikTok + YT Shorts)",
-        "status": "published",
-        "platforms_done": [
-          "instagram"
-        ]
+        "type": "reel",
+        "description": "Estribillo Ya no saben qué decir",
+        "status": "overdue",
+        "platforms_done": []
       },
       {
         "id": 2,
-        "date": "2026-02-21",
+        "date": "2026-02-26",
         "platform": "instagram",
         "type": "carousel",
-        "description": "Carrusel Buscando Espacio (concepto Memoria Imperfecta)",
-        "status": "planned",
+        "description": "Carrusel Ya no saben qué decir",
+        "status": "overdue",
         "platforms_done": []
       },
       {
         "id": 3,
-        "date": "2026-02-22",
+        "date": "2026-03-01",
         "platform": "youtube",
         "type": "full_song",
-        "description": "Buscando Espacio - canción completa (ya subida oculta, pasar a público)",
+        "description": "Ya no saben qué decir — canción completa YouTube",
         "status": "planned",
         "platforms_done": []
       },
       {
         "id": 4,
-        "date": "2026-02-24",
+        "date": "2026-03-03",
         "platform": "instagram",
         "type": "reel",
-        "description": "Estribillo Ya no saben qué decir (pedir frase a Nico)",
+        "description": "Estribillo Ya no saben qué decir (2do)",
         "status": "planned",
         "platforms_done": []
       },
       {
         "id": 5,
-        "date": "2026-02-26",
+        "date": "2026-03-05",
         "platform": "instagram",
         "type": "short",
-        "description": "S4 Pilsen Rock y Velódromo (cross: IG + X + TikTok + YT Shorts)",
+        "description": "S4 Pilsen Rock y Velódromo",
         "status": "planned",
         "platforms_done": []
       }
