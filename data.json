@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T12:39:22.910041",
+  "generated_at": "2026-02-26T12:41:25.585043",
   "days_to_show": 49,
   "period_days": 7,
   "instagram": {
@@ -519,7 +519,7 @@
     ]
   },
   "tiktok": {
-    "last_date": "2026-02-20",
+    "last_date": "2026-02-26",
     "followers": 2,
     "likes_total": 1,
     "followers_prev": 2,
@@ -536,8 +536,8 @@
       },
       {
         "post_id": "7580842031635778872",
-        "date": "2026-02-18",
-        "description": "COMUNICADO DE LA GERENCIA: Quiero - La Saga",
+        "date": "2025-12-06",
+        "description": "[Video corto - atardecer/playa]",
         "views": 89,
         "likes": 1,
         "shares": 0,
@@ -552,6 +552,10 @@
       },
       {
         "date": "2026-02-20",
+        "followers": 2
+      },
+      {
+        "date": "2026-02-26",
         "followers": 2
       }
     ]
