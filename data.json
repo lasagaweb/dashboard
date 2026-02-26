@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T12:36:30.158901",
+  "generated_at": "2026-02-26T12:39:22.910041",
   "days_to_show": 49,
   "period_days": 7,
   "instagram": {
@@ -447,7 +447,7 @@
     ]
   },
   "x": {
-    "last_date": "2026-02-20",
+    "last_date": "2026-02-26",
     "followers": 1367,
     "following": 469,
     "followers_prev": 1364,
@@ -510,6 +510,10 @@
       },
       {
         "date": "2026-02-20",
+        "followers": 1367
+      },
+      {
+        "date": "2026-02-26",
         "followers": 1367
       }
     ]
