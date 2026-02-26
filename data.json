@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T12:41:25.585043",
+  "generated_at": "2026-02-26T12:51:53.170334",
   "days_to_show": 49,
   "period_days": 7,
   "instagram": {
@@ -563,14 +563,14 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 48,
-        "comments_replied": 32,
-        "dms_received": 7,
+        "comments_received": 80,
+        "comments_replied": 37,
+        "dms_received": 8,
         "dms_replied": 5,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 16,
-        "response_time_avg_min": 10
+        "likes_given": 43,
+        "response_time_avg_min": 8
       },
       "tiktok": {
         "comments_received": 0,
@@ -603,11 +603,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 638,
-    "total_replied": 60,
-    "response_rate": 9,
-    "total_likes": 31,
-    "today_grid": [],
+    "total_received": 671,
+    "total_replied": 65,
+    "response_rate": 10,
+    "total_likes": 58,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 33,
+        "replied": 5,
+        "pending": 1
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-20",
@@ -618,10 +626,51 @@
         "date": "2026-02-21",
         "received": 574,
         "replied": 19
+      },
+      {
+        "date": "2026-02-26",
+        "received": 33,
+        "replied": 5
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Replied to manelashiley on Buscando Espacio (grief/music connection)"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Replied to tute84 on Buscando Espacio (Argentine fan via Ares/Emule)"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Replied to el_canta on Buscando Espacio (son birth video with Grito de Leon)"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Replied to gabigomez_2106 on Buscando Espacio (personal story 2005)"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Replied to ferchi_nando on Buscando Espacio carrusel (Punta Rock story)"
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Replied to rubenaguilar1977 on La Saga Vuelve post (emotional about song)"
+    },
     {
       "date": "2026-02-21",
       "platform": "youtube",
@@ -675,49 +724,13 @@
       "platform": "youtube",
       "type": "reply",
       "description": "hongo-loco: Es muy bueno! Volverlos a escuchar"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @TortuBolso, @Amaral_1806 (imagen playlist), @Amaral_1806 (disco nuevo en vivo)"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respondido a @TortuBolso: Ahí nos vemos! Se viene con todo en abril"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "instagram",
-      "type": "dm_reply",
-      "description": "DM Sofia Zapata (sofiabzapata): Gracias por tanto, reply con agradecimiento"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "instagram",
-      "type": "dm_reply",
-      "description": "DM Romii Guerrero (_lic_7): respondio a historia, reply con agradecimiento"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Reel DU3HZ8FEhi7 (Algunas canciones): 3 replies a monoraffo, karem_dayan, torito_manija"
-    },
-    {
-      "date": "2026-02-20",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Reel DU9IeskkUnQ (No nos acordamos): 8 replies a diegorz9, gabucha.03, pablotassani, drodedom, pepinset, beadiezdastoli, anabelpedreira, gonza__f, soulstone_69"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 9%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 10%. Objetivo: >80%. Aumentar rondas de comunidad."
     },
     {
       "priority": "media",
