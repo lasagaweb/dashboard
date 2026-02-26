@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T13:44:23.583457",
+  "generated_at": "2026-02-26T13:46:00.301360",
   "days_to_show": 49,
   "period_days": 7,
   "instagram": {
@@ -937,6 +937,60 @@
         "platform": "instagram",
         "type": "short",
         "description": "S4 Pilsen Rock y Velódromo (cross: IG + X + TikTok + YT Shorts)",
+        "status": "planned",
+        "platforms_done": []
+      },
+      {
+        "id": 6,
+        "date": "2026-02-26",
+        "platform": "instagram",
+        "type": "carousel",
+        "description": "Carrusel Ya no saben qué decir - pendiente aprobación Nico",
+        "status": "planned",
+        "platforms_done": []
+      },
+      {
+        "id": 7,
+        "date": "2026-03-01",
+        "platform": "youtube",
+        "type": "video",
+        "description": "Ya no saben qué decir - canción completa",
+        "status": "planned",
+        "platforms_done": []
+      },
+      {
+        "id": 8,
+        "date": "2026-03-03",
+        "platform": "instagram",
+        "type": "reel",
+        "description": "Estribillo Ya no saben qué decir",
+        "status": "planned",
+        "platforms_done": []
+      },
+      {
+        "id": 9,
+        "date": "2026-03-05",
+        "platform": "instagram",
+        "type": "reel",
+        "description": "S4 Pilsen Rock / Velódromo",
+        "status": "planned",
+        "platforms_done": []
+      },
+      {
+        "id": 10,
+        "date": "2026-03-07",
+        "platform": "instagram",
+        "type": "carousel",
+        "description": "Carrusel Errante",
+        "status": "planned",
+        "platforms_done": []
+      },
+      {
+        "id": 11,
+        "date": "2026-03-08",
+        "platform": "youtube",
+        "type": "video",
+        "description": "Errante - canción completa",
         "status": "planned",
         "platforms_done": []
       }
