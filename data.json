@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T17:15:56.768655",
+  "generated_at": "2026-02-27T17:31:03.712219",
   "days_to_show": 48,
   "period_days": 7,
   "instagram": {
@@ -644,8 +644,8 @@
         "response_time_avg_min": 20
       },
       "youtube": {
-        "comments_received": 614,
-        "comments_replied": 37,
+        "comments_received": 621,
+        "comments_replied": 43,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -654,9 +654,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 762,
-    "total_replied": 110,
-    "response_rate": 14,
+    "total_received": 769,
+    "total_replied": 116,
+    "response_rate": 15,
     "total_likes": 55,
     "today_grid": [
       {
@@ -693,6 +693,13 @@
         "received": 10,
         "replied": 9,
         "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 7,
+        "replied": 6,
+        "pending": 0
       }
     ],
     "trend": [
@@ -713,12 +720,18 @@
       },
       {
         "date": "2026-02-27",
-        "received": 26,
-        "replied": 24
+        "received": 33,
+        "replied": 30
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-27",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "PM: 6 replies via script (joseesteban, thetaco, andreseduardo, ghostzero, veckemorales, FABRI19022). 1 skip (cumpleaños)."
+    },
     {
       "date": "2026-02-27",
       "platform": "instagram",
@@ -802,19 +815,13 @@
       "platform": "instagram",
       "type": "pending",
       "description": "DM Natalia Larrondo - admin grupo FB (requiere Nico)"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "DM Alejandra Scampini - respuesta casual"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 14%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 15%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
