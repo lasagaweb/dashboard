@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T17:45:39.656896",
+  "generated_at": "2026-02-27T20:00:41.640426",
   "days_to_show": 48,
   "period_days": 7,
   "instagram": {
@@ -143,7 +143,7 @@
     "period_shares": 0,
     "period_watch_min": 0.0,
     "period_subs_net": 0,
-    "unreplied_comments": 115,
+    "unreplied_comments": 0,
     "top_traffic_source": "PLAYLIST",
     "top_traffic_views": 5608,
     "traffic_sources": [
@@ -854,6 +854,15 @@
         "response": 0,
         "published": 0,
         "url": ""
+      },
+      {
+        "date": "2026-02-26",
+        "contact": "Federico",
+        "outlet": "Cooltivarte",
+        "sent": 1,
+        "response": 1,
+        "published": 1,
+        "url": null
       }
     ],
     "trend": [
@@ -946,7 +955,7 @@
         "platform": "instagram",
         "type": "carousel",
         "description": "Carrusel Buscando Espacio (concepto Memoria Imperfecta)",
-        "status": "planned",
+        "status": "published",
         "platforms_done": []
       },
       {
@@ -955,7 +964,7 @@
         "platform": "youtube",
         "type": "full_song",
         "description": "Buscando Espacio - canción completa (ya subida oculta, pasar a público)",
-        "status": "planned",
+        "status": "published",
         "platforms_done": []
       },
       {
@@ -964,7 +973,7 @@
         "platform": "instagram",
         "type": "reel",
         "description": "Estribillo Ya no saben qué decir (pedir frase a Nico)",
-        "status": "planned",
+        "status": "published",
         "platforms_done": []
       },
       {
@@ -973,7 +982,7 @@
         "platform": "instagram",
         "type": "short",
         "description": "S4 Pilsen Rock y Velódromo (cross: IG + X + TikTok + YT Shorts)",
-        "status": "planned",
+        "status": "published",
         "platforms_done": []
       },
       {
@@ -982,7 +991,7 @@
         "platform": "instagram",
         "type": "carousel",
         "description": "Carrusel Ya no saben qué decir - pendiente aprobación Nico",
-        "status": "planned",
+        "status": "published",
         "platforms_done": []
       },
       {
@@ -1076,6 +1085,14 @@
       "total_reach": 3983,
       "total_engagement": 686,
       "email_list_size": 1663,
+      "tickets_sold_total": 0
+    },
+    {
+      "date": "2026-02-27",
+      "total_followers": 19045,
+      "total_reach": 3514,
+      "total_engagement": 642,
+      "email_list_size": 1715,
       "tickets_sold_total": 0
     }
   ],
