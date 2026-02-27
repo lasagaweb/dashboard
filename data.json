@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T23:01:19.561160",
-  "days_to_show": 49,
+  "generated_at": "2026-02-27T10:16:35.829194",
+  "days_to_show": 48,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-02-27",
@@ -10,9 +10,9 @@
     "followers_prev": 3576,
     "followers_change": 423,
     "followers_pct": 11.8,
-    "period_posts": 3,
-    "period_reach": 4846,
-    "period_engagement": 848,
+    "period_posts": 2,
+    "period_reach": 3116,
+    "period_engagement": 597,
     "top_post": {
       "date": "2026-02-21",
       "type": "carousel",
@@ -360,11 +360,11 @@
     "super_listeners": 435,
     "saves": 936,
     "playlist_adds": 973,
-    "listeners_prev": 21909,
-    "listeners_change": 801,
-    "listeners_pct": 3.7,
-    "streams_prev": 100745,
-    "streams_change": -1961,
+    "listeners_prev": 22018,
+    "listeners_change": 692,
+    "listeners_pct": 3.1,
+    "streams_prev": 99935,
+    "streams_change": -1151,
     "top_tracks": [
       {
         "name": "Color",
@@ -425,7 +425,7 @@
         "listeners": 429
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -451,7 +451,7 @@
     "last_date": "2026-02-26",
     "followers": 1367,
     "following": 469,
-    "followers_prev": 1364,
+    "followers_prev": 1367,
     "top_posts": [
       {
         "post_id": "2024536551791759399",
@@ -564,14 +564,14 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 108,
-        "comments_replied": 43,
-        "dms_received": 10,
-        "dms_replied": 6,
+        "comments_received": 121,
+        "comments_replied": 56,
+        "dms_received": 11,
+        "dms_replied": 7,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 33,
-        "response_time_avg_min": 6
+        "likes_given": 34,
+        "response_time_avg_min": 5
       },
       "tiktok": {
         "comments_received": 0,
@@ -604,11 +604,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 736,
-    "total_replied": 86,
-    "response_rate": 12,
-    "total_likes": 54,
-    "today_grid": [],
+    "total_received": 750,
+    "total_replied": 100,
+    "response_rate": 13,
+    "total_likes": 55,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 14,
+        "replied": 14,
+        "pending": 0
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-20",
@@ -624,10 +632,21 @@
         "date": "2026-02-26",
         "received": 98,
         "replied": 26
+      },
+      {
+        "date": "2026-02-27",
+        "received": 14,
+        "replied": 14
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-27",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "9 replies on DVPP4JIFNAm (Ya no saben que decir), 4 replies on DVBT724Dvmz (Buscando Espacio carrusel), 1 DM reply to gissile03 about abril date"
+    },
     {
       "date": "2026-02-26",
       "platform": "youtube",
@@ -711,19 +730,13 @@
       "platform": "instagram",
       "type": "reply",
       "description": "Respondido gabigomez_2106 en carrusel Buscando Espacio"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Respondido antiguaantiguedades en carrusel Buscando Espacio"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 12%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 13%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
