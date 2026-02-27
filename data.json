@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T12:00:11.101459",
+  "generated_at": "2026-02-27T15:01:18.057326",
   "days_to_show": 48,
   "period_days": 7,
   "instagram": {
@@ -531,14 +531,14 @@
     ]
   },
   "tiktok": {
-    "last_date": "2026-02-26",
+    "last_date": "2026-02-27",
     "followers": 2,
     "likes_total": 1,
     "followers_prev": 2,
     "top_posts": [
       {
         "post_id": "7577916687123631416",
-        "date": "2025-11-28",
+        "date": "2025-12-02",
         "description": "COMUNICADO URGENTE - De dónde querés venir mañana",
         "views": 105,
         "likes": 0,
@@ -568,6 +568,10 @@
       },
       {
         "date": "2026-02-26",
+        "followers": 2
+      },
+      {
+        "date": "2026-02-27",
         "followers": 2
       }
     ]
