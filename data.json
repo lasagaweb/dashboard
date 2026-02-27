@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T16:33:03.697035",
+  "generated_at": "2026-02-27T17:04:43.984819",
   "days_to_show": 48,
   "period_days": 7,
   "instagram": {
@@ -616,12 +616,12 @@
       "instagram": {
         "comments_received": 121,
         "comments_replied": 56,
-        "dms_received": 11,
-        "dms_replied": 7,
+        "dms_received": 13,
+        "dms_replied": 8,
         "mentions_received": 0,
         "mentions_replied": 0,
         "likes_given": 34,
-        "response_time_avg_min": 5
+        "response_time_avg_min": 4
       },
       "tiktok": {
         "comments_received": 0,
@@ -654,8 +654,8 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 760,
-    "total_replied": 109,
+    "total_received": 762,
+    "total_replied": 110,
     "response_rate": 14,
     "total_likes": 55,
     "today_grid": [
@@ -664,6 +664,13 @@
         "shift": "AM",
         "received": 14,
         "replied": 14,
+        "pending": 0
+      },
+      {
+        "platform": "instagram",
+        "shift": "PM",
+        "received": 2,
+        "replied": 1,
         "pending": 0
       },
       {
@@ -699,12 +706,18 @@
       },
       {
         "date": "2026-02-27",
-        "received": 24,
-        "replied": 23
+        "received": 26,
+        "replied": 24
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-27",
+      "platform": "instagram",
+      "type": "dm_reply",
+      "description": "gissile03: respondido sobre fecha de abril y cumple de su viejo"
+    },
     {
       "date": "2026-02-27",
       "platform": "youtube",
@@ -788,12 +801,6 @@
       "platform": "instagram",
       "type": "reply",
       "description": "DM Alejandra Scampini - respuesta casual"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Respondido maximiliano.dma en carrusel Buscando Espacio"
     }
   ],
   "suggestions": [
