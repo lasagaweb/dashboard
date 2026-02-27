@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-02-26T22:00:00-03:00",
-  "days_to_show": 50,
+  "generated_at": "2026-02-26T23:01:19.561160",
+  "days_to_show": 49,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-02-26",
-    "followers": 3976,
-    "reach": 4180,
-    "accounts_engaged": 86,
+    "last_date": "2026-02-27",
+    "followers": 3999,
+    "reach": 6938,
+    "accounts_engaged": 260,
     "followers_prev": 3576,
-    "followers_change": 400,
-    "followers_pct": 11.2,
-    "period_posts": 2,
-    "period_reach": 3983,
-    "period_engagement": 686,
+    "followers_change": 423,
+    "followers_pct": 11.8,
+    "period_posts": 3,
+    "period_reach": 4846,
+    "period_engagement": 848,
     "top_post": {
       "date": "2026-02-21",
       "type": "carousel",
       "caption": "¿Te acordás de aquel millón de abrazos?\nNosotros sí. Por eso volvimos.\n\n«Buscand",
-      "reach": 2279
+      "reach": 2291
     },
     "trend": [
       {
@@ -44,20 +44,25 @@
         "date": "2026-02-26",
         "followers": 3976,
         "reach": 4180
+      },
+      {
+        "date": "2026-02-27",
+        "followers": 3999,
+        "reach": 6938
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 3,
-        "avg_reach": 3054.0,
-        "avg_engagement": 360.0
+        "avg_reach": 3078.0,
+        "avg_engagement": 362.0
       },
       {
         "type": "carousel",
-        "posts": 1,
-        "avg_reach": 2279.0,
-        "avg_engagement": 435.0
+        "posts": 2,
+        "avg_reach": 1558.0,
+        "avg_engagement": 299.0
       }
     ]
   },
@@ -213,12 +218,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-01-27",
-        "views": 178,
-        "likes": 6,
-        "net_subs": 1
-      },
       {
         "date": "2026-01-28",
         "views": 209,
@@ -609,71 +608,7 @@
     "total_replied": 86,
     "response_rate": 12,
     "total_likes": 54,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "AM",
-        "received": 28,
-        "replied": 6,
-        "pending": 2
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 35,
-        "replied": 6,
-        "pending": 2
-      },
-      {
-        "platform": "tiktok",
-        "shift": "AM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "tiktok",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "x",
-        "shift": "AM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "x",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 7,
-        "replied": 7,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 20,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM2",
-        "received": 8,
-        "replied": 7,
-        "pending": 0
-      }
-    ],
+    "today_grid": [],
     "trend": [
       {
         "date": "2026-02-20",
@@ -901,17 +836,6 @@
   "upcoming": {
     "items": [
       {
-        "id": 1,
-        "date": "2026-02-19",
-        "platform": "instagram",
-        "type": "short",
-        "description": "S2 Libro de tablaturas (cross: IG + X + TikTok + YT Shorts)",
-        "status": "published",
-        "platforms_done": [
-          "instagram"
-        ]
-      },
-      {
         "id": 2,
         "date": "2026-02-21",
         "platform": "instagram",
@@ -1051,7 +975,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-02-26T16:06:07.322515+00:00",
+    "instagram": "2026-02-27T02:01:13.980150+00:00",
     "spotify": null,
     "emailoctopus": "2026-02-26T16:06:23.216728+00:00",
     "twitter": null,
