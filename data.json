@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T17:04:43.984819",
+  "generated_at": "2026-02-27T17:15:56.768655",
   "days_to_show": 48,
   "period_days": 7,
   "instagram": {
@@ -641,7 +641,7 @@
         "mentions_received": 4,
         "mentions_replied": 0,
         "likes_given": 9,
-        "response_time_avg_min": 24
+        "response_time_avg_min": 20
       },
       "youtube": {
         "comments_received": 614,
@@ -676,6 +676,13 @@
       {
         "platform": "tiktok",
         "shift": "AM",
+        "received": 0,
+        "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "x",
+        "shift": "PM",
         "received": 0,
         "replied": 0,
         "pending": 0
