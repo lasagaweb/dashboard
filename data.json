@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T10:16:35.829194",
+  "generated_at": "2026-02-27T10:31:19.558569",
   "days_to_show": 48,
   "period_days": 7,
   "instagram": {
@@ -594,8 +594,8 @@
         "response_time_avg_min": 24
       },
       "youtube": {
-        "comments_received": 604,
-        "comments_replied": 28,
+        "comments_received": 614,
+        "comments_replied": 37,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -604,9 +604,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 750,
-    "total_replied": 100,
-    "response_rate": 13,
+    "total_received": 760,
+    "total_replied": 109,
+    "response_rate": 14,
     "total_likes": 55,
     "today_grid": [
       {
@@ -614,6 +614,13 @@
         "shift": "AM",
         "received": 14,
         "replied": 14,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 10,
+        "replied": 9,
         "pending": 0
       }
     ],
@@ -635,12 +642,18 @@
       },
       {
         "date": "2026-02-27",
-        "received": 14,
-        "replied": 14
+        "received": 24,
+        "replied": 23
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-27",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "9 replies a comentarios nuevos (fans, elogios, preguntas). 1 skip (off-topic cumpleaños). Script automático."
+    },
     {
       "date": "2026-02-27",
       "platform": "instagram",
@@ -724,19 +737,13 @@
       "platform": "instagram",
       "type": "reply",
       "description": "Respondido maximiliano.dma en carrusel Buscando Espacio"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Respondido gabigomez_2106 en carrusel Buscando Espacio"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 13%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 14%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
