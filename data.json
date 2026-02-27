@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T11:01:07.974188",
+  "generated_at": "2026-02-27T12:00:11.101459",
   "days_to_show": 48,
   "period_days": 7,
   "instagram": {
@@ -67,39 +67,46 @@
     ]
   },
   "email": {
-    "last_date": "2026-02-26",
-    "total_subs": 1663,
+    "last_date": "2026-02-27",
+    "total_subs": 1715,
     "subs_prev": 1635,
-    "subs_change": 28,
-    "subs_pct": 1.7,
-    "period_gained": 28,
-    "period_lost": 9,
+    "subs_change": 80,
+    "subs_pct": 4.9,
+    "period_gained": 80,
+    "period_lost": 12,
     "campaigns": [
+      {
+        "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
+        "sent": 583,
+        "open_pct": 11.0,
+        "click_pct": 2.2,
+        "sent_at": "2026-02-27T14:05:14+00:00"
+      },
       {
         "name": "Buscando Espacio - exclusivo lista del reencuentro",
         "sent": 503,
-        "open_pct": 45.9,
+        "open_pct": 47.5,
         "click_pct": 11.1,
         "sent_at": "2026-02-20T17:33:54+00:00"
       },
       {
         "name": "Bienvenida a la lista",
         "sent": 503,
-        "open_pct": 64.6,
+        "open_pct": 64.8,
         "click_pct": 22.7,
         "sent_at": "2026-02-13T12:21:59+00:00"
       }
     ],
     "last_campaign": {
-      "name": "Buscando Espacio - exclusivo lista del reencuentro",
-      "sent": 503,
-      "open_pct": 45.9,
-      "click_pct": 11.1,
-      "sent_at": "2026-02-20T17:33:54+00:00"
+      "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
+      "sent": 583,
+      "open_pct": 11.0,
+      "click_pct": 2.2,
+      "sent_at": "2026-02-27T14:05:14+00:00"
     },
-    "avg_open_pct": 55.3,
-    "avg_click_pct": 16.9,
-    "total_campaigns": 2,
+    "avg_open_pct": 41.1,
+    "avg_click_pct": 12.0,
+    "total_campaigns": 3,
     "trend": [
       {
         "date": "2026-02-18",
@@ -116,6 +123,10 @@
       {
         "date": "2026-02-26",
         "subs": 1663
+      },
+      {
+        "date": "2026-02-27",
+        "subs": 1715
       }
     ]
   },
@@ -1004,7 +1015,7 @@
   "platform_status": {
     "instagram": "2026-02-27T14:01:02.980951+00:00",
     "spotify": null,
-    "emailoctopus": "2026-02-26T16:06:23.216728+00:00",
+    "emailoctopus": "2026-02-27T15:00:07.233278+00:00",
     "twitter": null,
     "tiktok": null,
     "meta_ads": null,
