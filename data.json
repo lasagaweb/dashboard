@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T12:00:12.855697",
+  "generated_at": "2026-02-28T13:00:21.963643",
   "days_to_show": 47,
   "period_days": 7,
   "instagram": {
@@ -142,7 +142,7 @@
   "youtube": {
     "last_date": "2026-02-28",
     "subscribers": 3760,
-    "total_views": 1548049,
+    "total_views": 1549570,
     "videos_count": 40,
     "subs_prev": 3740,
     "subs_change": 20,
@@ -152,7 +152,7 @@
     "period_shares": 11,
     "period_watch_min": 3617.0,
     "period_subs_net": 22,
-    "unreplied_comments": 19,
+    "unreplied_comments": 20,
     "top_traffic_source": "PLAYLIST",
     "top_traffic_views": 5743,
     "traffic_sources": [
@@ -212,13 +212,13 @@
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 499202,
+        "views": 499209,
         "likes": 2229,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 465878,
+        "views": 465881,
         "likes": 2324,
         "type": "Video"
       },
@@ -236,7 +236,7 @@
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 106499,
+        "views": 106502,
         "likes": 867,
         "type": "Video"
       }
@@ -1146,6 +1146,6 @@
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-02-28T14:35:41.144015+00:00"
+    "youtube": "2026-02-28T16:00:18.880585+00:00"
   }
 }
