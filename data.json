@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T10:30:31.616287",
+  "generated_at": "2026-02-28T10:46:24.384984",
   "days_to_show": 47,
   "period_days": 7,
   "instagram": {
@@ -670,6 +670,13 @@
         "pending": 0
       },
       {
+        "platform": "tiktok",
+        "shift": "AM",
+        "received": 0,
+        "replied": 0,
+        "pending": 0
+      },
+      {
         "platform": "x",
         "shift": "AM",
         "received": 2,
@@ -713,6 +720,12 @@
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-28",
+      "platform": "",
+      "type": "community_log",
+      "description": ""
+    },
     {
       "date": "2026-02-28",
       "platform": "youtube",
@@ -796,12 +809,6 @@
       "platform": "instagram",
       "type": "reply",
       "description": "stevenazziclara: canciones que se meten en la piel"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "luli.mana_: Los Tipos en vivo es otra cosa"
     }
   ],
   "suggestions": [
