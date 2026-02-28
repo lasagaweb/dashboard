@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T11:00:56.976084",
+  "generated_at": "2026-02-28T12:00:12.855697",
   "days_to_show": 47,
   "period_days": 7,
   "instagram": {
@@ -83,8 +83,8 @@
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
         "sent": 583,
-        "open_pct": 28.3,
-        "click_pct": 5.5,
+        "open_pct": 28.6,
+        "click_pct": 5.7,
         "sent_at": "2026-02-27T14:05:14+00:00"
       },
       {
@@ -105,11 +105,11 @@
     "last_campaign": {
       "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
       "sent": 583,
-      "open_pct": 28.3,
-      "click_pct": 5.5,
+      "open_pct": 28.6,
+      "click_pct": 5.7,
       "sent_at": "2026-02-27T14:05:14+00:00"
     },
-    "avg_open_pct": 46.9,
+    "avg_open_pct": 47.0,
     "avg_click_pct": 13.2,
     "total_campaigns": 3,
     "trend": [
@@ -140,100 +140,104 @@
     ]
   },
   "youtube": {
-    "last_date": "2026-02-21",
-    "subscribers": 3740,
-    "total_views": 1545227,
+    "last_date": "2026-02-28",
+    "subscribers": 3760,
+    "total_views": 1548049,
     "videos_count": 40,
     "subs_prev": 3740,
-    "subs_change": 0,
-    "subs_pct": 0.0,
-    "period_views": 0,
-    "period_likes": 0,
-    "period_shares": 0,
-    "period_watch_min": 0.0,
-    "period_subs_net": 0,
-    "unreplied_comments": 0,
+    "subs_change": 20,
+    "subs_pct": 0.5,
+    "period_views": 2573,
+    "period_likes": 64,
+    "period_shares": 11,
+    "period_watch_min": 3617.0,
+    "period_subs_net": 22,
+    "unreplied_comments": 19,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 2801,
+    "top_traffic_views": 5743,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
-        "views": 8348
+        "views": 11290
       },
       {
         "source": "YT_SEARCH",
-        "views": 2808
-      },
-      {
-        "source": "SUBSCRIBER",
-        "views": 2426
+        "views": 3789
       },
       {
         "source": "SHORTS",
-        "views": 1256
+        "views": 3744
+      },
+      {
+        "source": "SUBSCRIBER",
+        "views": 3307
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 1101
+        "views": 1455
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 636
+        "views": 964
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 554
+        "views": 805
       },
       {
         "source": "EXT_URL",
-        "views": 520
+        "views": 802
       },
       {
         "source": "YT_CHANNEL",
-        "views": 420
+        "views": 689
       },
       {
         "source": "NOTIFICATION",
-        "views": 109
+        "views": 206
       },
       {
         "source": "SHORTS_CONTENT_LINKS",
-        "views": 6
+        "views": 8
       },
       {
         "source": "END_SCREEN",
-        "views": 5
+        "views": 8
+      },
+      {
+        "source": "SOUND_PAGE",
+        "views": 3
       }
     ],
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 498779,
-        "likes": 2221,
+        "views": 499202,
+        "likes": 2229,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 465414,
-        "likes": 2321,
+        "views": 465878,
+        "likes": 2324,
         "type": "Video"
       },
       {
         "title": "\"Errante\" (La Saga - \"INTIMO\")",
-        "views": 161464,
-        "likes": 696,
+        "views": 161622,
+        "likes": 695,
         "type": "Video"
       },
       {
         "title": "La Saga - Yo te quiero (Video Oficial)",
-        "views": 115988,
+        "views": 116054,
         "likes": 689,
         "type": "Video"
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 106349,
-        "likes": 866,
+        "views": 106499,
+        "likes": 867,
         "type": "Video"
       }
     ],
@@ -360,9 +364,51 @@
       },
       {
         "date": "2026-02-18",
-        "views": 392,
+        "views": 391,
         "likes": 12,
         "net_subs": 1
+      },
+      {
+        "date": "2026-02-19",
+        "views": 579,
+        "likes": 10,
+        "net_subs": 1
+      },
+      {
+        "date": "2026-02-20",
+        "views": 624,
+        "likes": 31,
+        "net_subs": 9
+      },
+      {
+        "date": "2026-02-21",
+        "views": 1672,
+        "likes": 45,
+        "net_subs": 12
+      },
+      {
+        "date": "2026-02-22",
+        "views": 192,
+        "likes": 8,
+        "net_subs": 5
+      },
+      {
+        "date": "2026-02-23",
+        "views": 252,
+        "likes": 4,
+        "net_subs": 2
+      },
+      {
+        "date": "2026-02-24",
+        "views": 280,
+        "likes": 3,
+        "net_subs": 1
+      },
+      {
+        "date": "2026-02-25",
+        "views": 177,
+        "likes": 4,
+        "net_subs": 2
       }
     ]
   },
@@ -1094,12 +1140,12 @@
   "platform_status": {
     "instagram": "2026-02-28T14:00:50.307633+00:00",
     "spotify": null,
-    "emailoctopus": "2026-02-28T11:38:18.142427+00:00",
+    "emailoctopus": "2026-02-28T15:00:08.962259+00:00",
     "twitter": null,
     "tiktok": null,
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-02-21T16:00:14.562768+00:00"
+    "youtube": "2026-02-28T14:35:41.144015+00:00"
   }
 }
