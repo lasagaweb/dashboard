@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T10:16:08.282396",
+  "generated_at": "2026-02-28T10:30:31.616287",
   "days_to_show": 47,
   "period_days": 7,
   "instagram": {
@@ -647,20 +647,20 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 615,
-        "comments_replied": 37,
+        "comments_received": 622,
+        "comments_replied": 43,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 6,
+        "likes_given": 12,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 711,
-    "total_replied": 79,
-    "response_rate": 11,
-    "total_likes": 28,
+    "total_received": 718,
+    "total_replied": 85,
+    "response_rate": 12,
+    "total_likes": 34,
     "today_grid": [
       {
         "platform": "instagram",
@@ -674,6 +674,13 @@
         "shift": "AM",
         "received": 2,
         "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 7,
+        "replied": 6,
         "pending": 0
       }
     ],
@@ -700,12 +707,18 @@
       },
       {
         "date": "2026-02-28",
-        "received": 6,
-        "replied": 4
+        "received": 13,
+        "replied": 10
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-28",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "AM shift: 6 replies to new comments, 1 skipped (irrelevant birthday msg)"
+    },
     {
       "date": "2026-02-28",
       "platform": "instagram",
@@ -789,19 +802,13 @@
       "platform": "instagram",
       "type": "reply",
       "description": "luli.mana_: Los Tipos en vivo es otra cosa"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "elcui81: Gracias por el aguante"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 11%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 12%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
