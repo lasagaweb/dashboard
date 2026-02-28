@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T13:00:21.963643",
+  "generated_at": "2026-02-28T17:48:27.062136",
   "days_to_show": 47,
   "period_days": 7,
   "instagram": {
@@ -543,7 +543,7 @@
     ]
   },
   "x": {
-    "last_date": "2026-02-26",
+    "last_date": "2026-02-28",
     "followers": 1367,
     "following": 469,
     "followers_prev": 1367,
@@ -569,6 +569,16 @@
         "replies": 0
       },
       {
+        "post_id": "2027443387947688068",
+        "date": "2026-02-27",
+        "text": "Ya no saben que decir — tema de Buitres, grabado por La Saga. Parece despedida p",
+        "impressions": 297,
+        "likes": 6,
+        "retweets": 1,
+        "bookmarks": 0,
+        "replies": 0
+      },
+      {
         "post_id": "1077578455066333185",
         "date": "2018-12-25",
         "text": "Esta navidad es una navidad diferente para nosotros. Luego de agradecer la salud",
@@ -587,16 +597,6 @@
         "retweets": 1,
         "bookmarks": 0,
         "replies": 0
-      },
-      {
-        "post_id": "2024191756430884898",
-        "date": "2026-02-18",
-        "text": "#lasagavuelve",
-        "impressions": 186,
-        "likes": 3,
-        "retweets": 1,
-        "bookmarks": 17,
-        "replies": 1
       }
     ],
     "trend": [
@@ -610,6 +610,10 @@
       },
       {
         "date": "2026-02-26",
+        "followers": 1367
+      },
+      {
+        "date": "2026-02-28",
         "followers": 1367
       }
     ]
