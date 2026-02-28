@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T08:40:44.724280",
+  "generated_at": "2026-02-28T10:05:12.170437",
   "days_to_show": 47,
   "period_days": 7,
   "instagram": {
@@ -617,13 +617,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 83,
-        "comments_replied": 34,
+        "comments_received": 87,
+        "comments_replied": 38,
         "dms_received": 7,
         "dms_replied": 4,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 20,
+        "likes_given": 22,
         "response_time_avg_min": 0
       },
       "tiktok": {
@@ -657,11 +657,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 705,
-    "total_replied": 75,
+    "total_received": 709,
+    "total_replied": 79,
     "response_rate": 11,
-    "total_likes": 26,
-    "today_grid": [],
+    "total_likes": 28,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 4,
+        "replied": 4,
+        "pending": 0
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-20",
@@ -682,10 +690,39 @@
         "date": "2026-02-27",
         "received": 33,
         "replied": 30
+      },
+      {
+        "date": "2026-02-28",
+        "received": 4,
+        "replied": 4
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-28",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "canchelooscar en DVBT724Dvmz: gran banda hermano → Gracias hermano! Nos vemos en abril 🙌🔥"
+    },
+    {
+      "date": "2026-02-28",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "elcui81 en DVBT724Dvmz: tema lo acompaño en momentos difíciles → Que lindo que la música haya sido compañía ❤️🎶"
+    },
+    {
+      "date": "2026-02-28",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "far__adar en DVRfCkWE00F: recordatorio buenos momentos → Esos buenos momentos vuelven en abril 🎶🙌"
+    },
+    {
+      "date": "2026-02-28",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "mariamorales_76 en DVRfCkWE00F: emojis amor → Gracias por el cariño 🔥🎸"
+    },
     {
       "date": "2026-02-27",
       "platform": "youtube",
@@ -751,30 +788,6 @@
       "platform": "instagram",
       "type": "reply",
       "description": "elcui81: Gracias por el aguante"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "nicolop_lpda: Gracias! Quedó lindo"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Ronda AM: 7 comentarios en Buscando Espacio acustico, todos ya respondidos previamente. Corazones dados a liliancapurro, UnTalDiego1, LeoxFer, hongo-loco. 0 pendientes en todo el canal."
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "instagram",
-      "type": "pending",
-      "description": "DM Tania Acevedo - fotógrafa show (requiere Nico)"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "instagram",
-      "type": "pending",
-      "description": "DM Natalia Larrondo - admin grupo FB (requiere Nico)"
     }
   ],
   "suggestions": [
