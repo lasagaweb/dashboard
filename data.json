@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-02-28T10:46:24.384984",
+  "generated_at": "2026-02-28T11:00:56.976084",
   "days_to_show": 47,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-02-28",
-    "followers": 4052,
-    "reach": 5362,
-    "accounts_engaged": 234,
+    "followers": 4053,
+    "reach": 5555,
+    "accounts_engaged": 250,
     "followers_prev": 3683,
-    "followers_change": 369,
+    "followers_change": 370,
     "followers_pct": 10.0,
     "period_posts": 3,
-    "period_reach": 5027,
-    "period_engagement": 779,
+    "period_reach": 5103,
+    "period_engagement": 808,
     "top_post": {
       "date": "2026-02-21",
       "type": "carousel",
@@ -52,8 +52,8 @@
       },
       {
         "date": "2026-02-28",
-        "followers": 4052,
-        "reach": 5362
+        "followers": 4053,
+        "reach": 5555
       }
     ],
     "post_types": [
@@ -61,13 +61,13 @@
         "type": "reel",
         "posts": 3,
         "avg_reach": 3114.0,
-        "avg_engagement": 365.0
+        "avg_engagement": 369.0
       },
       {
         "type": "carousel",
         "posts": 3,
-        "avg_reach": 1676.0,
-        "avg_engagement": 260.0
+        "avg_reach": 1701.0,
+        "avg_engagement": 269.0
       }
     ]
   },
@@ -1092,7 +1092,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-02-28T11:40:08.260777+00:00",
+    "instagram": "2026-02-28T14:00:50.307633+00:00",
     "spotify": null,
     "emailoctopus": "2026-02-28T11:38:18.142427+00:00",
     "twitter": null,
