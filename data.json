@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T17:58:13.734137",
+  "generated_at": "2026-02-28T18:01:10.564325",
   "days_to_show": 47,
   "period_days": 7,
   "instagram": {
@@ -701,20 +701,20 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 622,
-        "comments_replied": 43,
+        "comments_received": 630,
+        "comments_replied": 50,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 12,
+        "likes_given": 13,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 721,
-    "total_replied": 88,
-    "response_rate": 12,
-    "total_likes": 36,
+    "total_received": 729,
+    "total_replied": 95,
+    "response_rate": 13,
+    "total_likes": 37,
     "today_grid": [
       {
         "platform": "instagram",
@@ -757,6 +757,13 @@
         "received": 7,
         "replied": 6,
         "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 8,
+        "replied": 7,
+        "pending": 0
       }
     ],
     "trend": [
@@ -782,12 +789,18 @@
       },
       {
         "date": "2026-02-28",
-        "received": 16,
-        "replied": 13
+        "received": 24,
+        "replied": 20
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-28",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "PM: 7 replies via script (FabianRamos, joseestebanzeballos, thetacogaming, andreseduardo600, ghostzerosniper, veckemorales, FABRI19022). 1 skipped (birthday msg). 1 heart given (nachomassinacho). 4 hearts pending (browser crash)."
+    },
     {
       "date": "2026-02-28",
       "platform": "instagram",
@@ -871,19 +884,13 @@
       "platform": "instagram",
       "type": "reply",
       "description": "9 replies on DVPP4JIFNAm (Ya no saben que decir), 4 replies on DVBT724Dvmz (Buscando Espacio carrusel), 1 DM reply to gissile03 about abril date"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "7 comentarios respondidos via API (GuitarClass10, joseestebanzeballos, thetacogaming, andreseduardo600, ghostzerosniper, veckemorales, FABRI19022). 1 skip (cumpleaños no relevante)."
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 12%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 13%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
