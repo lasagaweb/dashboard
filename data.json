@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T17:50:58.301953",
+  "generated_at": "2026-02-28T17:57:00.301681",
   "days_to_show": 47,
   "period_days": 7,
   "instagram": {
@@ -671,13 +671,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 87,
-        "comments_replied": 38,
-        "dms_received": 7,
-        "dms_replied": 4,
+        "comments_received": 89,
+        "comments_replied": 40,
+        "dms_received": 8,
+        "dms_replied": 5,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 22,
+        "likes_given": 24,
         "response_time_avg_min": 0
       },
       "tiktok": {
@@ -711,16 +711,23 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 718,
-    "total_replied": 85,
+    "total_received": 721,
+    "total_replied": 88,
     "response_rate": 12,
-    "total_likes": 34,
+    "total_likes": 36,
     "today_grid": [
       {
         "platform": "instagram",
         "shift": "AM",
         "received": 4,
         "replied": 4,
+        "pending": 0
+      },
+      {
+        "platform": "instagram",
+        "shift": "PM",
+        "received": 3,
+        "replied": 3,
         "pending": 0
       },
       {
@@ -768,12 +775,36 @@
       },
       {
         "date": "2026-02-28",
-        "received": 13,
-        "replied": 10
+        "received": 16,
+        "replied": 13
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-02-28",
+      "platform": "instagram",
+      "type": "like",
+      "description": "Likes a comentarios de mariamorales_76 y far__adar en post carrusel"
+    },
+    {
+      "date": "2026-02-28",
+      "platform": "instagram",
+      "type": "dm",
+      "description": "Carinna (story reaction 🙌): respondido con 🙌🔥"
+    },
+    {
+      "date": "2026-02-28",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "@gissile03 en post Ya no saben qué decir (carousel): La ecuación perfecta"
+    },
+    {
+      "date": "2026-02-28",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "@totefernandez_ en post Ya no saben qué decir (carousel): Con tutti y a todo volumen"
+    },
     {
       "date": "2026-02-28",
       "platform": "",
@@ -839,30 +870,6 @@
       "platform": "youtube",
       "type": "reply",
       "description": "7 comentarios respondidos via API (GuitarClass10, joseestebanzeballos, thetacogaming, andreseduardo600, ghostzerosniper, veckemorales, FABRI19022). 1 skip (cumpleaños no relevante)."
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "youtube",
-      "type": "heart",
-      "description": "Hearts a matiasretamozafontoura8289 y noeliamarrero7734"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "instagram",
-      "type": "like",
-      "description": "engranaje_uy: 🔥🔥 like"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "el_canta: El grito de león y Los Tipos"
-    },
-    {
-      "date": "2026-02-26",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "stevenazziclara: canciones que se meten en la piel"
     }
   ],
   "suggestions": [
