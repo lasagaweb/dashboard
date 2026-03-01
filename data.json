@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T22:08:20.016250",
-  "days_to_show": 47,
+  "generated_at": "2026-03-01T10:05:35.875233",
+  "days_to_show": 46,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-02-28",
@@ -10,14 +10,14 @@
     "followers_prev": 3683,
     "followers_change": 370,
     "followers_pct": 10.0,
-    "period_posts": 3,
-    "period_reach": 5103,
-    "period_engagement": 808,
+    "period_posts": 2,
+    "period_reach": 2768,
+    "period_engagement": 335,
     "top_post": {
-      "date": "2026-02-21",
+      "date": "2026-02-26",
       "type": "carousel",
-      "caption": "¿Te acordás de aquel millón de abrazos?\nNosotros sí. Por eso volvimos.\n\n«Buscand",
-      "reach": 2335
+      "caption": "Dejo tras de mí un mar de penas para ti… ese es el camino cuando quieras regresa",
+      "reach": 1450
     },
     "trend": [
       {
@@ -77,8 +77,8 @@
     "subs_prev": 1663,
     "subs_change": 52,
     "subs_pct": 3.1,
-    "period_gained": 80,
-    "period_lost": 12,
+    "period_gained": 52,
+    "period_lost": 9,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -147,14 +147,14 @@
     "subs_prev": 3740,
     "subs_change": 20,
     "subs_pct": 0.5,
-    "period_views": 2573,
-    "period_likes": 64,
-    "period_shares": 11,
-    "period_watch_min": 3617.0,
-    "period_subs_net": 22,
+    "period_views": 901,
+    "period_likes": 19,
+    "period_shares": 8,
+    "period_watch_min": 2433.0,
+    "period_subs_net": 10,
     "unreplied_comments": 20,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 5743,
+    "top_traffic_views": 2942,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
@@ -242,12 +242,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-01-29",
-        "views": 218,
-        "likes": 3,
-        "net_subs": 0
-      },
       {
         "date": "2026-01-30",
         "views": 275,
@@ -413,27 +407,132 @@
     ]
   },
   "spotify": {
-    "last_date": "2026-02-28",
-    "monthly_listeners": 22648,
-    "monthly_listeners_change_pct": 11.3,
-    "streams_28d": 98863,
-    "streams_change_pct": 7.9,
-    "active_listeners": 6378,
-    "new_active_listeners": 1310,
-    "super_listeners": 438,
-    "listening_now": 14,
-    "top_songs_7d": [
+    "last_date": "2026-02-27",
+    "monthly_listeners": 22597,
+    "streams_28d": 98231,
+    "followers": 11297,
+    "super_listeners": 433,
+    "saves": 922,
+    "playlist_adds": 978,
+    "listeners_prev": 22018,
+    "listeners_change": 579,
+    "listeners_pct": 2.6,
+    "streams_prev": 99935,
+    "streams_change": -1704,
+    "top_tracks": [
       {
         "name": "Color",
-        "streams": 4677
+        "streams": 4386,
+        "listeners": 0,
+        "saves": 0
       },
       {
         "name": "Once",
-        "streams": 3875
+        "streams": 3886,
+        "listeners": 0,
+        "saves": 0
       },
       {
         "name": "Ir",
-        "streams": 2900
+        "streams": 2929,
+        "listeners": 0,
+        "saves": 0
+      }
+    ],
+    "demographics": [
+      {
+        "dim": "age",
+        "value": "35-44",
+        "pct": 37.0
+      },
+      {
+        "dim": "age",
+        "value": "25-34",
+        "pct": 32.0
+      },
+      {
+        "dim": "age",
+        "value": "45-54",
+        "pct": 18.0
+      },
+      {
+        "dim": "age",
+        "value": "18-24",
+        "pct": 6.0
+      },
+      {
+        "dim": "age",
+        "value": "<18",
+        "pct": 0.0
+      },
+      {
+        "dim": "gender",
+        "value": "male",
+        "pct": 63.0
+      },
+      {
+        "dim": "gender",
+        "value": "female",
+        "pct": 33.0
+      },
+      {
+        "dim": "gender",
+        "value": "not_specified",
+        "pct": 3.0
+      },
+      {
+        "dim": "gender",
+        "value": "non-binary",
+        "pct": 1.0
+      }
+    ],
+    "locations": [
+      {
+        "name": "Uruguay",
+        "listeners": 14990
+      },
+      {
+        "name": "Argentina",
+        "listeners": 5064
+      },
+      {
+        "name": "Spain",
+        "listeners": 723
+      },
+      {
+        "name": "Mexico",
+        "listeners": 428
+      },
+      {
+        "name": "Brazil",
+        "listeners": 248
+      }
+    ],
+    "days_since_collection": 2,
+    "trend": [
+      {
+        "date": "2026-02-18",
+        "listeners": 21909,
+        "streams": 100745,
+        "followers": 11261
+      },
+      {
+        "date": "2026-02-20",
+        "listeners": 22018,
+        "streams": 99935,
+        "followers": 11268
+      },
+      {
+        "date": "2026-02-26",
+        "listeners": 22710,
+        "streams": 98784,
+        "followers": 11000
+      },
+      {
+        "date": "2026-02-27",
+        "listeners": 22597,
+        "streams": 98231,
+        "followers": 11297
       }
     ]
   },
@@ -566,13 +665,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 89,
-        "comments_replied": 40,
+        "comments_received": 101,
+        "comments_replied": 32,
         "dms_received": 8,
         "dms_replied": 5,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 24,
+        "likes_given": 22,
         "response_time_avg_min": 0
       },
       "tiktok": {
@@ -596,8 +695,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 630,
-        "comments_replied": 50,
+        "comments_received": 67,
+        "comments_replied": 42,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -606,65 +705,16 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 729,
-    "total_replied": 95,
-    "response_rate": 13,
-    "total_likes": 37,
+    "total_received": 178,
+    "total_replied": 79,
+    "response_rate": 44,
+    "total_likes": 35,
     "today_grid": [
       {
         "platform": "instagram",
         "shift": "AM",
-        "received": 4,
-        "replied": 4,
-        "pending": 0
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 3,
+        "received": 23,
         "replied": 3,
-        "pending": 0
-      },
-      {
-        "platform": "tiktok",
-        "shift": "AM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "tiktok",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "x",
-        "shift": "AM",
-        "received": 2,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "x",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 7,
-        "replied": 6,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 8,
-        "replied": 7,
         "pending": 0
       }
     ],
@@ -693,10 +743,33 @@
         "date": "2026-02-28",
         "received": 24,
         "replied": 20
+      },
+      {
+        "date": "2026-03-01",
+        "received": 23,
+        "replied": 3
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-01",
+      "platform": "instagram",
+      "type": "dm_reply",
+      "description": "DM request aceptado y respondido a Claudio Barea con link Lista del Reencuentro"
+    },
+    {
+      "date": "2026-03-01",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Respondido deboolivera en post Buscando Espacio"
+    },
+    {
+      "date": "2026-03-01",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Respondido manelashiley en post Buscando Espacio"
+    },
     {
       "date": "2026-02-28",
       "platform": "youtube",
@@ -768,31 +841,13 @@
       "platform": "youtube",
       "type": "reply",
       "description": "PM: 6 replies via script (joseesteban, thetaco, andreseduardo, ghostzero, veckemorales, FABRI19022). 1 skip (cumpleaños)."
-    },
-    {
-      "date": "2026-02-27",
-      "platform": "instagram",
-      "type": "dm_reply",
-      "description": "gissile03: respondido sobre fecha de abril y cumple de su viejo"
-    },
-    {
-      "date": "2026-02-27",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "9 replies a comentarios nuevos (fans, elogios, preguntas). 1 skip (off-topic cumpleaños). Script automático."
-    },
-    {
-      "date": "2026-02-27",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "9 replies on DVPP4JIFNAm (Ya no saben que decir), 4 replies on DVBT724Dvmz (Buscando Espacio carrusel), 1 DM reply to gissile03 about abril date"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 13%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 44%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
@@ -913,15 +968,6 @@
   },
   "upcoming": {
     "items": [
-      {
-        "id": 2,
-        "date": "2026-02-21",
-        "platform": "instagram",
-        "type": "carousel",
-        "description": "Carrusel Buscando Espacio (concepto Memoria Imperfecta)",
-        "status": "published",
-        "platforms_done": []
-      },
       {
         "id": 3,
         "date": "2026-02-22",
