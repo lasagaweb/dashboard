@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T14:01:59.997592",
+  "generated_at": "2026-03-01T15:00:45.627855",
   "days_to_show": 46,
   "period_days": 7,
   "instagram": {
@@ -632,7 +632,7 @@
     ]
   },
   "tiktok": {
-    "last_date": "2026-02-28",
+    "last_date": "2026-03-01",
     "followers": 2,
     "likes_total": 1,
     "followers_prev": 2,
@@ -640,7 +640,7 @@
       {
         "post_id": "7577916687123631416",
         "date": "2025-11-28",
-        "description": "COMUNICADO URGENTE - De dónde querés venir mañana #lasagavuelve #rockuruguayo",
+        "description": "COMUNICADO URGENTE - De dónde querés venir mañana",
         "views": 105,
         "likes": 0,
         "shares": 0,
@@ -650,7 +650,7 @@
       {
         "post_id": "7580842031635778872",
         "date": "2025-12-06",
-        "description": "COMUNICADO DE LA GERENCIA - Quiero la saga, La Saga Vuelve",
+        "description": "COMUNICADO DE LA GERENCIA: EL HORIZONTE SE MUEVE OTRA VEZ - Quiero",
         "views": 89,
         "likes": 1,
         "shares": 0,
@@ -677,6 +677,10 @@
       },
       {
         "date": "2026-02-28",
+        "followers": 2
+      },
+      {
+        "date": "2026-03-01",
         "followers": 2
       }
     ]
