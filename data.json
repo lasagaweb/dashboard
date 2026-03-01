@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T10:05:35.875233",
+  "generated_at": "2026-03-01T10:30:31.223383",
   "days_to_show": 46,
   "period_days": 7,
   "instagram": {
@@ -695,8 +695,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 67,
-        "comments_replied": 42,
+        "comments_received": 73,
+        "comments_replied": 47,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -705,9 +705,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 178,
-    "total_replied": 79,
-    "response_rate": 44,
+    "total_received": 184,
+    "total_replied": 84,
+    "response_rate": 46,
     "total_likes": 35,
     "today_grid": [
       {
@@ -715,6 +715,13 @@
         "shift": "AM",
         "received": 23,
         "replied": 3,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 6,
+        "replied": 5,
         "pending": 0
       }
     ],
@@ -746,12 +753,18 @@
       },
       {
         "date": "2026-03-01",
-        "received": 23,
-        "replied": 3
+        "received": 29,
+        "replied": 8
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-01",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Ronda AM: 5 replies a comentarios nuevos, 1 skip (cumpleaños no relevante)"
+    },
     {
       "date": "2026-03-01",
       "platform": "instagram",
@@ -835,19 +848,13 @@
       "platform": "instagram",
       "type": "reply",
       "description": "mariamorales_76 en DVRfCkWE00F: emojis amor → Gracias por el cariño 🔥🎸"
-    },
-    {
-      "date": "2026-02-27",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "PM: 6 replies via script (joseesteban, thetaco, andreseduardo, ghostzero, veckemorales, FABRI19022). 1 skip (cumpleaños)."
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 44%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 46%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
