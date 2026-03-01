@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T18:04:01.673787",
+  "generated_at": "2026-02-28T22:08:20.016250",
   "days_to_show": 47,
   "period_days": 7,
   "instagram": {
@@ -413,132 +413,27 @@
     ]
   },
   "spotify": {
-    "last_date": "2026-02-27",
-    "monthly_listeners": 22597,
-    "streams_28d": 98231,
-    "followers": 11297,
-    "super_listeners": 433,
-    "saves": 922,
-    "playlist_adds": 978,
-    "listeners_prev": 22018,
-    "listeners_change": 579,
-    "listeners_pct": 2.6,
-    "streams_prev": 99935,
-    "streams_change": -1704,
-    "top_tracks": [
+    "last_date": "2026-02-28",
+    "monthly_listeners": 22648,
+    "monthly_listeners_change_pct": 11.3,
+    "streams_28d": 98863,
+    "streams_change_pct": 7.9,
+    "active_listeners": 6378,
+    "new_active_listeners": 1310,
+    "super_listeners": 438,
+    "listening_now": 14,
+    "top_songs_7d": [
       {
         "name": "Color",
-        "streams": 4386,
-        "listeners": 0,
-        "saves": 0
+        "streams": 4677
       },
       {
         "name": "Once",
-        "streams": 3886,
-        "listeners": 0,
-        "saves": 0
+        "streams": 3875
       },
       {
         "name": "Ir",
-        "streams": 2929,
-        "listeners": 0,
-        "saves": 0
-      }
-    ],
-    "demographics": [
-      {
-        "dim": "age",
-        "value": "35-44",
-        "pct": 37.0
-      },
-      {
-        "dim": "age",
-        "value": "25-34",
-        "pct": 32.0
-      },
-      {
-        "dim": "age",
-        "value": "45-54",
-        "pct": 18.0
-      },
-      {
-        "dim": "age",
-        "value": "18-24",
-        "pct": 6.0
-      },
-      {
-        "dim": "age",
-        "value": "<18",
-        "pct": 0.0
-      },
-      {
-        "dim": "gender",
-        "value": "male",
-        "pct": 63.0
-      },
-      {
-        "dim": "gender",
-        "value": "female",
-        "pct": 33.0
-      },
-      {
-        "dim": "gender",
-        "value": "not_specified",
-        "pct": 3.0
-      },
-      {
-        "dim": "gender",
-        "value": "non-binary",
-        "pct": 1.0
-      }
-    ],
-    "locations": [
-      {
-        "name": "Uruguay",
-        "listeners": 14990
-      },
-      {
-        "name": "Argentina",
-        "listeners": 5064
-      },
-      {
-        "name": "Spain",
-        "listeners": 723
-      },
-      {
-        "name": "Mexico",
-        "listeners": 428
-      },
-      {
-        "name": "Brazil",
-        "listeners": 248
-      }
-    ],
-    "days_since_collection": 1,
-    "trend": [
-      {
-        "date": "2026-02-18",
-        "listeners": 21909,
-        "streams": 100745,
-        "followers": 11261
-      },
-      {
-        "date": "2026-02-20",
-        "listeners": 22018,
-        "streams": 99935,
-        "followers": 11268
-      },
-      {
-        "date": "2026-02-26",
-        "listeners": 22710,
-        "streams": 98784,
-        "followers": 11000
-      },
-      {
-        "date": "2026-02-27",
-        "listeners": 22597,
-        "streams": 98231,
-        "followers": 11297
+        "streams": 2900
       }
     ]
   },
