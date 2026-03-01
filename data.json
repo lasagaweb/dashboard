@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T17:15:47.286443",
+  "generated_at": "2026-03-01T17:31:00.048407",
   "days_to_show": 46,
   "period_days": 7,
   "instagram": {
@@ -734,8 +734,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 73,
-        "comments_replied": 47,
+        "comments_received": 79,
+        "comments_replied": 51,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -744,8 +744,8 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 184,
-    "total_replied": 84,
+    "total_received": 190,
+    "total_replied": 88,
     "response_rate": 46,
     "total_likes": 35,
     "today_grid": [
@@ -783,6 +783,13 @@
         "received": 6,
         "replied": 5,
         "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 6,
+        "replied": 4,
+        "pending": 0
       }
     ],
     "trend": [
@@ -813,12 +820,18 @@
       },
       {
         "date": "2026-03-01",
-        "received": 29,
-        "replied": 8
+        "received": 35,
+        "replied": 12
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-01",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "PM: Respondidos 4 comentarios en YouTube (Max Samson, ghostzero, veckemorales lyrics, FABRI19022 uruguayan music). Omitidos: cumpleaños y troll."
+    },
     {
       "date": "2026-03-01",
       "platform": "instagram",
@@ -902,12 +915,6 @@
       "platform": "instagram",
       "type": "reply",
       "description": "elcui81 en DVBT724Dvmz: tema lo acompaño en momentos difíciles → Que lindo que la música haya sido compañía ❤️🎶"
-    },
-    {
-      "date": "2026-02-28",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "far__adar en DVRfCkWE00F: recordatorio buenos momentos → Esos buenos momentos vuelven en abril 🎶🙌"
     }
   ],
   "suggestions": [
