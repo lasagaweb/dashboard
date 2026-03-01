@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T17:02:04.809674",
+  "generated_at": "2026-03-01T17:15:47.286443",
   "days_to_show": 46,
   "period_days": 7,
   "instagram": {
@@ -766,6 +766,13 @@
       {
         "platform": "tiktok",
         "shift": "AM",
+        "received": 0,
+        "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "x",
+        "shift": "PM",
         "received": 0,
         "replied": 0,
         "pending": 0
