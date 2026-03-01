@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T15:00:45.627855",
+  "generated_at": "2026-03-01T16:03:12.241388",
   "days_to_show": 46,
   "period_days": 7,
   "instagram": {
@@ -422,18 +422,18 @@
     ]
   },
   "spotify": {
-    "last_date": "2026-02-27",
-    "monthly_listeners": 22597,
-    "streams_28d": 98231,
-    "followers": 11297,
-    "super_listeners": 433,
-    "saves": 922,
-    "playlist_adds": 978,
+    "last_date": "2026-03-01",
+    "monthly_listeners": 22661,
+    "streams_28d": 99055,
+    "followers": 11302,
+    "super_listeners": 438,
+    "saves": 917,
+    "playlist_adds": 989,
     "listeners_prev": 22018,
-    "listeners_change": 579,
-    "listeners_pct": 2.6,
+    "listeners_change": 643,
+    "listeners_pct": 2.9,
     "streams_prev": 99935,
-    "streams_change": -1704,
+    "streams_change": -880,
     "top_tracks": [
       {
         "name": "Color",
@@ -458,12 +458,12 @@
       {
         "dim": "age",
         "value": "35-44",
-        "pct": 37.0
+        "pct": 36.0
       },
       {
         "dim": "age",
         "value": "25-34",
-        "pct": 32.0
+        "pct": 33.0
       },
       {
         "dim": "age",
@@ -474,6 +474,16 @@
         "dim": "age",
         "value": "18-24",
         "pct": 6.0
+      },
+      {
+        "dim": "age",
+        "value": "55-64",
+        "pct": 5.0
+      },
+      {
+        "dim": "age",
+        "value": "65+",
+        "pct": 2.0
       },
       {
         "dim": "age",
@@ -504,26 +514,26 @@
     "locations": [
       {
         "name": "Uruguay",
-        "listeners": 14990
+        "listeners": 14934
       },
       {
         "name": "Argentina",
-        "listeners": 5064
+        "listeners": 5135
       },
       {
         "name": "Spain",
-        "listeners": 723
+        "listeners": 731
       },
       {
         "name": "Mexico",
-        "listeners": 428
+        "listeners": 429
       },
       {
         "name": "Brazil",
-        "listeners": 248
+        "listeners": 253
       }
     ],
-    "days_since_collection": 2,
+    "days_since_collection": 0,
     "trend": [
       {
         "date": "2026-02-18",
@@ -548,6 +558,12 @@
         "listeners": 22597,
         "streams": 98231,
         "followers": 11297
+      },
+      {
+        "date": "2026-03-01",
+        "listeners": 22661,
+        "streams": 99055,
+        "followers": 11302
       }
     ]
   },
