@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T19:28:49.000630",
+  "generated_at": "2026-03-01T19:35:40.318721",
   "days_to_show": 46,
   "period_days": 7,
   "instagram": {
@@ -659,16 +659,6 @@
         "likes_given": 22,
         "response_time_avg_min": 0
       },
-      "tiktok": {
-        "comments_received": 0,
-        "comments_replied": 0,
-        "dms_received": 0,
-        "dms_replied": 0,
-        "mentions_received": 0,
-        "mentions_replied": 0,
-        "likes_given": 0,
-        "response_time_avg_min": 0
-      },
       "x": {
         "comments_received": 0,
         "comments_replied": 0,
@@ -704,20 +694,6 @@
       },
       {
         "platform": "instagram",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "tiktok",
-        "shift": "AM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "tiktok",
         "shift": "PM",
         "received": 0,
         "replied": 0,
