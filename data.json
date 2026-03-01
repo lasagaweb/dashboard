@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T17:46:06.642374",
+  "generated_at": "2026-03-01T19:28:49.000630",
   "days_to_show": 46,
   "period_days": 7,
   "instagram": {
@@ -647,60 +647,6 @@
       }
     ]
   },
-  "tiktok": {
-    "last_date": "2026-03-01",
-    "followers": 2,
-    "likes_total": 1,
-    "followers_prev": 2,
-    "top_posts": [
-      {
-        "post_id": "7577916687123631416",
-        "date": "2025-11-28",
-        "description": "COMUNICADO URGENTE - De dónde querés venir mañana",
-        "views": 105,
-        "likes": 0,
-        "shares": 0,
-        "comments": 0,
-        "saves": 0
-      },
-      {
-        "post_id": "7580842031635778872",
-        "date": "2025-12-06",
-        "description": "COMUNICADO DE LA GERENCIA: EL HORIZONTE SE MUEVE OTRA VEZ - Quiero",
-        "views": 89,
-        "likes": 1,
-        "shares": 0,
-        "comments": 0,
-        "saves": 0
-      }
-    ],
-    "trend": [
-      {
-        "date": "2026-02-19",
-        "followers": 2
-      },
-      {
-        "date": "2026-02-20",
-        "followers": 2
-      },
-      {
-        "date": "2026-02-26",
-        "followers": 2
-      },
-      {
-        "date": "2026-02-27",
-        "followers": 2
-      },
-      {
-        "date": "2026-02-28",
-        "followers": 2
-      },
-      {
-        "date": "2026-03-01",
-        "followers": 2
-      }
-    ]
-  },
   "community": {
     "platforms": {
       "instagram": {
@@ -932,10 +878,10 @@
     }
   ],
   "press": {
-    "total_contacts": 21,
-    "emails_sent": 0,
-    "responses": 0,
-    "coverage": 0,
+    "total_contacts": 3,
+    "emails_sent": 1,
+    "responses": 1,
+    "coverage": 1,
     "recent_activity": [
       {
         "date": "2026-02-26",
@@ -971,6 +917,12 @@
         "sent": 0,
         "responses": 0,
         "coverage": 0
+      },
+      {
+        "date": "2026-03-01",
+        "sent": 1,
+        "responses": 1,
+        "coverage": 1
       }
     ]
   },
