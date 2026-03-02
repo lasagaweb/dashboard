@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T23:01:18.268275",
-  "days_to_show": 46,
+  "generated_at": "2026-03-02T10:09:18.641080",
+  "days_to_show": 45,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-02",
@@ -161,11 +161,11 @@
     "subs_prev": 3740,
     "subs_change": 30,
     "subs_pct": 0.8,
-    "period_views": 1339,
-    "period_likes": 51,
-    "period_shares": 19,
-    "period_watch_min": 3248.0,
-    "period_subs_net": 12,
+    "period_views": 1147,
+    "period_likes": 43,
+    "period_shares": 18,
+    "period_watch_min": 2831.0,
+    "period_subs_net": 7,
     "unreplied_comments": 0,
     "top_traffic_source": "PLAYLIST",
     "top_traffic_views": 5856,
@@ -532,7 +532,7 @@
         "listeners": 253
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -649,13 +649,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 101,
-        "comments_replied": 32,
+        "comments_received": 103,
+        "comments_replied": 34,
         "dms_received": 8,
         "dms_replied": 5,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 22,
+        "likes_given": 32,
         "response_time_avg_min": 0
       },
       "x": {
@@ -679,11 +679,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 190,
-    "total_replied": 88,
-    "response_rate": 46,
-    "total_likes": 35,
-    "today_grid": [],
+    "total_received": 192,
+    "total_replied": 90,
+    "response_rate": 47,
+    "total_likes": 45,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 2,
+        "replied": 2,
+        "pending": 0
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-20",
@@ -714,10 +722,21 @@
         "date": "2026-03-01",
         "received": 35,
         "replied": 12
+      },
+      {
+        "date": "2026-03-02",
+        "received": 2,
+        "replied": 2
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-02",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "AM: 2 replies (milbabartel, mati0es3), 10 likes, 0 DMs. Top 5 posts + notification posts revisados."
+    },
     {
       "date": "2026-03-01",
       "platform": "youtube",
@@ -801,19 +820,13 @@
       "platform": "instagram",
       "type": "reply",
       "description": "canchelooscar en DVBT724Dvmz: gran banda hermano → Gracias hermano! Nos vemos en abril 🙌🔥"
-    },
-    {
-      "date": "2026-02-28",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "elcui81 en DVBT724Dvmz: tema lo acompaño en momentos difíciles → Que lindo que la música haya sido compañía ❤️🎶"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 46%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 47%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
