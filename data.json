@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-02T10:31:04.974903",
+  "generated_at": "2026-03-02T11:01:10.120568",
   "days_to_show": 45,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-02",
-    "followers": 4140,
-    "reach": 8952,
-    "accounts_engaged": 301,
+    "followers": 4153,
+    "reach": 5990,
+    "accounts_engaged": 134,
     "followers_prev": 3683,
-    "followers_change": 457,
-    "followers_pct": 12.4,
+    "followers_change": 470,
+    "followers_pct": 12.8,
     "period_posts": 2,
-    "period_reach": 3327,
-    "period_engagement": 398,
+    "period_reach": 3388,
+    "period_engagement": 404,
     "top_post": {
       "date": "2026-02-26",
       "type": "carousel",
       "caption": "Dejo tras de mí un mar de penas para ti… ese es el camino cuando quieras regresa",
-      "reach": 1677
+      "reach": 1700
     },
     "trend": [
       {
@@ -62,22 +62,22 @@
       },
       {
         "date": "2026-03-02",
-        "followers": 4140,
-        "reach": 8952
+        "followers": 4153,
+        "reach": 5990
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 3,
-        "avg_reach": 3167.0,
+        "avg_reach": 3171.0,
         "avg_engagement": 399.0
       },
       {
         "type": "carousel",
         "posts": 3,
-        "avg_reach": 1914.0,
-        "avg_engagement": 301.0
+        "avg_reach": 1936.0,
+        "avg_engagement": 303.0
       }
     ]
   },
@@ -1119,7 +1119,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-03-02T02:01:14.833508+00:00",
+    "instagram": "2026-03-02T14:01:06.496496+00:00",
     "spotify": null,
     "emailoctopus": "2026-03-01T15:00:08.558109+00:00",
     "twitter": null,
