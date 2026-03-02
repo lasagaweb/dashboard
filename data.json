@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T20:14:59.717563",
+  "generated_at": "2026-03-01T21:01:40.389922",
   "days_to_show": 46,
   "period_days": 7,
   "instagram": {
@@ -161,7 +161,7 @@
     "period_shares": 19,
     "period_watch_min": 3248.0,
     "period_subs_net": 12,
-    "unreplied_comments": 20,
+    "unreplied_comments": 0,
     "top_traffic_source": "PLAYLIST",
     "top_traffic_views": 5856,
     "traffic_sources": [
@@ -251,12 +251,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-01-30",
-        "views": 275,
-        "likes": -1,
-        "net_subs": 0
-      },
       {
         "date": "2026-01-31",
         "views": 232,
@@ -684,43 +678,7 @@
     "total_replied": 88,
     "response_rate": 46,
     "total_likes": 35,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "AM",
-        "received": 23,
-        "replied": 3,
-        "pending": 0
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "x",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 6,
-        "replied": 5,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 6,
-        "replied": 4,
-        "pending": 0
-      }
-    ],
+    "today_grid": [],
     "trend": [
       {
         "date": "2026-02-20",
@@ -899,6 +857,12 @@
         "sent": 1,
         "responses": 1,
         "coverage": 1
+      },
+      {
+        "date": "2026-03-02",
+        "sent": 1,
+        "responses": 1,
+        "coverage": 1
       }
     ]
   },
@@ -978,15 +942,6 @@
   "upcoming": {
     "items": [
       {
-        "id": 3,
-        "date": "2026-02-22",
-        "platform": "youtube",
-        "type": "full_song",
-        "description": "Buscando Espacio - canción completa (ya subida oculta, pasar a público)",
-        "status": "published",
-        "platforms_done": []
-      },
-      {
         "id": 4,
         "date": "2026-02-24",
         "platform": "instagram",
@@ -1019,7 +974,7 @@
         "platform": "youtube",
         "type": "video",
         "description": "Ya no saben qué decir - canción completa",
-        "status": "planned",
+        "status": "published",
         "platforms_done": []
       },
       {
@@ -1028,7 +983,7 @@
         "platform": "instagram",
         "type": "reel",
         "description": "Estribillo Ya no saben qué decir",
-        "status": "planned",
+        "status": "published",
         "platforms_done": []
       },
       {
