@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T16:30:49.864698",
+  "generated_at": "2026-03-02T17:10:07.924865",
   "days_to_show": 45,
   "period_days": 7,
   "instagram": {
@@ -665,13 +665,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 103,
-        "comments_replied": 34,
+        "comments_received": 106,
+        "comments_replied": 35,
         "dms_received": 8,
         "dms_replied": 5,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 32,
+        "likes_given": 38,
         "response_time_avg_min": 0
       },
       "x": {
@@ -695,10 +695,10 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 199,
-    "total_replied": 95,
+    "total_received": 202,
+    "total_replied": 96,
     "response_rate": 48,
-    "total_likes": 51,
+    "total_likes": 57,
     "today_grid": [
       {
         "platform": "instagram",
@@ -706,6 +706,13 @@
         "received": 2,
         "replied": 2,
         "pending": 0
+      },
+      {
+        "platform": "instagram",
+        "shift": "PM",
+        "received": 3,
+        "replied": 1,
+        "pending": 8
       },
       {
         "platform": "x",
@@ -755,12 +762,24 @@
       },
       {
         "date": "2026-03-02",
-        "received": 9,
-        "replied": 7
+        "received": 12,
+        "replied": 8
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-02",
+      "platform": "instagram",
+      "type": "like",
+      "description": "6 likes: milbabartel, larrosajeny, santito.soca, luli.mana_, sabrasick, elgabiboroni"
+    },
+    {
+      "date": "2026-03-02",
+      "platform": "instagram",
+      "type": "reply",
+      "description": "Reply a larrosajeny en DVPP4JIFNAm sobre escuchar el tema cada día"
+    },
     {
       "date": "2026-03-02",
       "platform": "x",
@@ -838,18 +857,6 @@
       "platform": "instagram",
       "type": "dm_reply",
       "description": "DM request aceptado y respondido a Claudio Barea con link Lista del Reencuentro"
-    },
-    {
-      "date": "2026-03-01",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Respondido deboolivera en post Buscando Espacio"
-    },
-    {
-      "date": "2026-03-01",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Respondido manelashiley en post Buscando Espacio"
     }
   ],
   "suggestions": [
