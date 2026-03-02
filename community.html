@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dylan — Comunidad</title>
+<style>
+:root {
+  --bg: #f8f9fa; --card: #fff; --border: #e9ecef; --text: #2d3436;
+  --text-dim: #636e72; --green: #00b894; --red: #e17055; --accent: #fdcb6e;
+  --ig: #E1306C; --yt: #FF0000; --x: #1DA1F2;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); padding: 20px; max-width: 900px; margin: 0 auto; }
+h1 { font-size: 1.4rem; margin-bottom: 4px; }
+.subtitle { color: var(--text-dim); font-size: 0.85rem; margin-bottom: 20px; }
+.filters { display: flex; gap: 8px; margin-bottom: 20px; flex-wrap: wrap; }
+.filter-btn { padding: 6px 14px; border-radius: 20px; border: 1px solid var(--border); background: var(--card); cursor: pointer; font-size: 0.82rem; transition: all 0.2s; }
+.filter-btn:hover { border-color: var(--text-dim); }
+.filter-btn.active { background: var(--text); color: white; border-color: var(--text); }
+.date-group { margin-bottom: 24px; }
+.date-header { font-size: 0.9rem; font-weight: 600; padding: 8px 0; border-bottom: 2px solid var(--border); margin-bottom: 12px; }
+.interaction { background: var(--card); border-radius: 8px; padding: 12px 16px; margin-bottom: 8px; border-left: 3px solid var(--border); }
+.interaction.instagram { border-left-color: var(--ig); }
+.interaction.youtube { border-left-color: var(--yt); }
+.interaction.x { border-left-color: var(--x); }
+.ix-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; }
+.ix-platform { font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; }
+.ix-platform.instagram { color: var(--ig); }
+.ix-platform.youtube { color: var(--yt); }
+.ix-platform.x { color: var(--x); }
+.ix-post { font-size: 0.75rem; color: var(--text-dim); }
+.ix-author { font-weight: 600; font-size: 0.85rem; }
+.ix-comment { color: var(--text-dim); font-size: 0.85rem; margin: 4px 0; padding-left: 12px; border-left: 2px solid var(--border); }
+.ix-response { font-size: 0.85rem; margin-top: 4px; padding-left: 12px; border-left: 2px solid var(--green); }
+.ix-response::before { content: 'Dylan: '; font-weight: 600; color: var(--green); }
+.ix-type { font-size: 0.7rem; background: #eee; padding: 2px 8px; border-radius: 10px; }
+.log-entry { background: var(--card); border-radius: 8px; padding: 10px 14px; margin-bottom: 6px; font-size: 0.82rem; border-left: 3px solid var(--border); }
+.section-title { font-size: 1rem; font-weight: 600; margin: 24px 0 12px; padding-top: 16px; border-top: 1px solid var(--border); }
+.empty { color: var(--text-dim); font-style: italic; padding: 20px; text-align: center; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; margin-bottom: 24px; }
+.stat { background: var(--card); border-radius: 8px; padding: 12px; text-align: center; }
+.stat-num { font-size: 1.4rem; font-weight: 700; }
+.stat-label { font-size: 0.72rem; color: var(--text-dim); text-transform: uppercase; }
+.back-link { display: inline-block; margin-bottom: 16px; color: var(--text-dim); text-decoration: none; font-size: 0.85rem; }
+.back-link:hover { color: var(--text); }
+</style>
+</head>
+<body>
+<a href="index.html" class="back-link">&larr; Dashboard</a>
+<h1>Comunidad — Registro de Interacciones</h1>
+<p class="subtitle">Actualizado: 01/03/2026 23:03 &middot; Ultimos 14 dias</p>
+
+<div id="stats" class="stats"></div>
+<div class="filters" id="filters"></div>
+<div id="content"></div>
+
+<script>
+const IX = [];
+const LOGS = [{"date": "2026-03-01", "platform": "youtube", "action_type": "reply", "description": "PM: Respondidos 4 comentarios en YouTube (Max Samson, ghostzero, veckemorales lyrics, FABRI19022 uruguayan music). Omitidos: cumpleaños y troll."}, {"date": "2026-03-01", "platform": "instagram", "action_type": "check", "description": "PM scan: 0 new comments, 0 new DMs, all prior engagement maintained"}, {"date": "2026-03-01", "platform": "youtube", "action_type": "reply", "description": "Ronda AM: 5 replies a comentarios nuevos, 1 skip (cumpleaños no relevante)"}, {"date": "2026-03-01", "platform": "instagram", "action_type": "dm_reply", "description": "DM request aceptado y respondido a Claudio Barea con link Lista del Reencuentro"}, {"date": "2026-03-01", "platform": "instagram", "action_type": "reply", "description": "Respondido deboolivera en post Buscando Espacio"}, {"date": "2026-03-01", "platform": "instagram", "action_type": "reply", "description": "Respondido manelashiley en post Buscando Espacio"}, {"date": "2026-02-28", "platform": "youtube", "action_type": "reply", "description": "PM: 7 replies via script (FabianRamos, joseestebanzeballos, thetacogaming, andreseduardo600, ghostzerosniper, veckemorales, FABRI19022). 1 skipped (birthday msg). 1 heart given (nachomassinacho). 4 hearts pending (browser crash)."}, {"date": "2026-02-28", "platform": "instagram", "action_type": "like", "description": "Likes a comentarios de mariamorales_76 y far__adar en post carrusel"}, {"date": "2026-02-28", "platform": "instagram", "action_type": "dm", "description": "Carinna (story reaction 🙌): respondido con 🙌🔥"}, {"date": "2026-02-28", "platform": "instagram", "action_type": "reply", "description": "@gissile03 en post Ya no saben qué decir (carousel): La ecuación perfecta"}, {"date": "2026-02-28", "platform": "instagram", "action_type": "reply", "description": "@totefernandez_ en post Ya no saben qué decir (carousel): Con tutti y a todo volumen"}, {"date": "2026-02-28", "platform": "youtube", "action_type": "reply", "description": "AM shift: 6 replies to new comments, 1 skipped (irrelevant birthday msg)"}, {"date": "2026-02-28", "platform": "instagram", "action_type": "reply", "description": "canchelooscar en DVBT724Dvmz: gran banda hermano → Gracias hermano! Nos vemos en abril 🙌🔥"}, {"date": "2026-02-28", "platform": "instagram", "action_type": "reply", "description": "elcui81 en DVBT724Dvmz: tema lo acompaño en momentos difíciles → Que lindo que la música haya sido compañía ❤️🎶"}, {"date": "2026-02-28", "platform": "instagram", "action_type": "reply", "description": "far__adar en DVRfCkWE00F: recordatorio buenos momentos → Esos buenos momentos vuelven en abril 🎶🙌"}, {"date": "2026-02-28", "platform": "instagram", "action_type": "reply", "description": "mariamorales_76 en DVRfCkWE00F: emojis amor → Gracias por el cariño 🔥🎸"}, {"date": "2026-02-27", "platform": "youtube", "action_type": "reply", "description": "PM: 6 replies via script (joseesteban, thetaco, andreseduardo, ghostzero, veckemorales, FABRI19022). 1 skip (cumpleaños)."}, {"date": "2026-02-27", "platform": "instagram", "action_type": "dm_reply", "description": "gissile03: respondido sobre fecha de abril y cumple de su viejo"}, {"date": "2026-02-27", "platform": "youtube", "action_type": "reply", "description": "9 replies a comentarios nuevos (fans, elogios, preguntas). 1 skip (off-topic cumpleaños). Script automático."}, {"date": "2026-02-27", "platform": "instagram", "action_type": "reply", "description": "9 replies on DVPP4JIFNAm (Ya no saben que decir), 4 replies on DVBT724Dvmz (Buscando Espacio carrusel), 1 DM reply to gissile03 about abril date"}, {"date": "2026-02-26", "platform": "youtube", "action_type": "reply", "description": "7 comentarios respondidos via API (GuitarClass10, joseestebanzeballos, thetacogaming, andreseduardo600, ghostzerosniper, veckemorales, FABRI19022). 1 skip (cumpleaños no relevante)."}, {"date": "2026-02-26", "platform": "youtube", "action_type": "heart", "description": "Hearts a matiasretamozafontoura8289 y noeliamarrero7734"}, {"date": "2026-02-26", "platform": "instagram", "action_type": "like", "description": "engranaje_uy: 🔥🔥 like"}, {"date": "2026-02-26", "platform": "instagram", "action_type": "reply", "description": "el_canta: El grito de león y Los Tipos"}, {"date": "2026-02-26", "platform": "instagram", "action_type": "reply", "description": "stevenazziclara: canciones que se meten en la piel"}, {"date": "2026-02-26", "platform": "instagram", "action_type": "reply", "description": "luli.mana_: Los Tipos en vivo es otra cosa"}, {"date": "2026-02-26", "platform": "instagram", "action_type": "reply", "description": "elcui81: Gracias por el aguante"}, {"date": "2026-02-26", "platform": "instagram", "action_type": "reply", "description": "nicolop_lpda: Gracias! Quedó lindo"}, {"date": "2026-02-26", "platform": "youtube", "action_type": "reply", "description": "Ronda AM: 7 comentarios en Buscando Espacio acustico, todos ya respondidos previamente. Corazones dados a liliancapurro, UnTalDiego1, LeoxFer, hongo-loco. 0 pendientes en todo el canal."}, {"date": "2026-02-26", "platform": "instagram", "action_type": "pending", "description": "DM Tania Acevedo - fotógrafa show (requiere Nico)"}, {"date": "2026-02-26", "platform": "instagram", "action_type": "pending", "description": "DM Natalia Larrondo - admin grupo FB (requiere Nico)"}, {"date": "2026-02-26", "platform": "instagram", "action_type": "reply", "description": "DM Alejandra Scampini - respuesta casual"}, {"date": "2026-02-26", "platform": "instagram", "action_type": "reply", "description": "Respondido maximiliano.dma en carrusel Buscando Espacio"}, {"date": "2026-02-26", "platform": "instagram", "action_type": "reply", "description": "Respondido gabigomez_2106 en carrusel Buscando Espacio"}, {"date": "2026-02-26", "platform": "instagram", "action_type": "reply", "description": "Respondido antiguaantiguedades en carrusel Buscando Espacio"}, {"date": "2026-02-26", "platform": "instagram", "action_type": "reply", "description": "Respondido soyceciliasoy en carrusel Buscando Espacio"}, {"date": "2026-02-26", "platform": "youtube", "action_type": "reply", "description": "@lauras.tovares9041: escuchando de nuevo en 2026"}, {"date": "2026-02-26", "platform": "youtube", "action_type": "reply", "description": "@DiegoCalvete: pide Lo que viene después en acústico"}, {"date": "2026-02-26", "platform": "youtube", "action_type": "reply", "description": "@nachomasarino1748: fan emotivo, va al show en abril"}, {"date": "2026-02-26", "platform": "youtube", "action_type": "reply", "description": "@JuanDanielAcuñaBerny: problema YT Music mezclando artistas"}, {"date": "2026-02-26", "platform": "instagram", "action_type": "reply", "description": "Replied to manelashiley on Buscando Espacio (grief/music connection)"}, {"date": "2026-02-26", "platform": "instagram", "action_type": "reply", "description": "Replied to tute84 on Buscando Espacio (Argentine fan via Ares/Emule)"}, {"date": "2026-02-26", "platform": "instagram", "action_type": "reply", "description": "Replied to el_canta on Buscando Espacio (son birth video with Grito de Leon)"}, {"date": "2026-02-26", "platform": "instagram", "action_type": "reply", "description": "Replied to gabigomez_2106 on Buscando Espacio (personal story 2005)"}, {"date": "2026-02-26", "platform": "instagram", "action_type": "reply", "description": "Replied to ferchi_nando on Buscando Espacio carrusel (Punta Rock story)"}, {"date": "2026-02-26", "platform": "instagram", "action_type": "reply", "description": "Replied to rubenaguilar1977 on La Saga Vuelve post (emotional about song)"}, {"date": "2026-02-21", "platform": "youtube", "action_type": "reply", "description": "8 comentarios respondidos via script (1 skipped). Temas: fans pidiendo vuelta, elogios, fan internacional."}, {"date": "2026-02-21", "platform": "instagram", "action_type": "pending", "description": "DM request Tania Acevedo fotógrafa quiere cubrir show - pendiente Nico"}, {"date": "2026-02-21", "platform": "instagram", "action_type": "reply", "description": "Respondidos 10 comentarios (2 post nuevo Buscando Espacio + 8 reel tablaturas) + 1 DM gissel"}, {"date": "2026-02-20", "platform": "youtube", "action_type": "reply", "description": "manuupa: cracks"}, {"date": "2026-02-20", "platform": "youtube", "action_type": "reply", "description": "leabritos91: nos vemos en unas semanas"}, {"date": "2026-02-20", "platform": "youtube", "action_type": "reply", "description": "noeliamarrero7734: Feliz retorno"}, {"date": "2026-02-20", "platform": "youtube", "action_type": "reply", "description": "nataliagonzalez1995: me encanta que vuelvan"}, {"date": "2026-02-20", "platform": "youtube", "action_type": "reply", "description": "Daamy222: Hermoso verlos volver"}, {"date": "2026-02-20", "platform": "youtube", "action_type": "reply", "description": "hongo-loco: Es muy bueno! Volverlos a escuchar"}, {"date": "2026-02-20", "platform": "x", "action_type": "like", "description": "Like a @TortuBolso, @Amaral_1806 (imagen playlist), @Amaral_1806 (disco nuevo en vivo)"}, {"date": "2026-02-20", "platform": "x", "action_type": "reply", "description": "Respondido a @TortuBolso: Ahí nos vemos! Se viene con todo en abril"}, {"date": "2026-02-20", "platform": "instagram", "action_type": "dm_reply", "description": "DM Sofia Zapata (sofiabzapata): Gracias por tanto, reply con agradecimiento"}, {"date": "2026-02-20", "platform": "instagram", "action_type": "dm_reply", "description": "DM Romii Guerrero (_lic_7): respondio a historia, reply con agradecimiento"}, {"date": "2026-02-20", "platform": "instagram", "action_type": "reply", "description": "Reel DU3HZ8FEhi7 (Algunas canciones): 3 replies a monoraffo, karem_dayan, torito_manija"}, {"date": "2026-02-20", "platform": "instagram", "action_type": "reply", "description": "Reel DU9IeskkUnQ (No nos acordamos): 8 replies a diegorz9, gabucha.03, pablotassani, drodedom, pepinset, beadiezdastoli, anabelpedreira, gonza__f, soulstone_69"}, {"date": "2026-02-20", "platform": "x", "action_type": "opportunity", "description": "Canciones pedidas para setlist: Peor es olvidar, Las historias del silencio, Podemos, Somos invisibles, Errante, Buscando Espacio, Suerte"}, {"date": "2026-02-20", "platform": "x", "action_type": "repost", "description": "Metrónomo (@Metronomo_uy) y 2 más repostearon post #lasagavuelve"}, {"date": "2026-02-20", "platform": "x", "action_type": "repost", "description": "MadeinUruguay (@araucaria1) reposteó el post del Short S2"}, {"date": "2026-02-20", "platform": "x", "action_type": "new_follower", "description": "Radio Belcha (@RadioBelcha) nos siguió - medio de radio"}, {"date": "2026-02-20", "platform": "x", "action_type": "like", "description": "Likeados 6 comentarios de fans en post de setlist"}, {"date": "2026-02-20", "platform": "x", "action_type": "reply", "description": "Respondí a @NachoObes - Buen regreso"}, {"date": "2026-02-20", "platform": "x", "action_type": "reply", "description": "Respondí a @AndresMdf182 pidiendo Suerte para el setlist"}, {"date": "2026-02-20", "platform": "x", "action_type": "reply", "description": "Respondí a @Nando_008 pidiendo Buscando Espacio - le avisé que sale domingo en YT"}, {"date": "2026-02-20", "platform": "x", "action_type": "reply", "description": "Respondí a @LORENARI1976 pidiendo Somos invisibles y Errante"}, {"date": "2026-02-20", "platform": "x", "action_type": "reply", "description": "Respondí a @TortuBolso pidiendo Podemos para el setlist"}, {"date": "2026-02-20", "platform": "x", "action_type": "reply", "description": "Respondí a @nicoanormal1 (NIKOVEUY) sobre el regreso"}, {"date": "2026-02-20", "platform": "x", "action_type": "reply", "description": "Respondí a @vendavalero pidiendo Peor es olvidar y Las historias del silencio para el setlist"}, {"date": "2026-02-20", "platform": "instagram", "action_type": "opportunity", "description": "Fan pide El perfume de tu cama para setlist - registrar para ensayos"}, {"date": "2026-02-20", "platform": "instagram", "action_type": "opportunity", "description": "Math93 sugiere programa Suena Bien - sesiones acústicas. Idea para post-show"}, {"date": "2026-02-20", "platform": "instagram", "action_type": "like", "description": "Likeados 12 comentarios en reel Buscando Espacio (todos los pendientes)"}, {"date": "2026-02-20", "platform": "instagram", "action_type": "dm_reply", "description": "Respondí DM a Alejandra Scampini pidiendo El perfume de tu cama"}, {"date": "2026-02-20", "platform": "instagram", "action_type": "dm_reply", "description": "Respondí DM a @mathsorum sobre Suena Bien: Buena idea, lo tenemos en la mira"}, {"date": "2026-02-20", "platform": "instagram", "action_type": "reply", "description": "Respondí a @elgabiboroni en reel Buscando Espacio"}, {"date": "2026-02-20", "platform": "instagram", "action_type": "reply", "description": "Respondí a @tarres.sebastian: Tamo! Nos vemos en abril"}, {"date": "2026-02-20", "platform": "instagram", "action_type": "reply", "description": "Respondí a @mapiet_2809 en reel Buscando Espacio"}, {"date": "2026-02-20", "platform": "instagram", "action_type": "reply", "description": "Respondí a @adrianatorres176 en reel Buscando Espacio: Gracias por el aguante!"}, {"date": "2026-02-20", "platform": "youtube", "action_type": "reply", "description": "[lo que hiciste en YT]"}, {"date": "2026-02-20", "platform": "x", "action_type": "reply", "description": "[lo que hiciste en X]"}, {"date": "2026-02-20", "platform": "instagram", "action_type": "reply", "description": "[lo que hiciste hoy en IG]"}];
+
+const icons = {instagram:'IG', youtube:'YT', x:'X', tiktok:'TT'};
+let activeFilter = 'all';
+
+function render() {
+  const platforms = [...new Set(IX.map(i => i.platform))];
+  const statsEl = document.getElementById('stats');
+  const total = IX.length;
+  const today = IX.filter(i => i.date === new Date().toISOString().slice(0,10)).length;
+  let statsHTML = '<div class="stat"><div class="stat-num">'+total+'</div><div class="stat-label">Total 14d</div></div>';
+  statsHTML += '<div class="stat"><div class="stat-num">'+today+'</div><div class="stat-label">Hoy</div></div>';
+  platforms.forEach(p => {
+    const n = IX.filter(i => i.platform === p).length;
+    statsHTML += '<div class="stat"><div class="stat-num">'+n+'</div><div class="stat-label">'+(icons[p]||p)+'</div></div>';
+  });
+  statsEl.innerHTML = statsHTML;
+
+  const filtersEl = document.getElementById('filters');
+  let fHTML = '<button class="filter-btn '+(activeFilter==='all'?'active':'')+'" onclick="setFilter('all')">Todas</button>';
+  platforms.forEach(p => {
+    fHTML += '<button class="filter-btn '+(activeFilter===p?'active':'')+'" onclick="setFilter(''+p+'')">'+(icons[p]||p)+'</button>';
+  });
+  filtersEl.innerHTML = fHTML;
+
+  const contentEl = document.getElementById('content');
+  let filtered = activeFilter === 'all' ? IX : IX.filter(i => i.platform === activeFilter);
+
+  if (filtered.length > 0) {
+    const byDate = {};
+    filtered.forEach(i => {
+      if (!byDate[i.date]) byDate[i.date] = [];
+      byDate[i.date].push(i);
+    });
+    let cHTML = '';
+    Object.keys(byDate).sort().reverse().forEach(date => {
+      cHTML += '<div class="date-group"><div class="date-header">'+date+'</div>';
+      byDate[date].forEach(i => {
+        cHTML += '<div class="interaction '+i.platform+'">'
+          +'<div class="ix-header">'
+          +'<span class="ix-platform '+i.platform+'">'+(icons[i.platform]||i.platform)+'</span>'
+          +'<span class="ix-post">'+(i.post_title||'')+'</span>'
+          +'<span class="ix-type">'+i.action_type+'</span>'
+          +'</div>'
+          +'<div class="ix-author">'+i.author+'</div>'
+          +'<div class="ix-comment">'+i.author_comment+'</div>'
+          +'<div class="ix-response">'+i.dylan_response+'</div>'
+          +'</div>';
+      });
+      cHTML += '</div>';
+    });
+    contentEl.innerHTML = cHTML;
+  } else {
+    let logFiltered = activeFilter === 'all' ? LOGS : LOGS.filter(l => l.platform === activeFilter);
+    if (logFiltered.length > 0) {
+      let cHTML = '<div class="section-title">Log resumido (sin detalle individual aun)</div>';
+      const byDate = {};
+      logFiltered.forEach(l => {
+        if (!byDate[l.date]) byDate[l.date] = [];
+        byDate[l.date].push(l);
+      });
+      Object.keys(byDate).sort().reverse().forEach(date => {
+        cHTML += '<div class="date-group"><div class="date-header">'+date+'</div>';
+        byDate[date].forEach(l => {
+          cHTML += '<div class="log-entry"><strong>'+(icons[l.platform]||l.platform)+'</strong> ['+l.action_type+'] '+l.description+'</div>';
+        });
+        cHTML += '</div>';
+      });
+      contentEl.innerHTML = cHTML;
+    } else {
+      contentEl.innerHTML = '<div class="empty">Sin interacciones registradas para este filtro</div>';
+    }
+  }
+}
+
+function setFilter(f) {
+  activeFilter = f;
+  render();
+}
+
+render();
+</script>
+</body>
+</html>
