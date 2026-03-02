@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T14:08:55.157137",
+  "generated_at": "2026-03-02T16:05:20.050496",
   "days_to_show": 45,
   "period_days": 7,
   "instagram": {
@@ -427,18 +427,18 @@
     ]
   },
   "spotify": {
-    "last_date": "2026-03-01",
-    "monthly_listeners": 22661,
-    "streams_28d": 99055,
-    "followers": 11302,
-    "super_listeners": 438,
-    "saves": 917,
-    "playlist_adds": 989,
+    "last_date": "2026-03-02",
+    "monthly_listeners": 22584,
+    "streams_28d": 98959,
+    "followers": 11306,
+    "super_listeners": 439,
+    "saves": 946,
+    "playlist_adds": 984,
     "listeners_prev": 22018,
-    "listeners_change": 643,
-    "listeners_pct": 2.9,
+    "listeners_change": 566,
+    "listeners_pct": 2.6,
     "streams_prev": 99935,
-    "streams_change": -880,
+    "streams_change": -976,
     "top_tracks": [
       {
         "name": "Color",
@@ -488,7 +488,7 @@
       {
         "dim": "age",
         "value": "65+",
-        "pct": 2.0
+        "pct": 1.0
       },
       {
         "dim": "age",
@@ -519,26 +519,26 @@
     "locations": [
       {
         "name": "Uruguay",
-        "listeners": 14934
+        "listeners": 14843
       },
       {
         "name": "Argentina",
-        "listeners": 5135
+        "listeners": 5137
       },
       {
         "name": "Spain",
-        "listeners": 731
+        "listeners": 741
       },
       {
         "name": "Mexico",
-        "listeners": 429
+        "listeners": 435
       },
       {
         "name": "Brazil",
-        "listeners": 253
+        "listeners": 252
       }
     ],
-    "days_since_collection": 1,
+    "days_since_collection": 0,
     "trend": [
       {
         "date": "2026-02-18",
@@ -569,6 +569,12 @@
         "listeners": 22661,
         "streams": 99055,
         "followers": 11302
+      },
+      {
+        "date": "2026-03-02",
+        "listeners": 22584,
+        "streams": 98959,
+        "followers": 11306
       }
     ]
   },
