@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T16:32:29.696592",
+  "generated_at": "2026-03-03T17:31:49.812086",
   "days_to_show": 44,
   "period_days": 7,
   "instagram": {
@@ -698,8 +698,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 98,
-        "comments_replied": 66,
+        "comments_received": 103,
+        "comments_replied": 71,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -708,9 +708,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 214,
-    "total_replied": 106,
-    "response_rate": 50,
+    "total_received": 219,
+    "total_replied": 111,
+    "response_rate": 51,
     "total_likes": 57,
     "today_grid": [
       {
@@ -718,6 +718,13 @@
         "shift": "AM",
         "received": 6,
         "replied": 6,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 5,
+        "replied": 5,
         "pending": 0
       }
     ],
@@ -759,12 +766,42 @@
       },
       {
         "date": "2026-03-03",
-        "received": 6,
-        "replied": 6
+        "received": 11,
+        "replied": 11
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-03",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @FABRI19022 en ONCE - reflexión sobre rock uruguayo"
+    },
+    {
+      "date": "2026-03-03",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @veckemorales3792 en Color - compartió letra completa"
+    },
+    {
+      "date": "2026-03-03",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @ghostzerosniperpsp en Estoy perdido - bienvenida al canal"
+    },
+    {
+      "date": "2026-03-03",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @andreseduardo600 en Estoy perdido - broma sobre baterista"
+    },
+    {
+      "date": "2026-03-03",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @thetacogaming9434 en Estoy perdido - sobre Max Samson"
+    },
     {
       "date": "2026-03-02",
       "platform": "instagram",
@@ -824,43 +861,13 @@
       "platform": "x",
       "type": "reply",
       "description": "Reply a @RadioBelcha sobre Rock Uruguayo Podcast: apoyo al espacio de difusión"
-    },
-    {
-      "date": "2026-03-02",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "AM: 2 replies (milbabartel, mati0es3), 10 likes, 0 DMs. Top 5 posts + notification posts revisados."
-    },
-    {
-      "date": "2026-03-01",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "PM: Respondidos 4 comentarios en YouTube (Max Samson, ghostzero, veckemorales lyrics, FABRI19022 uruguayan music). Omitidos: cumpleaños y troll."
-    },
-    {
-      "date": "2026-03-01",
-      "platform": "instagram",
-      "type": "check",
-      "description": "PM scan: 0 new comments, 0 new DMs, all prior engagement maintained"
-    },
-    {
-      "date": "2026-03-01",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Ronda AM: 5 replies a comentarios nuevos, 1 skip (cumpleaños no relevante)"
-    },
-    {
-      "date": "2026-03-01",
-      "platform": "instagram",
-      "type": "dm_reply",
-      "description": "DM request aceptado y respondido a Claudio Barea con link Lista del Reencuentro"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 50%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 51%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
