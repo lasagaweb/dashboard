@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T11:02:20.815505",
+  "generated_at": "2026-03-03T12:00:25.928308",
   "days_to_show": 44,
   "period_days": 7,
   "instagram": {
@@ -87,32 +87,32 @@
     ]
   },
   "email": {
-    "last_date": "2026-03-01",
-    "total_subs": 1558,
+    "last_date": "2026-03-03",
+    "total_subs": 1553,
     "subs_prev": 1663,
-    "subs_change": -105,
-    "subs_pct": -6.3,
+    "subs_change": -110,
+    "subs_pct": -6.6,
     "period_gained": 52,
-    "period_lost": 169,
+    "period_lost": 334,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
         "sent": 583,
-        "open_pct": 31.6,
-        "click_pct": 6.3,
+        "open_pct": 37.9,
+        "click_pct": 7.4,
         "sent_at": "2026-02-27T14:05:14+00:00"
       },
       {
         "name": "Buscando Espacio - exclusivo lista del reencuentro",
         "sent": 503,
-        "open_pct": 47.5,
-        "click_pct": 11.3,
+        "open_pct": 47.7,
+        "click_pct": 11.5,
         "sent_at": "2026-02-20T17:33:54+00:00"
       },
       {
         "name": "Bienvenida a la lista",
         "sent": 503,
-        "open_pct": 64.8,
+        "open_pct": 65.0,
         "click_pct": 22.7,
         "sent_at": "2026-02-13T12:21:59+00:00"
       }
@@ -120,12 +120,12 @@
     "last_campaign": {
       "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
       "sent": 583,
-      "open_pct": 31.6,
-      "click_pct": 6.3,
+      "open_pct": 37.9,
+      "click_pct": 7.4,
       "sent_at": "2026-02-27T14:05:14+00:00"
     },
-    "avg_open_pct": 48.0,
-    "avg_click_pct": 13.4,
+    "avg_open_pct": 50.2,
+    "avg_click_pct": 13.9,
     "total_campaigns": 3,
     "trend": [
       {
@@ -155,6 +155,10 @@
       {
         "date": "2026-03-01",
         "subs": 1558
+      },
+      {
+        "date": "2026-03-03",
+        "subs": 1553
       }
     ]
   },
@@ -1168,7 +1172,7 @@
   "platform_status": {
     "instagram": "2026-03-03T14:02:17.185185+00:00",
     "spotify": null,
-    "emailoctopus": "2026-03-01T15:00:08.558109+00:00",
+    "emailoctopus": "2026-03-03T15:00:21.416386+00:00",
     "twitter": null,
     "tiktok": null,
     "meta_ads": null,
