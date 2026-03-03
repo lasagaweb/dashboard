@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T23:01:03.772258",
-  "days_to_show": 45,
+  "generated_at": "2026-03-03T10:36:10.479995",
+  "days_to_show": 44,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-03",
@@ -166,11 +166,11 @@
     "subs_prev": 3740,
     "subs_change": 30,
     "subs_pct": 0.8,
-    "period_views": 2437,
-    "period_likes": 85,
-    "period_shares": 24,
-    "period_watch_min": 4059.0,
-    "period_subs_net": 10,
+    "period_views": 2185,
+    "period_likes": 81,
+    "period_shares": 20,
+    "period_watch_min": 3405.0,
+    "period_subs_net": 8,
     "unreplied_comments": 1,
     "top_traffic_source": "PLAYLIST",
     "top_traffic_views": 8768,
@@ -537,7 +537,7 @@
         "listeners": 252
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -684,8 +684,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 92,
-        "comments_replied": 60,
+        "comments_received": 98,
+        "comments_replied": 66,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -694,11 +694,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 208,
-    "total_replied": 100,
-    "response_rate": 48,
+    "total_received": 214,
+    "total_replied": 106,
+    "response_rate": 50,
     "total_likes": 57,
-    "today_grid": [],
+    "today_grid": [
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 6,
+        "replied": 6,
+        "pending": 0
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-20",
@@ -734,6 +742,11 @@
         "date": "2026-03-02",
         "received": 18,
         "replied": 12
+      },
+      {
+        "date": "2026-03-03",
+        "received": 6,
+        "replied": 6
       }
     ]
   },
@@ -833,15 +846,42 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 48%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 50%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
-    "total_contacts": 3,
+    "total_contacts": 6,
     "emails_sent": 1,
     "responses": 1,
     "coverage": 1,
     "recent_activity": [
+      {
+        "date": "2026-03-03",
+        "contact": "Agustín Acevedo Kanopa",
+        "outlet": "La Diaria",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
+      {
+        "date": "2026-03-03",
+        "contact": "Ignacio Martínez",
+        "outlet": "La Diaria",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
+      {
+        "date": "2026-03-03",
+        "contact": "Javier Alfonso",
+        "outlet": "Búsqueda",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
       {
         "date": "2026-02-26",
         "contact": "MasMusicas Uruguay",
