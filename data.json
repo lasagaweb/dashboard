@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-02T20:00:56.887451",
+  "generated_at": "2026-03-02T23:01:03.772258",
   "days_to_show": 45,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-03-02",
-    "followers": 4153,
-    "reach": 5990,
-    "accounts_engaged": 134,
+    "last_date": "2026-03-03",
+    "followers": 4176,
+    "reach": 8752,
+    "accounts_engaged": 182,
     "followers_prev": 3683,
-    "followers_change": 470,
-    "followers_pct": 12.8,
+    "followers_change": 493,
+    "followers_pct": 13.4,
     "period_posts": 2,
-    "period_reach": 3388,
-    "period_engagement": 404,
+    "period_reach": 3465,
+    "period_engagement": 408,
     "top_post": {
-      "date": "2026-02-26",
+      "date": "2026-02-27",
       "type": "carousel",
-      "caption": "Dejo tras de mí un mar de penas para ti… ese es el camino cuando quieras regresa",
-      "reach": 1700
+      "caption": "«Ya no saben qué decir» — un tema de Buitres, grabado por La Saga para \"Justicia",
+      "reach": 1735
     },
     "trend": [
       {
@@ -64,20 +64,25 @@
         "date": "2026-03-02",
         "followers": 4153,
         "reach": 5990
+      },
+      {
+        "date": "2026-03-03",
+        "followers": 4176,
+        "reach": 8752
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 3,
-        "avg_reach": 3171.0,
-        "avg_engagement": 399.0
+        "avg_reach": 3186.0,
+        "avg_engagement": 401.0
       },
       {
         "type": "carousel",
         "posts": 3,
-        "avg_reach": 1936.0,
-        "avg_engagement": 303.0
+        "avg_reach": 1972.0,
+        "avg_engagement": 305.0
       }
     ]
   },
@@ -256,12 +261,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-01-31",
-        "views": 232,
-        "likes": 0,
-        "net_subs": 0
-      },
       {
         "date": "2026-02-01",
         "views": 129,
@@ -699,43 +698,7 @@
     "total_replied": 100,
     "response_rate": 48,
     "total_likes": 57,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "AM",
-        "received": 2,
-        "replied": 2,
-        "pending": 0
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 3,
-        "replied": 1,
-        "pending": 8
-      },
-      {
-        "platform": "x",
-        "shift": "AM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 7,
-        "replied": 5,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 6,
-        "replied": 4,
-        "pending": 2
-      }
-    ],
+    "today_grid": [],
     "trend": [
       {
         "date": "2026-02-20",
@@ -922,6 +885,12 @@
       },
       {
         "date": "2026-03-02",
+        "sent": 1,
+        "responses": 1,
+        "coverage": 1
+      },
+      {
+        "date": "2026-03-03",
         "sent": 1,
         "responses": 1,
         "coverage": 1
@@ -1157,7 +1126,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-03-02T14:01:06.496496+00:00",
+    "instagram": "2026-03-03T02:01:00.039743+00:00",
     "spotify": null,
     "emailoctopus": "2026-03-01T15:00:08.558109+00:00",
     "twitter": null,
