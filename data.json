@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-03T10:36:10.479995",
+  "generated_at": "2026-03-03T11:02:20.815505",
   "days_to_show": 44,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-03",
-    "followers": 4176,
-    "reach": 8752,
-    "accounts_engaged": 182,
+    "followers": 4184,
+    "reach": 4827,
+    "accounts_engaged": 86,
     "followers_prev": 3683,
-    "followers_change": 493,
-    "followers_pct": 13.4,
+    "followers_change": 501,
+    "followers_pct": 13.6,
     "period_posts": 2,
-    "period_reach": 3465,
-    "period_engagement": 408,
+    "period_reach": 3507,
+    "period_engagement": 409,
     "top_post": {
       "date": "2026-02-27",
       "type": "carousel",
       "caption": "«Ya no saben qué decir» — un tema de Buitres, grabado por La Saga para \"Justicia",
-      "reach": 1735
+      "reach": 1763
     },
     "trend": [
       {
@@ -67,21 +67,21 @@
       },
       {
         "date": "2026-03-03",
-        "followers": 4176,
-        "reach": 8752
+        "followers": 4184,
+        "reach": 4827
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 3,
-        "avg_reach": 3186.0,
-        "avg_engagement": 401.0
+        "avg_reach": 3197.0,
+        "avg_engagement": 402.0
       },
       {
         "type": "carousel",
         "posts": 3,
-        "avg_reach": 1972.0,
+        "avg_reach": 1995.0,
         "avg_engagement": 305.0
       }
     ]
@@ -1166,7 +1166,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-03-03T02:01:00.039743+00:00",
+    "instagram": "2026-03-03T14:02:17.185185+00:00",
     "spotify": null,
     "emailoctopus": "2026-03-01T15:00:08.558109+00:00",
     "twitter": null,
