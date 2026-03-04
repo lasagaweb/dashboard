@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T11:02:29.524649",
+  "generated_at": "2026-03-04T13:00:24.697521",
   "days_to_show": 43,
   "period_days": 7,
   "instagram": {
@@ -92,19 +92,19 @@
     ]
   },
   "email": {
-    "last_date": "2026-03-03",
+    "last_date": "2026-03-04",
     "total_subs": 1553,
     "subs_prev": 1663,
     "subs_change": -110,
     "subs_pct": -6.6,
     "period_gained": 52,
-    "period_lost": 334,
+    "period_lost": 499,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
         "sent": 583,
-        "open_pct": 37.9,
-        "click_pct": 7.4,
+        "open_pct": 38.4,
+        "click_pct": 7.5,
         "sent_at": "2026-02-27T14:05:14+00:00"
       },
       {
@@ -125,11 +125,11 @@
     "last_campaign": {
       "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
       "sent": 583,
-      "open_pct": 37.9,
-      "click_pct": 7.4,
+      "open_pct": 38.4,
+      "click_pct": 7.5,
       "sent_at": "2026-02-27T14:05:14+00:00"
     },
-    "avg_open_pct": 50.2,
+    "avg_open_pct": 50.4,
     "avg_click_pct": 13.9,
     "total_campaigns": 3,
     "trend": [
@@ -164,107 +164,111 @@
       {
         "date": "2026-03-03",
         "subs": 1553
+      },
+      {
+        "date": "2026-03-04",
+        "subs": 1553
       }
     ]
   },
   "youtube": {
-    "last_date": "2026-03-03",
+    "last_date": "2026-03-04",
     "subscribers": 3770,
-    "total_views": 1550966,
-    "videos_count": 43,
+    "total_views": 1551163,
+    "videos_count": 44,
     "subs_prev": 3740,
     "subs_change": 30,
     "subs_pct": 0.8,
-    "period_views": 2841,
-    "period_likes": 92,
+    "period_views": 3254,
+    "period_likes": 108,
     "period_shares": 19,
-    "period_watch_min": 3570.0,
-    "period_subs_net": 13,
-    "unreplied_comments": 1,
+    "period_watch_min": 4158.0,
+    "period_subs_net": 16,
+    "unreplied_comments": 2,
     "top_traffic_source": "SHORTS",
-    "top_traffic_views": 12216,
+    "top_traffic_views": 16254,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
-        "views": 20040
+        "views": 22998
       },
       {
         "source": "SHORTS",
-        "views": 13472
+        "views": 17510
       },
       {
         "source": "YT_SEARCH",
-        "views": 6803
+        "views": 7840
       },
       {
         "source": "SUBSCRIBER",
-        "views": 6325
+        "views": 7370
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 2684
+        "views": 3129
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 1975
+        "views": 2330
       },
       {
         "source": "EXT_URL",
-        "views": 1769
+        "views": 2131
       },
       {
         "source": "YT_CHANNEL",
-        "views": 1721
+        "views": 2093
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 1684
+        "views": 2030
       },
       {
         "source": "NOTIFICATION",
-        "views": 597
+        "views": 736
       },
       {
         "source": "END_SCREEN",
-        "views": 15
+        "views": 17
       },
       {
         "source": "SHORTS_CONTENT_LINKS",
-        "views": 14
+        "views": 16
       },
       {
         "source": "SOUND_PAGE",
-        "views": 12
+        "views": 15
       }
     ],
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 499376,
+        "views": 499425,
         "likes": 2230,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 466054,
-        "likes": 2328,
+        "views": 466112,
+        "likes": 2329,
         "type": "Video"
       },
       {
         "title": "\"Errante\" (La Saga - \"INTIMO\")",
-        "views": 161696,
+        "views": 161711,
         "likes": 695,
         "type": "Video"
       },
       {
         "title": "La Saga - Yo te quiero (Video Oficial)",
-        "views": 116087,
+        "views": 116091,
         "likes": 689,
         "type": "Video"
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 106551,
+        "views": 106567,
         "likes": 867,
         "type": "Video"
       }
@@ -422,7 +426,7 @@
       },
       {
         "date": "2026-02-27",
-        "views": 1290,
+        "views": 1285,
         "likes": 42,
         "net_subs": 3
       },
@@ -431,6 +435,12 @@
         "views": 927,
         "likes": 14,
         "net_subs": 6
+      },
+      {
+        "date": "2026-03-01",
+        "views": 418,
+        "likes": 16,
+        "net_subs": 3
       }
     ]
   },
@@ -1214,12 +1224,12 @@
   "platform_status": {
     "instagram": "2026-03-04T14:02:18.201712+00:00",
     "spotify": null,
-    "emailoctopus": "2026-03-03T15:00:21.416386+00:00",
+    "emailoctopus": "2026-03-04T15:02:29.666306+00:00",
     "twitter": null,
     "tiktok": null,
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-03-03T16:00:20.791069+00:00"
+    "youtube": "2026-03-04T16:00:20.554275+00:00"
   }
 }
