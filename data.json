@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-03T20:01:59.333715",
+  "generated_at": "2026-03-03T23:02:33.198358",
   "days_to_show": 44,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-03-03",
-    "followers": 4184,
-    "reach": 4827,
-    "accounts_engaged": 86,
+    "last_date": "2026-03-04",
+    "followers": 4208,
+    "reach": 7365,
+    "accounts_engaged": 240,
     "followers_prev": 3683,
-    "followers_change": 501,
-    "followers_pct": 13.6,
-    "period_posts": 2,
-    "period_reach": 3507,
-    "period_engagement": 409,
+    "followers_change": 525,
+    "followers_pct": 14.3,
+    "period_posts": 3,
+    "period_reach": 4337,
+    "period_engagement": 524,
     "top_post": {
       "date": "2026-02-27",
       "type": "carousel",
       "caption": "«Ya no saben qué decir» — un tema de Buitres, grabado por La Saga para \"Justicia",
-      "reach": 1763
+      "reach": 1796
     },
     "trend": [
       {
@@ -69,20 +69,25 @@
         "date": "2026-03-03",
         "followers": 4184,
         "reach": 4827
+      },
+      {
+        "date": "2026-03-04",
+        "followers": 4208,
+        "reach": 7365
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 3,
-        "avg_reach": 3197.0,
-        "avg_engagement": 402.0
+        "avg_reach": 3205.0,
+        "avg_engagement": 404.0
       },
       {
         "type": "carousel",
-        "posts": 3,
-        "avg_reach": 1995.0,
-        "avg_engagement": 305.0
+        "posts": 4,
+        "avg_reach": 1708.0,
+        "avg_engagement": 258.0
       }
     ]
   },
@@ -265,12 +270,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-02-01",
-        "views": 129,
-        "likes": 0,
-        "net_subs": 0
-      },
       {
         "date": "2026-02-02",
         "views": 201,
@@ -712,22 +711,7 @@
     "total_replied": 111,
     "response_rate": 51,
     "total_likes": 57,
-    "today_grid": [
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 6,
-        "replied": 6,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 5,
-        "replied": 5,
-        "pending": 0
-      }
-    ],
+    "today_grid": [],
     "trend": [
       {
         "date": "2026-02-20",
@@ -955,6 +939,12 @@
         "sent": 1,
         "responses": 1,
         "coverage": 1
+      },
+      {
+        "date": "2026-03-04",
+        "sent": 1,
+        "responses": 1,
+        "coverage": 1
       }
     ]
   },
@@ -1033,15 +1023,6 @@
   },
   "upcoming": {
     "items": [
-      {
-        "id": 4,
-        "date": "2026-02-24",
-        "platform": "instagram",
-        "type": "reel",
-        "description": "Estribillo Ya no saben qué decir (pedir frase a Nico)",
-        "status": "published",
-        "platforms_done": []
-      },
       {
         "id": 5,
         "date": "2026-02-26",
@@ -1195,7 +1176,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-03-03T14:02:17.185185+00:00",
+    "instagram": "2026-03-04T02:02:19.486489+00:00",
     "spotify": null,
     "emailoctopus": "2026-03-03T15:00:21.416386+00:00",
     "twitter": null,
