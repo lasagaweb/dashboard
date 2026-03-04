@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T10:04:49.970518",
+  "generated_at": "2026-03-04T10:24:01.004482",
   "days_to_show": 43,
   "period_days": 7,
   "instagram": {
@@ -687,13 +687,13 @@
         "response_time_avg_min": 0
       },
       "x": {
-        "comments_received": 0,
-        "comments_replied": 0,
+        "comments_received": 1,
+        "comments_replied": 1,
         "dms_received": 0,
         "dms_replied": 0,
-        "mentions_received": 2,
-        "mentions_replied": 0,
-        "likes_given": 4,
+        "mentions_received": 4,
+        "mentions_replied": 1,
+        "likes_given": 8,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -707,10 +707,10 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 225,
-    "total_replied": 115,
+    "total_received": 228,
+    "total_replied": 117,
     "response_rate": 51,
-    "total_likes": 59,
+    "total_likes": 63,
     "today_grid": [
       {
         "platform": "instagram",
@@ -718,6 +718,13 @@
         "received": 6,
         "replied": 4,
         "pending": 1
+      },
+      {
+        "platform": "x",
+        "shift": "AM",
+        "received": 3,
+        "replied": 2,
+        "pending": 0
       }
     ],
     "trend": [
@@ -763,12 +770,66 @@
       },
       {
         "date": "2026-03-04",
-        "received": 6,
-        "replied": 4
+        "received": 9,
+        "replied": 6
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-04",
+      "platform": "x",
+      "type": "follow",
+      "description": "Seguimos a @obolocultural (cooltivarte.com, nos seguía)"
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "x",
+      "type": "follow",
+      "description": "Seguimos a @MetalerosUy (difusión metal UY, 3.2K seguidores)"
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "x",
+      "type": "follow",
+      "description": "Seguimos a @josedpalazzo (productor Cosquín Rock)"
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @josedpalazzo viaje a UY para Cosquín Rock"
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @Uruguay_Natural Cosquín Rock"
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @Uruguay_Natural sobre Cosquín Rock en la rambla"
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @diegopresabuceo show SODRE 20/3"
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @Soulstone69 recuerdo velódromo"
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "x",
+      "type": "reply",
+      "description": "Respondimos a @Soulstone69 recuerdo del velódromo de madrugada"
+    },
     {
       "date": "2026-03-03",
       "platform": "youtube",
@@ -804,60 +865,6 @@
       "platform": "instagram",
       "type": "like",
       "description": "6 likes: milbabartel, larrosajeny, santito.soca, luli.mana_, sabrasick, elgabiboroni"
-    },
-    {
-      "date": "2026-03-02",
-      "platform": "instagram",
-      "type": "reply",
-      "description": "Reply a larrosajeny en DVPP4JIFNAm sobre escuchar el tema cada día"
-    },
-    {
-      "date": "2026-03-02",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos a @diegopresabuceo (Diego Presa, músico UY)"
-    },
-    {
-      "date": "2026-03-02",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos a @Laleyesotra (nos seguía, follow back)"
-    },
-    {
-      "date": "2026-03-02",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos a @Herrumbre_uy (banda rock UY)"
-    },
-    {
-      "date": "2026-03-02",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a reply de @pablo_olivera_p en hilo de @NachoObes sobre rock UY"
-    },
-    {
-      "date": "2026-03-02",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a tweet de @Hugo71755886 sobre disquería y música uruguaya"
-    },
-    {
-      "date": "2026-03-02",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a tweet de @MutualMX sobre NTVG en Guadalajara"
-    },
-    {
-      "date": "2026-03-02",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a tweet de @RadioBelcha sobre Rock Uruguayo Podcast"
-    },
-    {
-      "date": "2026-03-02",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @RadioBelcha sobre Rock Uruguayo Podcast: apoyo al espacio de difusión"
     }
   ],
   "suggestions": [
