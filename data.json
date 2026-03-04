@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T17:02:53.929766",
+  "generated_at": "2026-03-04T17:21:15.179052",
   "days_to_show": 43,
   "period_days": 7,
   "instagram": {
@@ -749,13 +749,13 @@
         "response_time_avg_min": 0
       },
       "x": {
-        "comments_received": 1,
+        "comments_received": 2,
         "comments_replied": 1,
         "dms_received": 0,
         "dms_replied": 0,
-        "mentions_received": 4,
+        "mentions_received": 5,
         "mentions_replied": 1,
-        "likes_given": 8,
+        "likes_given": 11,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -769,10 +769,10 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 233,
+    "total_received": 235,
     "total_replied": 122,
     "response_rate": 52,
-    "total_likes": 63,
+    "total_likes": 66,
     "today_grid": [
       {
         "platform": "instagram",
@@ -793,6 +793,13 @@
         "shift": "AM",
         "received": 3,
         "replied": 2,
+        "pending": 0
+      },
+      {
+        "platform": "x",
+        "shift": "PM",
+        "received": 2,
+        "replied": 0,
         "pending": 0
       },
       {
@@ -846,12 +853,66 @@
       },
       {
         "date": "2026-03-04",
-        "received": 14,
+        "received": 16,
         "replied": 11
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-04",
+      "platform": "x",
+      "type": "follow",
+      "description": "Seguimos a @BuceoInvisible (banda de Diego Presa)"
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "x",
+      "type": "follow",
+      "description": "Seguimos a @PremiosGraffiti (premios de música UY, nos seguían)"
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "x",
+      "type": "follow",
+      "description": "Seguimos a @MdeoSonoro (Montevideo Sonoro, medio musical, nos seguía)"
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "x",
+      "type": "follow",
+      "description": "Seguimos a @frannyglassuy (Franny Glass, músico UY, nos seguía)"
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "x",
+      "type": "follow",
+      "description": "Seguimos a @Soulstone69 (Gabiii Rocha, fan dedicada)"
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @waltermartini13 sobre Wannaclap Sessions: Wannaclap está haciendo un trabajo increíble con las Sessions. Gran sonido, gran registro. Nos vemos ahí en abril 🤘"
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "x",
+      "type": "like",
+      "description": "Like al tweet de @waltermartini13 sobre Wannaclap Sessions - El Trato"
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "x",
+      "type": "like",
+      "description": "Like al tweet de @delasespinas hablando de bandas uruguayas de los 2000"
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "x",
+      "type": "like",
+      "description": "Like al tweet de @diegopresabuceo sobre su show 20/3 en Auditorio del Sodre"
+    },
     {
       "date": "2026-03-04",
       "platform": "x",
@@ -887,60 +948,6 @@
       "platform": "x",
       "type": "reply",
       "description": "Reply a @Uruguay_Natural sobre Cosquín Rock en la rambla"
-    },
-    {
-      "date": "2026-03-04",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @diegopresabuceo show SODRE 20/3"
-    },
-    {
-      "date": "2026-03-04",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @Soulstone69 recuerdo velódromo"
-    },
-    {
-      "date": "2026-03-04",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respondimos a @Soulstone69 recuerdo del velódromo de madrugada"
-    },
-    {
-      "date": "2026-03-03",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondido @FABRI19022 en ONCE - reflexión sobre rock uruguayo"
-    },
-    {
-      "date": "2026-03-03",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondido @veckemorales3792 en Color - compartió letra completa"
-    },
-    {
-      "date": "2026-03-03",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondido @ghostzerosniperpsp en Estoy perdido - bienvenida al canal"
-    },
-    {
-      "date": "2026-03-03",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondido @andreseduardo600 en Estoy perdido - broma sobre baterista"
-    },
-    {
-      "date": "2026-03-03",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondido @thetacogaming9434 en Estoy perdido - sobre Max Samson"
-    },
-    {
-      "date": "2026-03-02",
-      "platform": "instagram",
-      "type": "like",
-      "description": "6 likes: milbabartel, larrosajeny, santito.soca, luli.mana_, sabrasick, elgabiboroni"
     }
   ],
   "suggestions": [
