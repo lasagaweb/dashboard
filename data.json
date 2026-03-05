@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T10:23:30.772160",
+  "generated_at": "2026-03-05T10:31:33.680745",
   "days_to_show": 42,
   "period_days": 7,
   "instagram": {
@@ -177,103 +177,103 @@
     ]
   },
   "youtube": {
-    "last_date": "2026-03-04",
+    "last_date": "2026-03-05",
     "subscribers": 3770,
-    "total_views": 1551438,
+    "total_views": 1551548,
     "videos_count": 44,
     "subs_prev": 3740,
     "subs_change": 30,
     "subs_pct": 0.8,
-    "period_views": 3251,
+    "period_views": 3250,
     "period_likes": 109,
     "period_shares": 24,
     "period_watch_min": 4148.0,
     "period_subs_net": 14,
     "unreplied_comments": 3,
     "top_traffic_source": "SHORTS",
-    "top_traffic_views": 16250,
+    "top_traffic_views": 20284,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
-        "views": 23086
+        "views": 26028
       },
       {
         "source": "SHORTS",
-        "views": 17506
+        "views": 21540
       },
       {
         "source": "YT_SEARCH",
-        "views": 7864
+        "views": 8895
       },
       {
         "source": "SUBSCRIBER",
-        "views": 7394
+        "views": 8423
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 3139
+        "views": 3587
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 2337
+        "views": 2692
       },
       {
         "source": "EXT_URL",
-        "views": 2138
+        "views": 2505
       },
       {
         "source": "YT_CHANNEL",
-        "views": 2101
+        "views": 2474
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 2038
+        "views": 2388
       },
       {
         "source": "NOTIFICATION",
-        "views": 737
+        "views": 877
       },
       {
         "source": "END_SCREEN",
-        "views": 17
-      },
-      {
-        "source": "SHORTS_CONTENT_LINKS",
-        "views": 16
+        "views": 19
       },
       {
         "source": "SOUND_PAGE",
-        "views": 15
+        "views": 18
+      },
+      {
+        "source": "SHORTS_CONTENT_LINKS",
+        "views": 18
       }
     ],
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 499447,
-        "likes": 2230,
+        "views": 499476,
+        "likes": 2231,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 466132,
+        "views": 466163,
         "likes": 2329,
         "type": "Video"
       },
       {
         "title": "\"Errante\" (La Saga - \"INTIMO\")",
-        "views": 161720,
+        "views": 161737,
         "likes": 695,
         "type": "Video"
       },
       {
         "title": "La Saga - Yo te quiero (Video Oficial)",
-        "views": 116096,
+        "views": 116104,
         "likes": 689,
         "type": "Video"
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 106576,
+        "views": 106592,
         "likes": 867,
         "type": "Video"
       }
@@ -431,7 +431,7 @@
       },
       {
         "date": "2026-02-28",
-        "views": 927,
+        "views": 926,
         "likes": 14,
         "net_subs": 6
       },
@@ -650,7 +650,7 @@
     ]
   },
   "x": {
-    "last_date": "2026-03-04",
+    "last_date": "2026-03-05",
     "followers": 1367,
     "following": 477,
     "followers_prev": 1367,
@@ -738,6 +738,10 @@
       {
         "date": "2026-03-04",
         "followers": 1367
+      },
+      {
+        "date": "2026-03-05",
+        "followers": 1367
       }
     ]
   },
@@ -764,20 +768,20 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 115,
-        "comments_replied": 83,
+        "comments_received": 120,
+        "comments_replied": 88,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 17,
+        "likes_given": 22,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 243,
-    "total_replied": 129,
-    "response_rate": 53,
-    "total_likes": 74,
+    "total_received": 248,
+    "total_replied": 134,
+    "response_rate": 54,
+    "total_likes": 79,
     "today_grid": [
       {
         "platform": "instagram",
@@ -791,6 +795,13 @@
         "shift": "AM",
         "received": 1,
         "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 5,
+        "replied": 5,
         "pending": 0
       }
     ],
@@ -842,12 +853,18 @@
       },
       {
         "date": "2026-03-05",
-        "received": 1,
-        "replied": 0
+        "received": 6,
+        "replied": 5
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-05",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "5 replies en Estoy perdido, Color, ONCE"
+    },
     {
       "date": "2026-03-05",
       "platform": "x",
@@ -931,19 +948,13 @@
       "platform": "x",
       "type": "follow",
       "description": "Seguimos a @Soulstone69 (Gabiii Rocha, fan dedicada)"
-    },
-    {
-      "date": "2026-03-04",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @waltermartini13 sobre Wannaclap Sessions: Wannaclap está haciendo un trabajo increíble con las Sessions. Gran sonido, gran registro. Nos vemos ahí en abril 🤘"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 53%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 54%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
@@ -1299,6 +1310,6 @@
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-03-04T23:05:16.791949+00:00"
+    "youtube": "2026-03-05T13:24:54.214172+00:00"
   }
 }
