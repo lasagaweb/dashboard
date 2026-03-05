@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T17:22:16.689193",
+  "generated_at": "2026-03-05T17:31:57.454046",
   "days_to_show": 42,
   "period_days": 7,
   "instagram": {
@@ -827,6 +827,13 @@
         "received": 5,
         "replied": 5,
         "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 0,
+        "replied": 0,
+        "pending": 0
       }
     ],
     "trend": [
@@ -883,6 +890,12 @@
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-05",
+      "platform": "youtube",
+      "type": "check",
+      "description": "PM check: 0 comentarios nuevos sin responder, todo cubierto en AM"
+    },
     {
       "date": "2026-03-05",
       "platform": "x",
@@ -966,12 +979,6 @@
       "platform": "x",
       "type": "reply",
       "description": "Reply a @ObservadorUY sobre Cosquín Rock Uruguay 2026 - comentando importancia para la escena"
-    },
-    {
-      "date": "2026-03-05",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @LeoPiriz8 sobre DVD de NTVG 21 años - opinando sobre el rock uruguayo"
     }
   ],
   "suggestions": [
