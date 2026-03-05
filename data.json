@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T16:32:23.903585",
+  "generated_at": "2026-03-05T17:03:13.632803",
   "days_to_show": 42,
   "period_days": 7,
   "instagram": {
@@ -760,8 +760,8 @@
       "instagram": {
         "comments_received": 111,
         "comments_replied": 38,
-        "dms_received": 9,
-        "dms_replied": 6,
+        "dms_received": 11,
+        "dms_replied": 8,
         "mentions_received": 0,
         "mentions_replied": 0,
         "likes_given": 40,
@@ -788,8 +788,8 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 248,
-    "total_replied": 134,
+    "total_received": 250,
+    "total_replied": 136,
     "response_rate": 54,
     "total_likes": 79,
     "today_grid": [
@@ -798,6 +798,13 @@
         "shift": "AM",
         "received": 0,
         "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "instagram",
+        "shift": "PM",
+        "received": 2,
+        "replied": 2,
         "pending": 0
       },
       {
@@ -863,8 +870,8 @@
       },
       {
         "date": "2026-03-05",
-        "received": 6,
-        "replied": 5
+        "received": 8,
+        "replied": 7
       }
     ]
   },
@@ -1193,8 +1200,12 @@
         "platform": "instagram",
         "type": "reel",
         "description": "S4 Pilsen Rock / Velódromo",
-        "status": "planned",
-        "platforms_done": []
+        "status": "published",
+        "platforms_done": [
+          "instagram",
+          "x",
+          "youtube"
+        ]
       },
       {
         "id": 10,
