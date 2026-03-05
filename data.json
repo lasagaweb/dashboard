@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T17:03:13.632803",
+  "generated_at": "2026-03-05T17:22:16.689193",
   "days_to_show": 42,
   "period_days": 7,
   "instagram": {
@@ -774,7 +774,7 @@
         "dms_replied": 0,
         "mentions_received": 6,
         "mentions_replied": 1,
-        "likes_given": 17,
+        "likes_given": 23,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -791,7 +791,7 @@
     "total_received": 250,
     "total_replied": 136,
     "response_rate": 54,
-    "total_likes": 79,
+    "total_likes": 85,
     "today_grid": [
       {
         "platform": "instagram",
@@ -811,6 +811,13 @@
         "platform": "x",
         "shift": "AM",
         "received": 1,
+        "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "x",
+        "shift": "PM",
+        "received": 0,
         "replied": 0,
         "pending": 0
       },
@@ -878,6 +885,36 @@
   "community_log": [
     {
       "date": "2026-03-05",
+      "platform": "x",
+      "type": "follow",
+      "description": "Seguimos a @CosquinRockUy (festival, 4.4K seg), @UruguayRock (rock uruguayo), @LeoPiriz8 (fan rock UY que interactuó)"
+    },
+    {
+      "date": "2026-03-05",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @wilmareverton, @ELMOuruguay, @pericosreggae, @snguine, @Metronomo_uy, @ceroestresporta"
+    },
+    {
+      "date": "2026-03-05",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @Metronomo_uy sobre countdown Cosquín Rock Uruguay 2026"
+    },
+    {
+      "date": "2026-03-05",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @ELMOuruguay en serie Músicos y Bandas Uruguayas Pt08 sobre La Triple Nelson"
+    },
+    {
+      "date": "2026-03-05",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @wilmareverton en conversación sobre bandas uruguayas actuales (Motorhome, Trovador Eléctrico, Flor Sakeo)"
+    },
+    {
+      "date": "2026-03-05",
       "platform": "youtube",
       "type": "reply",
       "description": "5 replies en Estoy perdido, Color, ONCE"
@@ -935,36 +972,6 @@
       "platform": "x",
       "type": "reply",
       "description": "Reply a @LeoPiriz8 sobre DVD de NTVG 21 años - opinando sobre el rock uruguayo"
-    },
-    {
-      "date": "2026-03-04",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos a @BuceoInvisible (banda de Diego Presa)"
-    },
-    {
-      "date": "2026-03-04",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos a @PremiosGraffiti (premios de música UY, nos seguían)"
-    },
-    {
-      "date": "2026-03-04",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos a @MdeoSonoro (Montevideo Sonoro, medio musical, nos seguía)"
-    },
-    {
-      "date": "2026-03-04",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos a @frannyglassuy (Franny Glass, músico UY, nos seguía)"
-    },
-    {
-      "date": "2026-03-04",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos a @Soulstone69 (Gabiii Rocha, fan dedicada)"
     }
   ],
   "suggestions": [
