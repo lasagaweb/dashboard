@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T17:02:59.495781",
+  "generated_at": "2026-03-06T17:20:18.890473",
   "days_to_show": 41,
   "period_days": 7,
   "instagram": {
@@ -781,13 +781,13 @@
         "response_time_avg_min": 0
       },
       "x": {
-        "comments_received": 3,
+        "comments_received": 4,
         "comments_replied": 2,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 6,
         "mentions_replied": 1,
-        "likes_given": 29,
+        "likes_given": 35,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -801,10 +801,10 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 158,
+    "total_received": 159,
     "total_replied": 113,
-    "response_rate": 72,
-    "total_likes": 68,
+    "response_rate": 71,
+    "total_likes": 74,
     "today_grid": [
       {
         "platform": "instagram",
@@ -825,6 +825,13 @@
         "shift": "AM",
         "received": 1,
         "replied": 1,
+        "pending": 0
+      },
+      {
+        "platform": "x",
+        "shift": "PM",
+        "received": 1,
+        "replied": 0,
         "pending": 0
       },
       {
@@ -888,12 +895,72 @@
       },
       {
         "date": "2026-03-06",
-        "received": 6,
+        "received": 7,
         "replied": 3
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "follow",
+      "description": "Seguimos a @diadisqueriasuy - Día de las Disquerías UY"
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "follow",
+      "description": "Seguimos a @retrovisormusic - músico uruguayo"
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @MorgganDev reapertura La Trastienda"
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @retrovisormusic Buceo Invisible en vivo"
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @SoloRockUruguay Vinilo Fest"
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @elgacetaradio Cosquín Rock VIP"
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @obolocultural La Vela Puerca Cosquín"
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @TeatroSolis temporada 2026"
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @SoloRockUruguay sobre Vinilo Fest edición 21"
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @obolocultural sobre La Vela Puerca en Cosquín Rock Uruguay"
+    },
     {
       "date": "2026-03-06",
       "platform": "youtube",
@@ -923,73 +990,13 @@
       "platform": "x",
       "type": "like",
       "description": "Like a @cumbia_club sobre Sala del Museo"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @5noticiasuy sobre Sala del Museo 10 años"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @TainiRivers sobre música uruguaya"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @byulielou recomendando música uruguaya"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @pampadiarioOK sobre NTVG en General Pico"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @5noticiasuy sobre 10 años de Sala del Museo"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @ELMOuruguay agradeciendo su apoyo"
-    },
-    {
-      "date": "2026-03-05",
-      "platform": "youtube",
-      "type": "check",
-      "description": "PM check: 0 comentarios nuevos sin responder, todo cubierto en AM"
-    },
-    {
-      "date": "2026-03-05",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos a @CosquinRockUy (festival, 4.4K seg), @UruguayRock (rock uruguayo), @LeoPiriz8 (fan rock UY que interactuó)"
-    },
-    {
-      "date": "2026-03-05",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @wilmareverton, @ELMOuruguay, @pericosreggae, @snguine, @Metronomo_uy, @ceroestresporta"
-    },
-    {
-      "date": "2026-03-05",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @Metronomo_uy sobre countdown Cosquín Rock Uruguay 2026"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 72%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 71%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
