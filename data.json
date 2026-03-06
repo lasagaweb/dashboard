@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T10:22:39.490188",
+  "generated_at": "2026-03-06T10:33:03.085711",
   "days_to_show": 41,
   "period_days": 7,
   "instagram": {
@@ -777,8 +777,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 85,
-        "comments_replied": 74,
+        "comments_received": 86,
+        "comments_replied": 75,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -787,9 +787,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 157,
-    "total_replied": 112,
-    "response_rate": 71,
+    "total_received": 158,
+    "total_replied": 113,
+    "response_rate": 72,
     "total_likes": 68,
     "today_grid": [
       {
@@ -801,6 +801,13 @@
       },
       {
         "platform": "x",
+        "shift": "AM",
+        "received": 1,
+        "replied": 1,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
         "shift": "AM",
         "received": 1,
         "replied": 1,
@@ -860,12 +867,18 @@
       },
       {
         "date": "2026-03-06",
-        "received": 5,
-        "replied": 2
+        "received": 6,
+        "replied": 3
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-06",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "@alemanya91: Vamo la saga vamooo → Vamos con todo! Gracias por el aguante 🤘 + corazón"
+    },
     {
       "date": "2026-03-06",
       "platform": "x",
@@ -949,19 +962,13 @@
       "platform": "x",
       "type": "reply",
       "description": "Reply a @Metronomo_uy sobre countdown Cosquín Rock Uruguay 2026"
-    },
-    {
-      "date": "2026-03-05",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @ELMOuruguay en serie Músicos y Bandas Uruguayas Pt08 sobre La Triple Nelson"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 71%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 72%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
