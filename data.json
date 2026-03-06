@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T17:31:53.663476",
+  "generated_at": "2026-03-06T20:01:02.686729",
   "days_to_show": 41,
   "period_days": 7,
   "instagram": {
@@ -1339,6 +1339,14 @@
       "total_reach": 8355,
       "total_engagement": 705,
       "email_list_size": 1553,
+      "tickets_sold_total": 0
+    },
+    {
+      "date": "2026-03-06",
+      "total_followers": 19081,
+      "total_reach": 6219,
+      "total_engagement": 437,
+      "email_list_size": 1552,
       "tickets_sold_total": 0
     }
   ],
