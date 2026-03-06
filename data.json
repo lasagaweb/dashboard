@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-03-05T23:01:35.694965",
-  "days_to_show": 42,
+  "generated_at": "2026-03-06T10:08:26.952059",
+  "days_to_show": 41,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-06",
     "followers": 4303,
     "reach": 7667,
     "accounts_engaged": 192,
-    "followers_prev": 3976,
-    "followers_change": 327,
-    "followers_pct": 8.2,
-    "period_posts": 3,
-    "period_reach": 5210,
-    "period_engagement": 590,
+    "followers_prev": 4008,
+    "followers_change": 295,
+    "followers_pct": 7.4,
+    "period_posts": 2,
+    "period_reach": 3353,
+    "period_engagement": 342,
     "top_post": {
       "date": "2026-02-27",
       "type": "carousel",
@@ -104,11 +104,11 @@
   "email": {
     "last_date": "2026-03-05",
     "total_subs": 1553,
-    "subs_prev": 1663,
-    "subs_change": -110,
-    "subs_pct": -6.6,
+    "subs_prev": 1715,
+    "subs_change": -162,
+    "subs_pct": -9.4,
     "period_gained": 52,
-    "period_lost": 664,
+    "period_lost": 661,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -193,11 +193,11 @@
     "subs_prev": 3740,
     "subs_change": 30,
     "subs_pct": 0.8,
-    "period_views": 3250,
-    "period_likes": 109,
-    "period_shares": 24,
-    "period_watch_min": 4148.0,
-    "period_subs_net": 14,
+    "period_views": 2803,
+    "period_likes": 77,
+    "period_shares": 13,
+    "period_watch_min": 3324.0,
+    "period_subs_net": 12,
     "unreplied_comments": 3,
     "top_traffic_source": "SHORTS",
     "top_traffic_views": 20284,
@@ -460,11 +460,11 @@
     "super_listeners": 431,
     "saves": 1005,
     "playlist_adds": 989,
-    "listeners_prev": 22710,
-    "listeners_change": 89,
-    "listeners_pct": 0.4,
-    "streams_prev": 98784,
-    "streams_change": 647,
+    "listeners_prev": 22597,
+    "listeners_change": 202,
+    "listeners_pct": 0.9,
+    "streams_prev": 98231,
+    "streams_change": 1200,
     "top_tracks": [
       {
         "name": "Color",
@@ -606,7 +606,7 @@
         "listeners": 250
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -757,13 +757,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 111,
-        "comments_replied": 38,
-        "dms_received": 11,
+        "comments_received": 51,
+        "comments_replied": 27,
+        "dms_received": 12,
         "dms_replied": 8,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 40,
+        "likes_given": 23,
         "response_time_avg_min": 0
       },
       "x": {
@@ -777,21 +777,29 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 120,
-        "comments_replied": 88,
+        "comments_received": 85,
+        "comments_replied": 74,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 22,
+        "likes_given": 16,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 250,
-    "total_replied": 136,
-    "response_rate": 54,
-    "total_likes": 85,
-    "today_grid": [],
+    "total_received": 156,
+    "total_replied": 111,
+    "response_rate": 71,
+    "total_likes": 62,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 4,
+        "replied": 1,
+        "pending": 0
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-20",
@@ -842,6 +850,11 @@
         "date": "2026-03-05",
         "received": 8,
         "replied": 7
+      },
+      {
+        "date": "2026-03-06",
+        "received": 4,
+        "replied": 1
       }
     ]
   },
@@ -941,7 +954,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 54%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 71%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
