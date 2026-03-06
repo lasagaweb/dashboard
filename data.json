@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T10:08:26.952059",
+  "generated_at": "2026-03-06T10:22:39.490188",
   "days_to_show": 41,
   "period_days": 7,
   "instagram": {
@@ -767,13 +767,13 @@
         "response_time_avg_min": 0
       },
       "x": {
-        "comments_received": 2,
-        "comments_replied": 1,
+        "comments_received": 3,
+        "comments_replied": 2,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 6,
         "mentions_replied": 1,
-        "likes_given": 23,
+        "likes_given": 29,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -787,15 +787,22 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 156,
-    "total_replied": 111,
+    "total_received": 157,
+    "total_replied": 112,
     "response_rate": 71,
-    "total_likes": 62,
+    "total_likes": 68,
     "today_grid": [
       {
         "platform": "instagram",
         "shift": "AM",
         "received": 4,
+        "replied": 1,
+        "pending": 0
+      },
+      {
+        "platform": "x",
+        "shift": "AM",
+        "received": 1,
         "replied": 1,
         "pending": 0
       }
@@ -853,12 +860,72 @@
       },
       {
         "date": "2026-03-06",
-        "received": 4,
-        "replied": 1
+        "received": 5,
+        "replied": 2
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "follow",
+      "description": "Seguimos a @delasespinas (fan activo de rock UY)"
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "follow",
+      "description": "Seguimos a @PianoPiano_uy (banda uruguaya)"
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @ELMOuruguay reply de apoyo a La Saga"
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @cumbia_club sobre Sala del Museo"
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @5noticiasuy sobre Sala del Museo 10 años"
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @TainiRivers sobre música uruguaya"
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @byulielou recomendando música uruguaya"
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @pampadiarioOK sobre NTVG en General Pico"
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @5noticiasuy sobre 10 años de Sala del Museo"
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @ELMOuruguay agradeciendo su apoyo"
+    },
     {
       "date": "2026-03-05",
       "platform": "youtube",
@@ -888,66 +955,6 @@
       "platform": "x",
       "type": "reply",
       "description": "Reply a @ELMOuruguay en serie Músicos y Bandas Uruguayas Pt08 sobre La Triple Nelson"
-    },
-    {
-      "date": "2026-03-05",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @wilmareverton en conversación sobre bandas uruguayas actuales (Motorhome, Trovador Eléctrico, Flor Sakeo)"
-    },
-    {
-      "date": "2026-03-05",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "5 replies en Estoy perdido, Color, ONCE"
-    },
-    {
-      "date": "2026-03-05",
-      "platform": "x",
-      "type": "follow",
-      "description": "Follow back a @radioculturauy - radio pública de música nacional, nos sigue"
-    },
-    {
-      "date": "2026-03-05",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @CarasyCaretasuy - reapertura Trastienda"
-    },
-    {
-      "date": "2026-03-05",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @Taybrison - math rock uruguayo"
-    },
-    {
-      "date": "2026-03-05",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @BuceoInvisible - show en Babilonia"
-    },
-    {
-      "date": "2026-03-05",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @5noticiasuy - presentación Cosquín Rock"
-    },
-    {
-      "date": "2026-03-05",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @ObservadorUY - Cosquín Rock Uruguay"
-    },
-    {
-      "date": "2026-03-05",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @LeoPiriz8 - DVD NTVG rock uruguayo"
-    },
-    {
-      "date": "2026-03-05",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @ObservadorUY sobre Cosquín Rock Uruguay 2026 - comentando importancia para la escena"
     }
   ],
   "suggestions": [
