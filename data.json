@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T10:19:29.974343",
+  "generated_at": "2026-03-07T10:31:09.722972",
   "days_to_show": 40,
   "period_days": 7,
   "instagram": {
@@ -790,8 +790,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 69,
-        "comments_replied": 60,
+        "comments_received": 74,
+        "comments_replied": 65,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -800,9 +800,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 150,
-    "total_replied": 86,
-    "response_rate": 57,
+    "total_received": 155,
+    "total_replied": 91,
+    "response_rate": 59,
     "total_likes": 79,
     "today_grid": [
       {
@@ -817,6 +817,13 @@
         "shift": "AM",
         "received": 17,
         "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 5,
+        "replied": 5,
         "pending": 0
       }
     ],
@@ -878,12 +885,18 @@
       },
       {
         "date": "2026-03-07",
-        "received": 24,
-        "replied": 3
+        "received": 29,
+        "replied": 8
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-07",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondidos 5 comentarios en videos Estoy perdido, Color y ONCE"
+    },
     {
       "date": "2026-03-07",
       "platform": "x",
@@ -967,19 +980,13 @@
       "platform": "x",
       "type": "like",
       "description": "Like a @elgacetaradio Cosquín Rock VIP"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @obolocultural La Vela Puerca Cosquín"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 57%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 59%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
