@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-07T10:31:09.722972",
+  "generated_at": "2026-03-07T11:02:20.205188",
   "days_to_show": 40,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-07",
-    "followers": 4335,
-    "reach": 6873,
-    "accounts_engaged": 180,
+    "followers": 4352,
+    "reach": 4980,
+    "accounts_engaged": 118,
     "followers_prev": 4053,
-    "followers_change": 282,
-    "followers_pct": 7.0,
+    "followers_change": 299,
+    "followers_pct": 7.4,
     "period_posts": 1,
-    "period_reach": 1591,
-    "period_engagement": 176,
+    "period_reach": 1707,
+    "period_engagement": 180,
     "top_post": {
       "date": "2026-03-03",
       "type": "carousel",
       "caption": "¿Qué te acordaste del Pilsen Rock? Miles de personas. \"Quiero\" a todo volumen. \"",
-      "reach": 1591
+      "reach": 1707
     },
     "trend": [
       {
@@ -87,22 +87,22 @@
       },
       {
         "date": "2026-03-07",
-        "followers": 4335,
-        "reach": 6873
+        "followers": 4352,
+        "reach": 4980
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 3,
-        "avg_reach": 3334.0,
-        "avg_engagement": 414.0
+        "avg_reach": 3349.0,
+        "avg_engagement": 415.0
       },
       {
         "type": "carousel",
         "posts": 4,
-        "avg_reach": 2012.0,
-        "avg_engagement": 281.0
+        "avg_reach": 2055.0,
+        "avg_engagement": 282.0
       }
     ]
   },
@@ -1340,7 +1340,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-03-07T02:01:57.575679+00:00",
+    "instagram": "2026-03-07T14:02:16.720666+00:00",
     "spotify": null,
     "emailoctopus": "2026-03-06T15:00:15.051508+00:00",
     "twitter": null,
