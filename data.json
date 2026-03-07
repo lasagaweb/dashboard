@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-06T23:02:00.959647",
-  "days_to_show": 41,
+  "generated_at": "2026-03-07T10:02:40.839271",
+  "days_to_show": 40,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-07",
     "followers": 4335,
     "reach": 6873,
     "accounts_engaged": 180,
-    "followers_prev": 4008,
-    "followers_change": 327,
-    "followers_pct": 8.2,
-    "period_posts": 2,
-    "period_reach": 3516,
-    "period_engagement": 356,
+    "followers_prev": 4053,
+    "followers_change": 282,
+    "followers_pct": 7.0,
+    "period_posts": 1,
+    "period_reach": 1591,
+    "period_engagement": 176,
     "top_post": {
-      "date": "2026-02-27",
+      "date": "2026-03-03",
       "type": "carousel",
-      "caption": "«Ya no saben qué decir» — un tema de Buitres, grabado por La Saga para \"Justicia",
-      "reach": 1925
+      "caption": "¿Qué te acordaste del Pilsen Rock? Miles de personas. \"Quiero\" a todo volumen. \"",
+      "reach": 1591
     },
     "trend": [
       {
@@ -112,8 +112,8 @@
     "subs_prev": 1715,
     "subs_change": -163,
     "subs_pct": -9.5,
-    "period_gained": 52,
-    "period_lost": 827,
+    "period_gained": 0,
+    "period_lost": 824,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -199,14 +199,14 @@
     "subscribers": 3770,
     "total_views": 1551548,
     "videos_count": 44,
-    "subs_prev": 3740,
-    "subs_change": 30,
-    "subs_pct": 0.8,
-    "period_views": 2803,
-    "period_likes": 77,
-    "period_shares": 13,
-    "period_watch_min": 3324.0,
-    "period_subs_net": 12,
+    "subs_prev": 3760,
+    "subs_change": 10,
+    "subs_pct": 0.3,
+    "period_views": 1518,
+    "period_likes": 35,
+    "period_shares": 7,
+    "period_watch_min": 2100.0,
+    "period_subs_net": 9,
     "unreplied_comments": 3,
     "top_traffic_source": "SHORTS",
     "top_traffic_views": 20284,
@@ -609,7 +609,7 @@
         "listeners": 247
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -770,13 +770,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 51,
-        "comments_replied": 27,
+        "comments_received": 42,
+        "comments_replied": 14,
         "dms_received": 12,
-        "dms_replied": 8,
+        "dms_replied": 9,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 23,
+        "likes_given": 22,
         "response_time_avg_min": 0
       },
       "x": {
@@ -790,8 +790,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 86,
-        "comments_replied": 75,
+        "comments_received": 69,
+        "comments_replied": 60,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -800,11 +800,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 159,
-    "total_replied": 113,
-    "response_rate": 71,
-    "total_likes": 74,
-    "today_grid": [],
+    "total_received": 133,
+    "total_replied": 86,
+    "response_rate": 65,
+    "total_likes": 73,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 7,
+        "replied": 3,
+        "pending": 0
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-20",
@@ -858,6 +866,11 @@
       },
       {
         "date": "2026-03-06",
+        "received": 7,
+        "replied": 3
+      },
+      {
+        "date": "2026-03-07",
         "received": 7,
         "replied": 3
       }
@@ -959,7 +972,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 71%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 65%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
