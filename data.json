@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T19:28:59.493614",
+  "generated_at": "2026-03-07T19:38:37.555358",
   "days_to_show": 40,
   "period_days": 7,
   "instagram": {
@@ -806,13 +806,13 @@
         "response_time_avg_min": 0
       },
       "x": {
-        "comments_received": 6,
-        "comments_replied": 2,
+        "comments_received": 9,
+        "comments_replied": 5,
         "dms_received": 0,
         "dms_replied": 0,
-        "mentions_received": 21,
-        "mentions_replied": 1,
-        "likes_given": 41,
+        "mentions_received": 24,
+        "mentions_replied": 4,
+        "likes_given": 48,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -826,10 +826,10 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 156,
-    "total_replied": 92,
-    "response_rate": 59,
-    "total_likes": 79,
+    "total_received": 162,
+    "total_replied": 98,
+    "response_rate": 60,
+    "total_likes": 86,
     "today_grid": [
       {
         "platform": "instagram",
@@ -850,6 +850,13 @@
         "shift": "AM",
         "received": 17,
         "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "x",
+        "shift": "PM",
+        "received": 6,
+        "replied": 6,
         "pending": 0
       },
       {
@@ -918,12 +925,54 @@
       },
       {
         "date": "2026-03-07",
-        "received": 30,
-        "replied": 9
+        "received": 36,
+        "replied": 15
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-07",
+      "platform": "x",
+      "type": "follow",
+      "description": "Seguimos a @gaucho_uy (agenda shows MVD) y @OjosDeCiudad4 (noticias escena UY)"
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @byulielou, @STRAUSSBABY x2, @TainiRivers, @OjosDeCiudad4, @gaucho_uy PIL tweet"
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "x",
+      "type": "reply",
+      "description": "Respondimos a @OjosDeCiudad4 sobre regreso de Buenos Muchachos"
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "x",
+      "type": "reply",
+      "description": "Respondimos a @TainiRivers sobre musica uruguaya como viaje de ida"
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "x",
+      "type": "reply",
+      "description": "Respondimos a @STRAUSSBABY Gracias por las recomendaciones sobre rock uruguayo"
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "x",
+      "type": "reply",
+      "description": "Respondimos a @byulielou quote tweet APARECIAN LOS DE LA SAGA JAJAJAJA HOLA VAMO ARRIBA"
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "x",
+      "type": "reply",
+      "description": "Respondimos a @byulielou que dijo excelentes recomendaciones sobre nuestro tweet de rock uruguayo"
+    },
     {
       "date": "2026-03-07",
       "platform": "youtube",
@@ -971,55 +1020,13 @@
       "platform": "x",
       "type": "reply",
       "description": "Reply a @byulielou recomendando bandas de rock uruguayo incluyendo La Saga naturalmente"
-    },
-    {
-      "date": "2026-03-07",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @MEC_Uruguay sobre 90 años de Zitarrosa - participando en conversación cultural"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos a @diadisqueriasuy - Día de las Disquerías UY"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos a @retrovisormusic - músico uruguayo"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @MorgganDev reapertura La Trastienda"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @retrovisormusic Buceo Invisible en vivo"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @SoloRockUruguay Vinilo Fest"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @elgacetaradio Cosquín Rock VIP"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 59%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 60%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
