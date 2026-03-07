@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T10:02:40.839271",
+  "generated_at": "2026-03-07T10:19:29.974343",
   "days_to_show": 40,
   "period_days": 7,
   "instagram": {
@@ -780,13 +780,13 @@
         "response_time_avg_min": 0
       },
       "x": {
-        "comments_received": 4,
+        "comments_received": 6,
         "comments_replied": 2,
         "dms_received": 0,
         "dms_replied": 0,
-        "mentions_received": 6,
+        "mentions_received": 21,
         "mentions_replied": 1,
-        "likes_given": 35,
+        "likes_given": 41,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -800,16 +800,23 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 133,
+    "total_received": 150,
     "total_replied": 86,
-    "response_rate": 65,
-    "total_likes": 73,
+    "response_rate": 57,
+    "total_likes": 79,
     "today_grid": [
       {
         "platform": "instagram",
         "shift": "AM",
         "received": 7,
         "replied": 3,
+        "pending": 0
+      },
+      {
+        "platform": "x",
+        "shift": "AM",
+        "received": 17,
+        "replied": 0,
         "pending": 0
       }
     ],
@@ -871,12 +878,60 @@
       },
       {
         "date": "2026-03-07",
-        "received": 7,
+        "received": 24,
         "replied": 3
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-07",
+      "platform": "x",
+      "type": "follow",
+      "description": "Follow back a @juanmarino_uy (músico UY que nos seguía)"
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a Agenda Rock de @SoloRockUruguay"
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a post de @SoloRockUruguay sobre Malbajío"
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a post de @CDopico sobre David Gilmour 80 años"
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a post de @MEC_Uruguay sobre Zitarrosa 90 años"
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @snguine sobre lineup del Cosquín Rock Uruguay"
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @byulielou recomendando bandas de rock uruguayo incluyendo La Saga naturalmente"
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @MEC_Uruguay sobre 90 años de Zitarrosa - participando en conversación cultural"
+    },
     {
       "date": "2026-03-06",
       "platform": "x",
@@ -918,61 +973,13 @@
       "platform": "x",
       "type": "like",
       "description": "Like a @obolocultural La Vela Puerca Cosquín"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @TeatroSolis temporada 2026"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @SoloRockUruguay sobre Vinilo Fest edición 21"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @obolocultural sobre La Vela Puerca en Cosquín Rock Uruguay"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "@alemanya91: Vamo la saga vamooo → Vamos con todo! Gracias por el aguante 🤘 + corazón"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos a @delasespinas (fan activo de rock UY)"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos a @PianoPiano_uy (banda uruguaya)"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @ELMOuruguay reply de apoyo a La Saga"
-    },
-    {
-      "date": "2026-03-06",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @cumbia_club sobre Sala del Museo"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 65%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 57%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
