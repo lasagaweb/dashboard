@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T16:31:29.172996",
+  "generated_at": "2026-03-08T16:31:58.077559",
   "days_to_show": 39,
   "period_days": 7,
   "instagram": {
@@ -1246,6 +1246,33 @@
         "type": "video",
         "description": "Errante - canción completa",
         "status": "published",
+        "platforms_done": []
+      },
+      {
+        "id": 12,
+        "date": "2026-03-10",
+        "platform": "IG/TikTok/YT Shorts",
+        "type": "Estribillo",
+        "description": "Estribillo de \"Errante\" — reel vertical 34s",
+        "status": "ready",
+        "platforms_done": []
+      },
+      {
+        "id": 13,
+        "date": "2026-03-12",
+        "platform": "IG Feed",
+        "type": "Carrusel",
+        "description": "Carrusel de \"Eso que nos lleva\" — imagen+frase (pendiente Nico)",
+        "status": "blocked",
+        "platforms_done": []
+      },
+      {
+        "id": 14,
+        "date": "2026-03-15",
+        "platform": "YouTube",
+        "type": "Canción completa",
+        "description": "\"Eso que nos lleva\" — canción completa",
+        "status": "planned",
         "platforms_done": []
       }
     ],
