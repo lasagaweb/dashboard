@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T13:00:21.577050",
+  "generated_at": "2026-03-08T14:03:29.117713",
   "days_to_show": 39,
   "period_days": 7,
   "instagram": {
@@ -699,9 +699,9 @@
     ]
   },
   "x": {
-    "last_date": "2026-03-07",
+    "last_date": "2026-03-08",
     "followers": 1369,
-    "following": 491,
+    "following": 494,
     "followers_prev": 1367,
     "top_posts": [
       {
@@ -738,7 +738,7 @@
         "post_id": "2027443387947688068",
         "date": "2026-02-27",
         "text": "Ya no saben que decir — tema de Buitres, grabado por La Saga. Parece despedida p",
-        "impressions": 351,
+        "impressions": 355,
         "likes": 7,
         "retweets": 1,
         "bookmarks": 0,
@@ -798,6 +798,10 @@
       },
       {
         "date": "2026-03-07",
+        "followers": 1369
+      },
+      {
+        "date": "2026-03-08",
         "followers": 1369
       }
     ]
