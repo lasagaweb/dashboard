@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T17:19:13.366024",
+  "generated_at": "2026-03-08T17:32:34.658870",
   "days_to_show": 39,
   "period_days": 7,
   "instagram": {
@@ -842,6 +842,13 @@
         "received": 5,
         "replied": 5,
         "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 0,
+        "replied": 0,
+        "pending": 0
       }
     ],
     "trend": [
@@ -913,6 +920,12 @@
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-08",
+      "platform": "youtube",
+      "type": "check",
+      "description": "PM check: 0 comentarios nuevos, 0 pendientes. AM cubrió todo."
+    },
     {
       "date": "2026-03-08",
       "platform": "x",
@@ -996,12 +1009,6 @@
       "platform": "x",
       "type": "reply",
       "description": "Respondimos a @Amaral_1806 sobre bandas UY mencionadas (Sordromo, 4 Pesos, Chala Madre, MOTA)"
-    },
-    {
-      "date": "2026-03-08",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respondimos a @Amaral_1806 sobre features con otras bandas"
     }
   ],
   "suggestions": [
