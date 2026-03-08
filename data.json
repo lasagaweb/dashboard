@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T17:02:12.233797",
+  "generated_at": "2026-03-08T17:19:13.366024",
   "days_to_show": 39,
   "period_days": 7,
   "instagram": {
@@ -789,7 +789,7 @@
         "dms_replied": 0,
         "mentions_received": 33,
         "mentions_replied": 6,
-        "likes_given": 56,
+        "likes_given": 58,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -806,7 +806,7 @@
     "total_received": 165,
     "total_replied": 92,
     "response_rate": 56,
-    "total_likes": 86,
+    "total_likes": 88,
     "today_grid": [
       {
         "platform": "instagram",
@@ -827,6 +827,13 @@
         "shift": "AM",
         "received": 13,
         "replied": 4,
+        "pending": 0
+      },
+      {
+        "platform": "x",
+        "shift": "PM",
+        "received": 0,
+        "replied": 0,
         "pending": 0
       },
       {
@@ -910,6 +917,30 @@
       "date": "2026-03-08",
       "platform": "x",
       "type": "follow",
+      "description": "Seguimos a @ArchivZitarrosa (Archivo Zitarrosa)"
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "x",
+      "type": "follow",
+      "description": "Seguimos a @wilmareverton (periodista música UY en @mixtaperadioar, organizador @montevideofan)"
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @Macnobj defendiendo a La Vela Puerca como mejor banda uruguaya (1308 views)"
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply en hilo de @delasespinas/@wilmareverton sobre bandas uruguayas de los 2000 (20K views)"
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "x",
+      "type": "follow",
       "description": "Seguimos a @Amaral_1806 - fan de rock y cumbia, nos sigue"
     },
     {
@@ -971,30 +1002,6 @@
       "platform": "x",
       "type": "reply",
       "description": "Respondimos a @Amaral_1806 sobre features con otras bandas"
-    },
-    {
-      "date": "2026-03-07",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos a @gaucho_uy (agenda shows MVD) y @OjosDeCiudad4 (noticias escena UY)"
-    },
-    {
-      "date": "2026-03-07",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @byulielou, @STRAUSSBABY x2, @TainiRivers, @OjosDeCiudad4, @gaucho_uy PIL tweet"
-    },
-    {
-      "date": "2026-03-07",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respondimos a @OjosDeCiudad4 sobre regreso de Buenos Muchachos"
-    },
-    {
-      "date": "2026-03-07",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respondimos a @TainiRivers sobre musica uruguaya como viaje de ida"
     }
   ],
   "suggestions": [
