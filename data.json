@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-03-07T23:11:58.306184",
-  "days_to_show": 40,
+  "generated_at": "2026-03-08T10:02:58.085214",
+  "days_to_show": 39,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-08",
     "followers": 4374,
     "reach": 7351,
     "accounts_engaged": 239,
-    "followers_prev": 4053,
-    "followers_change": 321,
-    "followers_pct": 7.9,
+    "followers_prev": 4110,
+    "followers_change": 264,
+    "followers_pct": 6.4,
     "period_posts": 2,
     "period_reach": 2296,
     "period_engagement": 260,
@@ -112,19 +112,19 @@
     ]
   },
   "email": {
-    "last_date": "2026-03-07",
+    "last_date": "2026-03-08",
     "total_subs": 1550,
-    "subs_prev": 1715,
-    "subs_change": -165,
-    "subs_pct": -9.6,
+    "subs_prev": 1558,
+    "subs_change": -8,
+    "subs_pct": -0.5,
     "period_gained": 0,
-    "period_lost": 992,
+    "period_lost": 1157,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
         "sent": 583,
         "open_pct": 39.3,
-        "click_pct": 7.7,
+        "click_pct": 7.9,
         "sent_at": "2026-02-27T14:05:14+00:00"
       },
       {
@@ -146,7 +146,7 @@
       "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
       "sent": 583,
       "open_pct": 39.3,
-      "click_pct": 7.7,
+      "click_pct": 7.9,
       "sent_at": "2026-02-27T14:05:14+00:00"
     },
     "avg_open_pct": 50.7,
@@ -200,6 +200,10 @@
       {
         "date": "2026-03-07",
         "subs": 1550
+      },
+      {
+        "date": "2026-03-08",
+        "subs": 1550
       }
     ]
   },
@@ -208,17 +212,17 @@
     "subscribers": 3770,
     "total_views": 1552051,
     "videos_count": 44,
-    "subs_prev": 3760,
-    "subs_change": 10,
-    "subs_pct": 0.3,
-    "period_views": 2140,
-    "period_likes": 46,
-    "period_shares": 20,
-    "period_watch_min": 3355.0,
-    "period_subs_net": 10,
+    "subs_prev": 3770,
+    "subs_change": 0,
+    "subs_pct": 0.0,
+    "period_views": 1214,
+    "period_likes": 32,
+    "period_shares": 18,
+    "period_watch_min": 2353.0,
+    "period_subs_net": 4,
     "unreplied_comments": 4,
     "top_traffic_source": "SHORTS",
-    "top_traffic_views": 24469,
+    "top_traffic_views": 21981,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
@@ -478,11 +482,11 @@
     "super_listeners": 431,
     "saves": 1000,
     "playlist_adds": 995,
-    "listeners_prev": 22597,
-    "listeners_change": -6,
-    "listeners_pct": -0.0,
-    "streams_prev": 98231,
-    "streams_change": -207,
+    "listeners_prev": 22661,
+    "listeners_change": -70,
+    "listeners_pct": -0.3,
+    "streams_prev": 99055,
+    "streams_change": -1031,
     "top_tracks": [
       {
         "name": "Color",
@@ -624,7 +628,7 @@
         "listeners": 247
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -796,12 +800,12 @@
     "platforms": {
       "instagram": {
         "comments_received": 42,
-        "comments_replied": 14,
-        "dms_received": 13,
+        "comments_replied": 12,
+        "dms_received": 14,
         "dms_replied": 10,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 22,
+        "likes_given": 20,
         "response_time_avg_min": 0
       },
       "x": {
@@ -809,27 +813,35 @@
         "comments_replied": 5,
         "dms_received": 0,
         "dms_replied": 0,
-        "mentions_received": 24,
+        "mentions_received": 22,
         "mentions_replied": 4,
         "likes_given": 48,
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 74,
-        "comments_replied": 65,
+        "comments_received": 59,
+        "comments_replied": 52,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 16,
+        "likes_given": 9,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 162,
-    "total_replied": 98,
-    "response_rate": 60,
-    "total_likes": 86,
-    "today_grid": [],
+    "total_received": 146,
+    "total_replied": 83,
+    "response_rate": 57,
+    "total_likes": 77,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 8,
+        "replied": 5,
+        "pending": 0
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-20",
@@ -890,6 +902,11 @@
         "date": "2026-03-07",
         "received": 36,
         "replied": 15
+      },
+      {
+        "date": "2026-03-08",
+        "received": 8,
+        "replied": 5
       }
     ]
   },
@@ -989,7 +1006,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 60%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 57%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
@@ -1231,7 +1248,7 @@
         "platform": "instagram",
         "type": "carousel",
         "description": "Carrusel Errante",
-        "status": "planned",
+        "status": "published",
         "platforms_done": []
       },
       {
@@ -1240,7 +1257,7 @@
         "platform": "youtube",
         "type": "video",
         "description": "Errante - canción completa",
-        "status": "planned",
+        "status": "published",
         "platforms_done": []
       }
     ],
@@ -1359,7 +1376,7 @@
   "platform_status": {
     "instagram": "2026-03-08T02:11:16.108539+00:00",
     "spotify": null,
-    "emailoctopus": "2026-03-07T15:00:14.608381+00:00",
+    "emailoctopus": "2026-03-08T11:01:53.744666+00:00",
     "twitter": null,
     "tiktok": null,
     "meta_ads": null,
