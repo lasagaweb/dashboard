@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T10:02:58.085214",
+  "generated_at": "2026-03-08T10:21:06.620996",
   "days_to_show": 39,
   "period_days": 7,
   "instagram": {
@@ -809,13 +809,13 @@
         "response_time_avg_min": 0
       },
       "x": {
-        "comments_received": 9,
-        "comments_replied": 5,
+        "comments_received": 11,
+        "comments_replied": 7,
         "dms_received": 0,
         "dms_replied": 0,
-        "mentions_received": 22,
-        "mentions_replied": 4,
-        "likes_given": 48,
+        "mentions_received": 33,
+        "mentions_replied": 6,
+        "likes_given": 56,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -829,16 +829,23 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 146,
-    "total_replied": 83,
-    "response_rate": 57,
-    "total_likes": 77,
+    "total_received": 159,
+    "total_replied": 87,
+    "response_rate": 55,
+    "total_likes": 85,
     "today_grid": [
       {
         "platform": "instagram",
         "shift": "AM",
         "received": 8,
         "replied": 5,
+        "pending": 0
+      },
+      {
+        "platform": "x",
+        "shift": "AM",
+        "received": 13,
+        "replied": 4,
         "pending": 0
       }
     ],
@@ -905,12 +912,78 @@
       },
       {
         "date": "2026-03-08",
-        "received": 8,
-        "replied": 5
+        "received": 21,
+        "replied": 9
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-08",
+      "platform": "x",
+      "type": "follow",
+      "description": "Seguimos a @Amaral_1806 - fan de rock y cumbia, nos sigue"
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @SoloRockUruguay playlist Spotify"
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @SoloRockUruguay Agenda Rock"
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @5noticiasuy Marea 7M Sala Zitarrosa"
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @jaimeclara sobre Los Iracundos Sin Palabras"
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @nicotabarez93 sobre nuevo disco Drexler Taracá"
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @Amaral_1806 reply bandas UY"
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @Amaral_1806 pregunta sobre features"
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @5noticiasuy sobre festival Marea 7M en Sala Zitarrosa"
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "x",
+      "type": "reply",
+      "description": "Respondimos a @Amaral_1806 sobre bandas UY mencionadas (Sordromo, 4 Pesos, Chala Madre, MOTA)"
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "x",
+      "type": "reply",
+      "description": "Respondimos a @Amaral_1806 sobre features con otras bandas"
+    },
     {
       "date": "2026-03-07",
       "platform": "x",
@@ -934,79 +1007,13 @@
       "platform": "x",
       "type": "reply",
       "description": "Respondimos a @TainiRivers sobre musica uruguaya como viaje de ida"
-    },
-    {
-      "date": "2026-03-07",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respondimos a @STRAUSSBABY Gracias por las recomendaciones sobre rock uruguayo"
-    },
-    {
-      "date": "2026-03-07",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respondimos a @byulielou quote tweet APARECIAN LOS DE LA SAGA JAJAJAJA HOLA VAMO ARRIBA"
-    },
-    {
-      "date": "2026-03-07",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respondimos a @byulielou que dijo excelentes recomendaciones sobre nuestro tweet de rock uruguayo"
-    },
-    {
-      "date": "2026-03-07",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondidos 5 comentarios en videos Estoy perdido, Color y ONCE"
-    },
-    {
-      "date": "2026-03-07",
-      "platform": "x",
-      "type": "follow",
-      "description": "Follow back a @juanmarino_uy (músico UY que nos seguía)"
-    },
-    {
-      "date": "2026-03-07",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a Agenda Rock de @SoloRockUruguay"
-    },
-    {
-      "date": "2026-03-07",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a post de @SoloRockUruguay sobre Malbajío"
-    },
-    {
-      "date": "2026-03-07",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a post de @CDopico sobre David Gilmour 80 años"
-    },
-    {
-      "date": "2026-03-07",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a post de @MEC_Uruguay sobre Zitarrosa 90 años"
-    },
-    {
-      "date": "2026-03-07",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @snguine sobre lineup del Cosquín Rock Uruguay"
-    },
-    {
-      "date": "2026-03-07",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @byulielou recomendando bandas de rock uruguayo incluyendo La Saga naturalmente"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 57%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 55%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
