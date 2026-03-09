@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T17:04:54.273528",
+  "generated_at": "2026-03-09T17:22:22.368023",
   "days_to_show": 38,
   "period_days": 7,
   "instagram": {
@@ -808,7 +808,7 @@
         "dms_replied": 0,
         "mentions_received": 35,
         "mentions_replied": 6,
-        "likes_given": 61,
+        "likes_given": 64,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -825,7 +825,7 @@
     "total_received": 151,
     "total_replied": 92,
     "response_rate": 61,
-    "total_likes": 97,
+    "total_likes": 100,
     "today_grid": [
       {
         "platform": "instagram",
@@ -845,6 +845,13 @@
         "platform": "x",
         "shift": "AM",
         "received": 2,
+        "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "x",
+        "shift": "PM",
+        "received": 0,
         "replied": 0,
         "pending": 0
       },
@@ -934,6 +941,42 @@
       "date": "2026-03-09",
       "platform": "x",
       "type": "follow",
+      "description": "Follow back a @OliveraLuisa (fan uruguaya, nos seguía)"
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @SalaZitarrosa (MAREA7M)"
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @G31M02 (La Trampa en lista)"
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @Jotaerreiii (lista Billboard)"
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @SalaZitarrosa sobre MAREA7M edición 6"
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @Jotaerreiii sobre lista Billboard Latin faltando bandas uruguayas"
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "x",
+      "type": "follow",
       "description": "Seguimos de vuelta a @AchickenP (Achicken Productora, nos seguía)"
     },
     {
@@ -983,42 +1026,6 @@
       "platform": "x",
       "type": "follow",
       "description": "Seguimos a @wilmareverton (periodista música UY en @mixtaperadioar, organizador @montevideofan)"
-    },
-    {
-      "date": "2026-03-08",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @Macnobj defendiendo a La Vela Puerca como mejor banda uruguaya (1308 views)"
-    },
-    {
-      "date": "2026-03-08",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply en hilo de @delasespinas/@wilmareverton sobre bandas uruguayas de los 2000 (20K views)"
-    },
-    {
-      "date": "2026-03-08",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos a @Amaral_1806 - fan de rock y cumbia, nos sigue"
-    },
-    {
-      "date": "2026-03-08",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @SoloRockUruguay playlist Spotify"
-    },
-    {
-      "date": "2026-03-08",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @SoloRockUruguay Agenda Rock"
-    },
-    {
-      "date": "2026-03-08",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @5noticiasuy Marea 7M Sala Zitarrosa"
     }
   ],
   "suggestions": [
