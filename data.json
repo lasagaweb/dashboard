@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-08T20:00:59.086675",
+  "generated_at": "2026-03-08T23:01:37.853097",
   "days_to_show": 39,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-03-08",
-    "followers": 4387,
-    "reach": 5208,
-    "accounts_engaged": 213,
+    "last_date": "2026-03-09",
+    "followers": 4408,
+    "reach": 8068,
+    "accounts_engaged": 341,
     "followers_prev": 4110,
-    "followers_change": 277,
-    "followers_pct": 6.7,
-    "period_posts": 2,
-    "period_reach": 2759,
-    "period_engagement": 307,
+    "followers_change": 298,
+    "followers_pct": 7.3,
+    "period_posts": 3,
+    "period_reach": 4227,
+    "period_engagement": 463,
     "top_post": {
       "date": "2026-03-03",
       "type": "carousel",
       "caption": "¿Qué te acordaste del Pilsen Rock? Miles de personas. \"Quiero\" a todo volumen. \"",
-      "reach": 1811
+      "reach": 1845
     },
     "trend": [
       {
@@ -94,20 +94,25 @@
         "date": "2026-03-08",
         "followers": 4387,
         "reach": 5208
+      },
+      {
+        "date": "2026-03-09",
+        "followers": 4408,
+        "reach": 8068
       }
     ],
     "post_types": [
       {
         "type": "reel",
-        "posts": 3,
-        "avg_reach": 3367.0,
-        "avg_engagement": 416.0
+        "posts": 4,
+        "avg_reach": 2806.0,
+        "avg_engagement": 347.0
       },
       {
         "type": "carousel",
         "posts": 5,
-        "avg_reach": 1873.0,
-        "avg_engagement": 251.0
+        "avg_reach": 1950.0,
+        "avg_engagement": 256.0
       }
     ]
   },
@@ -310,12 +315,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-02-06",
-        "views": 186,
-        "likes": 1,
-        "net_subs": 0
-      },
       {
         "date": "2026-02-07",
         "views": 190,
@@ -807,50 +806,7 @@
     "total_replied": 92,
     "response_rate": 56,
     "total_likes": 88,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "AM",
-        "received": 8,
-        "replied": 5,
-        "pending": 0
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 1,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "x",
-        "shift": "AM",
-        "received": 13,
-        "replied": 4,
-        "pending": 0
-      },
-      {
-        "platform": "x",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 5,
-        "replied": 5,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      }
-    ],
+    "today_grid": [],
     "trend": [
       {
         "date": "2026-02-20",
@@ -1133,6 +1089,12 @@
         "sent": 1,
         "responses": 1,
         "coverage": 1
+      },
+      {
+        "date": "2026-03-09",
+        "sent": 1,
+        "responses": 1,
+        "coverage": 1
       }
     ]
   },
@@ -1220,15 +1182,6 @@
   },
   "upcoming": {
     "items": [
-      {
-        "id": 7,
-        "date": "2026-03-01",
-        "platform": "youtube",
-        "type": "video",
-        "description": "Ya no saben qué decir - canción completa",
-        "status": "published",
-        "platforms_done": []
-      },
       {
         "id": 8,
         "date": "2026-03-03",
@@ -1418,7 +1371,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-03-08T14:01:50.543252+00:00",
+    "instagram": "2026-03-09T02:01:34.255971+00:00",
     "spotify": null,
     "emailoctopus": "2026-03-08T15:00:14.907888+00:00",
     "twitter": null,
