@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T14:02:35.665924",
+  "generated_at": "2026-03-09T16:05:16.551758",
   "days_to_show": 38,
   "period_days": 7,
   "instagram": {
@@ -490,34 +490,34 @@
     ]
   },
   "spotify": {
-    "last_date": "2026-03-08",
-    "monthly_listeners": 22373,
-    "streams_28d": 96984,
-    "followers": 11000,
-    "super_listeners": 420,
-    "saves": 1000,
-    "playlist_adds": 996,
+    "last_date": "2026-03-09",
+    "monthly_listeners": 22261,
+    "streams_28d": 96791,
+    "followers": 11334,
+    "super_listeners": 423,
+    "saves": 1028,
+    "playlist_adds": 950,
     "listeners_prev": 22584,
-    "listeners_change": -211,
-    "listeners_pct": -0.9,
+    "listeners_change": -323,
+    "listeners_pct": -1.4,
     "streams_prev": 98959,
-    "streams_change": -1975,
+    "streams_change": -2168,
     "top_tracks": [
       {
         "name": "Color",
-        "streams": 4652,
+        "streams": 4683,
         "listeners": 0,
         "saves": 0
       },
       {
         "name": "Once",
-        "streams": 3239,
+        "streams": 3202,
         "listeners": 0,
         "saves": 0
       },
       {
         "name": "Ir",
-        "streams": 2396,
+        "streams": 2386,
         "listeners": 0,
         "saves": 0
       }
@@ -582,26 +582,26 @@
     "locations": [
       {
         "name": "Uruguay",
-        "listeners": 14663
+        "listeners": 14607
       },
       {
         "name": "Argentina",
-        "listeners": 5041
+        "listeners": 4987
       },
       {
         "name": "Spain",
-        "listeners": 767
+        "listeners": 775
       },
       {
         "name": "Mexico",
-        "listeners": 447
+        "listeners": 445
       },
       {
         "name": "Brazil",
-        "listeners": 252
+        "listeners": 244
       }
     ],
-    "days_since_collection": 1,
+    "days_since_collection": 0,
     "trend": [
       {
         "date": "2026-02-18",
@@ -668,6 +668,12 @@
         "listeners": 22373,
         "streams": 96984,
         "followers": 11000
+      },
+      {
+        "date": "2026-03-09",
+        "listeners": 22261,
+        "streams": 96791,
+        "followers": 11334
       }
     ]
   },
