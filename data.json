@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T10:02:50.057480",
+  "generated_at": "2026-03-09T10:21:42.250987",
   "days_to_show": 38,
   "period_days": 7,
   "instagram": {
@@ -786,9 +786,9 @@
         "comments_replied": 7,
         "dms_received": 0,
         "dms_replied": 0,
-        "mentions_received": 33,
+        "mentions_received": 35,
         "mentions_replied": 6,
-        "likes_given": 58,
+        "likes_given": 61,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -802,16 +802,23 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 139,
+    "total_received": 141,
     "total_replied": 85,
-    "response_rate": 61,
-    "total_likes": 91,
+    "response_rate": 60,
+    "total_likes": 94,
     "today_grid": [
       {
         "platform": "instagram",
         "shift": "AM",
         "received": 9,
         "replied": 5,
+        "pending": 0
+      },
+      {
+        "platform": "x",
+        "shift": "AM",
+        "received": 2,
+        "replied": 0,
         "pending": 0
       }
     ],
@@ -883,12 +890,48 @@
       },
       {
         "date": "2026-03-09",
-        "received": 9,
+        "received": 11,
         "replied": 5
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-09",
+      "platform": "x",
+      "type": "follow",
+      "description": "Seguimos de vuelta a @AchickenP (Achicken Productora, nos seguía)"
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "x",
+      "type": "follow",
+      "description": "Seguimos a @marcelamassia (artista escena UY, presenta con Vera Sienra)"
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a tweet de @Rupodcast2 repost sobre programa 169"
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a tweet de @RadioBelcha/Rupodcast2 sobre Rock Uruguayo Podcast - Hueso Hernández"
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a tweet de @marcelamassia sobre Vera Sienra en Sala Zitarrosa 12 abril"
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "x",
+      "type": "reply",
+      "description": "Respondimos a @ArchivZitarrosa sobre 90 años de Zitarrosa, evento mañana 10/3"
+    },
     {
       "date": "2026-03-08",
       "platform": "youtube",
@@ -942,49 +985,13 @@
       "platform": "x",
       "type": "like",
       "description": "Like a @5noticiasuy Marea 7M Sala Zitarrosa"
-    },
-    {
-      "date": "2026-03-08",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @jaimeclara sobre Los Iracundos Sin Palabras"
-    },
-    {
-      "date": "2026-03-08",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @nicotabarez93 sobre nuevo disco Drexler Taracá"
-    },
-    {
-      "date": "2026-03-08",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @Amaral_1806 reply bandas UY"
-    },
-    {
-      "date": "2026-03-08",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @Amaral_1806 pregunta sobre features"
-    },
-    {
-      "date": "2026-03-08",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @5noticiasuy sobre festival Marea 7M en Sala Zitarrosa"
-    },
-    {
-      "date": "2026-03-08",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respondimos a @Amaral_1806 sobre bandas UY mencionadas (Sordromo, 4 Pesos, Chala Madre, MOTA)"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 61%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 60%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
