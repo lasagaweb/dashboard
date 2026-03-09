@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T17:22:22.368023",
+  "generated_at": "2026-03-09T17:35:55.066748",
   "days_to_show": 38,
   "period_days": 7,
   "instagram": {
@@ -812,20 +812,20 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 57,
-        "comments_replied": 53,
+        "comments_received": 62,
+        "comments_replied": 58,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 9,
+        "likes_given": 12,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 151,
-    "total_replied": 92,
-    "response_rate": 61,
-    "total_likes": 100,
+    "total_received": 156,
+    "total_replied": 97,
+    "response_rate": 62,
+    "total_likes": 103,
     "today_grid": [
       {
         "platform": "instagram",
@@ -858,6 +858,13 @@
       {
         "platform": "youtube",
         "shift": "AM",
+        "received": 5,
+        "replied": 5,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
         "received": 5,
         "replied": 5,
         "pending": 0
@@ -931,12 +938,18 @@
       },
       {
         "date": "2026-03-09",
-        "received": 21,
-        "replied": 12
+        "received": 26,
+        "replied": 17
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-09",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "5 replies en Estoy perdido/Color/ONCE + 3 hearts en Buscando Espacio/Ya no saben qué decir"
+    },
     {
       "date": "2026-03-09",
       "platform": "x",
@@ -1020,19 +1033,13 @@
       "platform": "x",
       "type": "follow",
       "description": "Seguimos a @ArchivZitarrosa (Archivo Zitarrosa)"
-    },
-    {
-      "date": "2026-03-08",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos a @wilmareverton (periodista música UY en @mixtaperadioar, organizador @montevideofan)"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 61%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 62%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
