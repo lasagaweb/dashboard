@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T10:05:19.573316",
+  "generated_at": "2026-03-10T10:22:46.279405",
   "days_to_show": 37,
   "period_days": 7,
   "instagram": {
@@ -801,13 +801,13 @@
         "response_time_avg_min": 0
       },
       "x": {
-        "comments_received": 11,
+        "comments_received": 12,
         "comments_replied": 7,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 35,
         "mentions_replied": 6,
-        "likes_given": 60,
+        "likes_given": 65,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -821,15 +821,22 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 142,
+    "total_received": 143,
     "total_replied": 85,
-    "response_rate": 60,
-    "total_likes": 85,
+    "response_rate": 59,
+    "total_likes": 90,
     "today_grid": [
       {
         "platform": "instagram",
         "shift": "AM",
         "received": 4,
+        "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "x",
+        "shift": "AM",
+        "received": 1,
         "replied": 0,
         "pending": 0
       }
@@ -907,12 +914,66 @@
       },
       {
         "date": "2026-03-10",
-        "received": 4,
+        "received": 5,
         "replied": 0
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-10",
+      "platform": "x",
+      "type": "follow",
+      "description": "Follow a @leosarro - prensa musical verificada, nos sigue"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "x",
+      "type": "follow",
+      "description": "Follow a @friedmanntomas - periodista/corresponsal"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @desayunos12 sobre Lucía Aramburu"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @Titto335 sobre melancolía música uruguaya"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @friedmanntomas recuerdos personales con Zitarrosa"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @friedmanntomas sobre evento Zitarrosa"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @CarasyCaretasuy sobre evento Zitarrosa 90 años"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @friedmanntomas sobre 90 años de Zitarrosa"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @Titto335 sobre melancolía de la música uruguaya"
+    },
     {
       "date": "2026-03-09",
       "platform": "youtube",
@@ -948,67 +1009,13 @@
       "platform": "x",
       "type": "reply",
       "description": "Reply a @SalaZitarrosa sobre MAREA7M edición 6"
-    },
-    {
-      "date": "2026-03-09",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @Jotaerreiii sobre lista Billboard Latin faltando bandas uruguayas"
-    },
-    {
-      "date": "2026-03-09",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos de vuelta a @AchickenP (Achicken Productora, nos seguía)"
-    },
-    {
-      "date": "2026-03-09",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos a @marcelamassia (artista escena UY, presenta con Vera Sienra)"
-    },
-    {
-      "date": "2026-03-09",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a tweet de @Rupodcast2 repost sobre programa 169"
-    },
-    {
-      "date": "2026-03-09",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a tweet de @RadioBelcha/Rupodcast2 sobre Rock Uruguayo Podcast - Hueso Hernández"
-    },
-    {
-      "date": "2026-03-09",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a tweet de @marcelamassia sobre Vera Sienra en Sala Zitarrosa 12 abril"
-    },
-    {
-      "date": "2026-03-09",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respondimos a @ArchivZitarrosa sobre 90 años de Zitarrosa, evento mañana 10/3"
-    },
-    {
-      "date": "2026-03-08",
-      "platform": "youtube",
-      "type": "check",
-      "description": "PM check: 0 comentarios nuevos, 0 pendientes. AM cubrió todo."
-    },
-    {
-      "date": "2026-03-08",
-      "platform": "x",
-      "type": "follow",
-      "description": "Seguimos a @ArchivZitarrosa (Archivo Zitarrosa)"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 60%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 59%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
