@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-09T20:01:47.040037",
+  "generated_at": "2026-03-09T23:01:09.537911",
   "days_to_show": 38,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-03-09",
-    "followers": 4422,
-    "reach": 6496,
-    "accounts_engaged": 256,
+    "last_date": "2026-03-10",
+    "followers": 4460,
+    "reach": 9071,
+    "accounts_engaged": 323,
     "followers_prev": 4153,
-    "followers_change": 269,
-    "followers_pct": 6.5,
+    "followers_change": 307,
+    "followers_pct": 7.4,
     "period_posts": 3,
-    "period_reach": 5050,
-    "period_engagement": 508,
+    "period_reach": 5663,
+    "period_engagement": 558,
     "top_post": {
-      "date": "2026-03-03",
-      "type": "carousel",
-      "caption": "¿Qué te acordaste del Pilsen Rock? Miles de personas. \"Quiero\" a todo volumen. \"",
-      "reach": 1867
+      "date": "2026-03-08",
+      "type": "reel",
+      "caption": "Errante — La Saga (en vivo)\n\n\"Caigo, muerdo el piso y todo bien\nUna más para el ",
+      "reach": 2316
     },
     "trend": [
       {
@@ -99,20 +99,25 @@
         "date": "2026-03-09",
         "followers": 4422,
         "reach": 6496
+      },
+      {
+        "date": "2026-03-10",
+        "followers": 4460,
+        "reach": 9071
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 4,
-        "avg_reach": 2991.0,
-        "avg_engagement": 356.0
+        "avg_reach": 3126.0,
+        "avg_engagement": 367.0
       },
       {
         "type": "carousel",
         "posts": 5,
-        "avg_reach": 1976.0,
-        "avg_engagement": 257.0
+        "avg_reach": 2011.0,
+        "avg_engagement": 260.0
       }
     ]
   },
@@ -319,12 +324,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-02-07",
-        "views": 190,
-        "likes": 0,
-        "net_subs": 2
-      },
       {
         "date": "2026-02-08",
         "views": 119,
@@ -826,50 +825,7 @@
     "total_replied": 97,
     "response_rate": 62,
     "total_likes": 103,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "AM",
-        "received": 9,
-        "replied": 5,
-        "pending": 0
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 5,
-        "replied": 2,
-        "pending": 1
-      },
-      {
-        "platform": "x",
-        "shift": "AM",
-        "received": 2,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "x",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 5,
-        "replied": 5,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 5,
-        "replied": 5,
-        "pending": 0
-      }
-    ],
+    "today_grid": [],
     "trend": [
       {
         "date": "2026-02-20",
@@ -1163,6 +1119,12 @@
         "sent": 1,
         "responses": 1,
         "coverage": 1
+      },
+      {
+        "date": "2026-03-10",
+        "sent": 1,
+        "responses": 1,
+        "coverage": 1
       }
     ]
   },
@@ -1447,7 +1409,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-03-09T14:01:17.850537+00:00",
+    "instagram": "2026-03-10T02:01:06.566344+00:00",
     "spotify": null,
     "emailoctopus": "2026-03-09T15:00:15.699780+00:00",
     "twitter": null,
