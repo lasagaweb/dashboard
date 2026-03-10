@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-03-09T23:01:09.537911",
-  "days_to_show": 38,
+  "generated_at": "2026-03-10T10:05:19.573316",
+  "days_to_show": 37,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-10",
     "followers": 4460,
     "reach": 9071,
     "accounts_engaged": 323,
-    "followers_prev": 4153,
-    "followers_change": 307,
-    "followers_pct": 7.4,
+    "followers_prev": 4184,
+    "followers_change": 276,
+    "followers_pct": 6.6,
     "period_posts": 3,
     "period_reach": 5663,
     "period_engagement": 558,
@@ -124,9 +124,9 @@
   "email": {
     "last_date": "2026-03-09",
     "total_subs": 1550,
-    "subs_prev": 1558,
-    "subs_change": -8,
-    "subs_pct": -0.5,
+    "subs_prev": 1553,
+    "subs_change": -3,
+    "subs_pct": -0.2,
     "period_gained": 0,
     "period_lost": 1165,
     "campaigns": [
@@ -229,14 +229,14 @@
     "subs_prev": 3770,
     "subs_change": 0,
     "subs_pct": 0.0,
-    "period_views": 1340,
-    "period_likes": 24,
-    "period_shares": 21,
-    "period_watch_min": 3317.0,
+    "period_views": 1167,
+    "period_likes": 19,
+    "period_shares": 16,
+    "period_watch_min": 2811.0,
     "period_subs_net": 1,
     "unreplied_comments": 4,
     "top_traffic_source": "SHORTS",
-    "top_traffic_views": 27854,
+    "top_traffic_views": 24542,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
@@ -600,7 +600,7 @@
         "listeners": 244
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -791,13 +791,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 32,
-        "comments_replied": 15,
+        "comments_received": 31,
+        "comments_replied": 12,
         "dms_received": 16,
         "dms_replied": 11,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 27,
+        "likes_given": 15,
         "response_time_avg_min": 0
       },
       "x": {
@@ -807,25 +807,33 @@
         "dms_replied": 0,
         "mentions_received": 35,
         "mentions_replied": 6,
-        "likes_given": 64,
+        "likes_given": 60,
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 62,
-        "comments_replied": 58,
+        "comments_received": 49,
+        "comments_replied": 49,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 12,
+        "likes_given": 10,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 156,
-    "total_replied": 97,
-    "response_rate": 62,
-    "total_likes": 103,
-    "today_grid": [],
+    "total_received": 142,
+    "total_replied": 85,
+    "response_rate": 60,
+    "total_likes": 85,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 4,
+        "replied": 0,
+        "pending": 0
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-20",
@@ -896,6 +904,11 @@
         "date": "2026-03-09",
         "received": 26,
         "replied": 17
+      },
+      {
+        "date": "2026-03-10",
+        "received": 4,
+        "replied": 0
       }
     ]
   },
@@ -995,15 +1008,51 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 62%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 60%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
-    "total_contacts": 6,
+    "total_contacts": 10,
     "emails_sent": 1,
     "responses": 1,
     "coverage": 1,
     "recent_activity": [
+      {
+        "date": "2026-03-10",
+        "contact": "Rock Uruguayo Podcast",
+        "outlet": "Podcast YT/Spotify",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
+      {
+        "date": "2026-03-10",
+        "contact": "Diego Castro Famea",
+        "outlet": "Cooltivarte",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
+      {
+        "date": "2026-03-10",
+        "contact": "Metrónomo",
+        "outlet": "metronomo.uy",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
+      {
+        "date": "2026-03-10",
+        "contact": "Nelson Barceló",
+        "outlet": "Emisora del Sur",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
       {
         "date": "2026-03-03",
         "contact": "Agustín Acevedo Kanopa",
