@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T12:00:19.847598",
+  "generated_at": "2026-03-10T13:00:32.479955",
   "days_to_show": 37,
   "period_days": 7,
   "instagram": {
@@ -226,19 +226,19 @@
     ]
   },
   "youtube": {
-    "last_date": "2026-03-09",
-    "subscribers": 3770,
-    "total_views": 1552540,
+    "last_date": "2026-03-10",
+    "subscribers": 3780,
+    "total_views": 1552807,
     "videos_count": 44,
     "subs_prev": 3770,
-    "subs_change": 0,
-    "subs_pct": 0.0,
+    "subs_change": 10,
+    "subs_pct": 0.3,
     "period_views": 1167,
     "period_likes": 19,
     "period_shares": 16,
     "period_watch_min": 2811.0,
     "period_subs_net": 1,
-    "unreplied_comments": 4,
+    "unreplied_comments": 5,
     "top_traffic_source": "SHORTS",
     "top_traffic_views": 24542,
     "traffic_sources": [
@@ -298,32 +298,32 @@
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 499754,
+        "views": 499817,
         "likes": 2231,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 466389,
+        "views": 466451,
         "likes": 2329,
         "type": "Video"
       },
       {
         "title": "\"Errante\" (La Saga - \"INTIMO\")",
-        "views": 161850,
+        "views": 161871,
         "likes": 696,
         "type": "Video"
       },
       {
         "title": "La Saga - Yo te quiero (Video Oficial)",
-        "views": 116128,
+        "views": 116136,
         "likes": 689,
         "type": "Video"
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 106676,
-        "likes": 868,
+        "views": 106700,
+        "likes": 867,
         "type": "Video"
       }
     ],
@@ -1484,6 +1484,6 @@
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-03-09T16:00:20.946415+00:00"
+    "youtube": "2026-03-10T16:00:24.459644+00:00"
   }
 }
