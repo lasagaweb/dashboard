@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T17:06:48.747439",
+  "generated_at": "2026-03-10T17:21:05.956511",
   "days_to_show": 37,
   "period_days": 7,
   "instagram": {
@@ -821,7 +821,7 @@
         "dms_replied": 0,
         "mentions_received": 35,
         "mentions_replied": 6,
-        "likes_given": 65,
+        "likes_given": 72,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -838,7 +838,7 @@
     "total_received": 157,
     "total_replied": 92,
     "response_rate": 59,
-    "total_likes": 90,
+    "total_likes": 97,
     "today_grid": [
       {
         "platform": "instagram",
@@ -858,6 +858,13 @@
         "platform": "x",
         "shift": "AM",
         "received": 1,
+        "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "x",
+        "shift": "PM",
+        "received": 0,
         "replied": 0,
         "pending": 0
       },
@@ -951,6 +958,60 @@
     {
       "date": "2026-03-10",
       "platform": "x",
+      "type": "like",
+      "description": "Like a @SoloRockUruguay post identidad rock uruguayo"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @SoloRockUruguay post sobre misterio en el arte"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @obolocultural Na-K + Agente 86 show Tazu"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @obolocultural Cuarteto de Nos"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @MdeoSonoro Zitarrosa 90 años"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @MdeoSonoro Ciudad Vieja walking tour"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @SoloRockUruguay post Motorhome"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @MdeoSonoro sobre 90 años de Zitarrosa"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @SoloRockUruguay sobre Motorhome y Comentame Tu Disco"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "x",
       "type": "follow",
       "description": "Follow a @leosarro - prensa musical verificada, nos sigue"
     },
@@ -983,60 +1044,6 @@
       "platform": "x",
       "type": "like",
       "description": "Like a @friedmanntomas sobre evento Zitarrosa"
-    },
-    {
-      "date": "2026-03-10",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @CarasyCaretasuy sobre evento Zitarrosa 90 años"
-    },
-    {
-      "date": "2026-03-10",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @friedmanntomas sobre 90 años de Zitarrosa"
-    },
-    {
-      "date": "2026-03-10",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @Titto335 sobre melancolía de la música uruguaya"
-    },
-    {
-      "date": "2026-03-09",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "5 replies en Estoy perdido/Color/ONCE + 3 hearts en Buscando Espacio/Ya no saben qué decir"
-    },
-    {
-      "date": "2026-03-09",
-      "platform": "x",
-      "type": "follow",
-      "description": "Follow back a @OliveraLuisa (fan uruguaya, nos seguía)"
-    },
-    {
-      "date": "2026-03-09",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @SalaZitarrosa (MAREA7M)"
-    },
-    {
-      "date": "2026-03-09",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @G31M02 (La Trampa en lista)"
-    },
-    {
-      "date": "2026-03-09",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @Jotaerreiii (lista Billboard)"
-    },
-    {
-      "date": "2026-03-09",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @SalaZitarrosa sobre MAREA7M edición 6"
     }
   ],
   "suggestions": [
