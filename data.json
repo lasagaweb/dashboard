@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T17:21:05.956511",
+  "generated_at": "2026-03-10T17:31:24.051197",
   "days_to_show": 37,
   "period_days": 7,
   "instagram": {
@@ -825,8 +825,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 55,
-        "comments_replied": 53,
+        "comments_received": 61,
+        "comments_replied": 57,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -835,8 +835,8 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 157,
-    "total_replied": 92,
+    "total_received": 163,
+    "total_replied": 96,
     "response_rate": 59,
     "total_likes": 97,
     "today_grid": [
@@ -871,6 +871,13 @@
       {
         "platform": "youtube",
         "shift": "AM",
+        "received": 6,
+        "replied": 4,
+        "pending": 2
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
         "received": 6,
         "replied": 4,
         "pending": 2
@@ -949,12 +956,42 @@
       },
       {
         "date": "2026-03-10",
-        "received": 19,
-        "replied": 7
+        "received": 25,
+        "replied": 11
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-10",
+      "platform": "youtube",
+      "type": "skip",
+      "description": "Skip thetacogaming9434 y ghostzerosniperpsp (mensajes dirigidos a Max, no al canal)"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Reply a FABRI19022 en ONCE (reflexión bandas uruguayas)"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Reply a veckemorales3792 en Color (transcripción letra completa)"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Reply a andreseduardo600 en Estoy perdido (humor baterista)"
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Reply a carlostur5693 en ONCE (elogio)"
+    },
     {
       "date": "2026-03-10",
       "platform": "x",
@@ -1014,36 +1051,6 @@
       "platform": "x",
       "type": "follow",
       "description": "Follow a @leosarro - prensa musical verificada, nos sigue"
-    },
-    {
-      "date": "2026-03-10",
-      "platform": "x",
-      "type": "follow",
-      "description": "Follow a @friedmanntomas - periodista/corresponsal"
-    },
-    {
-      "date": "2026-03-10",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @desayunos12 sobre Lucía Aramburu"
-    },
-    {
-      "date": "2026-03-10",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @Titto335 sobre melancolía música uruguaya"
-    },
-    {
-      "date": "2026-03-10",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @friedmanntomas recuerdos personales con Zitarrosa"
-    },
-    {
-      "date": "2026-03-10",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @friedmanntomas sobre evento Zitarrosa"
     }
   ],
   "suggestions": [
