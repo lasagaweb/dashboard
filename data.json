@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-10T23:02:23.160561",
-  "days_to_show": 37,
+  "generated_at": "2026-03-11T12:57:14.296858",
+  "days_to_show": 36,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-11",
-    "followers": 4500,
-    "reach": 8776,
-    "accounts_engaged": 237,
-    "followers_prev": 4184,
-    "followers_change": 316,
-    "followers_pct": 7.6,
-    "period_posts": 3,
-    "period_reach": 6483,
-    "period_engagement": 590,
+    "followers": 4513,
+    "reach": 5951,
+    "accounts_engaged": 151,
+    "followers_prev": 4246,
+    "followers_change": 267,
+    "followers_pct": 6.3,
+    "period_posts": 2,
+    "period_reach": 4593,
+    "period_engagement": 402,
     "top_post": {
       "date": "2026-03-08",
       "type": "reel",
       "caption": "Errante — La Saga (en vivo)\n\n\"Caigo, muerdo el piso y todo bien\nUna más para el ",
-      "reach": 2925
+      "reach": 2976
     },
     "trend": [
       {
@@ -107,22 +107,22 @@
       },
       {
         "date": "2026-03-11",
-        "followers": 4500,
-        "reach": 8776
+        "followers": 4513,
+        "reach": 5951
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 4,
-        "avg_reach": 3310.0,
-        "avg_engagement": 373.0
+        "avg_reach": 3323.0,
+        "avg_engagement": 374.0
       },
       {
         "type": "carousel",
         "posts": 5,
-        "avg_reach": 2080.0,
-        "avg_engagement": 262.0
+        "avg_reach": 2095.0,
+        "avg_engagement": 263.0
       }
     ]
   },
@@ -133,7 +133,7 @@
     "subs_change": -3,
     "subs_pct": -0.2,
     "period_gained": 0,
-    "period_lost": 1333,
+    "period_lost": 1168,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -238,14 +238,14 @@
     "subs_prev": 3770,
     "subs_change": 10,
     "subs_pct": 0.3,
-    "period_views": 1167,
-    "period_likes": 19,
-    "period_shares": 16,
-    "period_watch_min": 2811.0,
-    "period_subs_net": 1,
+    "period_views": 813,
+    "period_likes": 10,
+    "period_shares": 11,
+    "period_watch_min": 2250.0,
+    "period_subs_net": 0,
     "unreplied_comments": 5,
     "top_traffic_source": "SHORTS",
-    "top_traffic_views": 24542,
+    "top_traffic_views": 20687,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
@@ -499,11 +499,11 @@
     "super_listeners": 429,
     "saves": 1000,
     "playlist_adds": 940,
-    "listeners_prev": 22584,
-    "listeners_change": -417,
-    "listeners_pct": -1.8,
-    "streams_prev": 98959,
-    "streams_change": -2414,
+    "listeners_prev": 22635,
+    "listeners_change": -468,
+    "listeners_pct": -2.1,
+    "streams_prev": 99048,
+    "streams_change": -2503,
     "top_tracks": [
       {
         "name": "Color",
@@ -603,7 +603,7 @@
         "listeners": 242
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -689,7 +689,7 @@
     "last_date": "2026-03-10",
     "followers": 1372,
     "following": 501,
-    "followers_prev": 1366,
+    "followers_prev": 1367,
     "top_posts": [
       {
         "post_id": "2024191756430884898",
@@ -824,8 +824,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 61,
-        "comments_replied": 57,
+        "comments_received": 50,
+        "comments_replied": 46,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -834,9 +834,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 163,
-    "total_replied": 96,
-    "response_rate": 59,
+    "total_received": 152,
+    "total_replied": 85,
+    "response_rate": 56,
     "total_likes": 97,
     "today_grid": [],
     "trend": [
@@ -1013,7 +1013,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 59%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 56%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
@@ -1468,7 +1468,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-03-11T02:02:15.727428+00:00",
+    "instagram": "2026-03-11T15:57:11.041243+00:00",
     "spotify": null,
     "emailoctopus": "2026-03-10T15:00:17.125026+00:00",
     "twitter": null,
