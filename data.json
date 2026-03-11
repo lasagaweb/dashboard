@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-10T20:02:32.040365",
+  "generated_at": "2026-03-10T23:02:23.160561",
   "days_to_show": 37,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-03-10",
-    "followers": 4477,
-    "reach": 5360,
-    "accounts_engaged": 143,
+    "last_date": "2026-03-11",
+    "followers": 4500,
+    "reach": 8776,
+    "accounts_engaged": 237,
     "followers_prev": 4184,
-    "followers_change": 293,
-    "followers_pct": 7.0,
+    "followers_change": 316,
+    "followers_pct": 7.6,
     "period_posts": 3,
-    "period_reach": 6028,
-    "period_engagement": 574,
+    "period_reach": 6483,
+    "period_engagement": 590,
     "top_post": {
       "date": "2026-03-08",
       "type": "reel",
       "caption": "Errante — La Saga (en vivo)\n\n\"Caigo, muerdo el piso y todo bien\nUna más para el ",
-      "reach": 2619
+      "reach": 2925
     },
     "trend": [
       {
@@ -104,20 +104,25 @@
         "date": "2026-03-10",
         "followers": 4477,
         "reach": 5360
+      },
+      {
+        "date": "2026-03-11",
+        "followers": 4500,
+        "reach": 8776
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 4,
-        "avg_reach": 3208.0,
-        "avg_engagement": 369.0
+        "avg_reach": 3310.0,
+        "avg_engagement": 373.0
       },
       {
         "type": "carousel",
         "posts": 5,
-        "avg_reach": 2030.0,
-        "avg_engagement": 261.0
+        "avg_reach": 2080.0,
+        "avg_engagement": 262.0
       }
     ]
   },
@@ -328,12 +333,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-02-08",
-        "views": 119,
-        "likes": 1,
-        "net_subs": 1
-      },
       {
         "date": "2026-02-09",
         "views": 149,
@@ -839,50 +838,7 @@
     "total_replied": 96,
     "response_rate": 59,
     "total_likes": 97,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "AM",
-        "received": 4,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 8,
-        "replied": 3,
-        "pending": 0
-      },
-      {
-        "platform": "x",
-        "shift": "AM",
-        "received": 1,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "x",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 6,
-        "replied": 4,
-        "pending": 2
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 6,
-        "replied": 4,
-        "pending": 2
-      }
-    ],
+    "today_grid": [],
     "trend": [
       {
         "date": "2026-02-20",
@@ -1223,6 +1179,12 @@
         "sent": 1,
         "responses": 1,
         "coverage": 1
+      },
+      {
+        "date": "2026-03-11",
+        "sent": 1,
+        "responses": 1,
+        "coverage": 1
       }
     ]
   },
@@ -1310,15 +1272,6 @@
   },
   "upcoming": {
     "items": [
-      {
-        "id": 8,
-        "date": "2026-03-03",
-        "platform": "instagram",
-        "type": "reel",
-        "description": "Estribillo Ya no saben qué decir",
-        "status": "published",
-        "platforms_done": []
-      },
       {
         "id": 9,
         "date": "2026-03-05",
@@ -1515,7 +1468,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-03-10T14:01:10.192853+00:00",
+    "instagram": "2026-03-11T02:02:15.727428+00:00",
     "spotify": null,
     "emailoctopus": "2026-03-10T15:00:17.125026+00:00",
     "twitter": null,
