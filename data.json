@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T11:02:15.964718",
+  "generated_at": "2026-03-12T12:00:25.648464",
   "days_to_show": 35,
   "period_days": 7,
   "instagram": {
@@ -132,13 +132,13 @@
     ]
   },
   "email": {
-    "last_date": "2026-03-11",
+    "last_date": "2026-03-12",
     "total_subs": 1549,
     "subs_prev": 1553,
     "subs_change": -4,
     "subs_pct": -0.3,
     "period_gained": 0,
-    "period_lost": 1172,
+    "period_lost": 1341,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -235,6 +235,10 @@
       },
       {
         "date": "2026-03-11",
+        "subs": 1549
+      },
+      {
+        "date": "2026-03-12",
         "subs": 1549
       }
     ]
@@ -1553,7 +1557,7 @@
   "platform_status": {
     "instagram": "2026-03-12T14:02:11.736533+00:00",
     "spotify": null,
-    "emailoctopus": "2026-03-11T15:57:32.106316+00:00",
+    "emailoctopus": "2026-03-12T15:00:18.955754+00:00",
     "twitter": null,
     "tiktok": null,
     "meta_ads": null,
