@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T16:31:54.224589",
+  "generated_at": "2026-03-12T17:32:05.394954",
   "days_to_show": 35,
   "period_days": 7,
   "instagram": {
@@ -887,8 +887,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 57,
-        "comments_replied": 48,
+        "comments_received": 65,
+        "comments_replied": 56,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -897,9 +897,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 175,
-    "total_replied": 91,
-    "response_rate": 52,
+    "total_received": 183,
+    "total_replied": 99,
+    "response_rate": 54,
     "total_likes": 106,
     "today_grid": [
       {
@@ -921,6 +921,13 @@
         "shift": "AM",
         "received": 6,
         "replied": 5,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 8,
+        "replied": 8,
         "pending": 0
       }
     ],
@@ -1007,12 +1014,60 @@
       },
       {
         "date": "2026-03-12",
-        "received": 15,
-        "replied": 7
+        "received": 23,
+        "replied": 15
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-12",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @FABRI19022 en ONCE - reflexión sobre música uruguaya"
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @veckemorales3792 en Color - escribió la letra completa"
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @ghostzerosniperpsp en Estoy perdido - busca a Max"
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @andreseduardo600 en Estoy perdido - chiste sobre baterista"
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @thetacogaming9434 en Estoy perdido - mención a Max"
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @gilohi en ONCE - fan que nos usa como banda secreta"
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @KAMIKAZES en Ya no saben qué decir - elogio a la canción"
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @agustinnobleriveiro1765 en Color - nos suenan en Armonía FM Tacuarembó"
+    },
     {
       "date": "2026-03-11",
       "platform": "youtube",
@@ -1054,61 +1109,13 @@
       "platform": "x",
       "type": "repost",
       "description": "Repost del artículo de @SoloRockUruguay sobre regreso de La Saga"
-    },
-    {
-      "date": "2026-03-11",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @SoloRockUruguay artículo regreso La Saga"
-    },
-    {
-      "date": "2026-03-11",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a tweet de @gsoraire sobre NTVG en Central Córdoba"
-    },
-    {
-      "date": "2026-03-11",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a tweet de @SalaZitarrosa sobre Vera Sienra en ciclo MAREA"
-    },
-    {
-      "date": "2026-03-11",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a tweet de @SalaZitarrosa homenaje 90 años Zitarrosa"
-    },
-    {
-      "date": "2026-03-11",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @MdeoSonoro sobre nueva temporada de caminatas sonoras por Ciudad Vieja"
-    },
-    {
-      "date": "2026-03-11",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respuesta a @SoloRockUruguay agradeciendo invitación a Comentame Tu Disco"
-    },
-    {
-      "date": "2026-03-11",
-      "platform": "x",
-      "type": "reply",
-      "description": "Respuesta a @Amaral_1806 sobre bandas UY subestimadas por tamaño del país"
-    },
-    {
-      "date": "2026-03-10",
-      "platform": "youtube",
-      "type": "skip",
-      "description": "Skip thetacogaming9434 y ghostzerosniperpsp (mensajes dirigidos a Max, no al canal)"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 52%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 54%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
