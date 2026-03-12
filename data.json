@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-03-11T23:01:28.706938",
-  "days_to_show": 36,
+  "generated_at": "2026-03-12T10:02:19.772304",
+  "days_to_show": 35,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-12",
     "followers": 4525,
     "reach": 7979,
     "accounts_engaged": 189,
-    "followers_prev": 4246,
-    "followers_change": 279,
-    "followers_pct": 6.6,
+    "followers_prev": 4276,
+    "followers_change": 249,
+    "followers_pct": 5.8,
     "period_posts": 2,
     "period_reach": 4729,
     "period_engagement": 407,
@@ -138,7 +138,7 @@
     "subs_change": -4,
     "subs_pct": -0.3,
     "period_gained": 0,
-    "period_lost": 1337,
+    "period_lost": 1172,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -247,14 +247,14 @@
     "subs_prev": 3770,
     "subs_change": 10,
     "subs_pct": 0.3,
-    "period_views": 813,
-    "period_likes": 10,
-    "period_shares": 11,
-    "period_watch_min": 2250.0,
+    "period_views": 542,
+    "period_likes": 8,
+    "period_shares": 3,
+    "period_watch_min": 1555.0,
     "period_subs_net": 0,
     "unreplied_comments": 5,
     "top_traffic_source": "SHORTS",
-    "top_traffic_views": 20687,
+    "top_traffic_views": 16653,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
@@ -502,11 +502,11 @@
     "super_listeners": 442,
     "saves": 1000,
     "playlist_adds": 934,
-    "listeners_prev": 22635,
-    "listeners_change": -514,
-    "listeners_pct": -2.3,
-    "streams_prev": 99048,
-    "streams_change": -2395,
+    "listeners_prev": 22799,
+    "listeners_change": -678,
+    "listeners_pct": -3.0,
+    "streams_prev": 99431,
+    "streams_change": -2778,
     "top_tracks": [
       {
         "name": "Color",
@@ -630,7 +630,7 @@
         "listeners": 238
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -722,7 +722,7 @@
     "last_date": "2026-03-11",
     "followers": 1373,
     "following": 501,
-    "followers_prev": 1367,
+    "followers_prev": 1368,
     "top_posts": [
       {
         "post_id": "2024191756430884898",
@@ -842,40 +842,48 @@
     "platforms": {
       "instagram": {
         "comments_received": 38,
-        "comments_replied": 14,
-        "dms_received": 31,
-        "dms_replied": 17,
+        "comments_replied": 11,
+        "dms_received": 32,
+        "dms_replied": 18,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 20,
+        "likes_given": 23,
         "response_time_avg_min": 0
       },
       "x": {
-        "comments_received": 14,
-        "comments_replied": 8,
+        "comments_received": 12,
+        "comments_replied": 7,
         "dms_received": 0,
         "dms_replied": 0,
-        "mentions_received": 37,
-        "mentions_replied": 8,
-        "likes_given": 81,
+        "mentions_received": 34,
+        "mentions_replied": 7,
+        "likes_given": 74,
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 63,
-        "comments_replied": 55,
+        "comments_received": 51,
+        "comments_replied": 43,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 10,
+        "likes_given": 8,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 183,
-    "total_replied": 102,
-    "response_rate": 56,
-    "total_likes": 111,
-    "today_grid": [],
+    "total_received": 167,
+    "total_replied": 86,
+    "response_rate": 51,
+    "total_likes": 105,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 7,
+        "replied": 2,
+        "pending": 0
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-20",
@@ -956,6 +964,11 @@
         "date": "2026-03-11",
         "received": 31,
         "replied": 17
+      },
+      {
+        "date": "2026-03-12",
+        "received": 7,
+        "replied": 2
       }
     ]
   },
@@ -1055,7 +1068,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 56%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 51%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
