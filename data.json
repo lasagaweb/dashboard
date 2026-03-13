@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T17:03:13.168838",
+  "generated_at": "2026-03-13T17:20:24.841535",
   "days_to_show": 34,
   "period_days": 7,
   "instagram": {
@@ -872,13 +872,13 @@
         "response_time_avg_min": 0
       },
       "x": {
-        "comments_received": 15,
-        "comments_replied": 7,
+        "comments_received": 16,
+        "comments_replied": 8,
         "dms_received": 0,
         "dms_replied": 0,
-        "mentions_received": 33,
-        "mentions_replied": 7,
-        "likes_given": 71,
+        "mentions_received": 34,
+        "mentions_replied": 8,
+        "likes_given": 76,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -892,10 +892,10 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 192,
-    "total_replied": 101,
+    "total_received": 194,
+    "total_replied": 103,
     "response_rate": 53,
-    "total_likes": 108,
+    "total_likes": 113,
     "today_grid": [
       {
         "platform": "instagram",
@@ -916,6 +916,13 @@
         "shift": "AM",
         "received": 1,
         "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "x",
+        "shift": "PM",
+        "received": 2,
+        "replied": 2,
         "pending": 0
       },
       {
@@ -1014,12 +1021,66 @@
       },
       {
         "date": "2026-03-13",
-        "received": 17,
-        "replied": 9
+        "received": 19,
+        "replied": 11
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-13",
+      "platform": "x",
+      "type": "follow",
+      "description": "Follow a @BosquesUy (banda UY folktrónica, show en Bluzz)"
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @RadioBelcha (El Hombre Vacunado)"
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @RadioBelcha (nuevas programaciones)"
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @MdeoSonoro (caminata Malvín)"
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @BosquesUy (show viernes en Bluzz Bar)"
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @SoloRockUruguay (reply sobre Live Era)"
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @MdeoSonoro sobre caminata en Malvín mañana"
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @BosquesUy sobre su show en Bluzz Bar esta noche"
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @SoloRockUruguay sobre Live Era y público para rock en vivo"
+    },
     {
       "date": "2026-03-13",
       "platform": "youtube",
@@ -1055,60 +1116,6 @@
       "platform": "x",
       "type": "like",
       "description": "Like a Agenda Rock de @SoloRockUruguay"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a Suicidal Tendencies post de @SoloRockUruguay"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a post de Suicidal Tendencies en Live Era de @SoloRockUruguay"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a Montevideo Sonoro Malvín via @Metronomo_uy"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a galería de Traidores de @Metronomo_uy"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a galería de Traidores en Live Era de @Metronomo_uy"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a tweet de @hyyhenjoyer69 sobre rock uruguayo"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a reply de @SoloRockUruguay: Muchas gracias, abrazo"
-    },
-    {
-      "date": "2026-03-12",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondido @FABRI19022 en ONCE - reflexión sobre música uruguaya"
-    },
-    {
-      "date": "2026-03-12",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondido @veckemorales3792 en Color - escribió la letra completa"
     }
   ],
   "suggestions": [
