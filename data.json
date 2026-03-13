@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-13T10:31:12.220665",
+  "generated_at": "2026-03-13T11:01:16.423727",
   "days_to_show": 34,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-13",
-    "followers": 4557,
-    "reach": 6870,
-    "accounts_engaged": 207,
+    "followers": 4567,
+    "reach": 4607,
+    "accounts_engaged": 186,
     "followers_prev": 4311,
-    "followers_change": 246,
-    "followers_pct": 5.7,
+    "followers_change": 256,
+    "followers_pct": 5.9,
     "period_posts": 3,
-    "period_reach": 5263,
-    "period_engagement": 475,
+    "period_reach": 5436,
+    "period_engagement": 495,
     "top_post": {
       "date": "2026-03-08",
       "type": "reel",
       "caption": "Errante — La Saga (en vivo)\n\n\"Caigo, muerdo el piso y todo bien\nUna más para el ",
-      "reach": 3168
+      "reach": 3182
     },
     "trend": [
       {
@@ -117,21 +117,21 @@
       },
       {
         "date": "2026-03-13",
-        "followers": 4557,
-        "reach": 6870
+        "followers": 4567,
+        "reach": 4607
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 5,
-        "avg_reach": 2778.0,
-        "avg_engagement": 313.0
+        "avg_reach": 2811.0,
+        "avg_engagement": 317.0
       },
       {
         "type": "carousel",
         "posts": 5,
-        "avg_reach": 2139.0,
+        "avg_reach": 2150.0,
         "avg_engagement": 266.0
       }
     ]
@@ -1582,7 +1582,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-03-13T02:02:32.069950+00:00",
+    "instagram": "2026-03-13T14:01:13.203798+00:00",
     "spotify": null,
     "emailoctopus": "2026-03-12T15:00:18.955754+00:00",
     "twitter": null,
