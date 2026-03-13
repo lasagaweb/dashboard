@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T14:07:51.495998",
+  "generated_at": "2026-03-13T16:04:32.133870",
   "days_to_show": 34,
   "period_days": 7,
   "instagram": {
@@ -526,67 +526,43 @@
     ]
   },
   "spotify": {
-    "last_date": "2026-03-11",
-    "monthly_listeners": 22121,
-    "streams_28d": 96653,
-    "followers": 11000,
-    "super_listeners": 442,
-    "saves": 1000,
-    "playlist_adds": 934,
+    "last_date": "2026-03-13",
+    "monthly_listeners": 22294,
+    "streams_28d": 97626,
+    "followers": 11349,
+    "super_listeners": 451,
+    "saves": 1003,
+    "playlist_adds": 850,
     "listeners_prev": 22737,
-    "listeners_change": -616,
-    "listeners_pct": -2.7,
+    "listeners_change": -443,
+    "listeners_pct": -1.9,
     "streams_prev": 98944,
-    "streams_change": -2291,
+    "streams_change": -1318,
     "top_tracks": [
       {
         "name": "Color",
-        "streams": 19037,
-        "listeners": 11611,
-        "saves": 132
+        "streams": 5012,
+        "listeners": 0,
+        "saves": 0
       },
       {
         "name": "Once",
-        "streams": 15073,
-        "listeners": 9042,
-        "saves": 122
+        "streams": 3317,
+        "listeners": 0,
+        "saves": 0
       },
       {
         "name": "Ir",
-        "streams": 10454,
-        "listeners": 6693,
-        "saves": 64
-      },
-      {
-        "name": "Vos",
-        "streams": 6807,
-        "listeners": 4393,
-        "saves": 34
-      },
-      {
-        "name": "Errante",
-        "streams": 6062,
-        "listeners": 3769,
-        "saves": 31
-      },
-      {
-        "name": "De Cabeza",
-        "streams": 5180,
-        "listeners": 3163,
-        "saves": 44
-      },
-      {
-        "name": "Buscando Espacio (Un Lugar)",
-        "streams": 4558,
-        "listeners": 2817,
-        "saves": 44
+        "streams": 2278,
+        "listeners": 0,
+        "saves": 0
       }
     ],
     "demographics": [
       {
         "dim": "age",
         "value": "35-44",
-        "pct": 37.0
+        "pct": 36.0
       },
       {
         "dim": "age",
@@ -611,7 +587,7 @@
       {
         "dim": "age",
         "value": "65+",
-        "pct": 1.0
+        "pct": 2.0
       },
       {
         "dim": "age",
@@ -642,26 +618,26 @@
     "locations": [
       {
         "name": "Uruguay",
-        "listeners": 14534
+        "listeners": 14657
       },
       {
         "name": "Argentina",
-        "listeners": 4916
+        "listeners": 4959
       },
       {
         "name": "Spain",
-        "listeners": 773
+        "listeners": 775
       },
       {
         "name": "Mexico",
-        "listeners": 453
+        "listeners": 451
       },
       {
         "name": "Brazil",
-        "listeners": 238
+        "listeners": 227
       }
     ],
-    "days_since_collection": 2,
+    "days_since_collection": 0,
     "trend": [
       {
         "date": "2026-02-18",
@@ -746,6 +722,12 @@
         "listeners": 22121,
         "streams": 96653,
         "followers": 11000
+      },
+      {
+        "date": "2026-03-13",
+        "listeners": 22294,
+        "streams": 97626,
+        "followers": 11349
       }
     ]
   },
