@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T10:21:24.105028",
+  "generated_at": "2026-03-13T10:31:12.220665",
   "days_to_show": 34,
   "period_days": 7,
   "instagram": {
@@ -886,20 +886,20 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 60,
-        "comments_replied": 51,
+        "comments_received": 65,
+        "comments_replied": 56,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 3,
+        "likes_given": 8,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 183,
-    "total_replied": 94,
-    "response_rate": 51,
-    "total_likes": 102,
+    "total_received": 188,
+    "total_replied": 99,
+    "response_rate": 53,
+    "total_likes": 107,
     "today_grid": [
       {
         "platform": "instagram",
@@ -913,6 +913,13 @@
         "shift": "AM",
         "received": 1,
         "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 5,
+        "replied": 5,
         "pending": 0
       }
     ],
@@ -1004,12 +1011,18 @@
       },
       {
         "date": "2026-03-13",
-        "received": 8,
-        "replied": 2
+        "received": 13,
+        "replied": 7
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-13",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "5 comentarios respondidos en Estoy perdido, Color y ONCE"
+    },
     {
       "date": "2026-03-13",
       "platform": "x",
@@ -1093,19 +1106,13 @@
       "platform": "youtube",
       "type": "reply",
       "description": "Respondido @veckemorales3792 en Color - escribió la letra completa"
-    },
-    {
-      "date": "2026-03-12",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondido @ghostzerosniperpsp en Estoy perdido - busca a Max"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 51%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 53%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
