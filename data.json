@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T10:18:51.031320",
+  "generated_at": "2026-03-14T10:34:21.592911",
   "days_to_show": 33,
   "period_days": 7,
   "instagram": {
@@ -887,14 +887,14 @@
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 13,
+        "likes_given": 18,
         "response_time_avg_min": 0
       }
     },
     "total_received": 195,
     "total_replied": 106,
     "response_rate": 54,
-    "total_likes": 112,
+    "total_likes": 117,
     "today_grid": [
       {
         "platform": "instagram",
@@ -907,6 +907,13 @@
         "platform": "x",
         "shift": "AM",
         "received": 1,
+        "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 0,
         "replied": 0,
         "pending": 0
       }
@@ -1012,6 +1019,12 @@
   "community_log": [
     {
       "date": "2026-03-14",
+      "platform": "youtube",
+      "type": "like",
+      "description": "Hearts dados a 5 comentarios de fans: @1290Nela (x2), @gilohi, @javierlopez5707, @sandragarcia4767 — 0 comentarios nuevos sin responder"
+    },
+    {
+      "date": "2026-03-14",
       "platform": "x",
       "type": "reply",
       "description": "Reply a @diegopresabuceo sobre show con Juan Pablo Fernández en Hugo Balzo"
@@ -1093,12 +1106,6 @@
       "platform": "x",
       "type": "reply",
       "description": "Reply a @BosquesUy sobre su show en Bluzz Bar esta noche"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @SoloRockUruguay sobre Live Era y público para rock en vivo"
     }
   ],
   "suggestions": [
