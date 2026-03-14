@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T10:01:12.452528",
+  "generated_at": "2026-03-14T10:18:51.031320",
   "days_to_show": 33,
   "period_days": 7,
   "instagram": {
@@ -875,9 +875,9 @@
         "comments_replied": 7,
         "dms_received": 0,
         "dms_replied": 0,
-        "mentions_received": 34,
+        "mentions_received": 35,
         "mentions_replied": 8,
-        "likes_given": 64,
+        "likes_given": 69,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -891,16 +891,23 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 194,
+    "total_received": 195,
     "total_replied": 106,
-    "response_rate": 55,
-    "total_likes": 107,
+    "response_rate": 54,
+    "total_likes": 112,
     "today_grid": [
       {
         "platform": "instagram",
         "shift": "AM",
         "received": 2,
         "replied": 1,
+        "pending": 0
+      },
+      {
+        "platform": "x",
+        "shift": "AM",
+        "received": 1,
+        "replied": 0,
         "pending": 0
       }
     ],
@@ -997,12 +1004,48 @@
       },
       {
         "date": "2026-03-14",
-        "received": 2,
+        "received": 3,
         "replied": 1
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-14",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @diegopresabuceo sobre show con Juan Pablo Fernández en Hugo Balzo"
+    },
+    {
+      "date": "2026-03-14",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a repost de @bizarrouruguay sobre Mateo Moreno en Sociedad Urbana"
+    },
+    {
+      "date": "2026-03-14",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a tweet de @diegopresabuceo sobre show con Juan Pablo Fernández en Hugo Balzo"
+    },
+    {
+      "date": "2026-03-14",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a tweet de @obolocultural sobre Traidores en Live Era"
+    },
+    {
+      "date": "2026-03-14",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a tweet de @envidoyresto sobre historia del rock uruguayo"
+    },
+    {
+      "date": "2026-03-14",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a tweet de @Austra74 listando temas de rock uruguayo"
+    },
     {
       "date": "2026-03-13",
       "platform": "x",
@@ -1056,49 +1099,13 @@
       "platform": "x",
       "type": "reply",
       "description": "Reply a @SoloRockUruguay sobre Live Era y público para rock en vivo"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "5 comentarios respondidos en Estoy perdido, Color y ONCE"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a gira NTVG de @vidalmarco3"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a Buitres en Buenos Aires de @LaUneok"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "follow",
-      "description": "Follow back a @SocioOficial (banda que nos sigue)"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a EP Sixto de Cadáveres Ilustres de @SoloRockUruguay"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a Agenda Rock de @SoloRockUruguay"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 55%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 54%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
