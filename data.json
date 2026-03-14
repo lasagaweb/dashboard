@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T17:03:07.717649",
+  "generated_at": "2026-03-14T17:20:37.947136",
   "days_to_show": 33,
   "period_days": 7,
   "instagram": {
@@ -891,7 +891,7 @@
         "dms_replied": 0,
         "mentions_received": 35,
         "mentions_replied": 8,
-        "likes_given": 69,
+        "likes_given": 74,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -908,7 +908,7 @@
     "total_received": 195,
     "total_replied": 106,
     "response_rate": 54,
-    "total_likes": 117,
+    "total_likes": 122,
     "today_grid": [
       {
         "platform": "instagram",
@@ -928,6 +928,13 @@
         "platform": "x",
         "shift": "AM",
         "received": 1,
+        "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "x",
+        "shift": "PM",
+        "received": 0,
         "replied": 0,
         "pending": 0
       },
@@ -1040,6 +1047,42 @@
   "community_log": [
     {
       "date": "2026-03-14",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @RadioBelcha en Duro Como Una Roca: Buen nombre para un programa de rock. La radio independiente sigue siendo el espacio donde las bandas que no suenan en las FM comerciales encuentran aire. Se valora."
+    },
+    {
+      "date": "2026-03-14",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @RadioBelcha - nuevas programaciones desde el lunes 16/03"
+    },
+    {
+      "date": "2026-03-14",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @RadioBelcha - programa Duro Como Una Roca"
+    },
+    {
+      "date": "2026-03-14",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @FernandezRenzo1 - el mejor tema del rock uruguayo (video)"
+    },
+    {
+      "date": "2026-03-14",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @AndresFK75 hablando de Jaime sin Tierra y La Foca (bandas uruguayas)"
+    },
+    {
+      "date": "2026-03-14",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a @mexnewz sobre nuevo album de Difusion Prohibida (banda uruguaya)"
+    },
+    {
+      "date": "2026-03-14",
       "platform": "youtube",
       "type": "like",
       "description": "Hearts dados a 5 comentarios de fans: @1290Nela (x2), @gilohi, @javierlopez5707, @sandragarcia4767 — 0 comentarios nuevos sin responder"
@@ -1091,42 +1134,6 @@
       "platform": "x",
       "type": "like",
       "description": "Like a @RadioBelcha (El Hombre Vacunado)"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @RadioBelcha (nuevas programaciones)"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @MdeoSonoro (caminata Malvín)"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @BosquesUy (show viernes en Bluzz Bar)"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @SoloRockUruguay (reply sobre Live Era)"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @MdeoSonoro sobre caminata en Malvín mañana"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @BosquesUy sobre su show en Bluzz Bar esta noche"
     }
   ],
   "suggestions": [
