@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T17:20:37.947136",
+  "generated_at": "2026-03-14T17:34:15.412807",
   "days_to_show": 33,
   "period_days": 7,
   "instagram": {
@@ -901,14 +901,14 @@
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 18,
+        "likes_given": 21,
         "response_time_avg_min": 0
       }
     },
     "total_received": 195,
     "total_replied": 106,
     "response_rate": 54,
-    "total_likes": 122,
+    "total_likes": 125,
     "today_grid": [
       {
         "platform": "instagram",
@@ -941,6 +941,13 @@
       {
         "platform": "youtube",
         "shift": "AM",
+        "received": 0,
+        "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
         "received": 0,
         "replied": 0,
         "pending": 0
@@ -1047,6 +1054,24 @@
   "community_log": [
     {
       "date": "2026-03-14",
+      "platform": "youtube",
+      "type": "heart",
+      "description": "Heart a @agustinnobleriveiro1765 en Color (Armonía FM Tacuarembó)"
+    },
+    {
+      "date": "2026-03-14",
+      "platform": "youtube",
+      "type": "heart",
+      "description": "Heart a @KAMIKAZES verificado en Ya no saben qué decir short"
+    },
+    {
+      "date": "2026-03-14",
+      "platform": "youtube",
+      "type": "heart",
+      "description": "Heart a @FdeMoreira en Ya no saben qué decir (fan 20+ años, confirma asistencia vuelta)"
+    },
+    {
+      "date": "2026-03-14",
       "platform": "x",
       "type": "reply",
       "description": "Reply a @RadioBelcha en Duro Como Una Roca: Buen nombre para un programa de rock. La radio independiente sigue siendo el espacio donde las bandas que no suenan en las FM comerciales encuentran aire. Se valora."
@@ -1116,24 +1141,6 @@
       "platform": "x",
       "type": "like",
       "description": "Like a tweet de @envidoyresto sobre historia del rock uruguayo"
-    },
-    {
-      "date": "2026-03-14",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a tweet de @Austra74 listando temas de rock uruguayo"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "follow",
-      "description": "Follow a @BosquesUy (banda UY folktrónica, show en Bluzz)"
-    },
-    {
-      "date": "2026-03-13",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @RadioBelcha (El Hombre Vacunado)"
     }
   ],
   "suggestions": [
