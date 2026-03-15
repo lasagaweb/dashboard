@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T10:21:17.757120",
+  "generated_at": "2026-03-15T10:36:22.992907",
   "days_to_show": 32,
   "period_days": 7,
   "instagram": {
@@ -894,20 +894,20 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 64,
-        "comments_replied": 55,
+        "comments_received": 65,
+        "comments_replied": 56,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 21,
+        "likes_given": 22,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 161,
-    "total_replied": 91,
+    "total_received": 162,
+    "total_replied": 92,
     "response_rate": 57,
-    "total_likes": 116,
+    "total_likes": 117,
     "today_grid": [
       {
         "platform": "instagram",
@@ -921,6 +921,13 @@
         "shift": "AM",
         "received": 0,
         "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 1,
+        "replied": 1,
         "pending": 0
       }
     ],
@@ -1022,12 +1029,18 @@
       },
       {
         "date": "2026-03-15",
-        "received": 2,
-        "replied": 0
+        "received": 3,
+        "replied": 1
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-15",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @hongo-loco en Errante acústico: le dimos corazón y respondimos agradeciendo. El usuario pide quitar el oculto del video."
+    },
     {
       "date": "2026-03-15",
       "platform": "x",
@@ -1111,12 +1124,6 @@
       "platform": "x",
       "type": "like",
       "description": "Like a @mexnewz sobre nuevo album de Difusion Prohibida (banda uruguaya)"
-    },
-    {
-      "date": "2026-03-14",
-      "platform": "youtube",
-      "type": "like",
-      "description": "Hearts dados a 5 comentarios de fans: @1290Nela (x2), @gilohi, @javierlopez5707, @sandragarcia4767 — 0 comentarios nuevos sin responder"
     }
   ],
   "suggestions": [
