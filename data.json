@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T10:01:28.351425",
+  "generated_at": "2026-03-15T10:21:17.757120",
   "days_to_show": 32,
   "period_days": 7,
   "instagram": {
@@ -890,7 +890,7 @@
         "dms_replied": 0,
         "mentions_received": 17,
         "mentions_replied": 5,
-        "likes_given": 61,
+        "likes_given": 64,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -907,7 +907,7 @@
     "total_received": 161,
     "total_replied": 91,
     "response_rate": 57,
-    "total_likes": 113,
+    "total_likes": 116,
     "today_grid": [
       {
         "platform": "instagram",
@@ -915,6 +915,13 @@
         "received": 2,
         "replied": 0,
         "pending": 1
+      },
+      {
+        "platform": "x",
+        "shift": "AM",
+        "received": 0,
+        "replied": 0,
+        "pending": 0
       }
     ],
     "trend": [
@@ -1022,6 +1029,36 @@
   },
   "community_log": [
     {
+      "date": "2026-03-15",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a post de @SoloRockUruguay - Antifaz banda colombiana"
+    },
+    {
+      "date": "2026-03-15",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a post de @SoloRockUruguay - Videoteca nuevos videos"
+    },
+    {
+      "date": "2026-03-15",
+      "platform": "x",
+      "type": "like",
+      "description": "Like a tweet de @hcgastonn sobre álbumes esenciales de música uruguaya"
+    },
+    {
+      "date": "2026-03-15",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @SoloRockUruguay sobre Videoteca con nuevos videos de Peyote Asesino, El Umbral, etc."
+    },
+    {
+      "date": "2026-03-15",
+      "platform": "x",
+      "type": "reply",
+      "description": "Reply a @hcgastonn sobre álbumes esenciales de música uruguaya (903 views, 31 likes) - mencionamos Eso Que Nos Lleva naturalmente"
+    },
+    {
       "date": "2026-03-14",
       "platform": "youtube",
       "type": "heart",
@@ -1080,36 +1117,6 @@
       "platform": "youtube",
       "type": "like",
       "description": "Hearts dados a 5 comentarios de fans: @1290Nela (x2), @gilohi, @javierlopez5707, @sandragarcia4767 — 0 comentarios nuevos sin responder"
-    },
-    {
-      "date": "2026-03-14",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @diegopresabuceo sobre show con Juan Pablo Fernández en Hugo Balzo"
-    },
-    {
-      "date": "2026-03-14",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a repost de @bizarrouruguay sobre Mateo Moreno en Sociedad Urbana"
-    },
-    {
-      "date": "2026-03-14",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a tweet de @diegopresabuceo sobre show con Juan Pablo Fernández en Hugo Balzo"
-    },
-    {
-      "date": "2026-03-14",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a tweet de @obolocultural sobre Traidores en Live Era"
-    },
-    {
-      "date": "2026-03-14",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a tweet de @envidoyresto sobre historia del rock uruguayo"
     }
   ],
   "suggestions": [
