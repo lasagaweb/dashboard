@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-14T20:01:26.431174",
+  "generated_at": "2026-03-14T23:02:11.040231",
   "days_to_show": 33,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-03-14",
+    "last_date": "2026-03-15",
     "followers": 4594,
-    "reach": 4391,
-    "accounts_engaged": 96,
+    "reach": 4443,
+    "accounts_engaged": 110,
     "followers_prev": 4352,
     "followers_change": 242,
     "followers_pct": 5.6,
     "period_posts": 3,
-    "period_reach": 5663,
-    "period_engagement": 522,
+    "period_reach": 5745,
+    "period_engagement": 535,
     "top_post": {
       "date": "2026-03-08",
       "type": "reel",
       "caption": "Errante — La Saga (en vivo)\n\n\"Caigo, muerdo el piso y todo bien\nUna más para el ",
-      "reach": 3230
+      "reach": 3250
     },
     "trend": [
       {
@@ -124,20 +124,25 @@
         "date": "2026-03-14",
         "followers": 4594,
         "reach": 4391
+      },
+      {
+        "date": "2026-03-15",
+        "followers": 4594,
+        "reach": 4443
       }
     ],
     "post_types": [
       {
         "type": "reel",
-        "posts": 5,
-        "avg_reach": 2859.0,
-        "avg_engagement": 322.0
+        "posts": 4,
+        "avg_reach": 2726.0,
+        "avg_engagement": 273.0
       },
       {
         "type": "carousel",
         "posts": 5,
-        "avg_reach": 2178.0,
-        "avg_engagement": 267.0
+        "avg_reach": 2181.0,
+        "avg_engagement": 269.0
       }
     ]
   },
@@ -364,12 +369,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-02-12",
-        "views": 221,
-        "likes": 1,
-        "net_subs": 0
-      },
       {
         "date": "2026-02-13",
         "views": 308,
@@ -909,50 +908,7 @@
     "total_replied": 106,
     "response_rate": 54,
     "total_likes": 125,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "AM",
-        "received": 2,
-        "replied": 1,
-        "pending": 0
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "x",
-        "shift": "AM",
-        "received": 1,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "x",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      }
-    ],
+    "today_grid": [],
     "trend": [
       {
         "date": "2026-02-20",
@@ -1337,6 +1293,12 @@
         "sent": 1,
         "responses": 1,
         "coverage": 1
+      },
+      {
+        "date": "2026-03-15",
+        "sent": 1,
+        "responses": 1,
+        "coverage": 1
       }
     ]
   },
@@ -1424,15 +1386,6 @@
   },
   "upcoming": {
     "items": [
-      {
-        "id": 10,
-        "date": "2026-03-07",
-        "platform": "instagram",
-        "type": "carousel",
-        "description": "Carrusel Errante",
-        "status": "published",
-        "platforms_done": []
-      },
       {
         "id": 11,
         "date": "2026-03-08",
@@ -1639,7 +1592,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-03-14T14:02:01.677686+00:00",
+    "instagram": "2026-03-15T02:02:07.052842+00:00",
     "spotify": null,
     "emailoctopus": "2026-03-14T15:00:18.121169+00:00",
     "twitter": null,
