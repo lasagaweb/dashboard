@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T15:43:58.740466",
+  "generated_at": "2026-03-16T17:05:28.285094",
   "days_to_show": 31,
   "period_days": 7,
   "instagram": {
@@ -535,74 +535,81 @@
     ]
   },
   "spotify": {
-    "last_date": "2026-03-15",
-    "monthly_listeners": 22159,
-    "streams_28d": 97011,
+    "last_date": "2026-03-16",
+    "monthly_listeners": 21851,
+    "streams_28d": 96000,
     "followers": 11000,
-    "super_listeners": 458,
-    "saves": 996,
-    "playlist_adds": 898,
+    "super_listeners": 0,
+    "saves": 998,
+    "playlist_adds": 877,
     "listeners_prev": 22261,
-    "listeners_change": -102,
-    "listeners_pct": -0.5,
+    "listeners_change": -410,
+    "listeners_pct": -1.8,
     "streams_prev": 96791,
-    "streams_change": 220,
+    "streams_change": -791,
     "top_tracks": [
       {
         "name": "Color",
-        "streams": 5048,
-        "listeners": 0,
-        "saves": 0
+        "streams": 18935,
+        "listeners": 11527,
+        "saves": 134
       },
       {
         "name": "Once",
-        "streams": 3512,
-        "listeners": 0,
-        "saves": 0
+        "streams": 14762,
+        "listeners": 8889,
+        "saves": 117
       },
       {
         "name": "Ir",
-        "streams": 2417,
-        "listeners": 0,
-        "saves": 0
+        "streams": 10271,
+        "listeners": 6497,
+        "saves": 71
+      },
+      {
+        "name": "Vos",
+        "streams": 6763,
+        "listeners": 4347,
+        "saves": 42
+      },
+      {
+        "name": "De Cabeza",
+        "streams": 5206,
+        "listeners": 3145,
+        "saves": 48
+      },
+      {
+        "name": "El Grito del León",
+        "streams": 2815,
+        "listeners": 1834,
+        "saves": 21
+      },
+      {
+        "name": "Estoy Perdido",
+        "streams": 2537,
+        "listeners": 1713,
+        "saves": 20
+      },
+      {
+        "name": "Salir",
+        "streams": 2091,
+        "listeners": 1357,
+        "saves": 13
+      },
+      {
+        "name": "Un Mundo Diferente",
+        "streams": 868,
+        "listeners": 603,
+        "saves": 5
+      },
+      {
+        "name": "Eso Que Nos Queda",
+        "streams": 638,
+        "listeners": 384,
+        "saves": 8
       }
     ],
     "demographics": [
-      {
-        "dim": "age",
-        "value": "35-44",
-        "pct": 36.0
-      },
-      {
-        "dim": "age",
-        "value": "25-34",
-        "pct": 33.0
-      },
-      {
-        "dim": "age",
-        "value": "45-54",
-        "pct": 18.0
-      },
-      {
-        "dim": "age",
-        "value": "18-24",
-        "pct": 6.0
-      },
-      {
-        "dim": "age",
-        "value": "55-64",
-        "pct": 5.0
-      },
-      {
-        "dim": "age",
-        "value": "65+",
-        "pct": 2.0
-      },
-      {
-        "dim": "age",
-        "value": "<18",
-        "pct": 0.0
-      },
       {
         "dim": "gender",
         "value": "male",
@@ -627,26 +634,26 @@
     "locations": [
       {
         "name": "Uruguay",
-        "listeners": 14581
+        "listeners": 14294
       },
       {
         "name": "Argentina",
-        "listeners": 4909
+        "listeners": 4834
       },
       {
         "name": "Spain",
-        "listeners": 764
+        "listeners": 751
       },
       {
         "name": "Mexico",
-        "listeners": 445
+        "listeners": 448
       },
       {
         "name": "Chile",
-        "listeners": 228
+        "listeners": 229
       }
     ],
-    "days_since_collection": 1,
+    "days_since_collection": 0,
     "trend": [
       {
         "date": "2026-02-18",
@@ -748,6 +755,12 @@
         "date": "2026-03-15",
         "listeners": 22159,
         "streams": 97011,
+        "followers": 11000
+      },
+      {
+        "date": "2026-03-16",
+        "listeners": 21851,
+        "streams": 96000,
         "followers": 11000
       }
     ]
@@ -895,7 +908,7 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 39,
+        "comments_received": 40,
         "comments_replied": 10,
         "dms_received": 26,
         "dms_replied": 13,
@@ -925,7 +938,7 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 143,
+    "total_received": 144,
     "total_replied": 83,
     "response_rate": 58,
     "total_likes": 110,
@@ -936,6 +949,13 @@
         "received": 1,
         "replied": 0,
         "pending": 1
+      },
+      {
+        "platform": "instagram",
+        "shift": "PM",
+        "received": 1,
+        "replied": 0,
+        "pending": 0
       },
       {
         "platform": "youtube",
@@ -1048,7 +1068,7 @@
       },
       {
         "date": "2026-03-16",
-        "received": 3,
+        "received": 4,
         "replied": 1
       }
     ]
