@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-15T20:02:51.931257",
+  "generated_at": "2026-03-15T23:02:03.884482",
   "days_to_show": 32,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-03-15",
-    "followers": 4595,
-    "reach": 267,
-    "accounts_engaged": 24,
+    "last_date": "2026-03-16",
+    "followers": 4596,
+    "reach": 884,
+    "accounts_engaged": 53,
     "followers_prev": 4387,
-    "followers_change": 208,
-    "followers_pct": 4.7,
+    "followers_change": 209,
+    "followers_pct": 4.8,
     "period_posts": 2,
-    "period_reach": 3980,
-    "period_engagement": 354,
+    "period_reach": 4035,
+    "period_engagement": 366,
     "top_post": {
       "date": "2026-03-08",
       "type": "reel",
       "caption": "Errante — La Saga (en vivo)\n\n\"Caigo, muerdo el piso y todo bien\nUna más para el ",
-      "reach": 3259
+      "reach": 3279
     },
     "trend": [
       {
@@ -129,19 +129,24 @@
         "date": "2026-03-15",
         "followers": 4595,
         "reach": 267
+      },
+      {
+        "date": "2026-03-16",
+        "followers": 4596,
+        "reach": 884
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 4,
-        "avg_reach": 2735.0,
-        "avg_engagement": 274.0
+        "avg_reach": 2749.0,
+        "avg_engagement": 277.0
       },
       {
         "type": "carousel",
         "posts": 5,
-        "avg_reach": 2185.0,
+        "avg_reach": 2190.0,
         "avg_engagement": 269.0
       }
     ]
@@ -373,12 +378,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-02-13",
-        "views": 308,
-        "likes": 2,
-        "net_subs": 2
-      },
       {
         "date": "2026-02-14",
         "views": 213,
@@ -922,43 +921,7 @@
     "total_replied": 96,
     "response_rate": 57,
     "total_likes": 121,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "AM",
-        "received": 2,
-        "replied": 0,
-        "pending": 1
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 2,
-        "replied": 1,
-        "pending": 0
-      },
-      {
-        "platform": "x",
-        "shift": "AM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 1,
-        "replied": 1,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 3,
-        "replied": 3,
-        "pending": 0
-      }
-    ],
+    "today_grid": [],
     "trend": [
       {
         "date": "2026-02-20",
@@ -1354,6 +1317,12 @@
         "sent": 1,
         "responses": 1,
         "coverage": 1
+      },
+      {
+        "date": "2026-03-16",
+        "sent": 1,
+        "responses": 1,
+        "coverage": 1
       }
     ]
   },
@@ -1441,15 +1410,6 @@
   },
   "upcoming": {
     "items": [
-      {
-        "id": 11,
-        "date": "2026-03-08",
-        "platform": "youtube",
-        "type": "video",
-        "description": "Errante - canción completa",
-        "status": "published",
-        "platforms_done": []
-      },
       {
         "id": 12,
         "date": "2026-03-10",
@@ -1655,7 +1615,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-03-15T14:01:41.974155+00:00",
+    "instagram": "2026-03-16T02:01:54.771218+00:00",
     "spotify": null,
     "emailoctopus": "2026-03-15T15:00:15.430091+00:00",
     "twitter": null,
