@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-16T14:02:45.679449",
+  "generated_at": "2026-03-16T15:43:58.740466",
   "days_to_show": 31,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-16",
-    "followers": 4596,
-    "reach": 884,
-    "accounts_engaged": 53,
+    "followers": 4593,
+    "reach": 1006,
+    "accounts_engaged": 46,
     "followers_prev": 4422,
-    "followers_change": 174,
+    "followers_change": 171,
     "followers_pct": 3.9,
     "period_posts": 1,
-    "period_reach": 756,
+    "period_reach": 773,
     "period_engagement": 96,
     "top_post": {
       "date": "2026-03-12",
       "type": "reel",
       "caption": "Eso que nos lleva. Pronto aprendí a diferenciar mi voz de vos...\n\nEl disco que n",
-      "reach": 756
+      "reach": 773
     },
     "trend": [
       {
@@ -132,22 +132,22 @@
       },
       {
         "date": "2026-03-16",
-        "followers": 4596,
-        "reach": 884
+        "followers": 4593,
+        "reach": 1006
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 4,
-        "avg_reach": 2749.0,
-        "avg_engagement": 277.0
+        "avg_reach": 2758.0,
+        "avg_engagement": 278.0
       },
       {
         "type": "carousel",
         "posts": 5,
-        "avg_reach": 2190.0,
-        "avg_engagement": 269.0
+        "avg_reach": 2193.0,
+        "avg_engagement": 270.0
       }
     ]
   },
@@ -1643,7 +1643,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-03-16T02:01:54.771218+00:00",
+    "instagram": "2026-03-16T18:43:52.531464+00:00",
     "spotify": null,
     "emailoctopus": "2026-03-16T15:00:17.274942+00:00",
     "twitter": null,
