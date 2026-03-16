@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-15T23:02:03.884482",
-  "days_to_show": 32,
+  "generated_at": "2026-03-16T10:02:13.448249",
+  "days_to_show": 31,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-16",
     "followers": 4596,
     "reach": 884,
     "accounts_engaged": 53,
-    "followers_prev": 4387,
-    "followers_change": 209,
-    "followers_pct": 4.8,
-    "period_posts": 2,
-    "period_reach": 4035,
-    "period_engagement": 366,
+    "followers_prev": 4422,
+    "followers_change": 174,
+    "followers_pct": 3.9,
+    "period_posts": 1,
+    "period_reach": 756,
+    "period_engagement": 96,
     "top_post": {
-      "date": "2026-03-08",
+      "date": "2026-03-12",
       "type": "reel",
-      "caption": "Errante — La Saga (en vivo)\n\n\"Caigo, muerdo el piso y todo bien\nUna más para el ",
-      "reach": 3279
+      "caption": "Eso que nos lleva. Pronto aprendí a diferenciar mi voz de vos...\n\nEl disco que n",
+      "reach": 756
     },
     "trend": [
       {
@@ -158,7 +158,7 @@
     "subs_change": -1,
     "subs_pct": -0.1,
     "period_gained": 0,
-    "period_lost": 1349,
+    "period_lost": 1181,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -283,14 +283,14 @@
     "subs_prev": 3770,
     "subs_change": 10,
     "subs_pct": 0.3,
-    "period_views": 764,
-    "period_likes": 3,
-    "period_shares": 11,
-    "period_watch_min": 1913.0,
-    "period_subs_net": 9,
+    "period_views": 533,
+    "period_likes": 2,
+    "period_shares": 10,
+    "period_watch_min": 1315.0,
+    "period_subs_net": 6,
     "unreplied_comments": 11,
     "top_traffic_source": "SHORTS",
-    "top_traffic_views": 16880,
+    "top_traffic_views": 12669,
     "traffic_sources": [
       {
         "source": "SHORTS",
@@ -538,11 +538,11 @@
     "super_listeners": 458,
     "saves": 996,
     "playlist_adds": 898,
-    "listeners_prev": 22373,
-    "listeners_change": -214,
-    "listeners_pct": -1.0,
-    "streams_prev": 96984,
-    "streams_change": 27,
+    "listeners_prev": 22261,
+    "listeners_change": -102,
+    "listeners_pct": -0.5,
+    "streams_prev": 96791,
+    "streams_change": 220,
     "top_tracks": [
       {
         "name": "Color",
@@ -642,7 +642,7 @@
         "listeners": 228
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -752,7 +752,7 @@
     "last_date": "2026-03-15",
     "followers": 1376,
     "following": 504,
-    "followers_prev": 1369,
+    "followers_prev": 1371,
     "top_posts": [
       {
         "post_id": "2024191756430884898",
@@ -887,28 +887,28 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 45,
-        "comments_replied": 14,
-        "dms_received": 28,
-        "dms_replied": 14,
+        "comments_received": 39,
+        "comments_replied": 10,
+        "dms_received": 26,
+        "dms_replied": 13,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 32,
+        "likes_given": 30,
         "response_time_avg_min": 0
       },
       "x": {
-        "comments_received": 9,
-        "comments_replied": 4,
+        "comments_received": 7,
+        "comments_replied": 2,
         "dms_received": 0,
         "dms_replied": 0,
-        "mentions_received": 17,
-        "mentions_replied": 5,
-        "likes_given": 64,
+        "mentions_received": 6,
+        "mentions_replied": 3,
+        "likes_given": 54,
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 68,
-        "comments_replied": 59,
+        "comments_received": 63,
+        "comments_replied": 54,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -917,11 +917,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 167,
-    "total_replied": 96,
-    "response_rate": 57,
-    "total_likes": 121,
-    "today_grid": [],
+    "total_received": 141,
+    "total_replied": 82,
+    "response_rate": 58,
+    "total_likes": 109,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 1,
+        "replied": 0,
+        "pending": 1
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-20",
@@ -1022,6 +1030,11 @@
         "date": "2026-03-15",
         "received": 8,
         "replied": 5
+      },
+      {
+        "date": "2026-03-16",
+        "received": 1,
+        "replied": 0
       }
     ]
   },
@@ -1121,7 +1134,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 57%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 58%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
@@ -1434,7 +1447,7 @@
         "platform": "YouTube",
         "type": "Canción completa",
         "description": "\"Eso que nos lleva\" — canción completa",
-        "status": "planned",
+        "status": "published",
         "platforms_done": []
       }
     ],
