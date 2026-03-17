@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T14:04:35.244670",
+  "generated_at": "2026-03-17T16:07:52.755650",
   "days_to_show": 30,
   "period_days": 7,
   "instagram": {
@@ -562,18 +562,18 @@
     ]
   },
   "spotify": {
-    "last_date": "2026-03-16",
-    "monthly_listeners": 21851,
-    "streams_28d": 96000,
+    "last_date": "2026-03-17",
+    "monthly_listeners": 21582,
+    "streams_28d": 95557,
     "followers": 11000,
-    "super_listeners": 0,
-    "saves": 998,
-    "playlist_adds": 877,
+    "super_listeners": 459,
+    "saves": 991,
+    "playlist_adds": 883,
     "listeners_prev": 22167,
-    "listeners_change": -316,
-    "listeners_pct": -1.4,
+    "listeners_change": -585,
+    "listeners_pct": -2.6,
     "streams_prev": 96545,
-    "streams_change": -545,
+    "streams_change": -988,
     "top_tracks": [
       {
         "name": "Color",
@@ -638,6 +638,41 @@
     ],
     "demographics": [
       {
+        "dim": "age",
+        "value": "35-44",
+        "pct": 36.0
+      },
+      {
+        "dim": "age",
+        "value": "25-34",
+        "pct": 33.0
+      },
+      {
+        "dim": "age",
+        "value": "45-54",
+        "pct": 18.0
+      },
+      {
+        "dim": "age",
+        "value": "18-24",
+        "pct": 6.0
+      },
+      {
+        "dim": "age",
+        "value": "55-64",
+        "pct": 5.0
+      },
+      {
+        "dim": "age",
+        "value": "65+",
+        "pct": 2.0
+      },
+      {
+        "dim": "age",
+        "value": "<18",
+        "pct": 0.0
+      },
+      {
         "dim": "gender",
         "value": "male",
         "pct": 63.0
@@ -661,26 +696,26 @@
     "locations": [
       {
         "name": "Uruguay",
-        "listeners": 14294
+        "listeners": 14129
       },
       {
         "name": "Argentina",
-        "listeners": 4834
+        "listeners": 4810
       },
       {
         "name": "Spain",
-        "listeners": 751
+        "listeners": 763
       },
       {
         "name": "Mexico",
-        "listeners": 448
+        "listeners": 429
       },
       {
         "name": "Chile",
-        "listeners": 229
+        "listeners": 226
       }
     ],
-    "days_since_collection": 1,
+    "days_since_collection": 0,
     "trend": [
       {
         "date": "2026-02-18",
@@ -788,6 +823,12 @@
         "date": "2026-03-16",
         "listeners": 21851,
         "streams": 96000,
+        "followers": 11000
+      },
+      {
+        "date": "2026-03-17",
+        "listeners": 21582,
+        "streams": 95557,
         "followers": 11000
       }
     ]
