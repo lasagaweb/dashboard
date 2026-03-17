@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-03-16T23:00:58.803163",
-  "days_to_show": 31,
+  "generated_at": "2026-03-17T10:05:29.038486",
+  "days_to_show": 30,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-17",
     "followers": 4591,
     "reach": 1107,
     "accounts_engaged": 62,
-    "followers_prev": 4422,
-    "followers_change": 169,
-    "followers_pct": 3.8,
+    "followers_prev": 4477,
+    "followers_change": 114,
+    "followers_pct": 2.5,
     "period_posts": 1,
     "period_reach": 779,
     "period_engagement": 98,
@@ -163,7 +163,7 @@
     "subs_change": 125,
     "subs_pct": 8.1,
     "period_gained": 126,
-    "period_lost": 1350,
+    "period_lost": 1182,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -289,17 +289,17 @@
     "subscribers": 3780,
     "total_views": 1553574,
     "videos_count": 44,
-    "subs_prev": 3770,
-    "subs_change": 10,
-    "subs_pct": 0.3,
-    "period_views": 533,
-    "period_likes": 2,
-    "period_shares": 10,
-    "period_watch_min": 1315.0,
+    "subs_prev": 3780,
+    "subs_change": 0,
+    "subs_pct": 0.0,
+    "period_views": 308,
+    "period_likes": 4,
+    "period_shares": 5,
+    "period_watch_min": 764.0,
     "period_subs_net": 6,
     "unreplied_comments": 11,
     "top_traffic_source": "SHORTS",
-    "top_traffic_views": 12669,
+    "top_traffic_views": 8446,
     "traffic_sources": [
       {
         "source": "SHORTS",
@@ -541,11 +541,11 @@
     "super_listeners": 0,
     "saves": 998,
     "playlist_adds": 877,
-    "listeners_prev": 22261,
-    "listeners_change": -410,
-    "listeners_pct": -1.8,
-    "streams_prev": 96791,
-    "streams_change": -791,
+    "listeners_prev": 22167,
+    "listeners_change": -316,
+    "listeners_pct": -1.4,
+    "streams_prev": 96545,
+    "streams_change": -545,
     "top_tracks": [
       {
         "name": "Color",
@@ -652,7 +652,7 @@
         "listeners": 229
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -768,7 +768,7 @@
     "last_date": "2026-03-16",
     "followers": 1378,
     "following": 504,
-    "followers_prev": 1371,
+    "followers_prev": 1372,
     "top_posts": [
       {
         "post_id": "2024191756430884898",
@@ -907,13 +907,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 40,
-        "comments_replied": 10,
-        "dms_received": 26,
-        "dms_replied": 13,
+        "comments_received": 30,
+        "comments_replied": 5,
+        "dms_received": 23,
+        "dms_replied": 11,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 30,
+        "likes_given": 25,
         "response_time_avg_min": 0
       },
       "x": {
@@ -921,27 +921,35 @@
         "comments_replied": 2,
         "dms_received": 0,
         "dms_replied": 0,
-        "mentions_received": 6,
+        "mentions_received": 4,
         "mentions_replied": 3,
-        "likes_given": 54,
+        "likes_given": 48,
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 65,
-        "comments_replied": 55,
+        "comments_received": 55,
+        "comments_replied": 45,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 26,
+        "likes_given": 23,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 144,
-    "total_replied": 83,
-    "response_rate": 58,
-    "total_likes": 110,
-    "today_grid": [],
+    "total_received": 119,
+    "total_replied": 66,
+    "response_rate": 55,
+    "total_likes": 96,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 1,
+        "replied": 0,
+        "pending": 0
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-20",
@@ -1047,6 +1055,11 @@
         "date": "2026-03-16",
         "received": 4,
         "replied": 1
+      },
+      {
+        "date": "2026-03-17",
+        "received": 1,
+        "replied": 0
       }
     ]
   },
@@ -1146,15 +1159,24 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 58%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 55%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
-    "total_contacts": 10,
+    "total_contacts": 11,
     "emails_sent": 1,
     "responses": 1,
     "coverage": 1,
     "recent_activity": [
+      {
+        "date": "2026-03-17",
+        "contact": "La Galera del Rock (Gastón Gómez)",
+        "outlet": "La Caverna FM 90.7",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
       {
         "date": "2026-03-10",
         "contact": "Rock Uruguayo Podcast",
@@ -1235,15 +1257,6 @@
         "response": 0,
         "published": 0,
         "url": ""
-      },
-      {
-        "date": "2026-02-26",
-        "contact": "Federico",
-        "outlet": "Cooltivarte",
-        "sent": 1,
-        "response": 1,
-        "published": 1,
-        "url": null
       }
     ],
     "trend": [
