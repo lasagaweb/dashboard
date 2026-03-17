@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T16:07:52.755650",
+  "generated_at": "2026-03-17T17:31:24.709716",
   "days_to_show": 30,
   "period_days": 7,
   "instagram": {
@@ -1000,8 +1000,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 61,
-        "comments_replied": 49,
+        "comments_received": 66,
+        "comments_replied": 52,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1010,8 +1010,8 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 125,
-    "total_replied": 70,
+    "total_received": 130,
+    "total_replied": 73,
     "response_rate": 56,
     "total_likes": 96,
     "today_grid": [
@@ -1027,6 +1027,13 @@
         "shift": "AM",
         "received": 6,
         "replied": 4,
+        "pending": 2
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 5,
+        "replied": 3,
         "pending": 2
       }
     ],
@@ -1138,12 +1145,30 @@
       },
       {
         "date": "2026-03-17",
-        "received": 7,
-        "replied": 4
+        "received": 12,
+        "replied": 7
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-17",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Reply a @FABRI19022 en ONCE - agradeció valoración de música uruguaya"
+    },
+    {
+      "date": "2026-03-17",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Reply a @veckemorales3792 en Color - agradeció transcripción de letra"
+    },
+    {
+      "date": "2026-03-17",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Reply a @andreseduardo600 en Estoy perdido - humor sobre baterista"
+    },
     {
       "date": "2026-03-15",
       "platform": "youtube",
@@ -1215,24 +1240,6 @@
       "platform": "x",
       "type": "like",
       "description": "Like a @RadioBelcha - programa Duro Como Una Roca"
-    },
-    {
-      "date": "2026-03-14",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @FernandezRenzo1 - el mejor tema del rock uruguayo (video)"
-    },
-    {
-      "date": "2026-03-14",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @AndresFK75 hablando de Jaime sin Tierra y La Foca (bandas uruguayas)"
-    },
-    {
-      "date": "2026-03-14",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @mexnewz sobre nuevo album de Difusion Prohibida (banda uruguaya)"
     }
   ],
   "suggestions": [
