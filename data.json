@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T14:02:09.597820",
+  "generated_at": "2026-03-18T16:05:38.035560",
   "days_to_show": 29,
   "period_days": 7,
   "instagram": {
@@ -571,78 +571,78 @@
     ]
   },
   "spotify": {
-    "last_date": "2026-03-17",
-    "monthly_listeners": 21582,
-    "streams_28d": 95557,
-    "followers": 11000,
-    "super_listeners": 459,
-    "saves": 991,
-    "playlist_adds": 883,
+    "last_date": "2026-03-18",
+    "monthly_listeners": 21332,
+    "streams_28d": 95096,
+    "followers": 11367,
+    "super_listeners": 450,
+    "saves": 922,
+    "playlist_adds": 950,
     "listeners_prev": 22121,
-    "listeners_change": -539,
-    "listeners_pct": -2.4,
+    "listeners_change": -789,
+    "listeners_pct": -3.6,
     "streams_prev": 96653,
-    "streams_change": -1096,
+    "streams_change": -1557,
     "top_tracks": [
       {
         "name": "Color",
-        "streams": 18935,
-        "listeners": 11527,
-        "saves": 134
+        "streams": 18676,
+        "listeners": 11291,
+        "saves": 132
       },
       {
         "name": "Once",
-        "streams": 14762,
-        "listeners": 8889,
-        "saves": 117
+        "streams": 14431,
+        "listeners": 8610,
+        "saves": 102
       },
       {
         "name": "Ir",
-        "streams": 10271,
-        "listeners": 6497,
-        "saves": 71
+        "streams": 10051,
+        "listeners": 6312,
+        "saves": 67
       },
       {
         "name": "Vos",
-        "streams": 6763,
-        "listeners": 4347,
-        "saves": 42
+        "streams": 6789,
+        "listeners": 4340,
+        "saves": 35
+      },
+      {
+        "name": "Errante",
+        "streams": 5537,
+        "listeners": 3401,
+        "saves": 32
       },
       {
         "name": "De Cabeza",
-        "streams": 5206,
-        "listeners": 3145,
-        "saves": 48
+        "streams": 5184,
+        "listeners": 3107,
+        "saves": 52
+      },
+      {
+        "name": "Buscando Espacio (Un Lugar)",
+        "streams": 4700,
+        "listeners": 2837,
+        "saves": 42
       },
       {
         "name": "El Grito del León",
-        "streams": 2815,
-        "listeners": 1834,
-        "saves": 21
+        "streams": 2803,
+        "listeners": 1812,
+        "saves": 16
+      },
+      {
+        "name": "Contrario",
+        "streams": 2692,
+        "listeners": 1741,
+        "saves": 19
       },
       {
         "name": "Estoy Perdido",
-        "streams": 2537,
-        "listeners": 1713,
-        "saves": 20
-      },
-      {
-        "name": "Salir",
-        "streams": 2091,
-        "listeners": 1357,
-        "saves": 13
-      },
-      {
-        "name": "Un Mundo Diferente",
-        "streams": 868,
-        "listeners": 603,
-        "saves": 5
-      },
-      {
-        "name": "Eso Que Nos Queda",
-        "streams": 638,
-        "listeners": 384,
-        "saves": 8
+        "streams": 2550,
+        "listeners": 1718,
+        "saves": 16
       }
     ],
     "demographics": [
@@ -705,26 +705,26 @@
     "locations": [
       {
         "name": "Uruguay",
-        "listeners": 14129
+        "listeners": 13936
       },
       {
         "name": "Argentina",
-        "listeners": 4810
+        "listeners": 4785
       },
       {
         "name": "Spain",
-        "listeners": 763
+        "listeners": 761
       },
       {
         "name": "Mexico",
-        "listeners": 429
+        "listeners": 421
       },
       {
         "name": "Chile",
-        "listeners": 226
+        "listeners": 231
       }
     ],
-    "days_since_collection": 1,
+    "days_since_collection": 0,
     "trend": [
       {
         "date": "2026-02-18",
@@ -839,6 +839,12 @@
         "listeners": 21582,
         "streams": 95557,
         "followers": 11000
+      },
+      {
+        "date": "2026-03-18",
+        "listeners": 21332,
+        "streams": 95096,
+        "followers": 11367
       }
     ]
   },
