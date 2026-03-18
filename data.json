@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T10:12:50.955040",
+  "generated_at": "2026-03-18T10:33:27.888591",
   "days_to_show": 29,
   "period_days": 7,
   "instagram": {
@@ -999,8 +999,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 54,
-        "comments_replied": 44,
+        "comments_received": 59,
+        "comments_replied": 47,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1009,8 +1009,8 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 107,
-    "total_replied": 63,
+    "total_received": 112,
+    "total_replied": 66,
     "response_rate": 59,
     "total_likes": 81,
     "today_grid": [
@@ -1020,6 +1020,13 @@
         "received": 2,
         "replied": 1,
         "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 5,
+        "replied": 3,
+        "pending": 2
       }
     ],
     "trend": [
@@ -1135,12 +1142,30 @@
       },
       {
         "date": "2026-03-18",
-        "received": 2,
-        "replied": 1
+        "received": 7,
+        "replied": 4
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-18",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @FABRI19022 en ONCE - elogio a música uruguaya"
+    },
+    {
+      "date": "2026-03-18",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @veckemorales3792 en Color - fan escribió letra completa"
+    },
+    {
+      "date": "2026-03-18",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @andreseduardo600 en Estoy perdido - chiste sobre baterista"
+    },
     {
       "date": "2026-03-17",
       "platform": "youtube",
@@ -1212,24 +1237,6 @@
       "platform": "youtube",
       "type": "heart",
       "description": "Heart a @FdeMoreira en Ya no saben qué decir (fan 20+ años, confirma asistencia vuelta)"
-    },
-    {
-      "date": "2026-03-14",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @RadioBelcha en Duro Como Una Roca: Buen nombre para un programa de rock. La radio independiente sigue siendo el espacio donde las bandas que no suenan en las FM comerciales encuentran aire. Se valora."
-    },
-    {
-      "date": "2026-03-14",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @RadioBelcha - nuevas programaciones desde el lunes 16/03"
-    },
-    {
-      "date": "2026-03-14",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a @RadioBelcha - programa Duro Como Una Roca"
     }
   ],
   "suggestions": [
