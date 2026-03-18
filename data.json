@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-03-17T23:00:40.473567",
-  "days_to_show": 30,
+  "generated_at": "2026-03-18T10:12:50.955040",
+  "days_to_show": 29,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-18",
     "followers": 4595,
     "reach": 788,
     "accounts_engaged": 39,
-    "followers_prev": 4477,
-    "followers_change": 118,
-    "followers_pct": 2.6,
+    "followers_prev": 4513,
+    "followers_change": 82,
+    "followers_pct": 1.8,
     "period_posts": 1,
     "period_reach": 804,
     "period_engagement": 100,
@@ -164,11 +164,11 @@
   "email": {
     "last_date": "2026-03-17",
     "total_subs": 1670,
-    "subs_prev": 1550,
-    "subs_change": 120,
-    "subs_pct": 7.7,
+    "subs_prev": 1549,
+    "subs_change": 121,
+    "subs_pct": 7.8,
     "period_gained": 126,
-    "period_lost": 1356,
+    "period_lost": 1188,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -301,11 +301,11 @@
     "subs_prev": 3780,
     "subs_change": 0,
     "subs_pct": 0.0,
-    "period_views": 1244,
-    "period_likes": 14,
-    "period_shares": 15,
-    "period_watch_min": 3638.0,
-    "period_subs_net": 9,
+    "period_views": 942,
+    "period_likes": 10,
+    "period_shares": 10,
+    "period_watch_min": 2873.0,
+    "period_subs_net": 3,
     "unreplied_comments": 22,
     "top_traffic_source": "SHORTS",
     "top_traffic_views": 12673,
@@ -568,11 +568,11 @@
     "super_listeners": 459,
     "saves": 991,
     "playlist_adds": 883,
-    "listeners_prev": 22167,
-    "listeners_change": -585,
-    "listeners_pct": -2.6,
-    "streams_prev": 96545,
-    "streams_change": -988,
+    "listeners_prev": 22121,
+    "listeners_change": -539,
+    "listeners_pct": -2.4,
+    "streams_prev": 96653,
+    "streams_change": -1096,
     "top_tracks": [
       {
         "name": "Color",
@@ -714,7 +714,7 @@
         "listeners": 226
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -836,7 +836,7 @@
     "last_date": "2026-03-17",
     "followers": 1378,
     "following": 504,
-    "followers_prev": 1372,
+    "followers_prev": 1373,
     "top_posts": [
       {
         "post_id": "2024191756430884898",
@@ -979,28 +979,28 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 30,
+        "comments_received": 27,
         "comments_replied": 5,
-        "dms_received": 23,
-        "dms_replied": 11,
+        "dms_received": 16,
+        "dms_replied": 9,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 25,
+        "likes_given": 22,
         "response_time_avg_min": 0
       },
       "x": {
-        "comments_received": 7,
+        "comments_received": 6,
         "comments_replied": 2,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 4,
         "mentions_replied": 3,
-        "likes_given": 48,
+        "likes_given": 36,
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 66,
-        "comments_replied": 52,
+        "comments_received": 54,
+        "comments_replied": 44,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1009,11 +1009,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 130,
-    "total_replied": 73,
-    "response_rate": 56,
-    "total_likes": 96,
-    "today_grid": [],
+    "total_received": 107,
+    "total_replied": 63,
+    "response_rate": 59,
+    "total_likes": 81,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 2,
+        "replied": 1,
+        "pending": 0
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-20",
@@ -1124,6 +1132,11 @@
         "date": "2026-03-17",
         "received": 12,
         "replied": 7
+      },
+      {
+        "date": "2026-03-18",
+        "received": 2,
+        "replied": 1
       }
     ]
   },
@@ -1223,7 +1236,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 56%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 59%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
@@ -1461,6 +1474,15 @@
         "notes": "Show principal La Saga Vuelve"
       },
       {
+        "name": "Avril Festival",
+        "city": "Montevideo",
+        "capacity": 3000,
+        "date_target": "Oct 2026",
+        "status": "identified",
+        "contacted": "",
+        "notes": "Festival de rock nacional 18 oct 2026. Transmisión Under TV. Apoyo La Diaria, Let's Rock & Metal, Municipio B."
+      },
+      {
         "name": "La Trastienda MVD",
         "city": "Montevideo",
         "capacity": 700,
@@ -1518,9 +1540,9 @@
     "by_status": {
       "researched": 1,
       "confirmed": 1,
-      "identified": 6
+      "identified": 7
     },
-    "total": 8
+    "total": 9
   },
   "upcoming": {
     "items": [
