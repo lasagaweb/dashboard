@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T17:02:41.579726",
+  "generated_at": "2026-03-19T17:31:55.037732",
   "days_to_show": 28,
   "period_days": 7,
   "instagram": {
@@ -1038,8 +1038,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 51,
-        "comments_replied": 41,
+        "comments_received": 56,
+        "comments_replied": 44,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1048,8 +1048,8 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 98,
-    "total_replied": 59,
+    "total_received": 103,
+    "total_replied": 62,
     "response_rate": 60,
     "total_likes": 68,
     "today_grid": [
@@ -1070,6 +1070,13 @@
       {
         "platform": "youtube",
         "shift": "AM",
+        "received": 5,
+        "replied": 3,
+        "pending": 2
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
         "received": 5,
         "replied": 3,
         "pending": 2
@@ -1193,12 +1200,30 @@
       },
       {
         "date": "2026-03-19",
-        "received": 16,
-        "replied": 9
+        "received": 21,
+        "replied": 12
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-19",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @FABRI19022 en ONCE - agradecimiento por bancar música uruguaya"
+    },
+    {
+      "date": "2026-03-19",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @veckemorales3792 en Color - agradecimiento por saber la letra"
+    },
+    {
+      "date": "2026-03-19",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @andreseduardo600 en Estoy perdido - humor sobre baterista"
+    },
     {
       "date": "2026-03-18",
       "platform": "youtube",
@@ -1270,24 +1295,6 @@
       "platform": "x",
       "type": "reply",
       "description": "Reply a @hcgastonn sobre álbumes esenciales de música uruguaya (903 views, 31 likes) - mencionamos Eso Que Nos Lleva naturalmente"
-    },
-    {
-      "date": "2026-03-14",
-      "platform": "youtube",
-      "type": "heart",
-      "description": "Heart a @agustinnobleriveiro1765 en Color (Armonía FM Tacuarembó)"
-    },
-    {
-      "date": "2026-03-14",
-      "platform": "youtube",
-      "type": "heart",
-      "description": "Heart a @KAMIKAZES verificado en Ya no saben qué decir short"
-    },
-    {
-      "date": "2026-03-14",
-      "platform": "youtube",
-      "type": "heart",
-      "description": "Heart a @FdeMoreira en Ya no saben qué decir (fan 20+ años, confirma asistencia vuelta)"
     }
   ],
   "suggestions": [
