@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T10:07:24.964459",
+  "generated_at": "2026-03-20T10:32:11.505358",
   "days_to_show": 27,
   "period_days": 7,
   "instagram": {
@@ -1043,8 +1043,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 42,
-        "comments_replied": 31,
+        "comments_received": 47,
+        "comments_replied": 34,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1053,8 +1053,8 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 86,
-    "total_replied": 52,
+    "total_received": 91,
+    "total_replied": 55,
     "response_rate": 60,
     "total_likes": 62,
     "today_grid": [
@@ -1064,6 +1064,13 @@
         "received": 6,
         "replied": 5,
         "pending": 1
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 5,
+        "replied": 3,
+        "pending": 2
       }
     ],
     "trend": [
@@ -1189,12 +1196,18 @@
       },
       {
         "date": "2026-03-20",
-        "received": 6,
-        "replied": 5
+        "received": 11,
+        "replied": 8
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-20",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "AM shift: 3 replies (Estoy perdido, Color, ONCE). 2 pending (ambiguous mentions of Max, reported to Nicolás)"
+    },
     {
       "date": "2026-03-19",
       "platform": "youtube",
@@ -1278,12 +1291,6 @@
       "platform": "x",
       "type": "reply",
       "description": "Reply a @SoloRockUruguay sobre Videoteca con nuevos videos de Peyote Asesino, El Umbral, etc."
-    },
-    {
-      "date": "2026-03-15",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @hcgastonn sobre álbumes esenciales de música uruguaya (903 views, 31 likes) - mencionamos Eso Que Nos Lleva naturalmente"
     }
   ],
   "suggestions": [
