@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-03-19T23:00:43.080222",
-  "days_to_show": 28,
+  "generated_at": "2026-03-20T10:07:24.964459",
+  "days_to_show": 27,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-20",
     "followers": 4629,
     "reach": 5720,
     "accounts_engaged": 231,
-    "followers_prev": 4530,
-    "followers_change": 99,
-    "followers_pct": 2.2,
-    "period_posts": 3,
-    "period_reach": 2695,
-    "period_engagement": 291,
+    "followers_prev": 4567,
+    "followers_change": 62,
+    "followers_pct": 1.4,
+    "period_posts": 2,
+    "period_reach": 1843,
+    "period_engagement": 186,
     "top_post": {
       "date": "2026-03-19",
       "type": "reel",
@@ -178,7 +178,7 @@
     "subs_change": 121,
     "subs_pct": 7.8,
     "period_gained": 126,
-    "period_lost": 1367,
+    "period_lost": 1198,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -312,69 +312,69 @@
     ]
   },
   "youtube": {
-    "last_date": "2026-03-19",
+    "last_date": "2026-03-20",
     "subscribers": 3790,
-    "total_views": 1555114,
-    "videos_count": 46,
+    "total_views": 1555383,
+    "videos_count": 47,
     "subs_prev": 3780,
     "subs_change": 10,
     "subs_pct": 0.3,
-    "period_views": 1385,
+    "period_views": 1437,
     "period_likes": 48,
-    "period_shares": 16,
-    "period_watch_min": 3807.0,
-    "period_subs_net": 2,
+    "period_shares": 13,
+    "period_watch_min": 3905.0,
+    "period_subs_net": 3,
     "unreplied_comments": 22,
     "top_traffic_source": "SHORTS",
-    "top_traffic_views": 20795,
+    "top_traffic_views": 20312,
     "traffic_sources": [
       {
         "source": "SHORTS",
-        "views": 54954
+        "views": 58694
       },
       {
         "source": "PLAYLIST",
-        "views": 49935
+        "views": 52984
       },
       {
         "source": "YT_SEARCH",
-        "views": 17401
+        "views": 18460
       },
       {
         "source": "SUBSCRIBER",
-        "views": 16757
+        "views": 17974
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 7735
+        "views": 8336
       },
       {
         "source": "YT_CHANNEL",
-        "views": 6174
-      },
-      {
-        "source": "NO_LINK_OTHER",
-        "views": 5538
+        "views": 6693
       },
       {
         "source": "EXT_URL",
-        "views": 5536
+        "views": 5907
+      },
+      {
+        "source": "NO_LINK_OTHER",
+        "views": 5895
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 5300
+        "views": 5645
       },
       {
         "source": "NOTIFICATION",
-        "views": 2145
+        "views": 2296
       },
       {
         "source": "SOUND_PAGE",
-        "views": 42
+        "views": 45
       },
       {
         "source": "END_SCREEN",
-        "views": 34
+        "views": 35
       },
       {
         "source": "SHORTS_CONTENT_LINKS",
@@ -384,31 +384,31 @@
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 500365,
+        "views": 500421,
         "likes": 2235,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 467061,
+        "views": 467107,
         "likes": 2339,
         "type": "Video"
       },
       {
         "title": "\"Errante\" (La Saga - \"INTIMO\")",
-        "views": 162065,
+        "views": 162073,
         "likes": 698,
         "type": "Video"
       },
       {
         "title": "La Saga - Yo te quiero (Video Oficial)",
-        "views": 116203,
+        "views": 116212,
         "likes": 688,
         "type": "Video"
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 106867,
+        "views": 106882,
         "likes": 868,
         "type": "Video"
       }
@@ -575,6 +575,12 @@
         "views": 333,
         "likes": 9,
         "net_subs": 0
+      },
+      {
+        "date": "2026-03-17",
+        "views": 244,
+        "likes": 2,
+        "net_subs": 1
       }
     ]
   },
@@ -586,11 +592,11 @@
     "super_listeners": 451,
     "saves": 905,
     "playlist_adds": 923,
-    "listeners_prev": 22121,
-    "listeners_change": -934,
-    "listeners_pct": -4.2,
-    "streams_prev": 96653,
-    "streams_change": -1603,
+    "listeners_prev": 22294,
+    "listeners_change": -1107,
+    "listeners_pct": -5.0,
+    "streams_prev": 97626,
+    "streams_change": -2576,
     "top_tracks": [
       {
         "name": "Color",
@@ -732,7 +738,7 @@
         "listeners": 228
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -1017,28 +1023,28 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 27,
-        "comments_replied": 7,
-        "dms_received": 14,
-        "dms_replied": 9,
+        "comments_received": 28,
+        "comments_replied": 12,
+        "dms_received": 12,
+        "dms_replied": 7,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 18,
+        "likes_given": 13,
         "response_time_avg_min": 0
       },
       "x": {
-        "comments_received": 4,
+        "comments_received": 2,
         "comments_replied": 1,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 2,
         "mentions_replied": 1,
-        "likes_given": 27,
+        "likes_given": 26,
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 56,
-        "comments_replied": 44,
+        "comments_received": 42,
+        "comments_replied": 31,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1047,11 +1053,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 103,
-    "total_replied": 62,
+    "total_received": 86,
+    "total_replied": 52,
     "response_rate": 60,
-    "total_likes": 68,
-    "today_grid": [],
+    "total_likes": 62,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 6,
+        "replied": 5,
+        "pending": 1
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-20",
@@ -1172,6 +1186,11 @@
         "date": "2026-03-19",
         "received": 21,
         "replied": 12
+      },
+      {
+        "date": "2026-03-20",
+        "received": 6,
+        "replied": 5
       }
     ]
   },
@@ -1820,6 +1839,6 @@
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-03-19T16:01:59.398396+00:00"
+    "youtube": "2026-03-20T09:24:47.305809+00:00"
   }
 }
