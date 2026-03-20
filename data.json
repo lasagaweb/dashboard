@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T17:03:45.008532",
+  "generated_at": "2026-03-20T17:31:31.236403",
   "days_to_show": 27,
   "period_days": 7,
   "instagram": {
@@ -1053,8 +1053,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 47,
-        "comments_replied": 34,
+        "comments_received": 52,
+        "comments_replied": 37,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1063,8 +1063,8 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 93,
-    "total_replied": 56,
+    "total_received": 98,
+    "total_replied": 59,
     "response_rate": 60,
     "total_likes": 62,
     "today_grid": [
@@ -1085,6 +1085,13 @@
       {
         "platform": "youtube",
         "shift": "AM",
+        "received": 5,
+        "replied": 3,
+        "pending": 2
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
         "received": 5,
         "replied": 3,
         "pending": 2
@@ -1213,12 +1220,18 @@
       },
       {
         "date": "2026-03-20",
-        "received": 13,
-        "replied": 9
+        "received": 18,
+        "replied": 12
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-20",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondidos 3 comentarios en YouTube PM: @andreseduardo600, @veckemorales3792, @FABRI19022. 2 pendientes Nicolás (Max Samson)."
+    },
     {
       "date": "2026-03-20",
       "platform": "youtube",
@@ -1302,12 +1315,6 @@
       "platform": "x",
       "type": "like",
       "description": "Like a tweet de @hcgastonn sobre álbumes esenciales de música uruguaya"
-    },
-    {
-      "date": "2026-03-15",
-      "platform": "x",
-      "type": "reply",
-      "description": "Reply a @SoloRockUruguay sobre Videoteca con nuevos videos de Peyote Asesino, El Umbral, etc."
     }
   ],
   "suggestions": [
