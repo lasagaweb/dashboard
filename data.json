@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T16:31:15.832106",
+  "generated_at": "2026-03-21T17:02:18.850100",
   "days_to_show": 26,
   "period_days": 7,
   "instagram": {
@@ -1009,7 +1009,7 @@
       "instagram": {
         "comments_received": 25,
         "comments_replied": 12,
-        "dms_received": 13,
+        "dms_received": 14,
         "dms_replied": 7,
         "mentions_received": 0,
         "mentions_replied": 0,
@@ -1037,9 +1037,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 86,
+    "total_received": 87,
     "total_replied": 49,
-    "response_rate": 57,
+    "response_rate": 56,
     "total_likes": 34,
     "today_grid": [
       {
@@ -1048,6 +1048,13 @@
         "received": 7,
         "replied": 3,
         "pending": 2
+      },
+      {
+        "platform": "instagram",
+        "shift": "PM",
+        "received": 1,
+        "replied": 0,
+        "pending": 1
       },
       {
         "platform": "youtube",
@@ -1185,7 +1192,7 @@
       },
       {
         "date": "2026-03-21",
-        "received": 12,
+        "received": 13,
         "replied": 6
       }
     ]
@@ -1286,7 +1293,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 57%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 56%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
