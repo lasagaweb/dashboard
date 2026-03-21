@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-21T10:31:27.105043",
+  "generated_at": "2026-03-21T11:00:42.317990",
   "days_to_show": 26,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-21",
-    "followers": 4688,
-    "reach": 11431,
-    "accounts_engaged": 326,
+    "followers": 4707,
+    "reach": 8168,
+    "accounts_engaged": 194,
     "followers_prev": 4594,
-    "followers_change": 94,
-    "followers_pct": 2.0,
+    "followers_change": 113,
+    "followers_pct": 2.5,
     "period_posts": 2,
-    "period_reach": 2457,
-    "period_engagement": 232,
+    "period_reach": 2566,
+    "period_engagement": 246,
     "top_post": {
       "date": "2026-03-19",
       "type": "reel",
       "caption": "Arrancamos escuchando a Charly, al Indio, después vinieron los Buitres, La Tramp",
-      "reach": 1355
+      "reach": 1400
     },
     "trend": [
       {
@@ -152,22 +152,22 @@
       },
       {
         "date": "2026-03-21",
-        "followers": 4688,
-        "reach": 11431
+        "followers": 4707,
+        "reach": 8168
       }
     ],
     "post_types": [
       {
         "type": "carousel",
         "posts": 5,
-        "avg_reach": 2232.0,
-        "avg_engagement": 272.0
+        "avg_reach": 2247.0,
+        "avg_engagement": 273.0
       },
       {
         "type": "reel",
         "posts": 5,
-        "avg_reach": 1814.0,
-        "avg_engagement": 191.0
+        "avg_reach": 1852.0,
+        "avg_engagement": 194.0
       }
     ]
   },
@@ -1853,7 +1853,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-03-21T02:00:35.632393+00:00",
+    "instagram": "2026-03-21T14:00:39.069017+00:00",
     "spotify": null,
     "emailoctopus": "2026-03-20T15:00:26.046016+00:00",
     "twitter": null,
