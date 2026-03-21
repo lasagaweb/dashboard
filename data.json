@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T10:01:40.415783",
+  "generated_at": "2026-03-21T10:31:27.105043",
   "days_to_show": 26,
   "period_days": 7,
   "instagram": {
@@ -324,7 +324,7 @@
     "period_shares": 14,
     "period_watch_min": 3741.0,
     "period_subs_net": 4,
-    "unreplied_comments": 22,
+    "unreplied_comments": 0,
     "top_traffic_source": "SHORTS",
     "top_traffic_views": 19655,
     "traffic_sources": [
@@ -1049,8 +1049,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 42,
-        "comments_replied": 27,
+        "comments_received": 47,
+        "comments_replied": 30,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1059,8 +1059,8 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 81,
-    "total_replied": 46,
+    "total_received": 86,
+    "total_replied": 49,
     "response_rate": 57,
     "total_likes": 34,
     "today_grid": [
@@ -1068,6 +1068,13 @@
         "platform": "instagram",
         "shift": "AM",
         "received": 7,
+        "replied": 3,
+        "pending": 2
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 5,
         "replied": 3,
         "pending": 2
       }
@@ -1200,12 +1207,42 @@
       },
       {
         "date": "2026-03-21",
-        "received": 7,
-        "replied": 3
+        "received": 12,
+        "replied": 6
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-21",
+      "platform": "youtube",
+      "type": "pending",
+      "description": "@ghostzerosniperpsp en Estoy perdido - busca a alguien llamado Max, escalado a Nicolás"
+    },
+    {
+      "date": "2026-03-21",
+      "platform": "youtube",
+      "type": "pending",
+      "description": "@thetacogaming9434 en Estoy perdido - menciona Max Samson, escalado a Nicolás"
+    },
+    {
+      "date": "2026-03-21",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "@veckemorales3792 en Color - transcribió toda la letra, agradecido"
+    },
+    {
+      "date": "2026-03-21",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "@FABRI19022 en ONCE - elogio a música uruguaya, agradecido"
+    },
+    {
+      "date": "2026-03-21",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "@andreseduardo600 en Estoy perdido - chiste sobre baterista, respondido con humor"
+    },
     {
       "date": "2026-03-20",
       "platform": "youtube",
@@ -1265,36 +1302,6 @@
       "platform": "youtube",
       "type": "reply",
       "description": "Reply a @veckemorales3792 en Color - agradeció transcripción de letra"
-    },
-    {
-      "date": "2026-03-17",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Reply a @andreseduardo600 en Estoy perdido - humor sobre baterista"
-    },
-    {
-      "date": "2026-03-15",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondido @hongo-loco en Errante acústico: le dimos corazón y respondimos agradeciendo. El usuario pide quitar el oculto del video."
-    },
-    {
-      "date": "2026-03-15",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a post de @SoloRockUruguay - Antifaz banda colombiana"
-    },
-    {
-      "date": "2026-03-15",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a post de @SoloRockUruguay - Videoteca nuevos videos"
-    },
-    {
-      "date": "2026-03-15",
-      "platform": "x",
-      "type": "like",
-      "description": "Like a tweet de @hcgastonn sobre álbumes esenciales de música uruguaya"
     }
   ],
   "suggestions": [
