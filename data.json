@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T13:00:34.774269",
+  "generated_at": "2026-03-21T14:04:12.437491",
   "days_to_show": 26,
   "period_days": 7,
   "instagram": {
@@ -879,8 +879,8 @@
     ]
   },
   "x": {
-    "last_date": "2026-03-19",
-    "followers": 1378,
+    "last_date": "2026-03-21",
+    "followers": 1379,
     "following": 504,
     "followers_prev": 1375,
     "top_posts": [
@@ -925,12 +925,12 @@
         "replies": 0
       },
       {
-        "post_id": "2024606424383242477",
-        "date": "2026-02-19",
-        "text": "No nos acordamos de las canciones. Encontramos un libro con todas las tablaturas",
-        "impressions": 107,
+        "post_id": "2034806026059268122",
+        "date": "2026-03-19",
+        "text": "Escuchando, un día nos encontramos tocando. #influencias @LASAGArock @LaVela_Ofi",
+        "impressions": 300,
         "likes": 5,
-        "retweets": 1,
+        "retweets": 2,
         "bookmarks": 0,
         "replies": 0
       }
@@ -1027,6 +1027,10 @@
       {
         "date": "2026-03-19",
         "followers": 1378
+      },
+      {
+        "date": "2026-03-21",
+        "followers": 1379
       }
     ]
   },
