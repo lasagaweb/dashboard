@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-03-20T23:00:39.367202",
-  "days_to_show": 27,
+  "generated_at": "2026-03-21T10:01:40.415783",
+  "days_to_show": 26,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-21",
     "followers": 4688,
     "reach": 11431,
     "accounts_engaged": 326,
-    "followers_prev": 4567,
-    "followers_change": 121,
-    "followers_pct": 2.6,
+    "followers_prev": 4594,
+    "followers_change": 94,
+    "followers_pct": 2.0,
     "period_posts": 2,
     "period_reach": 2457,
     "period_engagement": 232,
@@ -178,7 +178,7 @@
     "subs_change": 121,
     "subs_pct": 7.8,
     "period_gained": 126,
-    "period_lost": 1372,
+    "period_lost": 1203,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -312,69 +312,69 @@
     ]
   },
   "youtube": {
-    "last_date": "2026-03-20",
+    "last_date": "2026-03-21",
     "subscribers": 3790,
-    "total_views": 1555545,
+    "total_views": 1555663,
     "videos_count": 47,
     "subs_prev": 3780,
     "subs_change": 10,
     "subs_pct": 0.3,
-    "period_views": 1437,
-    "period_likes": 48,
-    "period_shares": 13,
-    "period_watch_min": 3905.0,
-    "period_subs_net": 3,
+    "period_views": 1417,
+    "period_likes": 50,
+    "period_shares": 14,
+    "period_watch_min": 3741.0,
+    "period_subs_net": 4,
     "unreplied_comments": 22,
     "top_traffic_source": "SHORTS",
-    "top_traffic_views": 20312,
+    "top_traffic_views": 19655,
     "traffic_sources": [
       {
         "source": "SHORTS",
-        "views": 58587
+        "views": 62153
       },
       {
         "source": "PLAYLIST",
-        "views": 50244
+        "views": 53292
       },
       {
         "source": "YT_SEARCH",
-        "views": 17533
+        "views": 18597
       },
       {
         "source": "SUBSCRIBER",
-        "views": 17181
+        "views": 18414
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 7973
+        "views": 8602
       },
       {
         "source": "YT_CHANNEL",
-        "views": 6570
+        "views": 7073
       },
       {
         "source": "EXT_URL",
-        "views": 5749
+        "views": 6117
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 5687
+        "views": 6043
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 5471
+        "views": 5809
       },
       {
         "source": "NOTIFICATION",
-        "views": 2277
+        "views": 2421
       },
       {
         "source": "SOUND_PAGE",
-        "views": 45
+        "views": 48
       },
       {
         "source": "END_SCREEN",
-        "views": 34
+        "views": 35
       },
       {
         "source": "SHORTS_CONTENT_LINKS",
@@ -384,31 +384,31 @@
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 500428,
+        "views": 500497,
         "likes": 2235,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 467112,
+        "views": 467166,
         "likes": 2339,
         "type": "Video"
       },
       {
         "title": "\"Errante\" (La Saga - \"INTIMO\")",
-        "views": 162075,
+        "views": 162109,
         "likes": 698,
         "type": "Video"
       },
       {
         "title": "La Saga - Yo te quiero (Video Oficial)",
-        "views": 116212,
+        "views": 116217,
         "likes": 688,
         "type": "Video"
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 106886,
+        "views": 106906,
         "likes": 868,
         "type": "Video"
       }
@@ -575,6 +575,12 @@
         "views": 244,
         "likes": 2,
         "net_subs": 1
+      },
+      {
+        "date": "2026-03-18",
+        "views": 234,
+        "likes": 5,
+        "net_subs": 2
       }
     ]
   },
@@ -586,11 +592,11 @@
     "super_listeners": 458,
     "saves": 898,
     "playlist_adds": 967,
-    "listeners_prev": 22294,
-    "listeners_change": -1138,
-    "listeners_pct": -5.1,
-    "streams_prev": 97626,
-    "streams_change": -2224,
+    "listeners_prev": 22159,
+    "listeners_change": -1003,
+    "listeners_pct": -4.5,
+    "streams_prev": 97011,
+    "streams_change": -1609,
     "top_tracks": [
       {
         "name": "Color",
@@ -732,7 +738,7 @@
         "listeners": 225
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -1023,41 +1029,49 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 29,
+        "comments_received": 25,
         "comments_replied": 12,
         "dms_received": 13,
-        "dms_replied": 8,
+        "dms_replied": 7,
         "mentions_received": 0,
+        "mentions_replied": 0,
+        "likes_given": 8,
+        "response_time_avg_min": 0
+      },
+      "x": {
+        "comments_received": 0,
+        "comments_replied": 0,
+        "dms_received": 0,
+        "dms_replied": 0,
+        "mentions_received": 1,
         "mentions_replied": 0,
         "likes_given": 13,
         "response_time_avg_min": 0
       },
-      "x": {
-        "comments_received": 2,
-        "comments_replied": 1,
-        "dms_received": 0,
-        "dms_replied": 0,
-        "mentions_received": 2,
-        "mentions_replied": 1,
-        "likes_given": 26,
-        "response_time_avg_min": 0
-      },
       "youtube": {
-        "comments_received": 52,
-        "comments_replied": 37,
+        "comments_received": 42,
+        "comments_replied": 27,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 23,
+        "likes_given": 13,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 98,
-    "total_replied": 59,
-    "response_rate": 60,
-    "total_likes": 62,
-    "today_grid": [],
+    "total_received": 81,
+    "total_replied": 46,
+    "response_rate": 57,
+    "total_likes": 34,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 7,
+        "replied": 3,
+        "pending": 2
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-20",
@@ -1183,6 +1197,11 @@
         "date": "2026-03-20",
         "received": 18,
         "replied": 12
+      },
+      {
+        "date": "2026-03-21",
+        "received": 7,
+        "replied": 3
       }
     ]
   },
@@ -1282,7 +1301,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 60%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 57%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
@@ -1609,18 +1628,8 @@
     "total": 9
   },
   "upcoming": {
-    "items": [
-      {
-        "id": 14,
-        "date": "2026-03-15",
-        "platform": "YouTube",
-        "type": "Canción completa",
-        "description": "\"Eso que nos lleva\" — canción completa",
-        "status": "published",
-        "platforms_done": []
-      }
-    ],
-    "source": "upcoming_content"
+    "items": [],
+    "source": "Dylan carga el plan los lunes y jueves"
   },
   "financials": {
     "total_expenses": 0,
@@ -1845,6 +1854,6 @@
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-03-20T16:00:42.001400+00:00"
+    "youtube": "2026-03-21T10:04:43.168165+00:00"
   }
 }
