@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T14:06:17.648508",
+  "generated_at": "2026-03-22T16:03:09.575691",
   "days_to_show": 25,
   "period_days": 7,
   "instagram": {
@@ -593,42 +593,36 @@
     ]
   },
   "spotify": {
-    "last_date": "2026-03-21",
-    "monthly_listeners": 21159,
-    "streams_28d": 95545,
+    "last_date": "2026-03-22",
+    "monthly_listeners": 21107,
+    "streams_28d": 95245,
     "followers": 11000,
-    "super_listeners": 453,
-    "saves": 889,
-    "playlist_adds": 983,
+    "super_listeners": 452,
+    "saves": 865,
+    "playlist_adds": 972,
     "listeners_prev": 22159,
-    "listeners_change": -1000,
-    "listeners_pct": -4.5,
+    "listeners_change": -1052,
+    "listeners_pct": -4.7,
     "streams_prev": 97011,
-    "streams_change": -1466,
+    "streams_change": -1766,
     "top_tracks": [
       {
         "name": "Color",
-        "streams": 19005,
-        "listeners": 11359,
-        "saves": 130
+        "streams": 4350,
+        "listeners": 0,
+        "saves": 0
       },
       {
         "name": "Once",
-        "streams": 13868,
-        "listeners": 8246,
-        "saves": 90
+        "streams": 2915,
+        "listeners": 0,
+        "saves": 0
       },
       {
         "name": "Ir",
-        "streams": 9987,
-        "listeners": 6277,
-        "saves": 65
-      },
-      {
-        "name": "Vos",
-        "streams": 6894,
-        "listeners": 4388,
-        "saves": 38
+        "streams": 2040,
+        "listeners": 0,
+        "saves": 0
       }
     ],
     "demographics": [
@@ -691,26 +685,26 @@
     "locations": [
       {
         "name": "Uruguay",
-        "listeners": 13830
+        "listeners": 13780
       },
       {
         "name": "Argentina",
-        "listeners": 4719
+        "listeners": 4716
       },
       {
         "name": "Spain",
-        "listeners": 744
+        "listeners": 754
       },
       {
         "name": "Mexico",
-        "listeners": 431
+        "listeners": 432
       },
       {
         "name": "Chile",
         "listeners": 225
       }
     ],
-    "days_since_collection": 1,
+    "days_since_collection": 0,
     "trend": [
       {
         "date": "2026-02-18",
@@ -848,6 +842,12 @@
         "date": "2026-03-21",
         "listeners": 21159,
         "streams": 95545,
+        "followers": 11000
+      },
+      {
+        "date": "2026-03-22",
+        "listeners": 21107,
+        "streams": 95245,
         "followers": 11000
       }
     ]
