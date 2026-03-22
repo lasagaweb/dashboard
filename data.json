@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-03-21T23:00:52.475207",
-  "days_to_show": 26,
+  "generated_at": "2026-03-22T10:01:21.231865",
+  "days_to_show": 25,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-22",
     "followers": 4739,
     "reach": 12143,
     "accounts_engaged": 286,
-    "followers_prev": 4594,
-    "followers_change": 145,
-    "followers_pct": 3.2,
+    "followers_prev": 4595,
+    "followers_change": 144,
+    "followers_pct": 3.1,
     "period_posts": 2,
     "period_reach": 2715,
     "period_engagement": 256,
@@ -178,7 +178,7 @@
     "subs_change": 121,
     "subs_pct": 7.8,
     "period_gained": 126,
-    "period_lost": 1377,
+    "period_lost": 1208,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -323,10 +323,10 @@
     "subs_prev": 3780,
     "subs_change": 10,
     "subs_pct": 0.3,
-    "period_views": 1417,
-    "period_likes": 50,
-    "period_shares": 14,
-    "period_watch_min": 3741.0,
+    "period_views": 1141,
+    "period_likes": 46,
+    "period_shares": 9,
+    "period_watch_min": 2882.0,
     "period_subs_net": 4,
     "unreplied_comments": 0,
     "top_traffic_source": "SHORTS",
@@ -700,7 +700,7 @@
         "listeners": 225
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -846,7 +846,7 @@
     "last_date": "2026-03-21",
     "followers": 1379,
     "following": 504,
-    "followers_prev": 1375,
+    "followers_prev": 1376,
     "top_posts": [
       {
         "post_id": "2024191756430884898",
@@ -998,7 +998,7 @@
     "platforms": {
       "instagram": {
         "comments_received": 25,
-        "comments_replied": 12,
+        "comments_replied": 11,
         "dms_received": 14,
         "dms_replied": 7,
         "mentions_received": 0,
@@ -1011,9 +1011,9 @@
         "comments_replied": 0,
         "dms_received": 0,
         "dms_replied": 0,
-        "mentions_received": 1,
+        "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 13,
+        "likes_given": 3,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -1023,15 +1023,23 @@
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 13,
+        "likes_given": 5,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 92,
-    "total_replied": 52,
-    "response_rate": 57,
-    "total_likes": 34,
-    "today_grid": [],
+    "total_received": 91,
+    "total_replied": 51,
+    "response_rate": 56,
+    "total_likes": 16,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 2,
+        "replied": 0,
+        "pending": 1
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-20",
@@ -1162,6 +1170,11 @@
         "date": "2026-03-21",
         "received": 18,
         "replied": 9
+      },
+      {
+        "date": "2026-03-22",
+        "received": 2,
+        "replied": 0
       }
     ]
   },
@@ -1261,7 +1274,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 57%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 56%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
