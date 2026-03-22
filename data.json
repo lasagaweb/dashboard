@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T17:01:37.704776",
+  "generated_at": "2026-03-22T17:34:15.188027",
   "days_to_show": 25,
   "period_days": 7,
   "instagram": {
@@ -1031,20 +1031,20 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 57,
-        "comments_replied": 36,
+        "comments_received": 58,
+        "comments_replied": 37,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 5,
+        "likes_given": 6,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 100,
-    "total_replied": 54,
+    "total_received": 101,
+    "total_replied": 55,
     "response_rate": 54,
-    "total_likes": 17,
+    "total_likes": 18,
     "today_grid": [
       {
         "platform": "instagram",
@@ -1066,6 +1066,13 @@
         "received": 5,
         "replied": 3,
         "pending": 2
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 1,
+        "replied": 1,
+        "pending": 0
       }
     ],
     "trend": [
@@ -1201,12 +1208,18 @@
       },
       {
         "date": "2026-03-22",
-        "received": 11,
-        "replied": 3
+        "received": 12,
+        "replied": 4
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-22",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondí y di corazón a @marcedl1989 en Ir — La Saga (en vivo): fan de 18 años"
+    },
     {
       "date": "2026-03-21",
       "platform": "youtube",
@@ -1290,12 +1303,6 @@
       "platform": "youtube",
       "type": "reply",
       "description": "Respondido @andreseduardo600 en Estoy perdido - humor sobre baterista"
-    },
-    {
-      "date": "2026-03-18",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondido @FABRI19022 en ONCE - elogio a música uruguaya"
     }
   ],
   "suggestions": [
