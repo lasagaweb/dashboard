@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T10:01:21.231865",
+  "generated_at": "2026-03-22T10:31:28.717824",
   "days_to_show": 25,
   "period_days": 7,
   "instagram": {
@@ -1017,8 +1017,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 52,
-        "comments_replied": 33,
+        "comments_received": 57,
+        "comments_replied": 36,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1027,8 +1027,8 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 91,
-    "total_replied": 51,
+    "total_received": 96,
+    "total_replied": 54,
     "response_rate": 56,
     "total_likes": 16,
     "today_grid": [
@@ -1038,6 +1038,13 @@
         "received": 2,
         "replied": 0,
         "pending": 1
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 5,
+        "replied": 3,
+        "pending": 2
       }
     ],
     "trend": [
@@ -1173,8 +1180,8 @@
       },
       {
         "date": "2026-03-22",
-        "received": 2,
-        "replied": 0
+        "received": 7,
+        "replied": 3
       }
     ]
   },
