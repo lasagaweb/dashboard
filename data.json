@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T16:07:05.003670",
+  "generated_at": "2026-03-23T16:32:06.616067",
   "days_to_show": 24,
   "period_days": 7,
   "instagram": {
@@ -1659,8 +1659,36 @@
     "total": 9
   },
   "upcoming": {
-    "items": [],
-    "source": "Dylan carga el plan los lunes y jueves"
+    "items": [
+      {
+        "id": 15,
+        "date": "2026-03-24",
+        "platform": "IG/TikTok/YT Shorts",
+        "type": "Estribillo",
+        "description": "Estribillo de Ir — reel vertical (corte aprobado, v4 lista)",
+        "status": "ready",
+        "platforms_done": []
+      },
+      {
+        "id": 16,
+        "date": "2026-03-26",
+        "platform": "IG Feed",
+        "type": "Carrusel",
+        "description": "Carrusel de Lo que vos digas — imagen+frase (pendiente Nico)",
+        "status": "blocked",
+        "platforms_done": []
+      },
+      {
+        "id": 17,
+        "date": "2026-03-29",
+        "platform": "YouTube",
+        "type": "Canción completa",
+        "description": "Lo que vos digas — canción completa YouTube",
+        "status": "planned",
+        "platforms_done": []
+      }
+    ],
+    "source": "upcoming_content"
   },
   "financials": {
     "total_expenses": 0,
