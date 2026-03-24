@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T14:02:43.853527",
+  "generated_at": "2026-03-24T16:08:57.560375",
   "days_to_show": 23,
   "period_days": 7,
   "instagram": {
@@ -577,7 +577,7 @@
     ]
   },
   "spotify": {
-    "last_date": "2026-03-23",
+    "last_date": "2026-03-24",
     "monthly_listeners": 20711,
     "streams_28d": 94859,
     "followers": 11383,
@@ -592,63 +592,21 @@
     "top_tracks": [
       {
         "name": "Color",
-        "streams": 18769,
-        "listeners": 11173,
-        "saves": 135
+        "streams": 4406,
+        "listeners": 0,
+        "saves": 0
       },
       {
         "name": "Once",
-        "streams": 13505,
-        "listeners": 7993,
-        "saves": 89
+        "streams": 2989,
+        "listeners": 0,
+        "saves": 0
       },
       {
         "name": "Ir",
-        "streams": 9532,
-        "listeners": 5909,
-        "saves": 66
-      },
-      {
-        "name": "Vos",
-        "streams": 6946,
-        "listeners": 4424,
-        "saves": 38
-      },
-      {
-        "name": "Errante",
-        "streams": 5389,
-        "listeners": 3294,
-        "saves": 32
-      },
-      {
-        "name": "De Cabeza",
-        "streams": 5255,
-        "listeners": 3127,
-        "saves": 50
-      },
-      {
-        "name": "Buscando Espacio (Un Lugar)",
-        "streams": 4792,
-        "listeners": 2839,
-        "saves": 41
-      },
-      {
-        "name": "El Grito del León",
-        "streams": 2897,
-        "listeners": 1872,
-        "saves": 11
-      },
-      {
-        "name": "Contrario",
-        "streams": 2587,
-        "listeners": 1638,
-        "saves": 18
-      },
-      {
-        "name": "Estoy Perdido",
-        "streams": 2559,
-        "listeners": 1741,
-        "saves": 13
+        "streams": 2060,
+        "listeners": 0,
+        "saves": 0
       }
     ],
     "demographics": [
@@ -730,7 +688,7 @@
         "listeners": 219
       }
     ],
-    "days_since_collection": 1,
+    "days_since_collection": 0,
     "trend": [
       {
         "date": "2026-02-18",
@@ -878,6 +836,12 @@
       },
       {
         "date": "2026-03-23",
+        "listeners": 20711,
+        "streams": 94859,
+        "followers": 11383
+      },
+      {
+        "date": "2026-03-24",
         "listeners": 20711,
         "streams": 94859,
         "followers": 11383
