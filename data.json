@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-03-23T23:00:41.499436",
-  "days_to_show": 24,
+  "generated_at": "2026-03-24T10:07:17.813662",
+  "days_to_show": 23,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-24",
     "followers": 4804,
     "reach": 7096,
     "accounts_engaged": 137,
-    "followers_prev": 4593,
-    "followers_change": 211,
+    "followers_prev": 4592,
+    "followers_change": 212,
     "followers_pct": 4.6,
     "period_posts": 2,
     "period_reach": 2897,
@@ -174,11 +174,11 @@
   "email": {
     "last_date": "2026-03-23",
     "total_subs": 1670,
-    "subs_prev": 1675,
-    "subs_change": -5,
-    "subs_pct": -0.3,
-    "period_gained": 126,
-    "period_lost": 1387,
+    "subs_prev": 1670,
+    "subs_change": 0,
+    "subs_pct": 0.0,
+    "period_gained": 0,
+    "period_lost": 1218,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -323,10 +323,10 @@
     "subs_prev": 3780,
     "subs_change": 10,
     "subs_pct": 0.3,
-    "period_views": 1078,
-    "period_likes": 27,
-    "period_shares": 7,
-    "period_watch_min": 2737.0,
+    "period_views": 745,
+    "period_likes": 18,
+    "period_shares": 3,
+    "period_watch_min": 1949.0,
     "period_subs_net": 2,
     "unreplied_comments": 0,
     "top_traffic_source": "SHORTS",
@@ -584,11 +584,11 @@
     "super_listeners": 447,
     "saves": 866,
     "playlist_adds": 980,
-    "listeners_prev": 21851,
-    "listeners_change": -1140,
-    "listeners_pct": -5.2,
-    "streams_prev": 96000,
-    "streams_change": -1141,
+    "listeners_prev": 21582,
+    "listeners_change": -871,
+    "listeners_pct": -4.0,
+    "streams_prev": 95557,
+    "streams_change": -698,
     "top_tracks": [
       {
         "name": "Color",
@@ -730,7 +730,7 @@
         "listeners": 219
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -1045,29 +1045,37 @@
       "instagram": {
         "comments_received": 28,
         "comments_replied": 11,
-        "dms_received": 17,
+        "dms_received": 20,
         "dms_replied": 6,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 7,
+        "likes_given": 6,
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 54,
-        "comments_replied": 33,
+        "comments_received": 52,
+        "comments_replied": 32,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 2,
+        "likes_given": 1,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 99,
-    "total_replied": 50,
-    "response_rate": 51,
-    "total_likes": 9,
-    "today_grid": [],
+    "total_received": 100,
+    "total_replied": 49,
+    "response_rate": 49,
+    "total_likes": 7,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 5,
+        "replied": 0,
+        "pending": 4
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-26",
@@ -1198,6 +1206,11 @@
         "date": "2026-03-23",
         "received": 6,
         "replied": 0
+      },
+      {
+        "date": "2026-03-24",
+        "received": 5,
+        "replied": 0
       }
     ]
   },
@@ -1297,15 +1310,42 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 51%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 49%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
-    "total_contacts": 11,
-    "emails_sent": 1,
-    "responses": 1,
+    "total_contacts": 14,
+    "emails_sent": 4,
+    "responses": 4,
     "coverage": 1,
     "recent_activity": [
+      {
+        "date": "2026-03-24",
+        "contact": "Ariel Scarpa",
+        "outlet": "Solo Rock Uruguay",
+        "sent": 1,
+        "response": 1,
+        "published": 0,
+        "url": ""
+      },
+      {
+        "date": "2026-03-24",
+        "contact": "Gustavo Cedrés",
+        "outlet": "Rock Uruguayo Podcast",
+        "sent": 1,
+        "response": 1,
+        "published": 0,
+        "url": ""
+      },
+      {
+        "date": "2026-03-24",
+        "contact": "Valentín (Sala Corchea)",
+        "outlet": "Produccion Fans / Sala Corchea",
+        "sent": 1,
+        "response": 1,
+        "published": 0,
+        "url": ""
+      },
       {
         "date": "2026-03-17",
         "contact": "La Galera del Rock (Gastón Gómez)",
@@ -1364,33 +1404,6 @@
         "date": "2026-03-03",
         "contact": "Ignacio Martínez",
         "outlet": "La Diaria",
-        "sent": 0,
-        "response": 0,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-03-03",
-        "contact": "Javier Alfonso",
-        "outlet": "Búsqueda",
-        "sent": 0,
-        "response": 0,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-02-26",
-        "contact": "MasMusicas Uruguay",
-        "outlet": "MasMusicas",
-        "sent": 0,
-        "response": 0,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-02-26",
-        "contact": "Álvaro Carballo",
-        "outlet": "TNU - Historias Propias",
         "sent": 0,
         "response": 0,
         "published": 0,
@@ -1544,8 +1557,8 @@
       },
       {
         "date": "2026-03-24",
-        "sent": 1,
-        "responses": 1,
+        "sent": 4,
+        "responses": 4,
         "coverage": 1
       }
     ]
@@ -1649,7 +1662,7 @@
         "platform": "IG/TikTok/YT Shorts",
         "type": "Estribillo",
         "description": "Estribillo de Ir — reel vertical (corte aprobado, v4 lista)",
-        "status": "ready",
+        "status": "published",
         "platforms_done": []
       },
       {
