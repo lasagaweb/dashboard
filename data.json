@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T17:03:29.768063",
+  "generated_at": "2026-03-24T17:34:56.301466",
   "days_to_show": 23,
   "period_days": 7,
   "instagram": {
@@ -1049,6 +1049,13 @@
         "received": 2,
         "replied": 1,
         "pending": 1
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 0,
+        "replied": 0,
+        "pending": 1
       }
     ],
     "trend": [
@@ -1191,6 +1198,12 @@
   },
   "community_log": [
     {
+      "date": "2026-03-24",
+      "platform": "youtube",
+      "type": "scan",
+      "description": "PM scan: 7 total comments on Ir video. 4 top-level visible. 3 already replied by us (claualbirrojo, marcedl1989, faradar2457). 1 pending Nicolás (diariolateral - entrevista request, reported AM). 0 new comments since AM. Studio blocked by Google verification - cannot give hearts."
+    },
+    {
       "date": "2026-03-22",
       "platform": "youtube",
       "type": "reply",
@@ -1273,12 +1286,6 @@
       "platform": "youtube",
       "type": "reply",
       "description": "Respondido @veckemorales3792 en Color - agradecimiento por saber la letra"
-    },
-    {
-      "date": "2026-03-19",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondido @andreseduardo600 en Estoy perdido - humor sobre baterista"
     }
   ],
   "suggestions": [
