@@ -1,30 +1,25 @@
 {
-  "generated_at": "2026-03-23T20:00:16.955750",
+  "generated_at": "2026-03-23T23:00:41.499436",
   "days_to_show": 24,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-03-23",
-    "followers": 4784,
-    "reach": 4597,
-    "accounts_engaged": 85,
+    "last_date": "2026-03-24",
+    "followers": 4804,
+    "reach": 7096,
+    "accounts_engaged": 137,
     "followers_prev": 4593,
-    "followers_change": 191,
-    "followers_pct": 4.2,
+    "followers_change": 211,
+    "followers_pct": 4.6,
     "period_posts": 2,
-    "period_reach": 2843,
-    "period_engagement": 258,
+    "period_reach": 2897,
+    "period_engagement": 266,
     "top_post": {
       "date": "2026-03-19",
       "type": "reel",
       "caption": "Arrancamos escuchando a Charly, al Indio, después vinieron los Buitres, La Tramp",
-      "reach": 1510
+      "reach": 1535
     },
     "trend": [
-      {
-        "date": "2026-02-21",
-        "followers": 3683,
-        "reach": 9831
-      },
       {
         "date": "2026-02-26",
         "followers": 3976,
@@ -154,20 +149,25 @@
         "date": "2026-03-23",
         "followers": 4784,
         "reach": 4597
+      },
+      {
+        "date": "2026-03-24",
+        "followers": 4804,
+        "reach": 7096
       }
     ],
     "post_types": [
       {
         "type": "carousel",
-        "posts": 5,
-        "avg_reach": 2266.0,
-        "avg_engagement": 273.0
+        "posts": 4,
+        "avg_reach": 2146.0,
+        "avg_engagement": 213.0
       },
       {
         "type": "reel",
         "posts": 4,
-        "avg_reach": 1875.0,
-        "avg_engagement": 168.0
+        "avg_reach": 1897.0,
+        "avg_engagement": 170.0
       }
     ]
   },
@@ -213,10 +213,6 @@
     "avg_click_pct": 14.2,
     "total_campaigns": 3,
     "trend": [
-      {
-        "date": "2026-02-21",
-        "subs": 1663
-      },
       {
         "date": "2026-02-26",
         "subs": 1663
@@ -338,43 +334,43 @@
     "traffic_sources": [
       {
         "source": "SHORTS",
-        "views": 64883
+        "views": 64221
       },
       {
         "source": "PLAYLIST",
-        "views": 53555
+        "views": 50754
       },
       {
         "source": "SUBSCRIBER",
-        "views": 18836
+        "views": 18015
       },
       {
         "source": "YT_SEARCH",
-        "views": 18713
+        "views": 17772
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 8888
+        "views": 8521
       },
       {
         "source": "YT_CHANNEL",
-        "views": 7452
+        "views": 7293
       },
       {
         "source": "EXT_URL",
-        "views": 6299
+        "views": 6118
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 6169
+        "views": 5955
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 5945
+        "views": 5755
       },
       {
         "source": "NOTIFICATION",
-        "views": 2541
+        "views": 2488
       },
       {
         "source": "SOUND_PAGE",
@@ -382,11 +378,11 @@
       },
       {
         "source": "END_SCREEN",
-        "views": 34
+        "views": 32
       },
       {
         "source": "SHORTS_CONTENT_LINKS",
-        "views": 24
+        "views": 22
       }
     ],
     "top_videos": [
@@ -422,12 +418,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-02-21",
-        "views": 1672,
-        "likes": 45,
-        "net_subs": 12
-      },
       {
         "date": "2026-02-22",
         "views": 192,
@@ -1077,28 +1067,8 @@
     "total_replied": 50,
     "response_rate": 51,
     "total_likes": 9,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "AM",
-        "received": 5,
-        "replied": 0,
-        "pending": 4
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 1,
-        "replied": 0,
-        "pending": 1
-      }
-    ],
+    "today_grid": [],
     "trend": [
-      {
-        "date": "2026-02-21",
-        "received": 574,
-        "replied": 19
-      },
       {
         "date": "2026-02-26",
         "received": 98,
@@ -1571,6 +1541,12 @@
         "sent": 1,
         "responses": 1,
         "coverage": 1
+      },
+      {
+        "date": "2026-03-24",
+        "sent": 1,
+        "responses": 1,
+        "coverage": 1
       }
     ]
   },
@@ -1936,7 +1912,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-03-23T14:00:43.650904+00:00",
+    "instagram": "2026-03-24T02:00:38.357367+00:00",
     "spotify": null,
     "emailoctopus": "2026-03-23T15:00:23.052821+00:00",
     "twitter": null,
