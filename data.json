@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25T17:02:17.264191",
+  "generated_at": "2026-03-25T17:37:24.354854",
   "days_to_show": 22,
   "period_days": 7,
   "instagram": {
@@ -1059,6 +1059,13 @@
         "received": 2,
         "replied": 1,
         "pending": 1
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 0,
+        "replied": 0,
+        "pending": 1
       }
     ],
     "trend": [
@@ -1208,6 +1215,12 @@
     {
       "date": "2026-03-25",
       "platform": "youtube",
+      "type": "scan",
+      "description": "PM scan: revisados 5 videos recientes (Ir acústico, Eso que nos lleva, Errante, Ya no saben qué decir, Buscando Espacio). Todos los comentarios tienen corazón y respuesta. @diariolateral pendiente (escalado AM)."
+    },
+    {
+      "date": "2026-03-25",
+      "platform": "youtube",
       "type": "heart",
       "description": "Corazón a @diariolateral, @claualbirrojo, @faradar2457 en Ir"
     },
@@ -1288,12 +1301,6 @@
       "platform": "youtube",
       "type": "reply",
       "description": "Respondidos 3 comentarios en YouTube PM: @andreseduardo600, @veckemorales3792, @FABRI19022. 2 pendientes Nicolás (Max Samson)."
-    },
-    {
-      "date": "2026-03-20",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "AM shift: 3 replies (Estoy perdido, Color, ONCE). 2 pending (ambiguous mentions of Max, reported to Nicolás)"
     }
   ],
   "suggestions": [
