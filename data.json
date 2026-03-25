@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-03-24T23:00:45.531923",
-  "days_to_show": 23,
+  "generated_at": "2026-03-25T10:36:43.710456",
+  "days_to_show": 22,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-25",
     "followers": 4846,
     "reach": 7304,
     "accounts_engaged": 166,
-    "followers_prev": 4592,
-    "followers_change": 254,
-    "followers_pct": 5.5,
+    "followers_prev": 4598,
+    "followers_change": 248,
+    "followers_pct": 5.4,
     "period_posts": 2,
     "period_reach": 2971,
     "period_engagement": 277,
@@ -183,7 +183,7 @@
     "subs_change": 0,
     "subs_pct": 0.0,
     "period_gained": 0,
-    "period_lost": 1218,
+    "period_lost": 1044,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -325,17 +325,17 @@
     "subscribers": 3790,
     "total_views": 1556088,
     "videos_count": 47,
-    "subs_prev": 3780,
-    "subs_change": 10,
-    "subs_pct": 0.3,
-    "period_views": 745,
-    "period_likes": 18,
-    "period_shares": 3,
-    "period_watch_min": 1949.0,
-    "period_subs_net": 2,
+    "subs_prev": 3790,
+    "subs_change": 0,
+    "subs_pct": 0.0,
+    "period_views": 501,
+    "period_likes": 16,
+    "period_shares": 2,
+    "period_watch_min": 1340.0,
+    "period_subs_net": 1,
     "unreplied_comments": 0,
     "top_traffic_source": "SHORTS",
-    "top_traffic_views": 22872,
+    "top_traffic_views": 18645,
     "traffic_sources": [
       {
         "source": "SHORTS",
@@ -583,11 +583,11 @@
     "super_listeners": 447,
     "saves": 866,
     "playlist_adds": 980,
-    "listeners_prev": 21582,
-    "listeners_change": -871,
-    "listeners_pct": -4.0,
-    "streams_prev": 95557,
-    "streams_change": -698,
+    "listeners_prev": 21332,
+    "listeners_change": -621,
+    "listeners_pct": -2.9,
+    "streams_prev": 95096,
+    "streams_change": -237,
     "top_tracks": [
       {
         "name": "Color",
@@ -687,7 +687,7 @@
         "listeners": 219
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -1010,7 +1010,7 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 28,
+        "comments_received": 29,
         "comments_replied": 11,
         "dms_received": 22,
         "dms_replied": 7,
@@ -1020,21 +1020,36 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 52,
-        "comments_replied": 32,
+        "comments_received": 43,
+        "comments_replied": 26,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 1,
+        "likes_given": 5,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 102,
-    "total_replied": 50,
-    "response_rate": 49,
-    "total_likes": 7,
-    "today_grid": [],
+    "total_received": 94,
+    "total_replied": 44,
+    "response_rate": 47,
+    "total_likes": 11,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 2,
+        "replied": 0,
+        "pending": 1
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 2,
+        "replied": 1,
+        "pending": 1
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-26",
@@ -1170,10 +1185,27 @@
         "date": "2026-03-24",
         "received": 7,
         "replied": 1
+      },
+      {
+        "date": "2026-03-25",
+        "received": 4,
+        "replied": 1
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-25",
+      "platform": "youtube",
+      "type": "heart",
+      "description": "Corazón a @diariolateral, @claualbirrojo, @faradar2457 en Ir"
+    },
+    {
+      "date": "2026-03-25",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @donarildo en Color con agradecimiento + corazón"
+    },
     {
       "date": "2026-03-24",
       "platform": "youtube",
@@ -1251,25 +1283,13 @@
       "platform": "youtube",
       "type": "reply",
       "description": "AM shift: 3 replies (Estoy perdido, Color, ONCE). 2 pending (ambiguous mentions of Max, reported to Nicolás)"
-    },
-    {
-      "date": "2026-03-19",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondido @FABRI19022 en ONCE - agradecimiento por bancar música uruguaya"
-    },
-    {
-      "date": "2026-03-19",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondido @veckemorales3792 en Color - agradecimiento por saber la letra"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 49%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 47%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
