@@ -1,24 +1,18 @@
 {
-  "generated_at": "2026-03-26T22:05:37.785710",
-  "days_to_show": 21,
+  "generated_at": "2026-03-27T16:32:04.302012",
+  "days_to_show": 20,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-27",
     "followers": 4906,
     "reach": 5785,
     "accounts_engaged": 108,
-    "followers_prev": 4602,
-    "followers_change": 304,
-    "followers_pct": 6.6,
-    "period_posts": 2,
-    "period_reach": 3090,
-    "period_engagement": 281,
-    "top_post": {
-      "date": "2026-03-19",
-      "type": "reel",
-      "caption": "Arrancamos escuchando a Charly, al Indio, después vinieron los Buitres, La Tramp",
-      "reach": 1626
-    },
+    "followers_prev": 4650,
+    "followers_change": 256,
+    "followers_pct": 5.5,
+    "period_posts": 0,
+    "period_reach": 0,
+    "period_engagement": 0,
     "trend": [
       {
         "date": "2026-02-26",
@@ -193,7 +187,7 @@
     "subs_change": -1,
     "subs_pct": -0.1,
     "period_gained": 0,
-    "period_lost": 1045,
+    "period_lost": 871,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -342,14 +336,14 @@
     "subs_prev": 3790,
     "subs_change": 0,
     "subs_pct": 0.0,
-    "period_views": 267,
-    "period_likes": 11,
-    "period_shares": 1,
-    "period_watch_min": 715.0,
-    "period_subs_net": -1,
+    "period_views": 0,
+    "period_likes": 0,
+    "period_shares": 0,
+    "period_watch_min": 0.0,
+    "period_subs_net": 0,
     "unreplied_comments": 0,
     "top_traffic_source": "SHORTS",
-    "top_traffic_views": 14523,
+    "top_traffic_views": 10523,
     "traffic_sources": [
       {
         "source": "SHORTS",
@@ -585,11 +579,11 @@
     "super_listeners": 447,
     "saves": 866,
     "playlist_adds": 980,
-    "listeners_prev": 21187,
-    "listeners_change": -476,
-    "listeners_pct": -2.2,
-    "streams_prev": 95050,
-    "streams_change": -191,
+    "listeners_prev": 21156,
+    "listeners_change": -445,
+    "listeners_pct": -2.1,
+    "streams_prev": 95402,
+    "streams_change": -543,
     "top_tracks": [
       {
         "name": "Color",
@@ -689,7 +683,7 @@
         "listeners": 219
       }
     ],
-    "days_since_collection": 2,
+    "days_since_collection": 3,
     "trend": [
       {
         "date": "2026-02-18",
@@ -1016,18 +1010,18 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 32,
-        "comments_replied": 11,
-        "dms_received": 26,
-        "dms_replied": 7,
+        "comments_received": 25,
+        "comments_replied": 7,
+        "dms_received": 22,
+        "dms_replied": 5,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 6,
+        "likes_given": 5,
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 48,
-        "comments_replied": 24,
+        "comments_received": 38,
+        "comments_replied": 18,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1036,10 +1030,10 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 106,
-    "total_replied": 42,
-    "response_rate": 40,
-    "total_likes": 13,
+    "total_received": 85,
+    "total_replied": 30,
+    "response_rate": 35,
+    "total_likes": 12,
     "today_grid": [],
     "trend": [
       {
@@ -1285,7 +1279,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 40%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 35%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
