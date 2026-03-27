@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-03-26T17:39:44.273867",
+  "generated_at": "2026-03-26T22:05:37.785710",
   "days_to_show": 21,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-03-26",
-    "followers": 4874,
-    "reach": 6134,
-    "accounts_engaged": 135,
+    "last_date": "2026-03-27",
+    "followers": 4906,
+    "reach": 5785,
+    "accounts_engaged": 108,
     "followers_prev": 4602,
-    "followers_change": 272,
-    "followers_pct": 5.9,
+    "followers_change": 304,
+    "followers_pct": 6.6,
     "period_posts": 2,
-    "period_reach": 3031,
-    "period_engagement": 278,
+    "period_reach": 3090,
+    "period_engagement": 281,
     "top_post": {
       "date": "2026-03-19",
       "type": "reel",
       "caption": "Arrancamos escuchando a Charly, al Indio, después vinieron los Buitres, La Tramp",
-      "reach": 1597
+      "reach": 1626
     },
     "trend": [
       {
@@ -164,20 +164,25 @@
         "date": "2026-03-26",
         "followers": 4874,
         "reach": 6134
+      },
+      {
+        "date": "2026-03-27",
+        "followers": 4906,
+        "reach": 5785
       }
     ],
     "post_types": [
       {
         "type": "carousel",
         "posts": 4,
-        "avg_reach": 2162.0,
-        "avg_engagement": 214.0
+        "avg_reach": 2181.0,
+        "avg_engagement": 215.0
       },
       {
         "type": "reel",
         "posts": 4,
-        "avg_reach": 1986.0,
-        "avg_engagement": 176.0
+        "avg_reach": 2015.0,
+        "avg_engagement": 178.0
       }
     ]
   },
@@ -432,12 +437,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-02-24",
-        "views": 280,
-        "likes": 3,
-        "net_subs": 1
-      },
       {
         "date": "2026-02-25",
         "views": 177,
@@ -1041,29 +1040,7 @@
     "total_replied": 42,
     "response_rate": 40,
     "total_likes": 13,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "AM",
-        "received": 6,
-        "replied": 1,
-        "pending": 4
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 1,
-        "replied": 1,
-        "pending": 5
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 10,
-        "replied": 1,
-        "pending": 1
-      }
-    ],
+    "today_grid": [],
     "trend": [
       {
         "date": "2026-02-26",
@@ -1570,6 +1547,12 @@
         "sent": 4,
         "responses": 4,
         "coverage": 1
+      },
+      {
+        "date": "2026-03-27",
+        "sent": 4,
+        "responses": 4,
+        "coverage": 1
       }
     ]
   },
@@ -1943,7 +1926,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-03-26T01:00:38.893862+00:00",
+    "instagram": "2026-03-27T01:05:33.026862+00:00",
     "spotify": null,
     "emailoctopus": "2026-03-25T15:00:17.659600+00:00",
     "twitter": null,
