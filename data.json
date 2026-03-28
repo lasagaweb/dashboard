@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T10:33:44.278466",
+  "generated_at": "2026-03-28T14:01:43.474280",
   "days_to_show": 19,
   "period_days": 7,
   "instagram": {
@@ -849,7 +849,7 @@
     ]
   },
   "x": {
-    "last_date": "2026-03-26",
+    "last_date": "2026-03-28",
     "followers": 1380,
     "following": 504,
     "followers_prev": 1379,
@@ -898,7 +898,7 @@
         "post_id": "2034806026059268122",
         "date": "2026-03-19",
         "text": "Escuchando, un día nos encontramos tocando. #influencias @LASAGArock @LaVela_Ofi",
-        "impressions": 320,
+        "impressions": 321,
         "likes": 5,
         "retweets": 2,
         "bookmarks": 0,
@@ -1008,6 +1008,10 @@
       },
       {
         "date": "2026-03-26",
+        "followers": 1380
+      },
+      {
+        "date": "2026-03-28",
         "followers": 1380
       }
     ]
@@ -1313,11 +1317,29 @@
     }
   ],
   "press": {
-    "total_contacts": 14,
-    "emails_sent": 4,
+    "total_contacts": 16,
+    "emails_sent": 6,
     "responses": 4,
     "coverage": 1,
     "recent_activity": [
+      {
+        "date": "2026-03-28",
+        "contact": "",
+        "outlet": "Independiente",
+        "sent": 1,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
+      {
+        "date": "2026-03-28",
+        "contact": "",
+        "outlet": "Productor Sala del Museo",
+        "sent": 1,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
       {
         "date": "2026-03-24",
         "contact": "Ariel Scarpa",
@@ -1385,24 +1407,6 @@
         "date": "2026-03-10",
         "contact": "Nelson Barceló",
         "outlet": "Emisora del Sur",
-        "sent": 0,
-        "response": 0,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-03-03",
-        "contact": "Agustín Acevedo Kanopa",
-        "outlet": "La Diaria",
-        "sent": 0,
-        "response": 0,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-03-03",
-        "contact": "Ignacio Martínez",
-        "outlet": "La Diaria",
         "sent": 0,
         "response": 0,
         "published": 0,
@@ -1580,7 +1584,7 @@
       },
       {
         "date": "2026-03-28",
-        "sent": 4,
+        "sent": 6,
         "responses": 4,
         "coverage": 1
       }
