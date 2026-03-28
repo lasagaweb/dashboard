@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T17:02:06.675010",
+  "generated_at": "2026-03-28T17:35:53.293124",
   "days_to_show": 19,
   "period_days": 7,
   "instagram": {
@@ -1029,7 +1029,7 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 35,
+        "comments_received": 44,
         "comments_replied": 12,
         "dms_received": 0,
         "dms_replied": 0,
@@ -1039,9 +1039,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 89,
+    "total_received": 98,
     "total_replied": 20,
-    "response_rate": 22,
+    "response_rate": 20,
     "total_likes": 16,
     "today_grid": [
       {
@@ -1062,6 +1062,13 @@
         "platform": "youtube",
         "shift": "AM",
         "received": 7,
+        "replied": 0,
+        "pending": 1
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 9,
         "replied": 0,
         "pending": 1
       }
@@ -1219,12 +1226,18 @@
       },
       {
         "date": "2026-03-28",
-        "received": 19,
+        "received": 28,
         "replied": 2
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-28",
+      "platform": "youtube",
+      "type": "audit",
+      "description": "PM audit: 9 fan comments across all videos. 8/9 already responded (previous sessions). 1 pending escalated (@diariolateral entrevista). 2 hearts missing (@alfonsinapintos6122, @GabiCorboFotografo) - blocked by Google verification dialog. No new comments since AM."
+    },
     {
       "date": "2026-03-28",
       "platform": "youtube",
@@ -1308,19 +1321,13 @@
       "platform": "youtube",
       "type": "reply",
       "description": "@FABRI19022 en ONCE - elogio a música uruguaya, agradecido"
-    },
-    {
-      "date": "2026-03-21",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "@andreseduardo600 en Estoy perdido - chiste sobre baterista, respondido con humor"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 22%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 20%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
