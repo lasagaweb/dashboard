@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-03-27T22:00:51.069679",
-  "days_to_show": 20,
+  "generated_at": "2026-03-28T10:03:13.729562",
+  "days_to_show": 19,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-28",
     "followers": 4934,
     "reach": 5795,
     "accounts_engaged": 153,
-    "followers_prev": 4650,
-    "followers_change": 284,
-    "followers_pct": 6.1,
+    "followers_prev": 4707,
+    "followers_change": 227,
+    "followers_pct": 4.8,
     "period_posts": 2,
     "period_reach": 420,
     "period_engagement": 50,
@@ -198,7 +198,7 @@
     "subs_change": -1,
     "subs_pct": -0.1,
     "period_gained": 0,
-    "period_lost": 871,
+    "period_lost": 697,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -354,7 +354,7 @@
     "period_subs_net": 0,
     "unreplied_comments": 0,
     "top_traffic_source": "SHORTS",
-    "top_traffic_views": 10523,
+    "top_traffic_views": 6783,
     "traffic_sources": [
       {
         "source": "SHORTS",
@@ -584,11 +584,11 @@
     "super_listeners": 447,
     "saves": 866,
     "playlist_adds": 980,
-    "listeners_prev": 21156,
-    "listeners_change": -445,
+    "listeners_prev": 21159,
+    "listeners_change": -448,
     "listeners_pct": -2.1,
-    "streams_prev": 95402,
-    "streams_change": -543,
+    "streams_prev": 95545,
+    "streams_change": -686,
     "top_tracks": [
       {
         "name": "Color",
@@ -688,7 +688,7 @@
         "listeners": 219
       }
     ],
-    "days_since_collection": 3,
+    "days_since_collection": 4,
     "trend": [
       {
         "date": "2026-02-18",
@@ -852,7 +852,7 @@
     "last_date": "2026-03-26",
     "followers": 1380,
     "following": 504,
-    "followers_prev": 1378,
+    "followers_prev": 1379,
     "top_posts": [
       {
         "post_id": "2024191756430884898",
@@ -1015,18 +1015,18 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 28,
-        "comments_replied": 7,
+        "comments_received": 26,
+        "comments_replied": 3,
         "dms_received": 22,
         "dms_replied": 5,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 7,
+        "likes_given": 9,
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 38,
-        "comments_replied": 18,
+        "comments_received": 28,
+        "comments_replied": 12,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1035,11 +1035,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 88,
-    "total_replied": 30,
-    "response_rate": 34,
-    "total_likes": 14,
-    "today_grid": [],
+    "total_received": 76,
+    "total_replied": 20,
+    "response_rate": 26,
+    "total_likes": 16,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 6,
+        "replied": 2,
+        "pending": 4
+      }
+    ],
     "trend": [
       {
         "date": "2026-02-26",
@@ -1190,6 +1198,11 @@
         "date": "2026-03-27",
         "received": 3,
         "replied": 0
+      },
+      {
+        "date": "2026-03-28",
+        "received": 6,
+        "replied": 2
       }
     ]
   },
@@ -1289,7 +1302,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 34%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 26%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
@@ -1674,7 +1687,7 @@
         "platform": "IG Feed",
         "type": "Carrusel",
         "description": "Carrusel de Lo que vos digas — imagen+frase (pendiente Nico)",
-        "status": "blocked",
+        "status": "published",
         "platforms_done": []
       },
       {
