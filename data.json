@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T10:03:13.729562",
+  "generated_at": "2026-03-28T10:33:44.278466",
   "days_to_show": 19,
   "period_days": 7,
   "instagram": {
@@ -1025,7 +1025,7 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 28,
+        "comments_received": 35,
         "comments_replied": 12,
         "dms_received": 0,
         "dms_replied": 0,
@@ -1035,9 +1035,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 76,
+    "total_received": 83,
     "total_replied": 20,
-    "response_rate": 26,
+    "response_rate": 24,
     "total_likes": 16,
     "today_grid": [
       {
@@ -1046,6 +1046,13 @@
         "received": 6,
         "replied": 2,
         "pending": 4
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 7,
+        "replied": 0,
+        "pending": 1
       }
     ],
     "trend": [
@@ -1201,12 +1208,18 @@
       },
       {
         "date": "2026-03-28",
-        "received": 6,
+        "received": 13,
         "replied": 2
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-28",
+      "platform": "youtube",
+      "type": "scan",
+      "description": "AM scan: 7 comentarios visibles, todos ya respondidos previamente excepto @diariolateral (pedido de entrevista, escalado a Nicolás). Verificación de Google bloqueó interacción."
+    },
     {
       "date": "2026-03-25",
       "platform": "youtube",
@@ -1290,19 +1303,13 @@
       "platform": "youtube",
       "type": "reply",
       "description": "@andreseduardo600 en Estoy perdido - chiste sobre baterista, respondido con humor"
-    },
-    {
-      "date": "2026-03-20",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondidos 3 comentarios en YouTube PM: @andreseduardo600, @veckemorales3792, @FABRI19022. 2 pendientes Nicolás (Max Samson)."
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 26%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 24%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
