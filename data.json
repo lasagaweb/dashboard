@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T17:02:33.305654",
+  "generated_at": "2026-03-29T17:33:44.550346",
   "days_to_show": 18,
   "period_days": 7,
   "instagram": {
@@ -1119,8 +1119,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 41,
-        "comments_replied": 6,
+        "comments_received": 46,
+        "comments_replied": 9,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1129,9 +1129,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 98,
-    "total_replied": 14,
-    "response_rate": 14,
+    "total_received": 103,
+    "total_replied": 17,
+    "response_rate": 17,
     "total_likes": 19,
     "today_grid": [
       {
@@ -1154,6 +1154,13 @@
         "received": 7,
         "replied": 0,
         "pending": 1
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 5,
+        "replied": 3,
+        "pending": 0
       }
     ],
     "trend": [
@@ -1309,12 +1316,18 @@
       },
       {
         "date": "2026-03-29",
-        "received": 18,
-        "replied": 3
+        "received": 23,
+        "replied": 6
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-29",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Replied to 3 comments on Estoy perdido, Color, and ONCE. 2 comments about Max not directed at band (skipped reply). Hearts blocked by YT Studio verification."
+    },
     {
       "date": "2026-03-28",
       "platform": "youtube",
@@ -1398,19 +1411,13 @@
       "platform": "youtube",
       "type": "reply",
       "description": "@veckemorales3792 en Color - transcribió toda la letra, agradecido"
-    },
-    {
-      "date": "2026-03-21",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "@FABRI19022 en ONCE - elogio a música uruguaya, agradecido"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 14%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 17%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
