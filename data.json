@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T17:03:20.305795",
+  "generated_at": "2026-03-30T17:36:38.644975",
   "days_to_show": 17,
   "period_days": 7,
   "instagram": {
@@ -1117,20 +1117,20 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 45,
-        "comments_replied": 8,
+        "comments_received": 50,
+        "comments_replied": 10,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 6,
+        "likes_given": 10,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 107,
-    "total_replied": 18,
-    "response_rate": 17,
-    "total_likes": 18,
+    "total_received": 112,
+    "total_replied": 20,
+    "response_rate": 18,
+    "total_likes": 22,
     "today_grid": [
       {
         "platform": "instagram",
@@ -1152,6 +1152,13 @@
         "received": 5,
         "replied": 3,
         "pending": 2
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 5,
+        "replied": 2,
+        "pending": 3
       }
     ],
     "trend": [
@@ -1307,12 +1314,30 @@
       },
       {
         "date": "2026-03-30",
-        "received": 16,
-        "replied": 5
+        "received": 21,
+        "replied": 7
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-30",
+      "platform": "youtube",
+      "type": "like",
+      "description": "Corazón a @thetacogaming9434, @andreseduardo600, @ghostzerosniperpsp en Estoy perdido y @jimenezromanomarnadin9627 en Lo que vos digas"
+    },
+    {
+      "date": "2026-03-30",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @FABRI19022 en ONCE - agradecimiento por valorar música uruguaya"
+    },
+    {
+      "date": "2026-03-30",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido @veckemorales3792 en Color - agradecimiento por transcribir letra"
+    },
     {
       "date": "2026-03-30",
       "platform": "youtube",
@@ -1384,31 +1409,13 @@
       "platform": "youtube",
       "type": "reply",
       "description": "Respondido @veckemorales3792 en Color (letra completa)"
-    },
-    {
-      "date": "2026-03-21",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondido @andreseduardo600 en Estoy perdido (broma baterista)"
-    },
-    {
-      "date": "2026-03-21",
-      "platform": "youtube",
-      "type": "pending",
-      "description": "@ghostzerosniperpsp en Estoy perdido - busca a alguien llamado Max, escalado a Nicolás"
-    },
-    {
-      "date": "2026-03-21",
-      "platform": "youtube",
-      "type": "pending",
-      "description": "@thetacogaming9434 en Estoy perdido - menciona Max Samson, escalado a Nicolás"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 17%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 18%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
