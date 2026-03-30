@@ -1,30 +1,25 @@
 {
-  "generated_at": "2026-03-29T20:00:15.899911",
+  "generated_at": "2026-03-29T22:00:39.423787",
   "days_to_show": 18,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-03-29",
-    "followers": 4975,
-    "reach": 4142,
-    "accounts_engaged": 92,
+    "last_date": "2026-03-30",
+    "followers": 4994,
+    "reach": 7071,
+    "accounts_engaged": 183,
     "followers_prev": 4749,
-    "followers_change": 226,
-    "followers_pct": 4.8,
-    "period_posts": 2,
-    "period_reach": 963,
-    "period_engagement": 76,
+    "followers_change": 245,
+    "followers_pct": 5.2,
+    "period_posts": 3,
+    "period_reach": 1773,
+    "period_engagement": 142,
     "top_post": {
       "date": "2026-03-27",
       "type": "carousel",
       "caption": "Otra vez volvemos al principio.\nY capaz que eso es lo mejor que nos puede pasar.",
-      "reach": 858
+      "reach": 934
     },
     "trend": [
-      {
-        "date": "2026-02-27",
-        "followers": 4008,
-        "reach": 5162
-      },
       {
         "date": "2026-02-28",
         "followers": 4053,
@@ -174,20 +169,25 @@
         "date": "2026-03-29",
         "followers": 4975,
         "reach": 4142
+      },
+      {
+        "date": "2026-03-30",
+        "followers": 4994,
+        "reach": 7071
       }
     ],
     "post_types": [
       {
         "type": "reel",
-        "posts": 4,
-        "avg_reach": 2065.0,
-        "avg_engagement": 181.0
+        "posts": 5,
+        "avg_reach": 1807.0,
+        "avg_engagement": 158.0
       },
       {
         "type": "carousel",
-        "posts": 5,
-        "avg_reach": 1508.0,
-        "avg_engagement": 133.0
+        "posts": 4,
+        "avg_reach": 1343.0,
+        "avg_engagement": 122.0
       }
     ]
   },
@@ -233,10 +233,6 @@
     "avg_click_pct": 14.3,
     "total_campaigns": 3,
     "trend": [
-      {
-        "date": "2026-02-27",
-        "subs": 1715
-      },
       {
         "date": "2026-02-28",
         "subs": 1715
@@ -442,12 +438,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-02-27",
-        "views": 1285,
-        "likes": 42,
-        "net_subs": 3
-      },
       {
         "date": "2026-02-28",
         "views": 926,
@@ -1133,42 +1123,8 @@
     "total_replied": 17,
     "response_rate": 17,
     "total_likes": 19,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "AM",
-        "received": 6,
-        "replied": 2,
-        "pending": 2
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 5,
-        "replied": 1,
-        "pending": 2
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 7,
-        "replied": 0,
-        "pending": 1
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 5,
-        "replied": 3,
-        "pending": 0
-      }
-    ],
+    "today_grid": [],
     "trend": [
-      {
-        "date": "2026-02-27",
-        "received": 33,
-        "replied": 30
-      },
       {
         "date": "2026-02-28",
         "received": 24,
@@ -1697,6 +1653,12 @@
         "sent": 6,
         "responses": 4,
         "coverage": 1
+      },
+      {
+        "date": "2026-03-30",
+        "sent": 6,
+        "responses": 4,
+        "coverage": 1
       }
     ]
   },
@@ -2081,7 +2043,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-03-29T07:05:24.337294+00:00",
+    "instagram": "2026-03-30T01:00:35.242337+00:00",
     "spotify": null,
     "emailoctopus": "2026-03-29T15:00:15.367278+00:00",
     "twitter": null,
