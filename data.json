@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T10:01:42.337729",
+  "generated_at": "2026-03-30T10:31:54.458136",
   "days_to_show": 17,
   "period_days": 7,
   "instagram": {
@@ -1109,8 +1109,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 40,
-        "comments_replied": 5,
+        "comments_received": 45,
+        "comments_replied": 8,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1119,9 +1119,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 97,
-    "total_replied": 14,
-    "response_rate": 14,
+    "total_received": 102,
+    "total_replied": 17,
+    "response_rate": 17,
     "total_likes": 18,
     "today_grid": [
       {
@@ -1130,6 +1130,13 @@
         "received": 6,
         "replied": 1,
         "pending": 3
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 5,
+        "replied": 3,
+        "pending": 2
       }
     ],
     "trend": [
@@ -1285,12 +1292,18 @@
       },
       {
         "date": "2026-03-30",
-        "received": 6,
-        "replied": 1
+        "received": 11,
+        "replied": 4
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-03-30",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "AM: 3 replies (baterista humor, lyrics Color, Uruguay music pride). 2 pendientes por ambiguos (mencionan Max samson)."
+    },
     {
       "date": "2026-03-29",
       "platform": "youtube",
@@ -1374,19 +1387,13 @@
       "platform": "youtube",
       "type": "pending",
       "description": "@thetacogaming9434 en Estoy perdido - menciona Max Samson, escalado a Nicolás"
-    },
-    {
-      "date": "2026-03-21",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "@veckemorales3792 en Color - transcribió toda la letra, agradecido"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 14%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 17%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
