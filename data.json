@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T13:00:24.182722",
+  "generated_at": "2026-03-30T14:01:27.517365",
   "days_to_show": 17,
   "period_days": 7,
   "instagram": {
@@ -933,7 +933,7 @@
     ]
   },
   "x": {
-    "last_date": "2026-03-29",
+    "last_date": "2026-03-30",
     "followers": 1380,
     "following": 504,
     "followers_prev": 1379,
@@ -982,7 +982,7 @@
         "post_id": "2034806026059268122",
         "date": "2026-03-19",
         "text": "Escuchando, un día nos encontramos tocando. #influencias @LASAGArock @LaVela_Ofi",
-        "impressions": 327,
+        "impressions": 331,
         "likes": 5,
         "retweets": 2,
         "bookmarks": 0,
@@ -1096,6 +1096,10 @@
       },
       {
         "date": "2026-03-29",
+        "followers": 1380
+      },
+      {
+        "date": "2026-03-30",
         "followers": 1380
       }
     ]
