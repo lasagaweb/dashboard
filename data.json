@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T16:31:57.555054",
+  "generated_at": "2026-03-30T16:33:21.937947",
   "days_to_show": 17,
   "period_days": 7,
   "instagram": {
@@ -1812,6 +1812,42 @@
           "youtube",
           "x"
         ]
+      },
+      {
+        "id": 18,
+        "date": "2026-03-31",
+        "platform": "IG/TikTok/YT Shorts",
+        "type": "Estribillo",
+        "description": "Estribillo de Lo que vos digas — reel vertical (pendiente corte + aprobación)",
+        "status": "planned",
+        "platforms_done": []
+      },
+      {
+        "id": 19,
+        "date": "2026-04-02",
+        "platform": "IG/TikTok/YT Shorts",
+        "type": "Short",
+        "description": "S6 El disco triste — anticipa Color",
+        "status": "planned",
+        "platforms_done": []
+      },
+      {
+        "id": 20,
+        "date": "2026-04-04",
+        "platform": "IG Feed",
+        "type": "Carrusel",
+        "description": "Carrusel de Color — imagen+frase (pendiente Nico)",
+        "status": "planned",
+        "platforms_done": []
+      },
+      {
+        "id": 21,
+        "date": "2026-04-05",
+        "platform": "YouTube",
+        "type": "Canción completa",
+        "description": "Color — canción completa YouTube",
+        "status": "planned",
+        "platforms_done": []
       }
     ],
     "source": "upcoming_content"
