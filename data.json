@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-03-30T22:05:51.635013",
-  "days_to_show": 17,
+  "generated_at": "2026-03-31T10:22:40.491482",
+  "days_to_show": 16,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-03-31",
     "followers": 5040,
     "reach": 7375,
     "accounts_engaged": 183,
-    "followers_prev": 4784,
-    "followers_change": 256,
-    "followers_pct": 5.4,
+    "followers_prev": 4820,
+    "followers_change": 220,
+    "followers_pct": 4.6,
     "period_posts": 3,
     "period_reach": 2183,
     "period_engagement": 166,
@@ -198,7 +198,7 @@
     "subs_change": -1,
     "subs_pct": -0.1,
     "period_gained": 0,
-    "period_lost": 699,
+    "period_lost": 525,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -343,11 +343,11 @@
     "subs_prev": 3790,
     "subs_change": 0,
     "subs_pct": 0.0,
-    "period_views": 1160,
-    "period_likes": 11,
-    "period_shares": 13,
-    "period_watch_min": 3369.0,
-    "period_subs_net": 2,
+    "period_views": 907,
+    "period_likes": 6,
+    "period_shares": 10,
+    "period_watch_min": 2712.0,
+    "period_subs_net": 5,
     "unreplied_comments": 10,
     "top_traffic_source": "PLAYLIST",
     "top_traffic_views": 6284,
@@ -756,7 +756,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 1,
+    "days_since_collection": 2,
     "trend": [
       {
         "date": "2026-02-18",
@@ -1093,13 +1093,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 41,
+        "comments_received": 44,
         "comments_replied": 4,
-        "dms_received": 21,
+        "dms_received": 17,
         "dms_replied": 6,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 12,
+        "likes_given": 15,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -1113,11 +1113,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 112,
+    "total_received": 111,
     "total_replied": 20,
     "response_rate": 18,
-    "total_likes": 22,
-    "today_grid": [],
+    "total_likes": 25,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 5,
+        "replied": 0,
+        "pending": 2
+      }
+    ],
     "trend": [
       {
         "date": "2026-03-01",
@@ -1268,6 +1276,11 @@
         "date": "2026-03-30",
         "received": 21,
         "replied": 7
+      },
+      {
+        "date": "2026-03-31",
+        "received": 5,
+        "replied": 0
       }
     ]
   },
@@ -1371,11 +1384,38 @@
     }
   ],
   "press": {
-    "total_contacts": 16,
+    "total_contacts": 19,
     "emails_sent": 6,
     "responses": 4,
     "coverage": 1,
     "recent_activity": [
+      {
+        "date": "2026-03-31",
+        "contact": "Belén Fourment",
+        "outlet": "El País / Canal 4",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
+      {
+        "date": "2026-03-31",
+        "contact": "Javier Alfonso",
+        "outlet": "Búsqueda",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
+      {
+        "date": "2026-03-31",
+        "contact": "Nelson Barceló",
+        "outlet": "Emisora del Sur",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
       {
         "date": "2026-03-28",
         "contact": "",
@@ -1434,33 +1474,6 @@
         "date": "2026-03-10",
         "contact": "Rock Uruguayo Podcast",
         "outlet": "Podcast YT/Spotify",
-        "sent": 0,
-        "response": 0,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-03-10",
-        "contact": "Diego Castro Famea",
-        "outlet": "Cooltivarte",
-        "sent": 0,
-        "response": 0,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-03-10",
-        "contact": "Metrónomo",
-        "outlet": "metronomo.uy",
-        "sent": 0,
-        "response": 0,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-03-10",
-        "contact": "Nelson Barceló",
-        "outlet": "Emisora del Sur",
         "sent": 0,
         "response": 0,
         "published": 0,
