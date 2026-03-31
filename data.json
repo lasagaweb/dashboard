@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T10:33:17.805086",
+  "generated_at": "2026-03-31T13:00:50.708545",
   "days_to_show": 16,
   "period_days": 7,
   "instagram": {
@@ -336,61 +336,61 @@
     ]
   },
   "youtube": {
-    "last_date": "2026-03-30",
+    "last_date": "2026-03-31",
     "subscribers": 3790,
-    "total_views": 1557847,
+    "total_views": 1558149,
     "videos_count": 49,
     "subs_prev": 3790,
     "subs_change": 0,
     "subs_pct": 0.0,
-    "period_views": 907,
-    "period_likes": 6,
-    "period_shares": 10,
-    "period_watch_min": 2712.0,
-    "period_subs_net": 5,
+    "period_views": 1162,
+    "period_likes": 10,
+    "period_shares": 12,
+    "period_watch_min": 3459.0,
+    "period_subs_net": 6,
     "unreplied_comments": 10,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 6284,
+    "top_traffic_views": 9348,
     "traffic_sources": [
       {
         "source": "SHORTS",
-        "views": 64327
+        "views": 64709
       },
       {
         "source": "PLAYLIST",
-        "views": 54096
+        "views": 57160
       },
       {
         "source": "SUBSCRIBER",
-        "views": 19612
+        "views": 20780
       },
       {
         "source": "YT_SEARCH",
-        "views": 18776
+        "views": 19699
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 9579
+        "views": 10252
       },
       {
         "source": "YT_CHANNEL",
-        "views": 7730
+        "views": 8040
       },
       {
         "source": "EXT_URL",
-        "views": 6327
+        "views": 6541
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 6141
+        "views": 6383
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 6041
+        "views": 6260
       },
       {
         "source": "NOTIFICATION",
-        "views": 2603
+        "views": 2701
       },
       {
         "source": "SOUND_PAGE",
@@ -408,31 +408,31 @@
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 501081,
+        "views": 501141,
         "likes": 2238,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 467711,
-        "likes": 2342,
+        "views": 467779,
+        "likes": 2343,
         "type": "Video"
       },
       {
         "title": "\"Errante\" (La Saga - \"INTIMO\")",
-        "views": 162312,
+        "views": 162332,
         "likes": 699,
         "type": "Video"
       },
       {
         "title": "La Saga - Yo te quiero (Video Oficial)",
-        "views": 116287,
+        "views": 116294,
         "likes": 688,
         "type": "Video"
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 107121,
+        "views": 107136,
         "likes": 869,
         "type": "Video"
       }
@@ -599,6 +599,12 @@
         "views": 189,
         "likes": 1,
         "net_subs": 0
+      },
+      {
+        "date": "2026-03-28",
+        "views": 255,
+        "likes": 4,
+        "net_subs": 1
       }
     ]
   },
@@ -2107,6 +2113,6 @@
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-03-30T16:00:20.804763+00:00"
+    "youtube": "2026-03-31T16:00:43.459385+00:00"
   }
 }
