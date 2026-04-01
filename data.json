@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T17:15:59.987025",
+  "generated_at": "2026-04-01T17:36:27.735757",
   "days_to_show": 15,
   "period_days": 7,
   "instagram": {
@@ -1148,6 +1148,13 @@
         "received": 0,
         "replied": 0,
         "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 0,
+        "replied": 0,
+        "pending": 0
       }
     ],
     "trend": [
@@ -1310,6 +1317,12 @@
   },
   "community_log": [
     {
+      "date": "2026-04-01",
+      "platform": "youtube",
+      "type": "scan",
+      "description": "PM scan: 608 threads, 0 unreplied"
+    },
+    {
       "date": "2026-03-31",
       "platform": "youtube",
       "type": "reply",
@@ -1392,12 +1405,6 @@
       "platform": "youtube",
       "type": "scan",
       "description": "PM scan: 7 total comments on Ir video. 4 top-level visible. 3 already replied by us (claualbirrojo, marcedl1989, faradar2457). 1 pending Nicolás (diariolateral - entrevista request, reported AM). 0 new comments since AM. Studio blocked by Google verification - cannot give hearts."
-    },
-    {
-      "date": "2026-03-22",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondí y di corazón a @marcedl1989 en Ir — La Saga (en vivo): fan de 18 años"
     }
   ],
   "suggestions": [
