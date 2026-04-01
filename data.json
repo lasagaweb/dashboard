@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-04-01T10:31:24.499570",
+  "generated_at": "2026-04-01T12:00:41.234662",
   "days_to_show": 15,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-04-01",
-    "followers": 5057,
-    "reach": 6438,
-    "accounts_engaged": 112,
+    "followers": 5067,
+    "reach": 4496,
+    "accounts_engaged": 97,
     "followers_prev": 4846,
-    "followers_change": 211,
-    "followers_pct": 4.4,
+    "followers_change": 221,
+    "followers_pct": 4.6,
     "period_posts": 3,
-    "period_reach": 2292,
-    "period_engagement": 178,
+    "period_reach": 2350,
+    "period_engagement": 183,
     "top_post": {
       "date": "2026-03-29",
       "type": "reel",
       "caption": "Un recorte de lo que vos digas \n\nLa versión también INcompleta está en YouTube \n",
-      "reach": 1169
+      "reach": 1202
     },
     "trend": [
       {
@@ -172,33 +172,33 @@
       },
       {
         "date": "2026-04-01",
-        "followers": 5057,
-        "reach": 6438
+        "followers": 5067,
+        "reach": 4496
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 5,
-        "avg_reach": 1942.0,
-        "avg_engagement": 165.0
+        "avg_reach": 1961.0,
+        "avg_engagement": 167.0
       },
       {
         "type": "carousel",
         "posts": 4,
-        "avg_reach": 1368.0,
+        "avg_reach": 1378.0,
         "avg_engagement": 124.0
       }
     ]
   },
   "email": {
-    "last_date": "2026-03-30",
+    "last_date": "2026-04-01",
     "total_subs": 1669,
     "subs_prev": 1669,
     "subs_change": 0,
     "subs_pct": 0.0,
     "period_gained": 0,
-    "period_lost": 525,
+    "period_lost": 700,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -327,6 +327,10 @@
       },
       {
         "date": "2026-03-30",
+        "subs": 1669
+      },
+      {
+        "date": "2026-04-01",
         "subs": 1669
       }
     ]
@@ -2098,9 +2102,9 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-04-01T01:00:38.130353+00:00",
+    "instagram": "2026-04-01T13:34:02.334783+00:00",
     "spotify": null,
-    "emailoctopus": "2026-03-30T15:00:17.028001+00:00",
+    "emailoctopus": "2026-04-01T15:00:36.296783+00:00",
     "twitter": null,
     "tiktok": null,
     "meta_ads": null,
