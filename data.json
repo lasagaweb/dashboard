@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T12:00:41.234662",
+  "generated_at": "2026-04-01T13:01:16.535328",
   "days_to_show": 15,
   "period_days": 7,
   "instagram": {
@@ -338,7 +338,7 @@
   "youtube": {
     "last_date": "2026-04-01",
     "subscribers": 3790,
-    "total_views": 1558211,
+    "total_views": 1558420,
     "videos_count": 49,
     "subs_prev": 3790,
     "subs_change": 0,
@@ -348,9 +348,9 @@
     "period_shares": 14,
     "period_watch_min": 3290.0,
     "period_subs_net": 5,
-    "unreplied_comments": 10,
+    "unreplied_comments": 11,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 12421,
+    "top_traffic_views": 12422,
     "traffic_sources": [
       {
         "source": "SHORTS",
@@ -358,11 +358,11 @@
       },
       {
         "source": "PLAYLIST",
-        "views": 57319
+        "views": 57320
       },
       {
         "source": "SUBSCRIBER",
-        "views": 21026
+        "views": 21027
       },
       {
         "source": "YT_SEARCH",
@@ -382,7 +382,7 @@
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 6293
+        "views": 6291
       },
       {
         "source": "YT_OTHER_PAGE",
@@ -408,31 +408,31 @@
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 501176,
+        "views": 501186,
         "likes": 2238,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 467807,
+        "views": 467823,
         "likes": 2343,
         "type": "Video"
       },
       {
         "title": "\"Errante\" (La Saga - \"INTIMO\")",
-        "views": 162341,
-        "likes": 699,
+        "views": 162346,
+        "likes": 700,
         "type": "Video"
       },
       {
         "title": "La Saga - Yo te quiero (Video Oficial)",
-        "views": 116297,
+        "views": 116300,
         "likes": 688,
         "type": "Video"
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 107146,
+        "views": 107149,
         "likes": 869,
         "type": "Video"
       }
@@ -2110,6 +2110,6 @@
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-04-01T05:26:55.673398+00:00"
+    "youtube": "2026-04-01T16:01:03.460566+00:00"
   }
 }
