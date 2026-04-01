@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T13:01:16.535328",
+  "generated_at": "2026-04-01T14:03:32.325728",
   "days_to_show": 15,
   "period_days": 7,
   "instagram": {
@@ -929,7 +929,7 @@
     ]
   },
   "x": {
-    "last_date": "2026-03-31",
+    "last_date": "2026-04-01",
     "followers": 1380,
     "following": 504,
     "followers_prev": 1379,
@@ -1092,6 +1092,10 @@
       },
       {
         "date": "2026-03-31",
+        "followers": 1380
+      },
+      {
+        "date": "2026-04-01",
         "followers": 1380
       }
     ]
