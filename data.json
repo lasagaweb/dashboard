@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-01T22:12:44.944438",
-  "days_to_show": 15,
+  "generated_at": "2026-04-02T14:05:00.098416",
+  "days_to_show": 14,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-04-02",
     "followers": 5077,
     "reach": 6076,
     "accounts_engaged": 114,
-    "followers_prev": 4846,
-    "followers_change": 231,
-    "followers_pct": 4.8,
+    "followers_prev": 4874,
+    "followers_change": 203,
+    "followers_pct": 4.2,
     "period_posts": 3,
     "period_reach": 2381,
     "period_engagement": 186,
@@ -198,7 +198,7 @@
     "subs_change": 0,
     "subs_pct": 0.0,
     "period_gained": 0,
-    "period_lost": 700,
+    "period_lost": 525,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -336,61 +336,61 @@
     ]
   },
   "youtube": {
-    "last_date": "2026-04-01",
+    "last_date": "2026-04-02",
     "subscribers": 3790,
-    "total_views": 1558420,
+    "total_views": 1558565,
     "videos_count": 49,
     "subs_prev": 3790,
     "subs_change": 0,
     "subs_pct": 0.0,
-    "period_views": 1140,
+    "period_views": 1137,
     "period_likes": 22,
-    "period_shares": 14,
-    "period_watch_min": 3290.0,
+    "period_shares": 13,
+    "period_watch_min": 3159.0,
     "period_subs_net": 5,
     "unreplied_comments": 11,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 12422,
+    "top_traffic_views": 15510,
     "traffic_sources": [
       {
         "source": "SHORTS",
-        "views": 59036
+        "views": 59235
       },
       {
         "source": "PLAYLIST",
-        "views": 54408
+        "views": 57496
       },
       {
         "source": "SUBSCRIBER",
-        "views": 19994
+        "views": 21172
       },
       {
         "source": "YT_SEARCH",
-        "views": 18643
+        "views": 19575
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 10126
+        "views": 10829
       },
       {
         "source": "YT_CHANNEL",
-        "views": 7684
+        "views": 7994
       },
       {
         "source": "EXT_URL",
-        "views": 6125
+        "views": 6329
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 5950
+        "views": 6188
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 5909
+        "views": 6114
       },
       {
         "source": "NOTIFICATION",
-        "views": 2548
+        "views": 2654
       },
       {
         "source": "SOUND_PAGE",
@@ -408,31 +408,31 @@
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 501186,
+        "views": 501257,
         "likes": 2238,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 467823,
-        "likes": 2343,
+        "views": 467877,
+        "likes": 2344,
         "type": "Video"
       },
       {
         "title": "\"Errante\" (La Saga - \"INTIMO\")",
-        "views": 162346,
+        "views": 162375,
         "likes": 700,
         "type": "Video"
       },
       {
         "title": "La Saga - Yo te quiero (Video Oficial)",
-        "views": 116300,
-        "likes": 688,
+        "views": 116305,
+        "likes": 689,
         "type": "Video"
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 107149,
+        "views": 107170,
         "likes": 869,
         "type": "Video"
       }
@@ -599,6 +599,12 @@
         "views": 233,
         "likes": 15,
         "net_subs": 1
+      },
+      {
+        "date": "2026-03-30",
+        "views": 227,
+        "likes": 2,
+        "net_subs": 0
       }
     ]
   },
@@ -756,7 +762,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 3,
+    "days_since_collection": 4,
     "trend": [
       {
         "date": "2026-02-18",
@@ -923,10 +929,10 @@
     ]
   },
   "x": {
-    "last_date": "2026-04-01",
+    "last_date": "2026-04-02",
     "followers": 1380,
     "following": 504,
-    "followers_prev": 1379,
+    "followers_prev": 1380,
     "top_posts": [
       {
         "post_id": "2024191756430884898",
@@ -972,7 +978,7 @@
         "post_id": "2034806026059268122",
         "date": "2026-03-19",
         "text": "Escuchando, un día nos encontramos tocando. #influencias @LASAGArock @LaVela_Ofi",
-        "impressions": 332,
+        "impressions": 334,
         "likes": 5,
         "retweets": 2,
         "bookmarks": 0,
@@ -1087,36 +1093,40 @@
       {
         "date": "2026-04-01",
         "followers": 1380
+      },
+      {
+        "date": "2026-04-02",
+        "followers": 1380
       }
     ]
   },
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 58,
+        "comments_received": 54,
         "comments_replied": 5,
-        "dms_received": 13,
+        "dms_received": 12,
         "dms_replied": 6,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 21,
+        "likes_given": 20,
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 55,
-        "comments_replied": 13,
+        "comments_received": 53,
+        "comments_replied": 12,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 10,
+        "likes_given": 6,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 126,
-    "total_replied": 24,
+    "total_received": 119,
+    "total_replied": 23,
     "response_rate": 19,
-    "total_likes": 31,
+    "total_likes": 26,
     "today_grid": [],
     "trend": [
       {
@@ -1794,7 +1804,7 @@
         "platform": "IG/TikTok/YT Shorts",
         "type": "Estribillo",
         "description": "Estribillo de Lo que vos digas — reel vertical (pendiente corte + aprobación)",
-        "status": "planned",
+        "status": "published",
         "platforms_done": []
       },
       {
@@ -2090,6 +2100,6 @@
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-04-01T16:01:03.460566+00:00"
+    "youtube": "2026-04-02T12:13:20.821016+00:00"
   }
 }
