@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-02T22:10:28.003780",
-  "days_to_show": 14,
+  "generated_at": "2026-04-03T10:14:45.761392",
+  "days_to_show": 13,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-04-03",
     "followers": 5107,
     "reach": 6090,
     "accounts_engaged": 67,
-    "followers_prev": 4874,
-    "followers_change": 233,
-    "followers_pct": 4.8,
+    "followers_prev": 4906,
+    "followers_change": 201,
+    "followers_pct": 4.1,
     "period_posts": 3,
     "period_reach": 2476,
     "period_engagement": 200,
@@ -339,11 +339,11 @@
     "subs_prev": 3790,
     "subs_change": 0,
     "subs_pct": 0.0,
-    "period_views": 1137,
+    "period_views": 904,
     "period_likes": 22,
-    "period_shares": 13,
-    "period_watch_min": 3159.0,
-    "period_subs_net": 5,
+    "period_shares": 9,
+    "period_watch_min": 2387.0,
+    "period_subs_net": 2,
     "unreplied_comments": 11,
     "top_traffic_source": "PLAYLIST",
     "top_traffic_views": 15510,
@@ -752,7 +752,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 4,
+    "days_since_collection": 5,
     "trend": [
       {
         "date": "2026-02-18",
@@ -1089,31 +1089,39 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 57,
-        "comments_replied": 5,
-        "dms_received": 14,
+        "comments_received": 64,
+        "comments_replied": 10,
+        "dms_received": 11,
         "dms_replied": 8,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 22,
+        "likes_given": 23,
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 53,
-        "comments_replied": 12,
+        "comments_received": 43,
+        "comments_replied": 11,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 6,
+        "likes_given": 4,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 124,
-    "total_replied": 25,
-    "response_rate": 20,
-    "total_likes": 28,
-    "today_grid": [],
+    "total_received": 118,
+    "total_replied": 29,
+    "response_rate": 25,
+    "total_likes": 27,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 11,
+        "replied": 7,
+        "pending": 3
+      }
+    ],
     "trend": [
       {
         "date": "2026-03-04",
@@ -1264,6 +1272,11 @@
         "date": "2026-04-02",
         "received": 5,
         "replied": 2
+      },
+      {
+        "date": "2026-04-03",
+        "received": 11,
+        "replied": 7
       }
     ]
   },
@@ -1363,7 +1376,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 20%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 25%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
@@ -1796,7 +1809,7 @@
         "platform": "IG/TikTok/YT Shorts",
         "type": "Short",
         "description": "S6 El disco triste — anticipa Color",
-        "status": "planned",
+        "status": "published",
         "platforms_done": []
       },
       {
