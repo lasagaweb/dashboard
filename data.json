@@ -1,30 +1,25 @@
 {
-  "generated_at": "2026-04-02T17:39:44.490349",
+  "generated_at": "2026-04-02T22:10:28.003780",
   "days_to_show": 14,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-04-02",
-    "followers": 5077,
-    "reach": 6076,
-    "accounts_engaged": 114,
+    "last_date": "2026-04-03",
+    "followers": 5107,
+    "reach": 6090,
+    "accounts_engaged": 67,
     "followers_prev": 4874,
-    "followers_change": 203,
-    "followers_pct": 4.2,
+    "followers_change": 233,
+    "followers_pct": 4.8,
     "period_posts": 3,
-    "period_reach": 2381,
-    "period_engagement": 186,
+    "period_reach": 2476,
+    "period_engagement": 200,
     "top_post": {
       "date": "2026-03-29",
       "type": "reel",
       "caption": "Un recorte de lo que vos digas \n\nLa versión también INcompleta está en YouTube \n",
-      "reach": 1220
+      "reach": 1271
     },
     "trend": [
-      {
-        "date": "2026-03-03",
-        "followers": 4184,
-        "reach": 4827
-      },
       {
         "date": "2026-03-04",
         "followers": 4246,
@@ -174,20 +169,25 @@
         "date": "2026-04-02",
         "followers": 5077,
         "reach": 6076
+      },
+      {
+        "date": "2026-04-03",
+        "followers": 5107,
+        "reach": 6090
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 5,
-        "avg_reach": 1969.0,
-        "avg_engagement": 167.0
+        "avg_reach": 1985.0,
+        "avg_engagement": 170.0
       },
       {
         "type": "carousel",
-        "posts": 4,
-        "avg_reach": 1381.0,
-        "avg_engagement": 125.0
+        "posts": 3,
+        "avg_reach": 1089.0,
+        "avg_engagement": 97.0
       }
     ]
   },
@@ -233,10 +233,6 @@
     "avg_click_pct": 14.3,
     "total_campaigns": 3,
     "trend": [
-      {
-        "date": "2026-03-03",
-        "subs": 1553
-      },
       {
         "date": "2026-03-04",
         "subs": 1553
@@ -354,55 +350,55 @@
     "traffic_sources": [
       {
         "source": "SHORTS",
-        "views": 59235
+        "views": 55380
       },
       {
         "source": "PLAYLIST",
-        "views": 57496
+        "views": 54572
       },
       {
         "source": "SUBSCRIBER",
-        "views": 21172
+        "views": 20120
       },
       {
         "source": "YT_SEARCH",
-        "views": 19575
+        "views": 18542
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 10829
+        "views": 10398
       },
       {
         "source": "YT_CHANNEL",
-        "views": 7994
+        "views": 7627
       },
       {
         "source": "EXT_URL",
-        "views": 6329
+        "views": 5985
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 6188
+        "views": 5846
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 6114
+        "views": 5790
       },
       {
         "source": "NOTIFICATION",
-        "views": 2654
+        "views": 2518
       },
       {
         "source": "SOUND_PAGE",
-        "views": 42
+        "views": 39
       },
       {
         "source": "END_SCREEN",
-        "views": 24
+        "views": 22
       },
       {
         "source": "SHORTS_CONTENT_LINKS",
-        "views": 16
+        "views": 14
       }
     ],
     "top_videos": [
@@ -438,12 +434,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-03-03",
-        "views": 354,
-        "likes": 9,
-        "net_subs": 1
-      },
       {
         "date": "2026-03-04",
         "views": 271,
@@ -987,10 +977,6 @@
     ],
     "trend": [
       {
-        "date": "2026-03-03",
-        "followers": 1366
-      },
-      {
         "date": "2026-03-04",
         "followers": 1367
       },
@@ -1127,28 +1113,8 @@
     "total_replied": 25,
     "response_rate": 20,
     "total_likes": 28,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 5,
-        "replied": 2,
-        "pending": 1
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      }
-    ],
+    "today_grid": [],
     "trend": [
-      {
-        "date": "2026-03-03",
-        "received": 11,
-        "replied": 11
-      },
       {
         "date": "2026-03-04",
         "received": 23,
@@ -1701,6 +1667,12 @@
         "sent": 6,
         "responses": 4,
         "coverage": 1
+      },
+      {
+        "date": "2026-04-03",
+        "sent": 6,
+        "responses": 4,
+        "coverage": 1
       }
     ]
   },
@@ -1797,15 +1769,6 @@
   },
   "upcoming": {
     "items": [
-      {
-        "id": 16,
-        "date": "2026-03-26",
-        "platform": "IG Feed",
-        "type": "Carrusel",
-        "description": "Carrusel de Lo que vos digas — imagen+frase (pendiente Nico)",
-        "status": "published",
-        "platforms_done": []
-      },
       {
         "id": 17,
         "date": "2026-03-29",
@@ -2112,7 +2075,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-04-02T01:10:21.124868+00:00",
+    "instagram": "2026-04-03T01:10:23.494833+00:00",
     "spotify": null,
     "emailoctopus": "2026-04-01T15:00:36.296783+00:00",
     "twitter": null,
