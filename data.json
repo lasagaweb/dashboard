@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T17:01:49.880123",
+  "generated_at": "2026-04-05T17:33:09.537280",
   "days_to_show": 11,
   "period_days": 7,
   "instagram": {
@@ -1072,8 +1072,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 27,
-        "comments_replied": 11,
+        "comments_received": 29,
+        "comments_replied": 13,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1082,9 +1082,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 106,
-    "total_replied": 34,
-    "response_rate": 32,
+    "total_received": 108,
+    "total_replied": 36,
+    "response_rate": 33,
     "total_likes": 31,
     "today_grid": [
       {
@@ -1093,6 +1093,13 @@
         "received": 7,
         "replied": 1,
         "pending": 2
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 2,
+        "replied": 2,
+        "pending": 0
       }
     ],
     "trend": [
@@ -1248,12 +1255,18 @@
       },
       {
         "date": "2026-04-05",
-        "received": 7,
-        "replied": 1
+        "received": 9,
+        "replied": 3
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-04-05",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "PM YT: respondidos 2 comentarios en Color — La Saga (en vivo) via YouTube Studio; script falló con invalid_grant"
+    },
     {
       "date": "2026-04-04",
       "platform": "youtube",
@@ -1337,19 +1350,13 @@
       "platform": "youtube",
       "type": "heart",
       "description": "Corazón a @diariolateral, @claualbirrojo, @faradar2457 en Ir"
-    },
-    {
-      "date": "2026-03-25",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondido @donarildo en Color con agradecimiento + corazón"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 32%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 33%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
