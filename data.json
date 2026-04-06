@@ -1,30 +1,25 @@
 {
-  "generated_at": "2026-04-05T17:33:09.537280",
+  "generated_at": "2026-04-05T22:00:52.114733",
   "days_to_show": 11,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-04-04",
-    "followers": 5127,
-    "reach": 7324,
-    "accounts_engaged": 148,
+    "last_date": "2026-04-06",
+    "followers": 5187,
+    "reach": 8071,
+    "accounts_engaged": 260,
     "followers_prev": 4975,
-    "followers_change": 152,
-    "followers_pct": 3.1,
-    "period_posts": 2,
-    "period_reach": 2283,
-    "period_engagement": 197,
+    "followers_change": 212,
+    "followers_pct": 4.3,
+    "period_posts": 4,
+    "period_reach": 4385,
+    "period_engagement": 423,
     "top_post": {
       "date": "2026-03-29",
       "type": "reel",
       "caption": "Un recorte de lo que vos digas \n\nLa versión también INcompleta está en YouTube \n",
-      "reach": 1316
+      "reach": 1388
     },
     "trend": [
-      {
-        "date": "2026-03-06",
-        "followers": 4311,
-        "reach": 4275
-      },
       {
         "date": "2026-03-07",
         "followers": 4352,
@@ -169,20 +164,25 @@
         "date": "2026-04-04",
         "followers": 5127,
         "reach": 7324
+      },
+      {
+        "date": "2026-04-06",
+        "followers": 5187,
+        "reach": 8071
       }
     ],
     "post_types": [
       {
         "type": "reel",
-        "posts": 6,
-        "avg_reach": 1837.0,
-        "avg_engagement": 158.0
+        "posts": 7,
+        "avg_reach": 1782.0,
+        "avg_engagement": 157.0
       },
       {
         "type": "carousel",
-        "posts": 3,
-        "avg_reach": 1110.0,
-        "avg_engagement": 98.0
+        "posts": 4,
+        "avg_reach": 1051.0,
+        "avg_engagement": 95.0
       }
     ]
   },
@@ -228,10 +228,6 @@
     "avg_click_pct": 14.3,
     "total_campaigns": 3,
     "trend": [
-      {
-        "date": "2026-03-06",
-        "subs": 1552
-      },
       {
         "date": "2026-03-07",
         "subs": 1550
@@ -425,12 +421,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-03-06",
-        "views": 240,
-        "likes": 1,
-        "net_subs": 0
-      },
       {
         "date": "2026-03-07",
         "views": 232,
@@ -950,10 +940,6 @@
     ],
     "trend": [
       {
-        "date": "2026-03-06",
-        "followers": 1370
-      },
-      {
         "date": "2026-03-07",
         "followers": 1369
       },
@@ -1086,28 +1072,8 @@
     "total_replied": 36,
     "response_rate": 33,
     "total_likes": 31,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 7,
-        "replied": 1,
-        "pending": 2
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 2,
-        "replied": 2,
-        "pending": 0
-      }
-    ],
+    "today_grid": [],
     "trend": [
-      {
-        "date": "2026-03-06",
-        "received": 7,
-        "replied": 3
-      },
       {
         "date": "2026-03-07",
         "received": 36,
@@ -1678,6 +1644,12 @@
         "sent": 6,
         "responses": 4,
         "coverage": 1
+      },
+      {
+        "date": "2026-04-06",
+        "sent": 6,
+        "responses": 4,
+        "coverage": 1
       }
     ]
   },
@@ -1775,18 +1747,6 @@
   "upcoming": {
     "items": [
       {
-        "id": 17,
-        "date": "2026-03-29",
-        "platform": "YouTube",
-        "type": "Canción completa",
-        "description": "Lo que vos digas — canción completa YouTube",
-        "status": "published",
-        "platforms_done": [
-          "youtube",
-          "x"
-        ]
-      },
-      {
         "id": 18,
         "date": "2026-03-31",
         "platform": "IG/TikTok/YT Shorts",
@@ -1810,8 +1770,10 @@
         "platform": "IG Feed",
         "type": "Carrusel",
         "description": "Carrusel de Color — imagen+frase (pendiente Nico)",
-        "status": "planned",
-        "platforms_done": []
+        "status": "published",
+        "platforms_done": [
+          "Instagram"
+        ]
       },
       {
         "id": 21,
@@ -1819,8 +1781,21 @@
         "platform": "YouTube",
         "type": "Canción completa",
         "description": "Color — canción completa YouTube",
-        "status": "planned",
-        "platforms_done": []
+        "status": "published",
+        "platforms_done": [
+          "YouTube"
+        ]
+      },
+      {
+        "id": 22,
+        "date": "2026-04-05",
+        "platform": "Instagram",
+        "type": "Reel",
+        "description": "Color — reel vertical (copy opción 2 aprobada por Nico)",
+        "status": "published",
+        "platforms_done": [
+          "Instagram"
+        ]
       }
     ],
     "source": "upcoming_content"
@@ -2080,7 +2055,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-04-04T01:01:32.460964+00:00",
+    "instagram": "2026-04-06T01:00:51.959822+00:00",
     "spotify": null,
     "emailoctopus": "2026-04-03T15:03:03.567203+00:00",
     "twitter": null,
