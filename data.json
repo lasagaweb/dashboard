@@ -1,30 +1,25 @@
 {
-  "generated_at": "2026-04-06T17:31:21.915604",
+  "generated_at": "2026-04-06T22:05:14.498469",
   "days_to_show": 10,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-04-06",
-    "followers": 5187,
-    "reach": 8071,
-    "accounts_engaged": 260,
+    "last_date": "2026-04-07",
+    "followers": 5208,
+    "reach": 9128,
+    "accounts_engaged": 377,
     "followers_prev": 4994,
-    "followers_change": 193,
-    "followers_pct": 3.9,
+    "followers_change": 214,
+    "followers_pct": 4.3,
     "period_posts": 3,
-    "period_reach": 2997,
-    "period_engagement": 312,
+    "period_reach": 4527,
+    "period_engagement": 450,
     "top_post": {
-      "date": "2026-04-03",
+      "date": "2026-04-05",
       "type": "reel",
-      "caption": "Un disco triste. Un disco que habla de lo que no se puede decir.\n\nLa versión com",
-      "reach": 1305
+      "caption": "Descubrí un camino lleno de colores.\nEsta vez.\n\nColor, en vivo.\nYa está en YouTu",
+      "reach": 1621
     },
     "trend": [
-      {
-        "date": "2026-03-07",
-        "followers": 4352,
-        "reach": 4980
-      },
       {
         "date": "2026-03-08",
         "followers": 4387,
@@ -169,20 +164,25 @@
         "date": "2026-04-06",
         "followers": 5187,
         "reach": 8071
+      },
+      {
+        "date": "2026-04-07",
+        "followers": 5208,
+        "reach": 9128
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 7,
-        "avg_reach": 1782.0,
-        "avg_engagement": 157.0
+        "avg_reach": 1909.0,
+        "avg_engagement": 168.0
       },
       {
         "type": "carousel",
-        "posts": 4,
-        "avg_reach": 1051.0,
-        "avg_engagement": 95.0
+        "posts": 3,
+        "avg_reach": 952.0,
+        "avg_engagement": 84.0
       }
     ]
   },
@@ -228,10 +228,6 @@
     "avg_click_pct": 14.3,
     "total_campaigns": 3,
     "trend": [
-      {
-        "date": "2026-03-07",
-        "subs": 1550
-      },
       {
         "date": "2026-03-08",
         "subs": 1550
@@ -341,55 +337,55 @@
     "traffic_sources": [
       {
         "source": "PLAYLIST",
-        "views": 54744
+        "views": 51837
       },
       {
         "source": "SHORTS",
-        "views": 47382
+        "views": 43197
       },
       {
         "source": "SUBSCRIBER",
-        "views": 20329
+        "views": 19318
       },
       {
         "source": "YT_SEARCH",
-        "views": 18285
+        "views": 17240
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 11033
+        "views": 10571
       },
       {
         "source": "YT_CHANNEL",
-        "views": 7481
+        "views": 7090
       },
       {
         "source": "EXT_URL",
-        "views": 5640
+        "views": 5262
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 5571
+        "views": 5213
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 5495
+        "views": 5142
       },
       {
         "source": "NOTIFICATION",
-        "views": 2424
+        "views": 2267
       },
       {
         "source": "SOUND_PAGE",
-        "views": 33
+        "views": 30
       },
       {
         "source": "END_SCREEN",
-        "views": 18
+        "views": 16
       },
       {
         "source": "SHORTS_CONTENT_LINKS",
-        "views": 10
+        "views": 8
       }
     ],
     "top_videos": [
@@ -425,12 +421,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-03-07",
-        "views": 232,
-        "likes": 3,
-        "net_subs": 0
-      },
       {
         "date": "2026-03-08",
         "views": 231,
@@ -944,10 +934,6 @@
     ],
     "trend": [
       {
-        "date": "2026-03-07",
-        "followers": 1369
-      },
-      {
         "date": "2026-03-08",
         "followers": 1369
       },
@@ -1076,42 +1062,8 @@
     "total_replied": 32,
     "response_rate": 29,
     "total_likes": 35,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "AM",
-        "received": 9,
-        "replied": 2,
-        "pending": 1
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 5,
-        "replied": 0,
-        "pending": 1
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 5,
-        "replied": 0,
-        "pending": 5
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 5,
-        "replied": 0,
-        "pending": 5
-      }
-    ],
+    "today_grid": [],
     "trend": [
-      {
-        "date": "2026-03-07",
-        "received": 36,
-        "replied": 15
-      },
       {
         "date": "2026-03-08",
         "received": 27,
@@ -1266,6 +1218,12 @@
   },
   "community_log": [
     {
+      "date": "2026-04-06",
+      "platform": "youtube",
+      "type": "scan",
+      "description": "PM YT: script con invalid_grant; fallback en Studio mostró 5 comentarios sin responder en Color — La Saga (en vivo), bloqueado por verificación adicional \"Verifica que eres tú\"."
+    },
+    {
       "date": "2026-04-05",
       "platform": "youtube",
       "type": "reply",
@@ -1348,12 +1306,6 @@
       "platform": "youtube",
       "type": "scan",
       "description": "PM scan: revisados 5 videos recientes (Ir acústico, Eso que nos lleva, Errante, Ya no saben qué decir, Buscando Espacio). Todos los comentarios tienen corazón y respuesta. @diariolateral pendiente (escalado AM)."
-    },
-    {
-      "date": "2026-03-25",
-      "platform": "youtube",
-      "type": "heart",
-      "description": "Corazón a @diariolateral, @claualbirrojo, @faradar2457 en Ir"
     }
   ],
   "suggestions": [
@@ -1685,6 +1637,12 @@
       },
       {
         "date": "2026-04-06",
+        "sent": 6,
+        "responses": 4,
+        "coverage": 1
+      },
+      {
+        "date": "2026-04-07",
         "sent": 6,
         "responses": 4,
         "coverage": 1
@@ -2129,7 +2087,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-04-06T01:00:51.959822+00:00",
+    "instagram": "2026-04-07T01:05:14.343868+00:00",
     "spotify": null,
     "emailoctopus": "2026-04-06T15:00:40.292643+00:00",
     "twitter": null,
