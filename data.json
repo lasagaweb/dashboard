@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-07T22:00:55.391781",
-  "days_to_show": 9,
+  "generated_at": "2026-04-08T10:07:40.817741",
+  "days_to_show": 8,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-04-08",
     "followers": 5226,
     "reach": 6160,
     "accounts_engaged": 155,
-    "followers_prev": 5040,
-    "followers_change": 186,
-    "followers_pct": 3.7,
+    "followers_prev": 5067,
+    "followers_change": 159,
+    "followers_pct": 3.1,
     "period_posts": 3,
     "period_reach": 4895,
     "period_engagement": 476,
@@ -322,14 +322,14 @@
     "subs_prev": 3790,
     "subs_change": 10,
     "subs_pct": 0.3,
-    "period_views": 1151,
+    "period_views": 945,
     "period_likes": 17,
     "period_shares": 7,
-    "period_watch_min": 3133.0,
+    "period_watch_min": 2605.0,
     "period_subs_net": 4,
     "unreplied_comments": 18,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 18430,
+    "top_traffic_views": 15366,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
@@ -705,7 +705,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 2,
+    "days_since_collection": 3,
     "trend": [
       {
         "date": "2026-02-18",
@@ -1036,18 +1036,18 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 73,
-        "comments_replied": 12,
+        "comments_received": 68,
+        "comments_replied": 11,
         "dms_received": 11,
         "dms_replied": 9,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 39,
+        "likes_given": 41,
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 17,
-        "comments_replied": 5,
+        "comments_received": 12,
+        "comments_replied": 2,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1056,11 +1056,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 101,
-    "total_replied": 26,
-    "response_rate": 26,
-    "total_likes": 39,
-    "today_grid": [],
+    "total_received": 91,
+    "total_replied": 22,
+    "response_rate": 24,
+    "total_likes": 41,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 6,
+        "replied": 0,
+        "pending": 1
+      }
+    ],
     "trend": [
       {
         "date": "2026-03-09",
@@ -1211,6 +1219,11 @@
         "date": "2026-04-07",
         "received": 13,
         "replied": 1
+      },
+      {
+        "date": "2026-04-08",
+        "received": 6,
+        "replied": 0
       }
     ]
   },
@@ -1310,7 +1323,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 26%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 24%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
@@ -1677,10 +1690,28 @@
         "name": "Avril Festival",
         "city": "Montevideo",
         "capacity": 3000,
-        "date_target": "Oct 2026",
+        "date_target": "26-28 Jun 2026",
         "status": "identified",
         "contacted": "",
         "notes": "Festival de rock nacional 18 oct 2026. Transmisión Under TV. Apoyo La Diaria, Let's Rock & Metal, Municipio B."
+      },
+      {
+        "name": "Sala Lazaroff",
+        "city": "Montevideo",
+        "capacity": 149,
+        "date_target": "2do sem 2026",
+        "status": "identified",
+        "contacted": "",
+        "notes": ""
+      },
+      {
+        "name": "Complejo Sala Show",
+        "city": "Montevideo",
+        "capacity": 2000,
+        "date_target": "2do sem 2026",
+        "status": "identified",
+        "contacted": "",
+        "notes": ""
       },
       {
         "name": "La Trastienda MVD",
@@ -1740,9 +1771,9 @@
     "by_status": {
       "researched": 1,
       "confirmed": 1,
-      "identified": 7
+      "identified": 9
     },
-    "total": 9
+    "total": 11
   },
   "upcoming": {
     "items": [
@@ -1794,7 +1825,7 @@
         "platform": "IG/TikTok/YT Shorts",
         "type": "Estribillo",
         "description": "Estribillo de Color — reel vertical (pendiente corte final + aprobación Nico)",
-        "status": "planned",
+        "status": "blocked",
         "platforms_done": []
       },
       {
