@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T17:01:42.135195",
+  "generated_at": "2026-04-08T17:31:14.904028",
   "days_to_show": 8,
   "period_days": 7,
   "instagram": {
@@ -1090,6 +1090,13 @@
         "shift": "AM",
         "received": 1,
         "replied": 1,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 0,
+        "replied": 0,
         "pending": 0
       }
     ],
