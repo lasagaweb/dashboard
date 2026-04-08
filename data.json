@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T16:30:46.033606",
+  "generated_at": "2026-04-08T17:01:42.135195",
   "days_to_show": 8,
   "period_days": 7,
   "instagram": {
@@ -1046,13 +1046,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 68,
-        "comments_replied": 11,
+        "comments_received": 75,
+        "comments_replied": 12,
         "dms_received": 11,
         "dms_replied": 9,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 41,
+        "likes_given": 46,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -1066,16 +1066,23 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 92,
-    "total_replied": 23,
-    "response_rate": 25,
-    "total_likes": 41,
+    "total_received": 99,
+    "total_replied": 24,
+    "response_rate": 24,
+    "total_likes": 46,
     "today_grid": [
       {
         "platform": "instagram",
         "shift": "AM",
         "received": 6,
         "replied": 0,
+        "pending": 1
+      },
+      {
+        "platform": "instagram",
+        "shift": "PM",
+        "received": 7,
+        "replied": 1,
         "pending": 1
       },
       {
@@ -1239,8 +1246,8 @@
       },
       {
         "date": "2026-04-08",
-        "received": 7,
-        "replied": 1
+        "received": 14,
+        "replied": 2
       }
     ]
   },
@@ -1340,7 +1347,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 25%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 24%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
