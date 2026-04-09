@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T13:00:42.681884",
+  "generated_at": "2026-04-09T16:34:45.785919",
   "days_to_show": 7,
   "period_days": 7,
   "instagram": {
@@ -1849,8 +1849,10 @@
         "platform": "IG/X/TikTok/YT Shorts",
         "type": "Short",
         "description": "S7 Gira Argentina / video de Color — short independiente",
-        "status": "planned",
-        "platforms_done": []
+        "status": "published",
+        "platforms_done": [
+          "YouTube"
+        ]
       },
       {
         "id": 25,
