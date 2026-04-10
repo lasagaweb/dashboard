@@ -1,30 +1,25 @@
 {
-  "generated_at": "2026-04-09T17:30:56.352085",
+  "generated_at": "2026-04-09T22:00:53.793327",
   "days_to_show": 7,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-04-09",
+    "last_date": "2026-04-10",
     "followers": 5227,
-    "reach": 1193,
-    "accounts_engaged": 33,
+    "reach": 841,
+    "accounts_engaged": 78,
     "followers_prev": 5077,
     "followers_change": 150,
     "followers_pct": 3.0,
-    "period_posts": 3,
-    "period_reach": 5005,
-    "period_engagement": 489,
+    "period_posts": 4,
+    "period_reach": 5748,
+    "period_engagement": 572,
     "top_post": {
       "date": "2026-04-05",
       "type": "reel",
       "caption": "Descubrí un camino lleno de colores.\nEsta vez.\n\nColor, en vivo.\nYa está en YouTu",
-      "reach": 1880
+      "reach": 1969
     },
     "trend": [
-      {
-        "date": "2026-03-10",
-        "followers": 4477,
-        "reach": 5360
-      },
       {
         "date": "2026-03-11",
         "followers": 4513,
@@ -169,20 +164,25 @@
         "date": "2026-04-09",
         "followers": 5227,
         "reach": 1193
+      },
+      {
+        "date": "2026-04-10",
+        "followers": 5227,
+        "reach": 841
       }
     ],
     "post_types": [
       {
         "type": "reel",
-        "posts": 6,
-        "avg_reach": 1606.0,
-        "avg_engagement": 146.0
+        "posts": 7,
+        "avg_reach": 1481.0,
+        "avg_engagement": 137.0
       },
       {
         "type": "carousel",
         "posts": 3,
-        "avg_reach": 1008.0,
-        "avg_engagement": 88.0
+        "avg_reach": 1015.0,
+        "avg_engagement": 89.0
       }
     ]
   },
@@ -228,10 +228,6 @@
     "avg_click_pct": 14.3,
     "total_campaigns": 3,
     "trend": [
-      {
-        "date": "2026-03-10",
-        "subs": 1550
-      },
       {
         "date": "2026-03-11",
         "subs": 1549
@@ -417,12 +413,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-03-10",
-        "views": 308,
-        "likes": 4,
-        "net_subs": 6
-      },
       {
         "date": "2026-03-11",
         "views": 220,
@@ -942,10 +932,6 @@
     ],
     "trend": [
       {
-        "date": "2026-03-10",
-        "followers": 1372
-      },
-      {
         "date": "2026-03-11",
         "followers": 1373
       },
@@ -1062,42 +1048,8 @@
     "total_replied": 23,
     "response_rate": 24,
     "total_likes": 45,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "AM",
-        "received": 6,
-        "replied": 0,
-        "pending": 1
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 1,
-        "replied": 0,
-        "pending": 1
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 1,
-        "replied": 0,
-        "pending": 1
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 1,
-        "replied": 0,
-        "pending": 1
-      }
-    ],
+    "today_grid": [],
     "trend": [
-      {
-        "date": "2026-03-10",
-        "received": 25,
-        "replied": 11
-      },
       {
         "date": "2026-03-11",
         "received": 31,
@@ -1252,6 +1204,12 @@
   },
   "community_log": [
     {
+      "date": "2026-04-09",
+      "platform": "youtube",
+      "type": "scan",
+      "description": "PM YT: 617 hilos escaneados, 1 comentario pendiente sin responder por regla absoluta (@@iron2156: \"ay miguel\" en La Saga - Buscando Espacio (acústico en vivo).)"
+    },
+    {
       "date": "2026-04-08",
       "platform": "youtube",
       "type": "reply",
@@ -1334,12 +1292,6 @@
       "platform": "youtube",
       "type": "audit",
       "description": "PM audit: 9 fan comments across all videos. 8/9 already responded (previous sessions). 1 pending escalated (@diariolateral entrevista). 2 hearts missing (@alfonsinapintos6122, @GabiCorboFotografo) - blocked by Google verification dialog. No new comments since AM."
-    },
-    {
-      "date": "2026-03-28",
-      "platform": "youtube",
-      "type": "scan",
-      "description": "AM scan: 7 comentarios visibles, todos ya respondidos previamente excepto @diariolateral (pedido de entrevista, escalado a Nicolás). Verificación de Google bloqueó interacción."
     }
   ],
   "suggestions": [
@@ -1692,6 +1644,12 @@
         "sent": 6,
         "responses": 4,
         "coverage": 1
+      },
+      {
+        "date": "2026-04-10",
+        "sent": 6,
+        "responses": 4,
+        "coverage": 1
       }
     ]
   },
@@ -1807,15 +1765,6 @@
   "upcoming": {
     "items": [
       {
-        "id": 19,
-        "date": "2026-04-02",
-        "platform": "IG/TikTok/YT Shorts",
-        "type": "Short",
-        "description": "S6 El disco triste — anticipa Color",
-        "status": "published",
-        "platforms_done": []
-      },
-      {
         "id": 20,
         "date": "2026-04-04",
         "platform": "IG Feed",
@@ -1865,7 +1814,8 @@
         "description": "S7 Gira Argentina / video de Color — short independiente",
         "status": "published",
         "platforms_done": [
-          "YouTube"
+          "YouTube",
+          "Instagram"
         ]
       },
       {
@@ -2144,7 +2094,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-04-09T01:00:59.152478+00:00",
+    "instagram": "2026-04-10T01:00:53.201830+00:00",
     "spotify": null,
     "emailoctopus": "2026-04-08T15:00:34.915462+00:00",
     "twitter": null,
