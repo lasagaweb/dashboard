@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T17:01:33.432236",
+  "generated_at": "2026-04-10T17:30:36.959681",
   "days_to_show": 6,
   "period_days": 7,
   "instagram": {
@@ -1044,7 +1044,7 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 17,
+        "comments_received": 18,
         "comments_replied": 4,
         "dms_received": 0,
         "dms_replied": 0,
@@ -1054,7 +1054,7 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 100,
+    "total_received": 101,
     "total_replied": 22,
     "response_rate": 22,
     "total_likes": 47,
@@ -1078,6 +1078,13 @@
         "shift": "AM",
         "received": 2,
         "replied": 1,
+        "pending": 1
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 1,
+        "replied": 0,
         "pending": 1
       }
     ],
@@ -1234,12 +1241,18 @@
       },
       {
         "date": "2026-04-10",
-        "received": 8,
+        "received": 9,
         "replied": 1
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-04-10",
+      "platform": "youtube",
+      "type": "pending_human",
+      "description": "@@iron2156 dijo \"ay miguel\" en \"La Saga - Buscando Espacio (acústico en vivo).\"; no respondido por regla absoluta."
+    },
     {
       "date": "2026-04-10",
       "platform": "youtube",
@@ -1323,12 +1336,6 @@
       "platform": "youtube",
       "type": "reply",
       "description": "Respondido @veckemorales3792 en Color - agradecimiento por transcribir letra"
-    },
-    {
-      "date": "2026-03-30",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "AM: 3 replies (baterista humor, lyrics Color, Uruguay music pride). 2 pendientes por ambiguos (mencionan Max samson)."
     }
   ],
   "suggestions": [
