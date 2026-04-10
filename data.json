@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T12:00:29.524355",
+  "generated_at": "2026-04-10T13:00:29.416646",
   "days_to_show": 6,
   "period_days": 7,
   "instagram": {
@@ -315,61 +315,61 @@
     ]
   },
   "youtube": {
-    "last_date": "2026-04-09",
-    "subscribers": 3800,
-    "total_views": 1560284,
-    "videos_count": 50,
+    "last_date": "2026-04-10",
+    "subscribers": 3810,
+    "total_views": 1560445,
+    "videos_count": 51,
     "subs_prev": 3790,
-    "subs_change": 10,
-    "subs_pct": 0.3,
-    "period_views": 1035,
-    "period_likes": 27,
-    "period_shares": 9,
-    "period_watch_min": 2807.0,
-    "period_subs_net": 4,
-    "unreplied_comments": 20,
+    "subs_change": 20,
+    "subs_pct": 0.5,
+    "period_views": 1244,
+    "period_likes": 30,
+    "period_shares": 10,
+    "period_watch_min": 3390.0,
+    "period_subs_net": 8,
+    "unreplied_comments": 21,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 15320,
+    "top_traffic_views": 18371,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
-        "views": 55205
+        "views": 58256
       },
       {
         "source": "SHORTS",
-        "views": 34795
+        "views": 34807
       },
       {
         "source": "SUBSCRIBER",
-        "views": 20804
+        "views": 22017
       },
       {
         "source": "YT_SEARCH",
-        "views": 17944
+        "views": 18831
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 12046
+        "views": 12855
       },
       {
         "source": "YT_CHANNEL",
-        "views": 7193
+        "views": 7454
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 5159
+        "views": 5385
       },
       {
         "source": "EXT_URL",
-        "views": 5132
+        "views": 5342
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 5002
+        "views": 5193
       },
       {
         "source": "NOTIFICATION",
-        "views": 2248
+        "views": 2351
       },
       {
         "source": "SOUND_PAGE",
@@ -387,31 +387,31 @@
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 501684,
-        "likes": 2240,
+        "views": 501733,
+        "likes": 2241,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 468307,
+        "views": 468374,
         "likes": 2349,
         "type": "Video"
       },
       {
         "title": "\"Errante\" (La Saga - \"INTIMO\")",
-        "views": 162528,
+        "views": 162545,
         "likes": 704,
         "type": "Video"
       },
       {
         "title": "La Saga - Yo te quiero (Video Oficial)",
-        "views": 116373,
+        "views": 116378,
         "likes": 689,
         "type": "Video"
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 107302,
+        "views": 107319,
         "likes": 872,
         "type": "Video"
       }
@@ -578,6 +578,12 @@
         "views": 290,
         "likes": 4,
         "net_subs": 1
+      },
+      {
+        "date": "2026-04-07",
+        "views": 209,
+        "likes": 3,
+        "net_subs": 4
       }
     ]
   },
@@ -2126,6 +2132,6 @@
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-04-09T16:00:42.528313+00:00"
+    "youtube": "2026-04-10T16:00:29.276390+00:00"
   }
 }
