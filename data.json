@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T10:07:42.234893",
+  "generated_at": "2026-04-10T10:32:01.712093",
   "days_to_show": 6,
   "period_days": 7,
   "instagram": {
@@ -1034,8 +1034,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 15,
-        "comments_replied": 3,
+        "comments_received": 17,
+        "comments_replied": 4,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1044,8 +1044,8 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 97,
-    "total_replied": 21,
+    "total_received": 99,
+    "total_replied": 22,
     "response_rate": 22,
     "total_likes": 47,
     "today_grid": [
@@ -1054,6 +1054,13 @@
         "shift": "AM",
         "received": 5,
         "replied": 0,
+        "pending": 1
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 2,
+        "replied": 1,
         "pending": 1
       }
     ],
@@ -1210,12 +1217,24 @@
       },
       {
         "date": "2026-04-10",
-        "received": 5,
-        "replied": 0
+        "received": 7,
+        "replied": 1
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-04-10",
+      "platform": "youtube",
+      "type": "pending_human",
+      "description": "AM: comentario ambiguo de @@iron2156 en La Saga - Buscando Espacio (acústico en vivo).: ay miguel"
+    },
+    {
+      "date": "2026-04-10",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "AM: respuesta a @@1290Nela en La Saga - Gira por Argentina / video de Color #shorts: Gracias por estar ahí ❤"
+    },
     {
       "date": "2026-04-09",
       "platform": "youtube",
@@ -1293,18 +1312,6 @@
       "platform": "youtube",
       "type": "reply",
       "description": "AM: 3 replies (baterista humor, lyrics Color, Uruguay music pride). 2 pendientes por ambiguos (mencionan Max samson)."
-    },
-    {
-      "date": "2026-03-29",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Replied to 3 comments on Estoy perdido, Color, and ONCE. 2 comments about Max not directed at band (skipped reply). Hearts blocked by YT Studio verification."
-    },
-    {
-      "date": "2026-03-28",
-      "platform": "youtube",
-      "type": "audit",
-      "description": "PM audit: 9 fan comments across all videos. 8/9 already responded (previous sessions). 1 pending escalated (@diariolateral entrevista). 2 hearts missing (@alfonsinapintos6122, @GabiCorboFotografo) - blocked by Google verification dialog. No new comments since AM."
     }
   ],
   "suggestions": [
