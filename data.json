@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-09T22:00:53.793327",
-  "days_to_show": 7,
+  "generated_at": "2026-04-10T10:07:42.234893",
+  "days_to_show": 6,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-04-10",
     "followers": 5227,
     "reach": 841,
     "accounts_engaged": 78,
-    "followers_prev": 5077,
-    "followers_change": 150,
-    "followers_pct": 3.0,
+    "followers_prev": 5107,
+    "followers_change": 120,
+    "followers_pct": 2.3,
     "period_posts": 4,
     "period_reach": 5748,
     "period_engagement": 572,
@@ -318,14 +318,14 @@
     "subs_prev": 3790,
     "subs_change": 10,
     "subs_pct": 0.3,
-    "period_views": 1277,
-    "period_likes": 29,
-    "period_shares": 10,
-    "period_watch_min": 3446.0,
-    "period_subs_net": 6,
+    "period_views": 1035,
+    "period_likes": 27,
+    "period_shares": 9,
+    "period_watch_min": 2807.0,
+    "period_subs_net": 4,
     "unreplied_comments": 20,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 18408,
+    "top_traffic_views": 15320,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
@@ -701,7 +701,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 4,
+    "days_since_collection": 5,
     "trend": [
       {
         "date": "2026-02-18",
@@ -1024,13 +1024,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 72,
+        "comments_received": 74,
         "comments_replied": 12,
-        "dms_received": 10,
-        "dms_replied": 8,
+        "dms_received": 8,
+        "dms_replied": 6,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 45,
+        "likes_given": 47,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -1045,10 +1045,18 @@
       }
     },
     "total_received": 97,
-    "total_replied": 23,
-    "response_rate": 24,
-    "total_likes": 45,
-    "today_grid": [],
+    "total_replied": 21,
+    "response_rate": 22,
+    "total_likes": 47,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 5,
+        "replied": 0,
+        "pending": 1
+      }
+    ],
     "trend": [
       {
         "date": "2026-03-11",
@@ -1199,6 +1207,11 @@
         "date": "2026-04-09",
         "received": 9,
         "replied": 0
+      },
+      {
+        "date": "2026-04-10",
+        "received": 5,
+        "replied": 0
       }
     ]
   },
@@ -1298,7 +1311,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 24%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 22%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
