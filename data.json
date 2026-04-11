@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T10:30:47.159356",
+  "generated_at": "2026-04-11T13:00:39.204738",
   "days_to_show": 5,
   "period_days": 7,
   "instagram": {
@@ -313,8 +313,8 @@
   "youtube": {
     "last_date": "2026-04-11",
     "subscribers": 3810,
-    "total_views": 1561679,
-    "videos_count": 51,
+    "total_views": 1561851,
+    "videos_count": 50,
     "subs_prev": 3800,
     "subs_change": 10,
     "subs_pct": 0.3,
@@ -383,31 +383,31 @@
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 501772,
+        "views": 501795,
         "likes": 2240,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 468428,
+        "views": 468454,
         "likes": 2348,
         "type": "Video"
       },
       {
         "title": "\"Errante\" (La Saga - \"INTIMO\")",
-        "views": 162559,
+        "views": 162567,
         "likes": 704,
         "type": "Video"
       },
       {
         "title": "La Saga - Yo te quiero (Video Oficial)",
-        "views": 116381,
+        "views": 116382,
         "likes": 688,
         "type": "Video"
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 107332,
+        "views": 107340,
         "likes": 872,
         "type": "Video"
       }
@@ -2130,6 +2130,6 @@
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-04-11T01:45:41.589682+00:00"
+    "youtube": "2026-04-11T16:00:39.042833+00:00"
   }
 }
