@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-04-10T22:00:54.201230",
-  "days_to_show": 6,
+  "generated_at": "2026-04-11T10:03:15.740619",
+  "days_to_show": 5,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-04-11",
     "followers": 5226,
     "reach": 1845,
     "accounts_engaged": 139,
-    "followers_prev": 5107,
-    "followers_change": 119,
-    "followers_pct": 2.3,
-    "period_posts": 5,
-    "period_reach": 7489,
-    "period_engagement": 666,
+    "followers_prev": 5127,
+    "followers_change": 99,
+    "followers_pct": 1.9,
+    "period_posts": 4,
+    "period_reach": 5992,
+    "period_engagement": 538,
     "top_post": {
       "date": "2026-04-05",
       "type": "reel",
@@ -193,7 +193,7 @@
     "subs_change": -1,
     "subs_pct": -0.1,
     "period_gained": 0,
-    "period_lost": 701,
+    "period_lost": 526,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -311,61 +311,61 @@
     ]
   },
   "youtube": {
-    "last_date": "2026-04-10",
+    "last_date": "2026-04-11",
     "subscribers": 3810,
-    "total_views": 1560445,
+    "total_views": 1561679,
     "videos_count": 51,
-    "subs_prev": 3790,
-    "subs_change": 20,
-    "subs_pct": 0.5,
-    "period_views": 1244,
-    "period_likes": 30,
-    "period_shares": 10,
-    "period_watch_min": 3390.0,
-    "period_subs_net": 8,
-    "unreplied_comments": 21,
+    "subs_prev": 3800,
+    "subs_change": 10,
+    "subs_pct": 0.3,
+    "period_views": 1254,
+    "period_likes": 34,
+    "period_shares": 9,
+    "period_watch_min": 3488.0,
+    "period_subs_net": 7,
+    "unreplied_comments": 22,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 18371,
+    "top_traffic_views": 21416,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
-        "views": 58256
+        "views": 61301
       },
       {
         "source": "SHORTS",
-        "views": 34807
+        "views": 34819
       },
       {
         "source": "SUBSCRIBER",
-        "views": 22017
+        "views": 23230
       },
       {
         "source": "YT_SEARCH",
-        "views": 18831
+        "views": 19733
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 12855
+        "views": 13665
       },
       {
         "source": "YT_CHANNEL",
-        "views": 7454
+        "views": 7710
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 5385
+        "views": 5607
       },
       {
         "source": "EXT_URL",
-        "views": 5342
+        "views": 5538
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 5193
+        "views": 5384
       },
       {
         "source": "NOTIFICATION",
-        "views": 2351
+        "views": 2456
       },
       {
         "source": "SOUND_PAGE",
@@ -383,31 +383,31 @@
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 501733,
-        "likes": 2241,
+        "views": 501772,
+        "likes": 2240,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 468374,
-        "likes": 2349,
+        "views": 468428,
+        "likes": 2348,
         "type": "Video"
       },
       {
         "title": "\"Errante\" (La Saga - \"INTIMO\")",
-        "views": 162545,
+        "views": 162559,
         "likes": 704,
         "type": "Video"
       },
       {
         "title": "La Saga - Yo te quiero (Video Oficial)",
-        "views": 116378,
-        "likes": 689,
+        "views": 116381,
+        "likes": 688,
         "type": "Video"
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 107319,
+        "views": 107332,
         "likes": 872,
         "type": "Video"
       }
@@ -574,6 +574,12 @@
         "views": 209,
         "likes": 3,
         "net_subs": 4
+      },
+      {
+        "date": "2026-04-08",
+        "views": 210,
+        "likes": 8,
+        "net_subs": 0
       }
     ]
   },
@@ -701,7 +707,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 5,
+    "days_since_collection": 6,
     "trend": [
       {
         "date": "2026-02-18",
@@ -1020,13 +1026,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 74,
-        "comments_replied": 12,
-        "dms_received": 9,
-        "dms_replied": 6,
+        "comments_received": 68,
+        "comments_replied": 6,
+        "dms_received": 8,
+        "dms_replied": 5,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 47,
+        "likes_given": 48,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -1040,11 +1046,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 101,
-    "total_replied": 22,
-    "response_rate": 22,
-    "total_likes": 47,
-    "today_grid": [],
+    "total_received": 94,
+    "total_replied": 15,
+    "response_rate": 16,
+    "total_likes": 48,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 7,
+        "replied": 2,
+        "pending": 1
+      }
+    ],
     "trend": [
       {
         "date": "2026-03-12",
@@ -1195,6 +1209,11 @@
         "date": "2026-04-10",
         "received": 9,
         "replied": 1
+      },
+      {
+        "date": "2026-04-11",
+        "received": 7,
+        "replied": 2
       }
     ]
   },
@@ -1294,7 +1313,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 22%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 16%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
@@ -2104,6 +2123,6 @@
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-04-10T16:00:29.276390+00:00"
+    "youtube": "2026-04-11T01:45:41.589682+00:00"
   }
 }
