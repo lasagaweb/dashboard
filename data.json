@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T22:00:47.629826",
-  "days_to_show": 5,
+  "generated_at": "2026-04-12T10:01:06.928115",
+  "days_to_show": 4,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-04-12",
@@ -314,14 +314,14 @@
     "subs_prev": 3800,
     "subs_change": 10,
     "subs_pct": 0.3,
-    "period_views": 1254,
-    "period_likes": 34,
-    "period_shares": 9,
-    "period_watch_min": 3488.0,
-    "period_subs_net": 7,
+    "period_views": 1007,
+    "period_likes": 28,
+    "period_shares": 7,
+    "period_watch_min": 2756.0,
+    "period_subs_net": 6,
     "unreplied_comments": 22,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 21416,
+    "top_traffic_views": 18330,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
@@ -581,11 +581,11 @@
     "super_listeners": 424,
     "saves": 680,
     "playlist_adds": 869,
-    "listeners_prev": 20433,
-    "listeners_change": -508,
-    "listeners_pct": -2.5,
-    "streams_prev": 94580,
-    "streams_change": -3552,
+    "listeners_prev": 19925,
+    "listeners_change": 0,
+    "listeners_pct": 0.0,
+    "streams_prev": 91028,
+    "streams_change": 0,
     "top_tracks": [
       {
         "name": "Color",
@@ -697,7 +697,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 6,
+    "days_since_collection": 7,
     "trend": [
       {
         "date": "2026-02-18",
@@ -1012,13 +1012,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 73,
-        "comments_replied": 6,
-        "dms_received": 9,
-        "dms_replied": 5,
+        "comments_received": 72,
+        "comments_replied": 5,
+        "dms_received": 6,
+        "dms_replied": 2,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 52,
+        "likes_given": 53,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -1032,11 +1032,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 100,
-    "total_replied": 15,
-    "response_rate": 15,
-    "total_likes": 52,
-    "today_grid": [],
+    "total_received": 96,
+    "total_replied": 11,
+    "response_rate": 11,
+    "total_likes": 53,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 5,
+        "replied": 0,
+        "pending": 1
+      }
+    ],
     "trend": [
       {
         "date": "2026-03-13",
@@ -1187,6 +1195,11 @@
         "date": "2026-04-11",
         "received": 13,
         "replied": 2
+      },
+      {
+        "date": "2026-04-12",
+        "received": 5,
+        "replied": 0
       }
     ]
   },
@@ -1286,7 +1299,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 15%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 11%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
@@ -1813,7 +1826,7 @@
         "platform": "IG Feed",
         "type": "Carrusel",
         "description": "Carrusel de Donde nada importa — imagen+frase (pendiente Nico)",
-        "status": "planned",
+        "status": "blocked",
         "platforms_done": []
       },
       {
