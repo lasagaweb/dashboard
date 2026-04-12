@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T17:01:26.416940",
+  "generated_at": "2026-04-12T17:31:21.762126",
   "days_to_show": 4,
   "period_days": 7,
   "instagram": {
@@ -1032,8 +1032,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 18,
-        "comments_replied": 4,
+        "comments_received": 19,
+        "comments_replied": 5,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1042,9 +1042,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 101,
-    "total_replied": 11,
-    "response_rate": 11,
+    "total_received": 102,
+    "total_replied": 12,
+    "response_rate": 12,
     "total_likes": 53,
     "today_grid": [
       {
@@ -1066,6 +1066,13 @@
         "shift": "AM",
         "received": 0,
         "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 1,
+        "replied": 1,
         "pending": 0
       }
     ],
@@ -1222,12 +1229,18 @@
       },
       {
         "date": "2026-04-12",
-        "received": 10,
-        "replied": 0
+        "received": 11,
+        "replied": 1
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-04-12",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respuesta a @@faradar2457 en Donde nada importa — La Saga (en vivo): Jaja, gracias por estar ahí. Ojalá esta vez te dejen tranquilo 😄"
+    },
     {
       "date": "2026-04-10",
       "platform": "youtube",
@@ -1311,19 +1324,13 @@
       "platform": "youtube",
       "type": "reply",
       "description": "Respondido @FABRI19022 en ONCE - agradecimiento por valorar música uruguaya"
-    },
-    {
-      "date": "2026-03-30",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondido @veckemorales3792 en Color - agradecimiento por transcribir letra"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 11%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 12%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
