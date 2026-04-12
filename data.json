@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T16:31:26.885273",
+  "generated_at": "2026-04-12T16:34:02.068587",
   "days_to_show": 4,
   "period_days": 7,
   "instagram": {
@@ -1852,8 +1852,10 @@
         "platform": "YouTube",
         "type": "Canción completa",
         "description": "Donde nada importa — canción completa YouTube",
-        "status": "planned",
-        "platforms_done": []
+        "status": "published",
+        "platforms_done": [
+          "YouTube"
+        ]
       }
     ],
     "source": "upcoming_content"
