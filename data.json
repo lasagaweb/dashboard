@@ -1,30 +1,25 @@
 {
-  "generated_at": "2026-04-12T17:31:21.762126",
+  "generated_at": "2026-04-12T22:00:59.641094",
   "days_to_show": 4,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-04-12",
-    "followers": 5228,
-    "reach": 1845,
-    "accounts_engaged": 122,
+    "last_date": "2026-04-13",
+    "followers": 5239,
+    "reach": 2373,
+    "accounts_engaged": 76,
     "followers_prev": 5127,
-    "followers_change": 101,
-    "followers_pct": 2.0,
+    "followers_change": 112,
+    "followers_pct": 2.2,
     "period_posts": 4,
-    "period_reach": 6620,
-    "period_engagement": 582,
+    "period_reach": 6878,
+    "period_engagement": 601,
     "top_post": {
       "date": "2026-04-05",
       "type": "reel",
       "caption": "Descubrí un camino lleno de colores.\nEsta vez.\n\nColor, en vivo.\nYa está en YouTu",
-      "reach": 2213
+      "reach": 2255
     },
     "trend": [
-      {
-        "date": "2026-03-13",
-        "followers": 4567,
-        "reach": 4607
-      },
       {
         "date": "2026-03-14",
         "followers": 4594,
@@ -169,19 +164,24 @@
         "date": "2026-04-12",
         "followers": 5228,
         "reach": 1845
+      },
+      {
+        "date": "2026-04-13",
+        "followers": 5239,
+        "reach": 2373
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 7,
-        "avg_reach": 1644.0,
-        "avg_engagement": 140.0
+        "avg_reach": 1682.0,
+        "avg_engagement": 143.0
       },
       {
         "type": "carousel",
         "posts": 3,
-        "avg_reach": 1033.0,
+        "avg_reach": 1043.0,
         "avg_engagement": 90.0
       }
     ]
@@ -228,10 +228,6 @@
     "avg_click_pct": 14.3,
     "total_campaigns": 3,
     "trend": [
-      {
-        "date": "2026-03-13",
-        "subs": 1549
-      },
       {
         "date": "2026-03-14",
         "subs": 1549
@@ -329,55 +325,51 @@
     "traffic_sources": [
       {
         "source": "PLAYLIST",
-        "views": 61368
+        "views": 58341
       },
       {
         "source": "SHORTS",
-        "views": 31699
+        "views": 27476
       },
       {
         "source": "SUBSCRIBER",
-        "views": 23451
+        "views": 22439
       },
       {
         "source": "YT_SEARCH",
-        "views": 19586
+        "views": 18499
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 13951
+        "views": 13416
       },
       {
         "source": "YT_CHANNEL",
-        "views": 7512
+        "views": 7008
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 5472
+        "views": 5118
       },
       {
         "source": "EXT_URL",
-        "views": 5340
+        "views": 4944
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 5222
+        "views": 4846
       },
       {
         "source": "NOTIFICATION",
-        "views": 2409
+        "views": 2250
       },
       {
         "source": "SOUND_PAGE",
-        "views": 21
+        "views": 18
       },
       {
         "source": "END_SCREEN",
-        "views": 11
-      },
-      {
-        "source": "SHORTS_CONTENT_LINKS",
-        "views": 2
+        "views": 9
       }
     ],
     "top_videos": [
@@ -413,12 +405,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-03-13",
-        "views": 254,
-        "likes": 3,
-        "net_subs": 1
-      },
       {
         "date": "2026-03-14",
         "views": 276,
@@ -938,10 +924,6 @@
     ],
     "trend": [
       {
-        "date": "2026-03-13",
-        "followers": 1375
-      },
-      {
         "date": "2026-03-14",
         "followers": 1375
       },
@@ -1046,42 +1028,8 @@
     "total_replied": 12,
     "response_rate": 12,
     "total_likes": 53,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "AM",
-        "received": 5,
-        "replied": 0,
-        "pending": 1
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 5,
-        "replied": 0,
-        "pending": 1
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 1,
-        "replied": 1,
-        "pending": 0
-      }
-    ],
+    "today_grid": [],
     "trend": [
-      {
-        "date": "2026-03-13",
-        "received": 24,
-        "replied": 16
-      },
       {
         "date": "2026-03-14",
         "received": 3,
@@ -1694,6 +1642,12 @@
         "sent": 6,
         "responses": 4,
         "coverage": 1
+      },
+      {
+        "date": "2026-04-13",
+        "sent": 6,
+        "responses": 4,
+        "coverage": 1
       }
     ]
   },
@@ -1808,28 +1762,6 @@
   },
   "upcoming": {
     "items": [
-      {
-        "id": 21,
-        "date": "2026-04-05",
-        "platform": "YouTube",
-        "type": "Canción completa",
-        "description": "Color — canción completa YouTube",
-        "status": "published",
-        "platforms_done": [
-          "YouTube"
-        ]
-      },
-      {
-        "id": 22,
-        "date": "2026-04-05",
-        "platform": "Instagram",
-        "type": "Reel",
-        "description": "Color — reel vertical (copy opción 2 aprobada por Nico)",
-        "status": "published",
-        "platforms_done": [
-          "Instagram"
-        ]
-      },
       {
         "id": 23,
         "date": "2026-04-07",
@@ -2129,7 +2061,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-04-12T01:00:47.469651+00:00",
+    "instagram": "2026-04-13T01:00:59.483431+00:00",
     "spotify": null,
     "emailoctopus": "2026-04-12T15:00:31.108950+00:00",
     "twitter": null,
