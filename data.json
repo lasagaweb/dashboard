@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-04-12T22:00:59.641094",
-  "days_to_show": 4,
+  "generated_at": "2026-04-13T10:03:09.878886",
+  "days_to_show": 3,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-04-13",
     "followers": 5239,
     "reach": 2373,
     "accounts_engaged": 76,
-    "followers_prev": 5127,
-    "followers_change": 112,
-    "followers_pct": 2.2,
-    "period_posts": 4,
-    "period_reach": 6878,
-    "period_engagement": 601,
+    "followers_prev": 5187,
+    "followers_change": 52,
+    "followers_pct": 1.0,
+    "period_posts": 2,
+    "period_reach": 2870,
+    "period_engagement": 217,
     "top_post": {
-      "date": "2026-04-05",
+      "date": "2026-04-09",
       "type": "reel",
-      "caption": "Descubrí un camino lleno de colores.\nEsta vez.\n\nColor, en vivo.\nYa está en YouTu",
-      "reach": 2255
+      "caption": "Este pedazo de viaje también es Color. Gira por Argentina, video nuevo y una his",
+      "reach": 1659
     },
     "trend": [
       {
@@ -307,61 +307,61 @@
     ]
   },
   "youtube": {
-    "last_date": "2026-04-12",
+    "last_date": "2026-04-13",
     "subscribers": 3810,
-    "total_views": 1562235,
-    "videos_count": 51,
+    "total_views": 1562525,
+    "videos_count": 52,
     "subs_prev": 3800,
     "subs_change": 10,
     "subs_pct": 0.3,
-    "period_views": 2357,
-    "period_likes": 39,
-    "period_shares": 8,
-    "period_watch_min": 3469.0,
-    "period_subs_net": 10,
-    "unreplied_comments": 22,
+    "period_views": 2410,
+    "period_likes": 25,
+    "period_shares": 5,
+    "period_watch_min": 3467.0,
+    "period_subs_net": 11,
+    "unreplied_comments": 25,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 21403,
+    "top_traffic_views": 21389,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
-        "views": 58341
+        "views": 61401
       },
       {
         "source": "SHORTS",
-        "views": 27476
+        "views": 28706
       },
       {
         "source": "SUBSCRIBER",
-        "views": 22439
+        "views": 23659
       },
       {
         "source": "YT_SEARCH",
-        "views": 18499
+        "views": 19397
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 13416
+        "views": 14217
       },
       {
         "source": "YT_CHANNEL",
-        "views": 7008
+        "views": 7264
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 5118
+        "views": 5335
       },
       {
         "source": "EXT_URL",
-        "views": 4944
+        "views": 5132
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 4846
+        "views": 5070
       },
       {
         "source": "NOTIFICATION",
-        "views": 2250
+        "views": 2365
       },
       {
         "source": "SOUND_PAGE",
@@ -369,37 +369,37 @@
       },
       {
         "source": "END_SCREEN",
-        "views": 9
+        "views": 10
       }
     ],
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 501847,
-        "likes": 2240,
+        "views": 501897,
+        "likes": 2241,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 468515,
+        "views": 468552,
         "likes": 2348,
         "type": "Video"
       },
       {
         "title": "\"Errante\" (La Saga - \"INTIMO\")",
-        "views": 162591,
+        "views": 162609,
         "likes": 703,
         "type": "Video"
       },
       {
         "title": "La Saga - Yo te quiero (Video Oficial)",
-        "views": 116392,
+        "views": 116394,
         "likes": 688,
         "type": "Video"
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 107359,
+        "views": 107368,
         "likes": 872,
         "type": "Video"
       }
@@ -566,6 +566,12 @@
         "views": 1351,
         "likes": 11,
         "net_subs": 4
+      },
+      {
+        "date": "2026-04-10",
+        "views": 351,
+        "likes": -1,
+        "net_subs": 2
       }
     ]
   },
@@ -693,7 +699,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 7,
+    "days_since_collection": 8,
     "trend": [
       {
         "date": "2026-02-18",
@@ -1004,18 +1010,18 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 77,
-        "comments_replied": 5,
-        "dms_received": 6,
+        "comments_received": 76,
+        "comments_replied": 4,
+        "dms_received": 9,
         "dms_replied": 2,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 53,
+        "likes_given": 54,
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 19,
-        "comments_replied": 5,
+        "comments_received": 17,
+        "comments_replied": 3,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1025,10 +1031,18 @@
       }
     },
     "total_received": 102,
-    "total_replied": 12,
-    "response_rate": 12,
-    "total_likes": 53,
-    "today_grid": [],
+    "total_replied": 9,
+    "response_rate": 9,
+    "total_likes": 54,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 9,
+        "replied": 0,
+        "pending": 2
+      }
+    ],
     "trend": [
       {
         "date": "2026-03-14",
@@ -1179,6 +1193,11 @@
         "date": "2026-04-12",
         "received": 11,
         "replied": 1
+      },
+      {
+        "date": "2026-04-13",
+        "received": 9,
+        "replied": 0
       }
     ]
   },
@@ -1278,7 +1297,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 12%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 9%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
@@ -2069,6 +2088,6 @@
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-04-12T16:00:34.464102+00:00"
+    "youtube": "2026-04-13T10:09:22.446477+00:00"
   }
 }
