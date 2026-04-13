@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T16:31:48.691990",
+  "generated_at": "2026-04-13T17:01:13.636585",
   "days_to_show": 3,
   "period_days": 7,
   "instagram": {
@@ -1014,13 +1014,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 76,
+        "comments_received": 82,
         "comments_replied": 4,
         "dms_received": 9,
         "dms_replied": 2,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 54,
+        "likes_given": 59,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -1034,10 +1034,10 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 102,
+    "total_received": 108,
     "total_replied": 9,
-    "response_rate": 9,
-    "total_likes": 54,
+    "response_rate": 8,
+    "total_likes": 59,
     "today_grid": [
       {
         "platform": "instagram",
@@ -1045,6 +1045,13 @@
         "received": 9,
         "replied": 0,
         "pending": 2
+      },
+      {
+        "platform": "instagram",
+        "shift": "PM",
+        "received": 6,
+        "replied": 0,
+        "pending": 1
       },
       {
         "platform": "youtube",
@@ -1207,7 +1214,7 @@
       },
       {
         "date": "2026-04-13",
-        "received": 9,
+        "received": 15,
         "replied": 0
       }
     ]
@@ -1308,7 +1315,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 9%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 8%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
