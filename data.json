@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T16:31:14.477474",
+  "generated_at": "2026-04-13T16:31:48.691990",
   "days_to_show": 3,
   "period_days": 7,
   "instagram": {
@@ -1802,18 +1802,6 @@
         "platforms_done": []
       },
       {
-        "id": 24,
-        "date": "2026-04-09",
-        "platform": "IG/X/TikTok/YT Shorts",
-        "type": "Short",
-        "description": "S7 Gira Argentina / video de Color — short independiente",
-        "status": "published",
-        "platforms_done": [
-          "YouTube",
-          "Instagram"
-        ]
-      },
-      {
         "id": 25,
         "date": "2026-04-11",
         "platform": "IG Feed",
@@ -1823,15 +1811,40 @@
         "platforms_done": []
       },
       {
-        "id": 26,
-        "date": "2026-04-12",
+        "id": 27,
+        "date": "2026-04-14",
+        "platform": "IG/TikTok/YT Shorts",
+        "type": "Estribillo",
+        "description": "Estribillo de Donde nada importa — pieza de alcance corto para abrir la cuenta regresiva emocional",
+        "status": "planned",
+        "platforms_done": []
+      },
+      {
+        "id": 28,
+        "date": "2026-04-15",
+        "platform": "IG/TikTok/YT Shorts",
+        "type": "Short",
+        "description": "S9 Bloopers — alivio/humor para sostener cercanía en semana de show",
+        "status": "planned",
+        "platforms_done": []
+      },
+      {
+        "id": 29,
+        "date": "2026-04-16",
+        "platform": "IG/X/TikTok/YT Shorts",
+        "type": "Short",
+        "description": "S8 Cierre emotivo (BE, Ir, Color) — mini-clímax narrativo pre-show",
+        "status": "planned",
+        "platforms_done": []
+      },
+      {
+        "id": 30,
+        "date": "2026-04-19",
         "platform": "YouTube",
         "type": "Canción completa",
-        "description": "Donde nada importa — canción completa YouTube",
-        "status": "published",
-        "platforms_done": [
-          "YouTube"
-        ]
+        "description": "El grito del león — cierre post-show en YouTube",
+        "status": "planned",
+        "platforms_done": []
       }
     ],
     "source": "upcoming_content"
