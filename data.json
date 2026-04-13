@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T17:01:13.636585",
+  "generated_at": "2026-04-13T17:31:11.014063",
   "days_to_show": 3,
   "period_days": 7,
   "instagram": {
@@ -1024,7 +1024,7 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 17,
+        "comments_received": 18,
         "comments_replied": 3,
         "dms_received": 0,
         "dms_replied": 0,
@@ -1034,7 +1034,7 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 108,
+    "total_received": 109,
     "total_replied": 9,
     "response_rate": 8,
     "total_likes": 59,
@@ -1059,6 +1059,13 @@
         "received": 0,
         "replied": 0,
         "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 1,
+        "replied": 0,
+        "pending": 1
       }
     ],
     "trend": [
@@ -1214,12 +1221,18 @@
       },
       {
         "date": "2026-04-13",
-        "received": 15,
+        "received": 16,
         "replied": 0
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-04-13",
+      "platform": "youtube",
+      "type": "pending_human",
+      "description": "Escalado a Nicolás comentario de @marcedl1989 en Donde nada importa — La Saga (en vivo): Cuando un showcito? Llevo mi viola igual pero hay que hacer algo che, aunque sea una rambla"
+    },
     {
       "date": "2026-04-12",
       "platform": "youtube",
@@ -1303,12 +1316,6 @@
       "platform": "youtube",
       "type": "like",
       "description": "Corazón a @thetacogaming9434, @andreseduardo600, @ghostzerosniperpsp en Estoy perdido y @jimenezromanomarnadin9627 en Lo que vos digas"
-    },
-    {
-      "date": "2026-03-30",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respondido @FABRI19022 en ONCE - agradecimiento por valorar música uruguaya"
     }
   ],
   "suggestions": [
