@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T12:00:32.127543",
+  "generated_at": "2026-04-13T13:00:31.639371",
   "days_to_show": 3,
   "period_days": 7,
   "instagram": {
@@ -337,7 +337,7 @@
       },
       {
         "source": "SUBSCRIBER",
-        "views": 23659
+        "views": 23660
       },
       {
         "source": "YT_SEARCH",
@@ -353,7 +353,7 @@
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 5335
+        "views": 5334
       },
       {
         "source": "EXT_URL",
@@ -379,19 +379,19 @@
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 501897,
+        "views": 501907,
         "likes": 2241,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 468552,
+        "views": 468560,
         "likes": 2348,
         "type": "Video"
       },
       {
         "title": "\"Errante\" (La Saga - \"INTIMO\")",
-        "views": 162609,
+        "views": 162611,
         "likes": 703,
         "type": "Video"
       },
@@ -403,7 +403,7 @@
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 107368,
+        "views": 107371,
         "likes": 872,
         "type": "Video"
       }
@@ -2099,6 +2099,6 @@
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-04-13T10:09:22.446477+00:00"
+    "youtube": "2026-04-13T16:00:31.485504+00:00"
   }
 }
