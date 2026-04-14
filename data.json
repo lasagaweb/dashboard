@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-13T22:01:34.856857",
-  "days_to_show": 3,
+  "generated_at": "2026-04-14T10:08:06.368174",
+  "days_to_show": 2,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-04-14",
     "followers": 5258,
     "reach": 5465,
     "accounts_engaged": 97,
-    "followers_prev": 5187,
-    "followers_change": 71,
-    "followers_pct": 1.4,
+    "followers_prev": 5208,
+    "followers_change": 50,
+    "followers_pct": 1.0,
     "period_posts": 2,
     "period_reach": 2961,
     "period_engagement": 228,
@@ -193,7 +193,7 @@
     "subs_change": -1,
     "subs_pct": -0.1,
     "period_gained": 0,
-    "period_lost": 878,
+    "period_lost": 703,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -314,11 +314,11 @@
     "subs_prev": 3800,
     "subs_change": 10,
     "subs_pct": 0.3,
-    "period_views": 2794,
-    "period_likes": 24,
+    "period_views": 2504,
+    "period_likes": 20,
     "period_shares": 6,
-    "period_watch_min": 4116.0,
-    "period_subs_net": 9,
+    "period_watch_min": 3313.0,
+    "period_subs_net": 8,
     "unreplied_comments": 26,
     "top_traffic_source": "PLAYLIST",
     "top_traffic_views": 21501,
@@ -699,7 +699,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 8,
+    "days_since_collection": 9,
     "trend": [
       {
         "date": "2026-02-18",
@@ -1006,17 +1006,17 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 82,
-        "comments_replied": 4,
-        "dms_received": 9,
+        "comments_received": 77,
+        "comments_replied": 2,
+        "dms_received": 7,
         "dms_replied": 2,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 59,
+        "likes_given": 56,
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 18,
+        "comments_received": 8,
         "comments_replied": 3,
         "dms_received": 0,
         "dms_replied": 0,
@@ -1026,11 +1026,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 109,
-    "total_replied": 9,
+    "total_received": 92,
+    "total_replied": 7,
     "response_rate": 8,
-    "total_likes": 59,
-    "today_grid": [],
+    "total_likes": 56,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 7,
+        "replied": 0,
+        "pending": 2
+      }
+    ],
     "trend": [
       {
         "date": "2026-03-15",
@@ -1181,6 +1189,11 @@
         "date": "2026-04-13",
         "received": 16,
         "replied": 0
+      },
+      {
+        "date": "2026-04-14",
+        "received": 7,
+        "replied": 0
       }
     ]
   },
@@ -1284,11 +1297,38 @@
     }
   ],
   "press": {
-    "total_contacts": 22,
-    "emails_sent": 6,
-    "responses": 4,
+    "total_contacts": 25,
+    "emails_sent": 8,
+    "responses": 5,
     "coverage": 1,
     "recent_activity": [
+      {
+        "date": "2026-04-14",
+        "contact": "Juli Guerriero / Corchea",
+        "outlet": "Corchea / Fundación Fans",
+        "sent": 1,
+        "response": 1,
+        "published": 0,
+        "url": ""
+      },
+      {
+        "date": "2026-04-14",
+        "contact": "Belén Fourment",
+        "outlet": "El País / Canal 4",
+        "sent": 1,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
+      {
+        "date": "2026-04-14",
+        "contact": "Uruguay Rock",
+        "outlet": "Uruguay Rock",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
       {
         "date": "2026-04-07",
         "contact": "Fernán Cisnero",
@@ -1349,33 +1389,6 @@
         "outlet": "Independiente",
         "sent": 1,
         "response": 0,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-03-28",
-        "contact": "",
-        "outlet": "Productor Sala del Museo",
-        "sent": 1,
-        "response": 0,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-03-24",
-        "contact": "Ariel Scarpa",
-        "outlet": "Solo Rock Uruguay",
-        "sent": 1,
-        "response": 1,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-03-24",
-        "contact": "Gustavo Cedrés",
-        "outlet": "Rock Uruguayo Podcast",
-        "sent": 1,
-        "response": 1,
         "published": 0,
         "url": ""
       }
@@ -1653,8 +1666,8 @@
       },
       {
         "date": "2026-04-14",
-        "sent": 6,
-        "responses": 4,
+        "sent": 8,
+        "responses": 5,
         "coverage": 1
       }
     ]
