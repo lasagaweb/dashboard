@@ -1,30 +1,25 @@
 {
-  "generated_at": "2026-04-13T17:31:11.014063",
+  "generated_at": "2026-04-13T22:01:34.856857",
   "days_to_show": 3,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-04-13",
-    "followers": 5239,
-    "reach": 2373,
-    "accounts_engaged": 76,
+    "last_date": "2026-04-14",
+    "followers": 5258,
+    "reach": 5465,
+    "accounts_engaged": 97,
     "followers_prev": 5187,
-    "followers_change": 52,
-    "followers_pct": 1.0,
+    "followers_change": 71,
+    "followers_pct": 1.4,
     "period_posts": 2,
-    "period_reach": 2870,
-    "period_engagement": 217,
+    "period_reach": 2961,
+    "period_engagement": 228,
     "top_post": {
       "date": "2026-04-09",
       "type": "reel",
       "caption": "Este pedazo de viaje también es Color. Gira por Argentina, video nuevo y una his",
-      "reach": 1659
+      "reach": 1707
     },
     "trend": [
-      {
-        "date": "2026-03-14",
-        "followers": 4594,
-        "reach": 4391
-      },
       {
         "date": "2026-03-15",
         "followers": 4595,
@@ -169,20 +164,25 @@
         "date": "2026-04-13",
         "followers": 5239,
         "reach": 2373
+      },
+      {
+        "date": "2026-04-14",
+        "followers": 5258,
+        "reach": 5465
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 7,
-        "avg_reach": 1682.0,
-        "avg_engagement": 143.0
+        "avg_reach": 1706.0,
+        "avg_engagement": 144.0
       },
       {
         "type": "carousel",
         "posts": 3,
-        "avg_reach": 1043.0,
-        "avg_engagement": 90.0
+        "avg_reach": 1055.0,
+        "avg_engagement": 92.0
       }
     ]
   },
@@ -228,10 +228,6 @@
     "avg_click_pct": 14.3,
     "total_campaigns": 3,
     "trend": [
-      {
-        "date": "2026-03-14",
-        "subs": 1549
-      },
       {
         "date": "2026-03-15",
         "subs": 1549
@@ -313,55 +309,55 @@
   "youtube": {
     "last_date": "2026-04-13",
     "subscribers": 3810,
-    "total_views": 1562525,
+    "total_views": 1562653,
     "videos_count": 52,
     "subs_prev": 3800,
     "subs_change": 10,
     "subs_pct": 0.3,
-    "period_views": 2410,
-    "period_likes": 25,
-    "period_shares": 5,
-    "period_watch_min": 3467.0,
-    "period_subs_net": 11,
-    "unreplied_comments": 25,
+    "period_views": 2794,
+    "period_likes": 24,
+    "period_shares": 6,
+    "period_watch_min": 4116.0,
+    "period_subs_net": 9,
+    "unreplied_comments": 26,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 21389,
+    "top_traffic_views": 21501,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
-        "views": 61401
+        "views": 61513
       },
       {
         "source": "SHORTS",
-        "views": 28706
+        "views": 28870
       },
       {
         "source": "SUBSCRIBER",
-        "views": 23660
+        "views": 23692
       },
       {
         "source": "YT_SEARCH",
-        "views": 19397
+        "views": 19422
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 14217
+        "views": 14233
       },
       {
         "source": "YT_CHANNEL",
-        "views": 7264
+        "views": 7269
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 5334
+        "views": 5349
       },
       {
         "source": "EXT_URL",
-        "views": 5132
+        "views": 5134
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 5070
+        "views": 5079
       },
       {
         "source": "NOTIFICATION",
@@ -379,45 +375,39 @@
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 501907,
-        "likes": 2241,
+        "views": 501929,
+        "likes": 2242,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 468560,
+        "views": 468586,
         "likes": 2348,
         "type": "Video"
       },
       {
         "title": "\"Errante\" (La Saga - \"INTIMO\")",
-        "views": 162611,
+        "views": 162620,
         "likes": 703,
         "type": "Video"
       },
       {
         "title": "La Saga - Yo te quiero (Video Oficial)",
-        "views": 116394,
+        "views": 116395,
         "likes": 688,
         "type": "Video"
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 107371,
+        "views": 107378,
         "likes": 872,
         "type": "Video"
       }
     ],
     "trend": [
       {
-        "date": "2026-03-14",
-        "views": 276,
-        "likes": 4,
-        "net_subs": 0
-      },
-      {
         "date": "2026-03-15",
-        "views": 330,
+        "views": 327,
         "likes": 30,
         "net_subs": 1
       },
@@ -453,7 +443,7 @@
       },
       {
         "date": "2026-03-21",
-        "views": 274,
+        "views": 271,
         "likes": 1,
         "net_subs": 1
       },
@@ -465,7 +455,7 @@
       },
       {
         "date": "2026-03-23",
-        "views": 253,
+        "views": 251,
         "likes": 5,
         "net_subs": -3
       },
@@ -507,7 +497,7 @@
       },
       {
         "date": "2026-03-30",
-        "views": 227,
+        "views": 229,
         "likes": 2,
         "net_subs": 0
       },
@@ -531,7 +521,7 @@
       },
       {
         "date": "2026-04-03",
-        "views": 200,
+        "views": 201,
         "likes": 4,
         "net_subs": 1
       },
@@ -549,7 +539,7 @@
       },
       {
         "date": "2026-04-06",
-        "views": 289,
+        "views": 290,
         "likes": 4,
         "net_subs": 1
       },
@@ -576,6 +566,12 @@
         "views": 351,
         "likes": -1,
         "net_subs": 2
+      },
+      {
+        "date": "2026-04-11",
+        "views": 383,
+        "likes": -1,
+        "net_subs": -2
       }
     ]
   },
@@ -934,10 +930,6 @@
     ],
     "trend": [
       {
-        "date": "2026-03-14",
-        "followers": 1375
-      },
-      {
         "date": "2026-03-15",
         "followers": 1376
       },
@@ -1038,42 +1030,8 @@
     "total_replied": 9,
     "response_rate": 8,
     "total_likes": 59,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "AM",
-        "received": 9,
-        "replied": 0,
-        "pending": 2
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 6,
-        "replied": 0,
-        "pending": 1
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 1,
-        "replied": 0,
-        "pending": 1
-      }
-    ],
+    "today_grid": [],
     "trend": [
-      {
-        "date": "2026-03-14",
-        "received": 3,
-        "replied": 1
-      },
       {
         "date": "2026-03-15",
         "received": 8,
@@ -1692,6 +1650,12 @@
         "sent": 6,
         "responses": 4,
         "coverage": 1
+      },
+      {
+        "date": "2026-04-14",
+        "sent": 6,
+        "responses": 4,
+        "coverage": 1
       }
     ]
   },
@@ -2118,7 +2082,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-04-13T01:00:59.483431+00:00",
+    "instagram": "2026-04-14T01:01:34.705304+00:00",
     "spotify": null,
     "emailoctopus": "2026-04-13T15:00:31.985824+00:00",
     "twitter": null,
@@ -2126,6 +2090,6 @@
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-04-13T16:00:31.485504+00:00"
+    "youtube": "2026-04-13T22:32:45.770542+00:00"
   }
 }
