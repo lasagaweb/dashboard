@@ -1,40 +1,25 @@
 {
-  "generated_at": "2026-04-14T17:30:54.307388",
-  "days_to_show": 2,
+  "generated_at": "2026-04-17T14:37:27.088010",
+  "days_to_show": -1,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-04-14",
-    "followers": 5258,
-    "reach": 5465,
-    "accounts_engaged": 97,
-    "followers_prev": 5208,
-    "followers_change": 50,
-    "followers_pct": 1.0,
-    "period_posts": 2,
-    "period_reach": 2961,
-    "period_engagement": 228,
+    "last_date": "2026-04-17",
+    "followers": 5344,
+    "reach": 4607,
+    "accounts_engaged": 66,
+    "followers_prev": 5227,
+    "followers_change": 117,
+    "followers_pct": 2.2,
+    "period_posts": 1,
+    "period_reach": 1426,
+    "period_engagement": 83,
     "top_post": {
-      "date": "2026-04-09",
+      "date": "2026-04-10",
       "type": "reel",
       "caption": "Este pedazo de viaje también es Color. Gira por Argentina, video nuevo y una his",
-      "reach": 1707
+      "reach": 1426
     },
     "trend": [
-      {
-        "date": "2026-03-15",
-        "followers": 4595,
-        "reach": 267
-      },
-      {
-        "date": "2026-03-16",
-        "followers": 4593,
-        "reach": 1006
-      },
-      {
-        "date": "2026-03-17",
-        "followers": 4592,
-        "reach": 690
-      },
       {
         "date": "2026-03-18",
         "followers": 4598,
@@ -169,31 +154,36 @@
         "date": "2026-04-14",
         "followers": 5258,
         "reach": 5465
+      },
+      {
+        "date": "2026-04-17",
+        "followers": 5344,
+        "reach": 4607
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 7,
-        "avg_reach": 1706.0,
-        "avg_engagement": 144.0
+        "avg_reach": 1802.0,
+        "avg_engagement": 152.0
       },
       {
         "type": "carousel",
         "posts": 3,
-        "avg_reach": 1055.0,
-        "avg_engagement": 92.0
+        "avg_reach": 1102.0,
+        "avg_engagement": 95.0
       }
     ]
   },
   "email": {
     "last_date": "2026-04-13",
     "total_subs": 1668,
-    "subs_prev": 1669,
-    "subs_change": -1,
-    "subs_pct": -0.1,
+    "subs_prev": 1668,
+    "subs_change": 0,
+    "subs_pct": 0.0,
     "period_gained": 0,
-    "period_lost": 703,
+    "period_lost": 528,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -228,18 +218,6 @@
     "avg_click_pct": 14.3,
     "total_campaigns": 3,
     "trend": [
-      {
-        "date": "2026-03-15",
-        "subs": 1549
-      },
-      {
-        "date": "2026-03-16",
-        "subs": 1675
-      },
-      {
-        "date": "2026-03-17",
-        "subs": 1670
-      },
       {
         "date": "2026-03-18",
         "subs": 1670
@@ -311,65 +289,65 @@
     "subscribers": 3810,
     "total_views": 1562653,
     "videos_count": 52,
-    "subs_prev": 3800,
-    "subs_change": 10,
-    "subs_pct": 0.3,
-    "period_views": 2504,
-    "period_likes": 20,
-    "period_shares": 6,
-    "period_watch_min": 3313.0,
-    "period_subs_net": 8,
+    "subs_prev": 3810,
+    "subs_change": 0,
+    "subs_pct": 0.0,
+    "period_views": 734,
+    "period_likes": -2,
+    "period_shares": 3,
+    "period_watch_min": 1368.0,
+    "period_subs_net": 0,
     "unreplied_comments": 26,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 21501,
+    "top_traffic_views": 12341,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
-        "views": 61513
+        "views": 58468
       },
       {
         "source": "SHORTS",
-        "views": 28870
+        "views": 24643
       },
       {
         "source": "SUBSCRIBER",
-        "views": 23692
+        "views": 22663
       },
       {
         "source": "YT_SEARCH",
-        "views": 19422
+        "views": 18338
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 14233
+        "views": 13702
       },
       {
         "source": "YT_CHANNEL",
-        "views": 7269
+        "views": 6763
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 5349
+        "views": 5006
       },
       {
         "source": "EXT_URL",
-        "views": 5134
+        "views": 4763
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 5079
+        "views": 4715
       },
       {
         "source": "NOTIFICATION",
-        "views": 2365
+        "views": 2206
       },
       {
         "source": "SOUND_PAGE",
-        "views": 18
+        "views": 15
       },
       {
         "source": "END_SCREEN",
-        "views": 10
+        "views": 8
       }
     ],
     "top_videos": [
@@ -405,24 +383,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-03-15",
-        "views": 327,
-        "likes": 30,
-        "net_subs": 1
-      },
-      {
-        "date": "2026-03-16",
-        "views": 333,
-        "likes": 9,
-        "net_subs": 0
-      },
-      {
-        "date": "2026-03-17",
-        "views": 244,
-        "likes": 2,
-        "net_subs": 1
-      },
       {
         "date": "2026-03-18",
         "views": 234,
@@ -699,7 +659,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 9,
+    "days_since_collection": 12,
     "trend": [
       {
         "date": "2026-02-18",
@@ -930,18 +890,6 @@
     ],
     "trend": [
       {
-        "date": "2026-03-15",
-        "followers": 1376
-      },
-      {
-        "date": "2026-03-16",
-        "followers": 1378
-      },
-      {
-        "date": "2026-03-17",
-        "followers": 1378
-      },
-      {
         "date": "2026-03-18",
         "followers": 1378
       },
@@ -1006,18 +954,18 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 84,
-        "comments_replied": 2,
-        "dms_received": 8,
-        "dms_replied": 3,
+        "comments_received": 52,
+        "comments_replied": 1,
+        "dms_received": 7,
+        "dms_replied": 2,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 61,
+        "likes_given": 36,
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 8,
-        "comments_replied": 3,
+        "comments_received": 5,
+        "comments_replied": 2,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -1026,56 +974,12 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 100,
-    "total_replied": 8,
+    "total_received": 64,
+    "total_replied": 5,
     "response_rate": 8,
-    "total_likes": 61,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "AM",
-        "received": 7,
-        "replied": 0,
-        "pending": 2
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 8,
-        "replied": 1,
-        "pending": 2
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      }
-    ],
+    "total_likes": 36,
+    "today_grid": [],
     "trend": [
-      {
-        "date": "2026-03-15",
-        "received": 8,
-        "replied": 5
-      },
-      {
-        "date": "2026-03-16",
-        "received": 4,
-        "replied": 1
-      },
-      {
-        "date": "2026-03-17",
-        "received": 12,
-        "replied": 7
-      },
       {
         "date": "2026-03-18",
         "received": 8,
@@ -1690,6 +1594,12 @@
         "sent": 8,
         "responses": 5,
         "coverage": 1
+      },
+      {
+        "date": "2026-04-17",
+        "sent": 8,
+        "responses": 5,
+        "coverage": 1
       }
     ]
   },
@@ -1804,15 +1714,6 @@
   },
   "upcoming": {
     "items": [
-      {
-        "id": 23,
-        "date": "2026-04-07",
-        "platform": "IG/TikTok/YT Shorts",
-        "type": "Estribillo",
-        "description": "Estribillo de Color — reel vertical (pendiente corte final + aprobación Nico)",
-        "status": "blocked",
-        "platforms_done": []
-      },
       {
         "id": 25,
         "date": "2026-04-11",
@@ -2116,7 +2017,7 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-04-14T01:01:34.705304+00:00",
+    "instagram": "2026-04-17T17:37:26.927944+00:00",
     "spotify": null,
     "emailoctopus": "2026-04-13T15:00:31.985824+00:00",
     "twitter": null,
