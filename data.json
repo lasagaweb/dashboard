@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T14:47:21.980309",
+  "generated_at": "2026-04-17T14:52:22.740412",
   "days_to_show": -1,
   "period_days": 7,
   "instagram": {
@@ -968,20 +968,20 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 5,
+        "comments_received": 6,
         "comments_replied": 2,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 0,
+        "likes_given": 1,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 71,
+    "total_received": 72,
     "total_replied": 5,
     "response_rate": 7,
-    "total_likes": 41,
+    "total_likes": 42,
     "today_grid": [
       {
         "platform": "instagram",
@@ -989,6 +989,13 @@
         "received": 7,
         "replied": 0,
         "pending": 2
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 1,
+        "replied": 0,
+        "pending": 1
       }
     ],
     "trend": [
@@ -1134,12 +1141,18 @@
       },
       {
         "date": "2026-04-17",
-        "received": 7,
+        "received": 8,
         "replied": 0
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-04-17",
+      "platform": "youtube",
+      "type": "like",
+      "description": "Heart dado a @carlacaste817 en LA SAGA - ONCE sobre el comentario: 2026 al firme ❤️"
+    },
     {
       "date": "2026-04-13",
       "platform": "youtube",
@@ -1223,12 +1236,6 @@
       "platform": "youtube",
       "type": "reply",
       "description": "@andreseduardo600 en Estoy perdido - humor sobre baterista"
-    },
-    {
-      "date": "2026-03-30",
-      "platform": "youtube",
-      "type": "like",
-      "description": "Corazón a @thetacogaming9434, @andreseduardo600, @ghostzerosniperpsp en Estoy perdido y @jimenezromanomarnadin9627 en Lo que vos digas"
     }
   ],
   "suggestions": [
