@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T14:37:27.088010",
+  "generated_at": "2026-04-17T14:46:44.769836",
   "days_to_show": -1,
   "period_days": 7,
   "instagram": {
@@ -177,13 +177,13 @@
     ]
   },
   "email": {
-    "last_date": "2026-04-13",
+    "last_date": "2026-04-17",
     "total_subs": 1668,
     "subs_prev": 1668,
     "subs_change": 0,
     "subs_pct": 0.0,
     "period_gained": 0,
-    "period_lost": 528,
+    "period_lost": 704,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -280,6 +280,10 @@
       },
       {
         "date": "2026-04-13",
+        "subs": 1668
+      },
+      {
+        "date": "2026-04-17",
         "subs": 1668
       }
     ]
@@ -954,13 +958,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 52,
+        "comments_received": 59,
         "comments_replied": 1,
         "dms_received": 7,
         "dms_replied": 2,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 36,
+        "likes_given": 41,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -974,11 +978,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 64,
+    "total_received": 71,
     "total_replied": 5,
-    "response_rate": 8,
-    "total_likes": 36,
-    "today_grid": [],
+    "response_rate": 7,
+    "total_likes": 41,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 7,
+        "replied": 0,
+        "pending": 2
+      }
+    ],
     "trend": [
       {
         "date": "2026-03-18",
@@ -1119,6 +1131,11 @@
         "date": "2026-04-14",
         "received": 15,
         "replied": 1
+      },
+      {
+        "date": "2026-04-17",
+        "received": 7,
+        "replied": 0
       }
     ]
   },
@@ -1218,7 +1235,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 8%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 7%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
@@ -2019,7 +2036,7 @@
   "platform_status": {
     "instagram": "2026-04-17T17:37:26.927944+00:00",
     "spotify": null,
-    "emailoctopus": "2026-04-13T15:00:31.985824+00:00",
+    "emailoctopus": "2026-04-17T17:39:13.486641+00:00",
     "twitter": null,
     "tiktok": null,
     "meta_ads": null,
