@@ -1,24 +1,19 @@
 {
-  "generated_at": "2026-04-26T17:31:39.026370",
+  "generated_at": "2026-04-26T22:00:55.182876",
   "days_to_show": -10,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-04-21",
-    "followers": 5443,
-    "reach": 2976,
-    "accounts_engaged": 52,
+    "last_date": "2026-04-27",
+    "followers": 5561,
+    "reach": 4714,
+    "accounts_engaged": 82,
     "followers_prev": 5344,
-    "followers_change": 99,
-    "followers_pct": 1.9,
+    "followers_change": 217,
+    "followers_pct": 4.1,
     "period_posts": 0,
     "period_reach": 0,
     "period_engagement": 0,
     "trend": [
-      {
-        "date": "2026-03-27",
-        "followers": 4906,
-        "reach": 5785
-      },
       {
         "date": "2026-03-28",
         "followers": 4934,
@@ -113,31 +108,41 @@
         "date": "2026-04-21",
         "followers": 5443,
         "reach": 2976
+      },
+      {
+        "date": "2026-04-26",
+        "followers": 5558,
+        "reach": 4173
+      },
+      {
+        "date": "2026-04-27",
+        "followers": 5561,
+        "reach": 4714
       }
     ],
     "post_types": [
       {
         "type": "reel",
         "posts": 5,
-        "avg_reach": 1877.0,
-        "avg_engagement": 153.0
+        "avg_reach": 1998.0,
+        "avg_engagement": 158.0
       },
       {
         "type": "carousel",
-        "posts": 3,
-        "avg_reach": 1135.0,
-        "avg_engagement": 95.0
+        "posts": 2,
+        "avg_reach": 1159.0,
+        "avg_engagement": 100.0
       }
     ]
   },
   "email": {
-    "last_date": "2026-04-21",
-    "total_subs": 1668,
+    "last_date": "2026-04-26",
+    "total_subs": 1667,
     "subs_prev": 1668,
-    "subs_change": 0,
-    "subs_pct": 0.0,
+    "subs_change": -1,
+    "subs_pct": -0.1,
     "period_gained": 0,
-    "period_lost": 176,
+    "period_lost": 353,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -215,6 +220,10 @@
       {
         "date": "2026-04-21",
         "subs": 1668
+      },
+      {
+        "date": "2026-04-26",
+        "subs": 1667
       }
     ]
   },
@@ -311,12 +320,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-03-27",
-        "views": 189,
-        "likes": 1,
-        "net_subs": 0
-      },
       {
         "date": "2026-03-28",
         "views": 255,
@@ -824,28 +827,8 @@
     "total_replied": 0,
     "response_rate": 0,
     "total_likes": 0,
-    "today_grid": [
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 8,
-        "replied": 0,
-        "pending": 2
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 5,
-        "replied": 0,
-        "pending": 5
-      }
-    ],
+    "today_grid": [],
     "trend": [
-      {
-        "date": "2026-03-27",
-        "received": 3,
-        "replied": 0
-      },
       {
         "date": "2026-03-28",
         "received": 28,
@@ -1045,11 +1028,6 @@
       "priority": "alta",
       "area": "Comunidad",
       "text": "Tasa de respuesta en 0%. Objetivo: >80%. Aumentar rondas de comunidad."
-    },
-    {
-      "priority": "media",
-      "area": "Contenido",
-      "text": "Último scraping de IG fue hace 5 días. Verificar collectors."
     }
   ],
   "press": {
@@ -1437,6 +1415,12 @@
         "sent": 8,
         "responses": 5,
         "coverage": 1
+      },
+      {
+        "date": "2026-04-27",
+        "sent": 8,
+        "responses": 5,
+        "coverage": 1
       }
     ]
   },
@@ -1550,18 +1534,8 @@
     "total": 11
   },
   "upcoming": {
-    "items": [
-      {
-        "id": 30,
-        "date": "2026-04-19",
-        "platform": "YouTube",
-        "type": "Canción completa",
-        "description": "El grito del león — cierre post-show en YouTube — MARCADO VENCIDO: contenido bloqueado o pendiente de publicación",
-        "status": "blocked",
-        "platforms_done": []
-      }
-    ],
-    "source": "upcoming_content"
+    "items": [],
+    "source": "Dylan carga el plan los lunes y jueves"
   },
   "financials": {
     "total_expenses": 0,
@@ -1818,9 +1792,9 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-04-21T11:10:25.375550+00:00",
+    "instagram": "2026-04-27T01:00:55.034725+00:00",
     "spotify": null,
-    "emailoctopus": "2026-04-21T11:10:33.310262+00:00",
+    "emailoctopus": "2026-04-26T23:07:58.244095+00:00",
     "twitter": null,
     "tiktok": null,
     "meta_ads": null,
