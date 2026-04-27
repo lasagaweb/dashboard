@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T22:00:55.182876",
-  "days_to_show": -10,
+  "generated_at": "2026-04-27T10:01:16.901912",
+  "days_to_show": -11,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-04-27",
@@ -536,7 +536,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 21,
+    "days_since_collection": 22,
     "trend": [
       {
         "date": "2026-02-18",
@@ -803,13 +803,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 8,
+        "comments_received": 16,
         "comments_replied": 0,
-        "dms_received": 0,
+        "dms_received": 1,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 0,
+        "likes_given": 6,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -823,11 +823,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 13,
+    "total_received": 22,
     "total_replied": 0,
     "response_rate": 0,
-    "total_likes": 0,
-    "today_grid": [],
+    "total_likes": 6,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 9,
+        "replied": 0,
+        "pending": 3
+      }
+    ],
     "trend": [
       {
         "date": "2026-03-28",
@@ -927,6 +935,11 @@
       {
         "date": "2026-04-26",
         "received": 13,
+        "replied": 0
+      },
+      {
+        "date": "2026-04-27",
+        "received": 9,
         "replied": 0
       }
     ]
