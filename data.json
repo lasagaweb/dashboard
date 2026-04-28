@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-27T22:01:00.056376",
-  "days_to_show": -11,
+  "generated_at": "2026-04-28T10:06:24.827660",
+  "days_to_show": -12,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-04-28",
     "followers": 5595,
     "reach": 4478,
     "accounts_engaged": 66,
-    "followers_prev": 5344,
-    "followers_change": 251,
-    "followers_pct": 4.7,
+    "followers_prev": 5443,
+    "followers_change": 152,
+    "followers_pct": 2.8,
     "period_posts": 0,
     "period_reach": 0,
     "period_engagement": 0,
@@ -239,10 +239,10 @@
     "subs_prev": 3810,
     "subs_change": 0,
     "subs_pct": 0.0,
-    "period_views": 1368,
-    "period_likes": 12,
+    "period_views": 1163,
+    "period_likes": 11,
     "period_shares": 12,
-    "period_watch_min": 4137.0,
+    "period_watch_min": 3529.0,
     "period_subs_net": 1,
     "unreplied_comments": 6,
     "top_traffic_source": "PLAYLIST",
@@ -620,7 +620,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -891,7 +891,7 @@
       "instagram": {
         "comments_received": 24,
         "comments_replied": 0,
-        "dms_received": 1,
+        "dms_received": 3,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
@@ -909,11 +909,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 30,
+    "total_received": 32,
     "total_replied": 0,
     "response_rate": 0,
     "total_likes": 12,
-    "today_grid": [],
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 2,
+        "replied": 0,
+        "pending": 1
+      }
+    ],
     "trend": [
       {
         "date": "2026-03-29",
@@ -1013,6 +1021,11 @@
       {
         "date": "2026-04-27",
         "received": 17,
+        "replied": 0
+      },
+      {
+        "date": "2026-04-28",
+        "received": 2,
         "replied": 0
       }
     ]
@@ -1117,11 +1130,29 @@
     }
   ],
   "press": {
-    "total_contacts": 25,
+    "total_contacts": 27,
     "emails_sent": 8,
     "responses": 5,
     "coverage": 1,
     "recent_activity": [
+      {
+        "date": "2026-04-28",
+        "contact": "Montevideo Portal / Beat",
+        "outlet": "Montevideo Portal",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
+      {
+        "date": "2026-04-28",
+        "contact": "Uruguay Rock",
+        "outlet": "Uruguay Rock",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
       {
         "date": "2026-04-14",
         "contact": "Juli Guerriero / Corchea",
@@ -1190,24 +1221,6 @@
         "contact": "Javier Alfonso",
         "outlet": "Búsqueda",
         "sent": 0,
-        "response": 0,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-03-31",
-        "contact": "Nelson Barceló",
-        "outlet": "Emisora del Sur",
-        "sent": 0,
-        "response": 0,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-03-28",
-        "contact": "",
-        "outlet": "Independiente",
-        "sent": 1,
         "response": 0,
         "published": 0,
         "url": ""
