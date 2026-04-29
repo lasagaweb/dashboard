@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T10:03:39.295715",
+  "generated_at": "2026-04-29T10:31:34.828083",
   "days_to_show": -13,
   "period_days": 7,
   "instagram": {
@@ -885,8 +885,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 5,
-        "comments_replied": 0,
+        "comments_received": 6,
+        "comments_replied": 1,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -895,9 +895,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 34,
-    "total_replied": 0,
-    "response_rate": 0,
+    "total_received": 35,
+    "total_replied": 1,
+    "response_rate": 3,
     "total_likes": 12,
     "today_grid": [
       {
@@ -906,6 +906,13 @@
         "received": 1,
         "replied": 0,
         "pending": 1
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 1,
+        "replied": 1,
+        "pending": 0
       }
     ],
     "trend": [
@@ -1011,12 +1018,18 @@
       },
       {
         "date": "2026-04-29",
-        "received": 1,
-        "replied": 0
+        "received": 2,
+        "replied": 1
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-04-29",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respondido comentario de @@renzoperotti1404 en El grito del león — La Saga (en vivo): Terrible versión!! 👏👏👏👏 Aguante La Saga 🙌🇺🇾 -> Gracias de corazón 🙌"
+    },
     {
       "date": "2026-04-17",
       "platform": "youtube",
@@ -1100,19 +1113,13 @@
       "platform": "youtube",
       "type": "reply",
       "description": "@veckemorales3792 en Color - transcribió letra completa"
-    },
-    {
-      "date": "2026-03-31",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "@andreseduardo600 en Estoy perdido - humor sobre baterista"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 0%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 3%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
