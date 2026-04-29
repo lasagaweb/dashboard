@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T22:00:43.936890",
-  "days_to_show": -12,
+  "generated_at": "2026-04-29T10:03:39.295715",
+  "days_to_show": -13,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-04-29",
@@ -142,7 +142,7 @@
     "subs_change": -1,
     "subs_pct": -0.1,
     "period_gained": 0,
-    "period_lost": 530,
+    "period_lost": 354,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -235,10 +235,10 @@
     "subs_prev": 3810,
     "subs_change": 0,
     "subs_pct": 0.0,
-    "period_views": 1163,
-    "period_likes": 11,
-    "period_shares": 12,
-    "period_watch_min": 3529.0,
+    "period_views": 1005,
+    "period_likes": 9,
+    "period_shares": 11,
+    "period_watch_min": 3062.0,
     "period_subs_net": 1,
     "unreplied_comments": 6,
     "top_traffic_source": "PLAYLIST",
@@ -610,7 +610,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 1,
+    "days_since_collection": 2,
     "trend": [
       {
         "date": "2026-02-18",
@@ -875,7 +875,7 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 24,
+        "comments_received": 25,
         "comments_replied": 0,
         "dms_received": 4,
         "dms_replied": 0,
@@ -895,11 +895,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 33,
+    "total_received": 34,
     "total_replied": 0,
     "response_rate": 0,
     "total_likes": 12,
-    "today_grid": [],
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 1,
+        "replied": 0,
+        "pending": 1
+      }
+    ],
     "trend": [
       {
         "date": "2026-03-30",
@@ -999,6 +1007,11 @@
       {
         "date": "2026-04-28",
         "received": 3,
+        "replied": 0
+      },
+      {
+        "date": "2026-04-29",
+        "received": 1,
         "replied": 0
       }
     ]
@@ -1517,7 +1530,7 @@
         "date_target": "Agosto/Septiembre 2026",
         "status": "researched",
         "contacted": null,
-        "notes": "Gestiona: Producciones Doble Cinco (@doblecinco_producciones IG, @saladelmuseo IG 67K). Cap 1100 (pie), 650 o 350 reducida. Artistas previos: Vela Puerca, La Beriso, Buenos Muchachos, Las Pelotas, SKAY. Email protegido por JS. Contactar via IG @doblecinco_producciones o email museodelcarnaval.org. Borrador de email listo, requiere OK Nico."
+        "notes": "29/04: contacto revalidado (contacto@museodelcarnaval.org / 2916 5493); sin agenda pública visible para ago/sep 2026; email de consulta actualizado pero no enviado por requerir OK explícito de Nico"
       },
       {
         "name": "Wannaclap",
@@ -1527,6 +1540,15 @@
         "status": "confirmed",
         "contacted": null,
         "notes": "Show principal La Saga Vuelve"
+      },
+      {
+        "name": "Sala Camacuá",
+        "city": "Montevideo",
+        "capacity": 0,
+        "date_target": "2do sem 2026",
+        "status": "identified",
+        "contacted": "",
+        "notes": "Venue activo; agenda pública muestra show cargado para 22 agosto 2026"
       },
       {
         "name": "Avril Festival",
@@ -1613,9 +1635,9 @@
     "by_status": {
       "researched": 1,
       "confirmed": 1,
-      "identified": 9
+      "identified": 10
     },
-    "total": 11
+    "total": 12
   },
   "upcoming": {
     "items": [],
