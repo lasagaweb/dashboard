@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T22:00:53.303902",
-  "days_to_show": -13,
+  "generated_at": "2026-04-30T10:01:44.510346",
+  "days_to_show": -14,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-04-30",
@@ -235,10 +235,10 @@
     "subs_prev": 3810,
     "subs_change": 0,
     "subs_pct": 0.0,
-    "period_views": 1200,
-    "period_likes": 13,
+    "period_views": 988,
+    "period_likes": 12,
     "period_shares": 17,
-    "period_watch_min": 3605.0,
+    "period_watch_min": 2908.0,
     "period_subs_net": 0,
     "unreplied_comments": 7,
     "top_traffic_source": "PLAYLIST",
@@ -610,7 +610,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 2,
+    "days_since_collection": 3,
     "trend": [
       {
         "date": "2026-02-18",
@@ -871,7 +871,7 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 26,
+        "comments_received": 27,
         "comments_replied": 0,
         "dms_received": 4,
         "dms_replied": 0,
@@ -891,11 +891,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 36,
+    "total_received": 37,
     "total_replied": 1,
     "response_rate": 3,
     "total_likes": 12,
-    "today_grid": [],
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 1,
+        "replied": 0,
+        "pending": 1
+      }
+    ],
     "trend": [
       {
         "date": "2026-03-31",
@@ -996,6 +1004,11 @@
         "date": "2026-04-29",
         "received": 3,
         "replied": 1
+      },
+      {
+        "date": "2026-04-30",
+        "received": 1,
+        "replied": 0
       }
     ]
   },
