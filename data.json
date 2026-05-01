@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T22:00:57.012153",
-  "days_to_show": -14,
+  "generated_at": "2026-05-01T10:04:54.662630",
+  "days_to_show": -15,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-05-01",
@@ -235,10 +235,10 @@
     "subs_prev": 3810,
     "subs_change": 0,
     "subs_pct": 0.0,
-    "period_views": 1155,
-    "period_likes": 16,
-    "period_shares": 17,
-    "period_watch_min": 3451.0,
+    "period_views": 926,
+    "period_likes": 14,
+    "period_shares": 12,
+    "period_watch_min": 2757.0,
     "period_subs_net": 0,
     "unreplied_comments": 7,
     "top_traffic_source": "PLAYLIST",
@@ -610,7 +610,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 3,
+    "days_since_collection": 4,
     "trend": [
       {
         "date": "2026-02-18",
@@ -867,10 +867,10 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 28,
-        "comments_replied": 0,
-        "dms_received": 5,
-        "dms_replied": 0,
+        "comments_received": 37,
+        "comments_replied": 6,
+        "dms_received": 7,
+        "dms_replied": 2,
         "mentions_received": 0,
         "mentions_replied": 0,
         "likes_given": 12,
@@ -887,11 +887,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 39,
-    "total_replied": 1,
-    "response_rate": 3,
+    "total_received": 50,
+    "total_replied": 9,
+    "response_rate": 18,
     "total_likes": 12,
-    "today_grid": [],
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 11,
+        "replied": 8,
+        "pending": 3
+      }
+    ],
     "trend": [
       {
         "date": "2026-04-01",
@@ -992,6 +1000,11 @@
         "date": "2026-04-30",
         "received": 3,
         "replied": 0
+      },
+      {
+        "date": "2026-05-01",
+        "received": 11,
+        "replied": 8
       }
     ]
   },
@@ -1091,7 +1104,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 3%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 18%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
