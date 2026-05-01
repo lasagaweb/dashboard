@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T12:00:30.220942",
+  "generated_at": "2026-05-01T13:00:32.919087",
   "days_to_show": -15,
   "period_days": 7,
   "instagram": {
@@ -232,95 +232,95 @@
     ]
   },
   "youtube": {
-    "last_date": "2026-04-30",
+    "last_date": "2026-05-01",
     "subscribers": 3810,
-    "total_views": 1566180,
-    "videos_count": 52,
+    "total_views": 1566481,
+    "videos_count": 53,
     "subs_prev": 3810,
     "subs_change": 0,
     "subs_pct": 0.0,
-    "period_views": 926,
-    "period_likes": 14,
-    "period_shares": 12,
-    "period_watch_min": 2757.0,
-    "period_subs_net": 0,
+    "period_views": 1170,
+    "period_likes": 22,
+    "period_shares": 14,
+    "period_watch_min": 3456.0,
+    "period_subs_net": 2,
     "unreplied_comments": 7,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 12123,
+    "top_traffic_views": 15140,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
-        "views": 45946
+        "views": 48963
       },
       {
         "source": "SUBSCRIBER",
-        "views": 16887
+        "views": 17861
       },
       {
         "source": "YT_SEARCH",
-        "views": 13443
+        "views": 14264
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 11231
+        "views": 11840
       },
       {
         "source": "SHORTS",
-        "views": 8660
+        "views": 10070
       },
       {
         "source": "YT_CHANNEL",
-        "views": 4063
+        "views": 4271
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 3293
+        "views": 3494
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 3104
+        "views": 3320
       },
       {
         "source": "EXT_URL",
-        "views": 2842
+        "views": 2996
       },
       {
         "source": "NOTIFICATION",
-        "views": 1339
+        "views": 1388
       },
       {
         "source": "END_SCREEN",
-        "views": 8
+        "views": 10
       }
     ],
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 502974,
+        "views": 503024,
         "likes": 2245,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 469636,
-        "likes": 2360,
+        "views": 469701,
+        "likes": 2361,
         "type": "Video"
       },
       {
         "title": "\"Errante\" (La Saga - \"INTIMO\")",
-        "views": 162973,
-        "likes": 704,
+        "views": 162988,
+        "likes": 705,
         "type": "Video"
       },
       {
         "title": "La Saga - Yo te quiero (Video Oficial)",
-        "views": 116474,
+        "views": 116478,
         "likes": 689,
         "type": "Video"
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 107734,
+        "views": 107757,
         "likes": 873,
         "type": "Video"
       }
@@ -340,7 +340,7 @@
       },
       {
         "date": "2026-04-03",
-        "views": 200,
+        "views": 201,
         "likes": 4,
         "net_subs": 1
       },
@@ -376,19 +376,19 @@
       },
       {
         "date": "2026-04-09",
-        "views": 1351,
+        "views": 1348,
         "likes": 11,
         "net_subs": 4
       },
       {
         "date": "2026-04-10",
-        "views": 351,
+        "views": 350,
         "likes": -1,
         "net_subs": 2
       },
       {
         "date": "2026-04-11",
-        "views": 383,
+        "views": 380,
         "likes": -1,
         "net_subs": -2
       },
@@ -424,7 +424,7 @@
       },
       {
         "date": "2026-04-17",
-        "views": 247,
+        "views": 246,
         "likes": 12,
         "net_subs": 3
       },
@@ -436,7 +436,7 @@
       },
       {
         "date": "2026-04-19",
-        "views": 202,
+        "views": 201,
         "likes": 1,
         "net_subs": -1
       },
@@ -487,6 +487,12 @@
         "views": 167,
         "likes": 4,
         "net_subs": 0
+      },
+      {
+        "date": "2026-04-28",
+        "views": 244,
+        "likes": 8,
+        "net_subs": 2
       }
     ]
   },
@@ -1921,6 +1927,6 @@
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-04-30T16:00:26.983272+00:00"
+    "youtube": "2026-05-01T16:00:32.667918+00:00"
   }
 }
