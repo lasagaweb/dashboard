@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T22:00:58.343073",
-  "days_to_show": -15,
+  "generated_at": "2026-05-02T10:01:22.462761",
+  "days_to_show": -16,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-05-02",
@@ -241,11 +241,11 @@
     "subs_prev": 3810,
     "subs_change": 0,
     "subs_pct": 0.0,
-    "period_views": 1170,
-    "period_likes": 22,
-    "period_shares": 14,
-    "period_watch_min": 3456.0,
-    "period_subs_net": 2,
+    "period_views": 849,
+    "period_likes": 18,
+    "period_shares": 8,
+    "period_watch_min": 2552.0,
+    "period_subs_net": 1,
     "unreplied_comments": 7,
     "top_traffic_source": "PLAYLIST",
     "top_traffic_views": 15140,
@@ -616,7 +616,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 4,
+    "days_since_collection": 5,
     "trend": [
       {
         "date": "2026-02-18",
@@ -869,8 +869,8 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 39,
-        "comments_replied": 6,
+        "comments_received": 42,
+        "comments_replied": 8,
         "dms_received": 7,
         "dms_replied": 2,
         "mentions_received": 0,
@@ -889,11 +889,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 52,
-    "total_replied": 9,
-    "response_rate": 17,
+    "total_received": 55,
+    "total_replied": 11,
+    "response_rate": 20,
     "total_likes": 12,
-    "today_grid": [],
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 3,
+        "replied": 2,
+        "pending": 1
+      }
+    ],
     "trend": [
       {
         "date": "2026-04-02",
@@ -994,6 +1002,11 @@
         "date": "2026-05-01",
         "received": 13,
         "replied": 8
+      },
+      {
+        "date": "2026-05-02",
+        "received": 3,
+        "replied": 2
       }
     ]
   },
@@ -1093,7 +1106,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 17%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 20%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
