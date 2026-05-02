@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T10:30:34.412968",
+  "generated_at": "2026-05-02T13:00:26.340395",
   "days_to_show": -16,
   "period_days": 7,
   "instagram": {
@@ -234,95 +234,95 @@
     ]
   },
   "youtube": {
-    "last_date": "2026-05-01",
+    "last_date": "2026-05-02",
     "subscribers": 3810,
-    "total_views": 1566481,
+    "total_views": 1566795,
     "videos_count": 53,
     "subs_prev": 3810,
     "subs_change": 0,
     "subs_pct": 0.0,
-    "period_views": 849,
-    "period_likes": 18,
-    "period_shares": 8,
-    "period_watch_min": 2552.0,
+    "period_views": 1113,
+    "period_likes": 22,
+    "period_shares": 11,
+    "period_watch_min": 3303.0,
     "period_subs_net": 1,
     "unreplied_comments": 7,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 15140,
+    "top_traffic_views": 18152,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
-        "views": 45889
+        "views": 48901
       },
       {
         "source": "SUBSCRIBER",
-        "views": 16681
+        "views": 17673
       },
       {
         "source": "YT_SEARCH",
-        "views": 13339
+        "views": 14160
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 11168
+        "views": 11757
       },
       {
         "source": "SHORTS",
-        "views": 9870
+        "views": 11279
       },
       {
         "source": "YT_CHANNEL",
-        "views": 3962
+        "views": 4185
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 3258
+        "views": 3466
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 3116
+        "views": 3328
       },
       {
         "source": "EXT_URL",
-        "views": 2789
+        "views": 2938
       },
       {
         "source": "NOTIFICATION",
-        "views": 1286
+        "views": 1338
       },
       {
         "source": "END_SCREEN",
-        "views": 10
+        "views": 12
       }
     ],
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 503024,
-        "likes": 2245,
+        "views": 503099,
+        "likes": 2244,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 469701,
+        "views": 469764,
         "likes": 2361,
         "type": "Video"
       },
       {
         "title": "\"Errante\" (La Saga - \"INTIMO\")",
-        "views": 162988,
+        "views": 163017,
         "likes": 705,
         "type": "Video"
       },
       {
         "title": "La Saga - Yo te quiero (Video Oficial)",
-        "views": 116478,
+        "views": 116486,
         "likes": 689,
         "type": "Video"
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 107757,
+        "views": 107776,
         "likes": 873,
         "type": "Video"
       }
@@ -336,7 +336,7 @@
       },
       {
         "date": "2026-04-03",
-        "views": 201,
+        "views": 200,
         "likes": 4,
         "net_subs": 1
       },
@@ -372,19 +372,19 @@
       },
       {
         "date": "2026-04-09",
-        "views": 1348,
+        "views": 1351,
         "likes": 11,
         "net_subs": 4
       },
       {
         "date": "2026-04-10",
-        "views": 350,
+        "views": 351,
         "likes": -1,
         "net_subs": 2
       },
       {
         "date": "2026-04-11",
-        "views": 380,
+        "views": 383,
         "likes": -1,
         "net_subs": -2
       },
@@ -420,7 +420,7 @@
       },
       {
         "date": "2026-04-17",
-        "views": 246,
+        "views": 247,
         "likes": 12,
         "net_subs": 3
       },
@@ -432,7 +432,7 @@
       },
       {
         "date": "2026-04-19",
-        "views": 201,
+        "views": 202,
         "likes": 1,
         "net_subs": -1
       },
@@ -489,6 +489,12 @@
         "views": 244,
         "likes": 8,
         "net_subs": 2
+      },
+      {
+        "date": "2026-04-29",
+        "views": 264,
+        "likes": 4,
+        "net_subs": 0
       }
     ]
   },
@@ -1925,6 +1931,6 @@
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-05-01T16:00:32.667918+00:00"
+    "youtube": "2026-05-02T16:00:26.183727+00:00"
   }
 }
