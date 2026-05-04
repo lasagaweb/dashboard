@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T13:00:35.017255",
+  "generated_at": "2026-05-04T16:33:20.744018",
   "days_to_show": -18,
   "period_days": 7,
   "instagram": {
@@ -1673,8 +1673,18 @@
     "total": 12
   },
   "upcoming": {
-    "items": [],
-    "source": "Dylan carga el plan los lunes y jueves"
+    "items": [
+      {
+        "id": 31,
+        "date": "2026-05-05",
+        "platform": "IG Feed/Reel",
+        "type": "Pieza humana",
+        "description": "Post breve post-WannaClap con narrativa de continuidad (\"esto sigue\") para testear conversación e intención hacia el próximo capítulo. Requiere OK de Nicolás + asset post-show/ensayo.",
+        "status": "blocked",
+        "platforms_done": []
+      }
+    ],
+    "source": "upcoming_content"
   },
   "financials": {
     "total_expenses": 0,
