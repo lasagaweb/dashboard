@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T17:01:41.698613",
+  "generated_at": "2026-05-05T17:31:31.220163",
   "days_to_show": -19,
   "period_days": 7,
   "instagram": {
@@ -876,8 +876,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 1,
-        "comments_replied": 1,
+        "comments_received": 2,
+        "comments_replied": 2,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -886,9 +886,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 49,
-    "total_replied": 19,
-    "response_rate": 39,
+    "total_received": 50,
+    "total_replied": 20,
+    "response_rate": 40,
     "total_likes": 10,
     "today_grid": [
       {
@@ -910,6 +910,13 @@
         "shift": "AM",
         "received": 0,
         "replied": 0,
+        "pending": 0
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
+        "received": 1,
+        "replied": 1,
         "pending": 0
       }
     ],
@@ -1016,12 +1023,18 @@
       },
       {
         "date": "2026-05-05",
-        "received": 5,
-        "replied": 0
+        "received": 6,
+        "replied": 1
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-05-05",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "PM: reply a @@diegoifer518 en \"LA SAGA -  \\\"Color\\\" - (Video Oficial)\": \"Deseando que llegue el 17/9. Arriba La Saga!\" -> \"Gracias por estar ahí. Abrazo grande.\""
+    },
     {
       "date": "2026-04-29",
       "platform": "youtube",
@@ -1105,19 +1118,13 @@
       "platform": "youtube",
       "type": "reply",
       "description": "@FABRI19022 en ONCE - elogio a música uruguaya"
-    },
-    {
-      "date": "2026-03-31",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "@veckemorales3792 en Color - transcribió letra completa"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 39%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 40%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
