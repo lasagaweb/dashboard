@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-04T22:01:04.080174",
-  "days_to_show": -18,
+  "generated_at": "2026-05-05T10:05:51.445528",
+  "days_to_show": -19,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-05-05",
     "followers": 5656,
     "reach": 5584,
     "accounts_engaged": 119,
-    "followers_prev": 5561,
-    "followers_change": 95,
-    "followers_pct": 1.7,
+    "followers_prev": 5595,
+    "followers_change": 61,
+    "followers_pct": 1.1,
     "period_posts": 4,
     "period_reach": 10259,
     "period_engagement": 803,
@@ -148,7 +148,7 @@
     "subs_change": -703,
     "subs_pct": -42.2,
     "period_gained": 0,
-    "period_lost": 555,
+    "period_lost": 378,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -245,14 +245,14 @@
     "subs_prev": 3810,
     "subs_change": 0,
     "subs_pct": 0.0,
-    "period_views": 1136,
-    "period_likes": 19,
+    "period_views": 969,
+    "period_likes": 15,
     "period_shares": 9,
-    "period_watch_min": 3168.0,
+    "period_watch_min": 2625.0,
     "period_subs_net": 3,
     "unreplied_comments": 7,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 24141,
+    "top_traffic_views": 21014,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
@@ -620,7 +620,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 7,
+    "days_since_collection": 8,
     "trend": [
       {
         "date": "2026-02-18",
@@ -860,13 +860,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 48,
+        "comments_received": 34,
         "comments_replied": 16,
-        "dms_received": 12,
+        "dms_received": 11,
         "dms_replied": 2,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 17,
+        "likes_given": 7,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -880,11 +880,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 61,
+    "total_received": 46,
     "total_replied": 19,
-    "response_rate": 31,
-    "total_likes": 17,
-    "today_grid": [],
+    "response_rate": 41,
+    "total_likes": 7,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 2,
+        "replied": 0,
+        "pending": 0
+      }
+    ],
     "trend": [
       {
         "date": "2026-04-05",
@@ -985,6 +993,11 @@
         "date": "2026-05-04",
         "received": 7,
         "replied": 1
+      },
+      {
+        "date": "2026-05-05",
+        "received": 2,
+        "replied": 0
       }
     ]
   },
@@ -1084,15 +1097,33 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 31%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 41%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
-    "total_contacts": 27,
+    "total_contacts": 29,
     "emails_sent": 8,
     "responses": 5,
     "coverage": 1,
     "recent_activity": [
+      {
+        "date": "2026-05-05",
+        "contact": "Alfonso Carbone",
+        "outlet": "Del Sol / escena rock uruguaya",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
+      {
+        "date": "2026-05-05",
+        "contact": "Magnolio Podcast",
+        "outlet": "Magnolio Podcast",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
       {
         "date": "2026-04-28",
         "contact": "Montevideo Portal / Beat",
@@ -1160,24 +1191,6 @@
         "date": "2026-04-07",
         "contact": "Radio Cultura",
         "outlet": "Medios Públicos",
-        "sent": 0,
-        "response": 0,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-03-31",
-        "contact": "Belén Fourment",
-        "outlet": "El País / Canal 4",
-        "sent": 0,
-        "response": 0,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-03-31",
-        "contact": "Javier Alfonso",
-        "outlet": "Búsqueda",
         "sent": 0,
         "response": 0,
         "published": 0,
