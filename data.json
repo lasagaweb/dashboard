@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T14:55:27.192725",
+  "generated_at": "2026-05-08T14:58:22.267772",
   "days_to_show": -22,
   "period_days": 7,
   "instagram": {
@@ -501,7 +501,7 @@
     "last_date": "2026-05-08",
     "monthly_listeners": 19701,
     "streams_28d": 85912,
-    "followers": 0,
+    "followers": 11000,
     "super_listeners": 433,
     "saves": 0,
     "playlist_adds": 0,
@@ -801,7 +801,7 @@
         "date": "2026-05-08",
         "listeners": 19701,
         "streams": 85912,
-        "followers": 0
+        "followers": 11000
       }
     ]
   },
