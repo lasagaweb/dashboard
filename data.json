@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T14:47:48.289651",
+  "generated_at": "2026-05-08T14:51:31.303851",
   "days_to_show": -22,
   "period_days": 7,
   "instagram": {
@@ -877,8 +877,8 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 1,
-        "comments_replied": 1,
+        "comments_received": 2,
+        "comments_replied": 2,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
@@ -887,9 +887,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 47,
-    "total_replied": 20,
-    "response_rate": 43,
+    "total_received": 48,
+    "total_replied": 21,
+    "response_rate": 44,
     "total_likes": 12,
     "today_grid": [
       {
@@ -898,6 +898,13 @@
         "received": 6,
         "replied": 1,
         "pending": 3
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 1,
+        "replied": 1,
+        "pending": 0
       }
     ],
     "trend": [
@@ -993,12 +1000,18 @@
       },
       {
         "date": "2026-05-08",
-        "received": 6,
-        "replied": 1
+        "received": 7,
+        "replied": 2
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-05-08",
+      "platform": "youtube",
+      "type": "reply",
+      "description": "Respuesta a @@SalvandoLibros en La Saga - Buscando Espacio (acústico en vivo)."
+    },
     {
       "date": "2026-05-05",
       "platform": "youtube",
@@ -1082,19 +1095,13 @@
       "platform": "youtube",
       "type": "scan",
       "description": "PM scan: 608 threads, 0 unreplied"
-    },
-    {
-      "date": "2026-03-31",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "@FABRI19022 en ONCE - elogio a música uruguaya"
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 43%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 44%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
