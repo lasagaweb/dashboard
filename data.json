@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T14:23:31.493677",
+  "generated_at": "2026-05-08T14:40:35.362173",
   "days_to_show": -22,
   "period_days": 7,
   "instagram": {
@@ -137,13 +137,13 @@
     ]
   },
   "email": {
-    "last_date": "2026-05-04",
+    "last_date": "2026-05-08",
     "total_subs": 964,
     "subs_prev": 1667,
     "subs_change": -703,
     "subs_pct": -42.2,
     "period_gained": 0,
-    "period_lost": 201,
+    "period_lost": 213,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -225,99 +225,103 @@
       {
         "date": "2026-05-04",
         "subs": 964
+      },
+      {
+        "date": "2026-05-08",
+        "subs": 964
       }
     ]
   },
   "youtube": {
-    "last_date": "2026-05-05",
+    "last_date": "2026-05-08",
     "subscribers": 3820,
-    "total_views": 1567147,
+    "total_views": 1567834,
     "videos_count": 53,
     "subs_prev": 3810,
     "subs_change": 10,
     "subs_pct": 0.3,
-    "period_views": 441,
-    "period_likes": 0,
-    "period_shares": 5,
-    "period_watch_min": 1107.0,
-    "period_subs_net": 1,
-    "unreplied_comments": 7,
+    "period_views": 1040,
+    "period_likes": 14,
+    "period_shares": 7,
+    "period_watch_min": 2797.0,
+    "period_subs_net": 4,
+    "unreplied_comments": 9,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 14975,
+    "top_traffic_views": 17917,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
-        "views": 45555
+        "views": 48497
       },
       {
         "source": "SUBSCRIBER",
-        "views": 16037
+        "views": 16967
       },
       {
         "source": "SHORTS",
-        "views": 15230
+        "views": 16643
       },
       {
         "source": "YT_SEARCH",
-        "views": 12982
+        "views": 13793
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 10385
+        "views": 10929
       },
       {
         "source": "YT_CHANNEL",
-        "views": 3661
+        "views": 3868
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 3211
+        "views": 3409
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 3167
+        "views": 3383
       },
       {
         "source": "EXT_URL",
-        "views": 2600
+        "views": 2726
       },
       {
         "source": "NOTIFICATION",
-        "views": 1107
+        "views": 1148
       },
       {
         "source": "END_SCREEN",
-        "views": 18
+        "views": 20
       }
     ],
     "top_videos": [
       {
         "title": "LA SAGA -  \"Color\" - (Video Oficial)",
-        "views": 503265,
-        "likes": 2246,
+        "views": 503457,
+        "likes": 2247,
         "type": "Video"
       },
       {
         "title": "LA SAGA - ONCE",
-        "views": 469941,
-        "likes": 2363,
+        "views": 470104,
+        "likes": 2365,
         "type": "Video"
       },
       {
         "title": "\"Errante\" (La Saga - \"INTIMO\")",
-        "views": 163074,
+        "views": 163137,
         "likes": 705,
         "type": "Video"
       },
       {
         "title": "La Saga - Yo te quiero (Video Oficial)",
-        "views": 116501,
+        "views": 116517,
         "likes": 689,
         "type": "Video"
       },
       {
         "title": "La Saga - Vos  (video oficial)",
-        "views": 107838,
+        "views": 107881,
         "likes": 874,
         "type": "Video"
       }
@@ -331,19 +335,19 @@
       },
       {
         "date": "2026-04-09",
-        "views": 1351,
+        "views": 1348,
         "likes": 11,
         "net_subs": 4
       },
       {
         "date": "2026-04-10",
-        "views": 351,
+        "views": 350,
         "likes": -1,
         "net_subs": 2
       },
       {
         "date": "2026-04-11",
-        "views": 383,
+        "views": 380,
         "likes": -1,
         "net_subs": -2
       },
@@ -379,7 +383,7 @@
       },
       {
         "date": "2026-04-17",
-        "views": 247,
+        "views": 246,
         "likes": 12,
         "net_subs": 3
       },
@@ -391,7 +395,7 @@
       },
       {
         "date": "2026-04-19",
-        "views": 202,
+        "views": 201,
         "likes": 1,
         "net_subs": -1
       },
@@ -427,7 +431,7 @@
       },
       {
         "date": "2026-04-25",
-        "views": 243,
+        "views": 242,
         "likes": 2,
         "net_subs": 0
       },
@@ -472,22 +476,40 @@
         "views": 188,
         "likes": 1,
         "net_subs": 1
+      },
+      {
+        "date": "2026-05-03",
+        "views": 161,
+        "likes": 1,
+        "net_subs": 1
+      },
+      {
+        "date": "2026-05-04",
+        "views": 249,
+        "likes": 7,
+        "net_subs": 2
+      },
+      {
+        "date": "2026-05-05",
+        "views": 189,
+        "likes": 6,
+        "net_subs": 0
       }
     ]
   },
   "spotify": {
-    "last_date": "2026-04-27",
-    "monthly_listeners": 19937,
-    "streams_28d": 88811,
-    "followers": 11000,
-    "super_listeners": 416,
-    "saves": 650,
-    "playlist_adds": 837,
+    "last_date": "2026-05-08",
+    "monthly_listeners": 19701,
+    "streams_28d": 85912,
+    "followers": 0,
+    "super_listeners": 433,
+    "saves": 0,
+    "playlist_adds": 0,
     "listeners_prev": 19937,
-    "listeners_change": 0,
-    "listeners_pct": 0.0,
+    "listeners_change": -236,
+    "listeners_pct": -1.2,
     "streams_prev": 88811,
-    "streams_change": 0,
+    "streams_change": -2899,
     "top_tracks": [
       {
         "name": "Color",
@@ -599,7 +621,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 11,
+    "days_since_collection": 0,
     "trend": [
       {
         "date": "2026-02-18",
@@ -774,6 +796,12 @@
         "listeners": 19937,
         "streams": 88811,
         "followers": 11000
+      },
+      {
+        "date": "2026-05-08",
+        "listeners": 19701,
+        "streams": 85912,
+        "followers": 0
       }
     ]
   },
@@ -839,13 +867,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 33,
-        "comments_replied": 16,
-        "dms_received": 7,
+        "comments_received": 38,
+        "comments_replied": 17,
+        "dms_received": 8,
         "dms_replied": 2,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 10,
+        "likes_given": 12,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -859,11 +887,19 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 41,
-    "total_replied": 19,
-    "response_rate": 46,
-    "total_likes": 10,
-    "today_grid": [],
+    "total_received": 47,
+    "total_replied": 20,
+    "response_rate": 43,
+    "total_likes": 12,
+    "today_grid": [
+      {
+        "platform": "instagram",
+        "shift": "AM",
+        "received": 6,
+        "replied": 1,
+        "pending": 3
+      }
+    ],
     "trend": [
       {
         "date": "2026-04-08",
@@ -952,6 +988,11 @@
       },
       {
         "date": "2026-05-05",
+        "received": 6,
+        "replied": 1
+      },
+      {
+        "date": "2026-05-08",
         "received": 6,
         "replied": 1
       }
@@ -1053,7 +1094,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 46%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 43%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
@@ -1525,6 +1566,15 @@
         "notes": "Show principal La Saga Vuelve"
       },
       {
+        "name": "Festi Corchea 2026",
+        "city": "Montevideo",
+        "capacity": 0,
+        "date_target": "Dic 2026",
+        "status": "identified",
+        "contacted": "",
+        "notes": "Festival de Corchea. Artículo 18/12/2025 cierra con: En 2026 se viene más Festi Corchea"
+      },
+      {
         "name": "Sala Camacuá",
         "city": "Montevideo",
         "capacity": 0,
@@ -1618,9 +1668,9 @@
     "by_status": {
       "researched": 1,
       "confirmed": 1,
-      "identified": 10
+      "identified": 11
     },
-    "total": 12
+    "total": 13
   },
   "upcoming": {
     "items": [
@@ -1893,12 +1943,12 @@
   "platform_status": {
     "instagram": "2026-05-08T17:23:31.274570+00:00",
     "spotify": null,
-    "emailoctopus": "2026-05-04T15:00:30.421157+00:00",
+    "emailoctopus": "2026-05-08T17:26:58.606377+00:00",
     "twitter": null,
     "tiktok": null,
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-05-05T16:00:33.898575+00:00"
+    "youtube": "2026-05-08T17:27:08.001620+00:00"
   }
 }
