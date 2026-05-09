@@ -1,30 +1,25 @@
 {
-  "generated_at": "2026-05-08T17:30:43.973563",
-  "days_to_show": -22,
+  "generated_at": "2026-05-09T10:01:23.451403",
+  "days_to_show": -23,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-05-08",
     "followers": 5660,
     "reach": 3555,
     "accounts_engaged": 115,
-    "followers_prev": 5644,
-    "followers_change": 16,
-    "followers_pct": 0.3,
-    "period_posts": 5,
-    "period_reach": 11780,
-    "period_engagement": 906,
+    "followers_prev": 5651,
+    "followers_change": 9,
+    "followers_pct": 0.2,
+    "period_posts": 4,
+    "period_reach": 7853,
+    "period_engagement": 534,
     "top_post": {
-      "date": "2026-05-01",
-      "type": "carousel",
-      "caption": "En 24 horas se agotó la primera tanda de la preventa exclusiva.\nGracias. De verd",
-      "reach": 3927
+      "date": "2026-05-02",
+      "type": "reel",
+      "caption": "La Saga vuelve.\nSala del Museo • 17 de septiembre • 20 hs. \nPreventa exclusiva a",
+      "reach": 3289
     },
     "trend": [
-      {
-        "date": "2026-04-08",
-        "followers": 5226,
-        "reach": 6160
-      },
       {
         "date": "2026-04-09",
         "followers": 5227,
@@ -143,7 +138,7 @@
     "subs_change": -703,
     "subs_pct": -42.2,
     "period_gained": 0,
-    "period_lost": 213,
+    "period_lost": 36,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -178,10 +173,6 @@
     "avg_click_pct": 14.3,
     "total_campaigns": 3,
     "trend": [
-      {
-        "date": "2026-04-08",
-        "subs": 1669
-      },
       {
         "date": "2026-04-10",
         "subs": 1668
@@ -240,54 +231,54 @@
     "subs_prev": 3810,
     "subs_change": 10,
     "subs_pct": 0.3,
-    "period_views": 1040,
-    "period_likes": 14,
-    "period_shares": 7,
-    "period_watch_min": 2797.0,
+    "period_views": 787,
+    "period_likes": 15,
+    "period_shares": 3,
+    "period_watch_min": 2189.0,
     "period_subs_net": 4,
     "unreplied_comments": 9,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 17917,
+    "top_traffic_views": 14900,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
-        "views": 48497
-      },
-      {
-        "source": "SUBSCRIBER",
-        "views": 16967
+        "views": 45444
       },
       {
         "source": "SHORTS",
-        "views": 16643
+        "views": 16633
+      },
+      {
+        "source": "SUBSCRIBER",
+        "views": 15798
       },
       {
         "source": "YT_SEARCH",
-        "views": 13793
+        "views": 12858
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 10929
+        "views": 10123
       },
       {
         "source": "YT_CHANNEL",
-        "views": 3868
-      },
-      {
-        "source": "NO_LINK_OTHER",
-        "views": 3409
+        "views": 3573
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 3383
+        "views": 3189
+      },
+      {
+        "source": "NO_LINK_OTHER",
+        "views": 3182
       },
       {
         "source": "EXT_URL",
-        "views": 2726
+        "views": 2524
       },
       {
         "source": "NOTIFICATION",
-        "views": 1148
+        "views": 1048
       },
       {
         "source": "END_SCREEN",
@@ -327,12 +318,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-04-08",
-        "views": 210,
-        "likes": 8,
-        "net_subs": 0
-      },
       {
         "date": "2026-04-09",
         "views": 1348,
@@ -621,7 +606,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 0,
+    "days_since_collection": 1,
     "trend": [
       {
         "date": "2026-02-18",
@@ -867,13 +852,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 43,
-        "comments_replied": 17,
-        "dms_received": 8,
-        "dms_replied": 2,
+        "comments_received": 40,
+        "comments_replied": 13,
+        "dms_received": 6,
+        "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 12,
+        "likes_given": 15,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -887,46 +872,20 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 53,
-    "total_replied": 21,
-    "response_rate": 40,
-    "total_likes": 12,
+    "total_received": 48,
+    "total_replied": 15,
+    "response_rate": 31,
+    "total_likes": 15,
     "today_grid": [
       {
         "platform": "instagram",
         "shift": "AM",
-        "received": 6,
-        "replied": 1,
+        "received": 8,
+        "replied": 2,
         "pending": 3
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 5,
-        "replied": 0,
-        "pending": 4
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 1,
-        "replied": 1,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
       }
     ],
     "trend": [
-      {
-        "date": "2026-04-08",
-        "received": 14,
-        "replied": 2
-      },
       {
         "date": "2026-04-09",
         "received": 9,
@@ -1015,6 +974,11 @@
       {
         "date": "2026-05-08",
         "received": 12,
+        "replied": 2
+      },
+      {
+        "date": "2026-05-09",
+        "received": 8,
         "replied": 2
       }
     ]
@@ -1115,7 +1079,7 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 40%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 31%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
@@ -1560,6 +1524,12 @@
       },
       {
         "date": "2026-05-08",
+        "sent": 8,
+        "responses": 5,
+        "coverage": 1
+      },
+      {
+        "date": "2026-05-09",
         "sent": 8,
         "responses": 5,
         "coverage": 1
