@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T10:30:55.067693",
+  "generated_at": "2026-05-11T16:31:59.478153",
   "days_to_show": -25,
   "period_days": 7,
   "instagram": {
@@ -220,12 +220,12 @@
   },
   "youtube": {
     "last_date": "2026-05-11",
-    "subscribers": 0,
-    "total_views": 0,
-    "videos_count": 0,
+    "subscribers": 3820,
+    "total_views": 1567834,
+    "videos_count": 53,
     "subs_prev": 3810,
-    "subs_change": -3810,
-    "subs_pct": -100.0,
+    "subs_change": 10,
+    "subs_pct": 0.3,
     "period_views": 0,
     "period_likes": 0,
     "period_shares": 0,
@@ -477,6 +477,12 @@
       },
       {
         "date": "2026-05-08",
+        "views": 0,
+        "likes": 0,
+        "net_subs": 0
+      },
+      {
+        "date": "2026-05-09",
         "views": 0,
         "likes": 0,
         "net_subs": 0
@@ -1960,6 +1966,6 @@
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-05-11T11:03:28.368053+00:00"
+    "youtube": "2026-05-11T19:31:17.151362+00:00"
   }
 }
