@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T17:01:24.094142",
+  "generated_at": "2026-05-12T17:30:51.158156",
   "days_to_show": -26,
   "period_days": 7,
   "instagram": {
@@ -858,7 +858,7 @@
         "response_time_avg_min": 0
       },
       "youtube": {
-        "comments_received": 6,
+        "comments_received": 8,
         "comments_replied": 2,
         "dms_received": 0,
         "dms_replied": 0,
@@ -868,9 +868,9 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 45,
+    "total_received": 47,
     "total_replied": 9,
-    "response_rate": 20,
+    "response_rate": 19,
     "total_likes": 13,
     "today_grid": [
       {
@@ -890,6 +890,13 @@
       {
         "platform": "youtube",
         "shift": "AM",
+        "received": 2,
+        "replied": 0,
+        "pending": 2
+      },
+      {
+        "platform": "youtube",
+        "shift": "PM",
         "received": 2,
         "replied": 0,
         "pending": 2
@@ -988,12 +995,24 @@
       },
       {
         "date": "2026-05-12",
-        "received": 3,
+        "received": 5,
         "replied": 1
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-05-12",
+      "platform": "youtube",
+      "type": "pending_human",
+      "description": "@@odegaard.n8 en LA SAGA - ONCE: 10/05/2026"
+    },
+    {
+      "date": "2026-05-12",
+      "platform": "youtube",
+      "type": "pending_human",
+      "description": "@@MacarenaVeraOk en CELESTE Y VERDE (LA SAGA Y RIO+VOS): que buena cancion, quienes son las voces? excelente videoclip"
+    },
     {
       "date": "2026-05-12",
       "platform": "youtube",
@@ -1071,25 +1090,13 @@
       "platform": "youtube",
       "type": "scan",
       "description": "PM YT: 617 hilos escaneados, 1 comentario pendiente sin responder por regla absoluta (@@iron2156: \"ay miguel\" en La Saga - Buscando Espacio (acústico en vivo).)"
-    },
-    {
-      "date": "2026-04-08",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "Respuesta a @GabiCorboFotografo en Color — La Saga (en vivo): Gracias por estar ahí y por dejar algo tan sentido. Abrazo grande 🖤"
-    },
-    {
-      "date": "2026-04-06",
-      "platform": "youtube",
-      "type": "scan",
-      "description": "PM YT: script con invalid_grant; fallback en Studio mostró 5 comentarios sin responder en Color — La Saga (en vivo), bloqueado por verificación adicional \"Verifica que eres tú\"."
     }
   ],
   "suggestions": [
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 20%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 19%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
