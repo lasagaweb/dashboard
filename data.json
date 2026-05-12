@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T10:31:36.704345",
+  "generated_at": "2026-05-12T16:32:17.434398",
   "days_to_show": -26,
   "period_days": 7,
   "instagram": {
@@ -988,6 +988,18 @@
   },
   "community_log": [
     {
+      "date": "2026-05-12",
+      "platform": "youtube",
+      "type": "pending_human",
+      "description": "AM: escalado a Nicolás comentario de @@odegaard.n8 en \"LA SAGA - ONCE\": \"10/05/2026\""
+    },
+    {
+      "date": "2026-05-12",
+      "platform": "youtube",
+      "type": "pending_human",
+      "description": "AM: escalado a Nicolás comentario de @@MacarenaVeraOk en \"CELESTE Y VERDE (LA SAGA Y RIO+VOS)\": \"que buena cancion, quienes son las voces? excelente videoclip\""
+    },
+    {
       "date": "2026-05-11",
       "platform": "youtube",
       "type": "pending_human",
@@ -1064,18 +1076,6 @@
       "platform": "youtube",
       "type": "scan",
       "description": "PM YT: script con invalid_grant; fallback en Studio mostró 5 comentarios sin responder en Color — La Saga (en vivo), bloqueado por verificación adicional \"Verifica que eres tú\"."
-    },
-    {
-      "date": "2026-04-05",
-      "platform": "youtube",
-      "type": "reply",
-      "description": "PM YT: respondidos 2 comentarios en Color — La Saga (en vivo) via YouTube Studio; script falló con invalid_grant"
-    },
-    {
-      "date": "2026-04-04",
-      "platform": "youtube",
-      "type": "scan",
-      "description": "Ronda AM: 608 hilos escaneados, 0 sin responder"
     }
   ],
   "suggestions": [
