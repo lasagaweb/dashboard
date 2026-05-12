@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-05-11T17:31:16.692687",
-  "days_to_show": -25,
+  "generated_at": "2026-05-12T10:09:20.959572",
+  "days_to_show": -26,
   "period_days": 7,
   "instagram": {
     "last_date": "2026-05-11",
     "followers": 5669,
     "reach": 9950,
     "accounts_engaged": 77,
-    "followers_prev": 5658,
-    "followers_change": 11,
+    "followers_prev": 5656,
+    "followers_change": 13,
     "followers_pct": 0.2,
     "period_posts": 2,
     "period_reach": 5302,
@@ -20,11 +20,6 @@
       "reach": 3309
     },
     "trend": [
-      {
-        "date": "2026-04-11",
-        "followers": 5226,
-        "reach": 1845
-      },
       {
         "date": "2026-04-12",
         "followers": 5228,
@@ -133,7 +128,7 @@
     "subs_change": 0,
     "subs_pct": 0.0,
     "period_gained": 0,
-    "period_lost": 36,
+    "period_lost": 24,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -223,9 +218,9 @@
     "subscribers": 3820,
     "total_views": 1567834,
     "videos_count": 53,
-    "subs_prev": 3810,
-    "subs_change": 10,
-    "subs_pct": 0.3,
+    "subs_prev": 3820,
+    "subs_change": 0,
+    "subs_pct": 0.0,
     "period_views": 0,
     "period_likes": 0,
     "period_shares": 0,
@@ -233,47 +228,47 @@
     "period_subs_net": 0,
     "unreplied_comments": 9,
     "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 8904,
+    "top_traffic_views": 5899,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
-        "views": 39330
+        "views": 36285
       },
       {
         "source": "SHORTS",
-        "views": 16609
+        "views": 16597
       },
       {
         "source": "SUBSCRIBER",
-        "views": 13389
+        "views": 12176
       },
       {
         "source": "YT_SEARCH",
-        "views": 11058
+        "views": 10156
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 8490
+        "views": 7680
       },
       {
         "source": "YT_CHANNEL",
-        "views": 3006
+        "views": 2750
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 2803
+        "views": 2612
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 2728
+        "views": 2506
       },
       {
         "source": "EXT_URL",
-        "views": 2098
+        "views": 1902
       },
       {
         "source": "NOTIFICATION",
-        "views": 842
+        "views": 737
       },
       {
         "source": "END_SCREEN",
@@ -313,12 +308,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-04-11",
-        "views": 0,
-        "likes": 0,
-        "net_subs": 0
-      },
       {
         "date": "2026-04-12",
         "views": 0,
@@ -613,7 +602,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 3,
+    "days_since_collection": 4,
     "trend": [
       {
         "date": "2026-02-18",
@@ -859,13 +848,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 42,
+        "comments_received": 38,
         "comments_replied": 7,
-        "dms_received": 3,
+        "dms_received": 1,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 17,
+        "likes_given": 13,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -879,46 +868,20 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 49,
+    "total_received": 43,
     "total_replied": 9,
-    "response_rate": 18,
-    "total_likes": 17,
+    "response_rate": 21,
+    "total_likes": 13,
     "today_grid": [
       {
         "platform": "instagram",
         "shift": "AM",
-        "received": 2,
-        "replied": 2,
-        "pending": 0
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
         "received": 1,
-        "replied": 0,
-        "pending": 1
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 1,
-        "replied": 0,
-        "pending": 1
+        "replied": 1,
+        "pending": 0
       }
     ],
     "trend": [
-      {
-        "date": "2026-04-11",
-        "received": 13,
-        "replied": 2
-      },
       {
         "date": "2026-04-12",
         "received": 11,
@@ -1008,6 +971,11 @@
         "date": "2026-05-11",
         "received": 4,
         "replied": 2
+      },
+      {
+        "date": "2026-05-12",
+        "received": 1,
+        "replied": 1
       }
     ]
   },
@@ -1107,15 +1075,42 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 18%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 21%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
-    "total_contacts": 29,
+    "total_contacts": 32,
     "emails_sent": 8,
     "responses": 5,
     "coverage": 1,
     "recent_activity": [
+      {
+        "date": "2026-05-12",
+        "contact": "Magnolio Podcast",
+        "outlet": "Magnolio Podcast",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
+      {
+        "date": "2026-05-12",
+        "contact": "Metrónomo",
+        "outlet": "Metrónomo",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
+      {
+        "date": "2026-05-12",
+        "contact": "Radio Cultura / Medios Públicos",
+        "outlet": "Radio Cultura / Medios Públicos",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
       {
         "date": "2026-05-05",
         "contact": "Alfonso Carbone",
@@ -1174,33 +1169,6 @@
         "date": "2026-04-14",
         "contact": "Uruguay Rock",
         "outlet": "Uruguay Rock",
-        "sent": 0,
-        "response": 0,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-04-07",
-        "contact": "Fernán Cisnero",
-        "outlet": "El País / TVShow",
-        "sent": 0,
-        "response": 0,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-04-07",
-        "contact": "Federico Medina",
-        "outlet": "La Diaria",
-        "sent": 0,
-        "response": 0,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-04-07",
-        "contact": "Radio Cultura",
-        "outlet": "Medios Públicos",
         "sent": 0,
         "response": 0,
         "published": 0,
@@ -1570,6 +1538,12 @@
       },
       {
         "date": "2026-05-11",
+        "sent": 8,
+        "responses": 5,
+        "coverage": 1
+      },
+      {
+        "date": "2026-05-12",
         "sent": 8,
         "responses": 5,
         "coverage": 1
