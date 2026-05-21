@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T09:59:52.629513",
+  "generated_at": "2026-05-21T10:06:26.038265",
   "days_to_show": -35,
   "period_days": 7,
   "instagram": {
@@ -823,13 +823,13 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 9,
-        "comments_replied": 7,
+        "comments_received": 2,
+        "comments_replied": 0,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 1,
+        "likes_given": 0,
         "response_time_avg_min": 0
       },
       "youtube": {
@@ -843,17 +843,17 @@
         "response_time_avg_min": 0
       }
     },
-    "total_received": 11,
-    "total_replied": 7,
-    "response_rate": 64,
-    "total_likes": 1,
+    "total_received": 4,
+    "total_replied": 0,
+    "response_rate": 0,
+    "total_likes": 0,
     "today_grid": [
       {
         "platform": "instagram",
         "shift": "AM",
-        "received": 8,
-        "replied": 7,
-        "pending": 1
+        "received": 1,
+        "replied": 0,
+        "pending": 0
       },
       {
         "platform": "instagram",
@@ -948,8 +948,8 @@
       },
       {
         "date": "2026-05-21",
-        "received": 11,
-        "replied": 7
+        "received": 4,
+        "replied": 0
       }
     ]
   },
@@ -1049,15 +1049,24 @@
     {
       "priority": "alta",
       "area": "Comunidad",
-      "text": "Tasa de respuesta en 64%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "text": "Tasa de respuesta en 0%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
-    "total_contacts": 32,
+    "total_contacts": 33,
     "emails_sent": 8,
     "responses": 5,
     "coverage": 1,
     "recent_activity": [
+      {
+        "date": "2026-05-21",
+        "contact": "Rodrigo Guerra",
+        "outlet": "El País",
+        "sent": 0,
+        "response": 0,
+        "published": 0,
+        "url": ""
+      },
       {
         "date": "2026-05-12",
         "contact": "Magnolio Podcast",
@@ -1135,15 +1144,6 @@
         "contact": "Belén Fourment",
         "outlet": "El País / Canal 4",
         "sent": 1,
-        "response": 0,
-        "published": 0,
-        "url": ""
-      },
-      {
-        "date": "2026-04-14",
-        "contact": "Uruguay Rock",
-        "outlet": "Uruguay Rock",
-        "sent": 0,
         "response": 0,
         "published": 0,
         "url": ""
