@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T09:54:42.639102",
+  "generated_at": "2026-05-21T09:55:59.418611",
   "days_to_show": -35,
   "period_days": 7,
   "instagram": {
@@ -831,11 +831,21 @@
         "mentions_replied": 0,
         "likes_given": 1,
         "response_time_avg_min": 0
+      },
+      "youtube": {
+        "comments_received": 2,
+        "comments_replied": 0,
+        "dms_received": 0,
+        "dms_replied": 0,
+        "mentions_received": 0,
+        "mentions_replied": 0,
+        "likes_given": 0,
+        "response_time_avg_min": 0
       }
     },
-    "total_received": 8,
+    "total_received": 10,
     "total_replied": 7,
-    "response_rate": 88,
+    "response_rate": 70,
     "total_likes": 1,
     "today_grid": [
       {
@@ -844,6 +854,13 @@
         "received": 8,
         "replied": 7,
         "pending": 1
+      },
+      {
+        "platform": "youtube",
+        "shift": "AM",
+        "received": 2,
+        "replied": 0,
+        "pending": 2
       }
     ],
     "trend": [
@@ -924,12 +941,18 @@
       },
       {
         "date": "2026-05-21",
-        "received": 8,
+        "received": 10,
         "replied": 7
       }
     ]
   },
   "community_log": [
+    {
+      "date": "2026-05-21",
+      "platform": "youtube",
+      "type": "pending_human",
+      "description": "AM 2026-05-21: 2 comentarios ambiguos reportados a Nicolás por Telegram y no respondidos"
+    },
     {
       "date": "2026-05-12",
       "platform": "youtube",
@@ -1013,19 +1036,13 @@
       "platform": "youtube",
       "type": "reply",
       "description": "AM: respuesta a @@1290Nela en La Saga - Gira por Argentina / video de Color #shorts: Gracias por estar ahí ❤"
-    },
-    {
-      "date": "2026-04-09",
-      "platform": "youtube",
-      "type": "scan",
-      "description": "PM YT: 617 hilos escaneados, 1 comentario pendiente sin responder por regla absoluta (@@iron2156: \"ay miguel\" en La Saga - Buscando Espacio (acústico en vivo).)"
     }
   ],
   "suggestions": [
     {
-      "priority": "info",
-      "area": "General",
-      "text": "Todo en orden. Mantener el ritmo actual de contenido y comunidad."
+      "priority": "alta",
+      "area": "Comunidad",
+      "text": "Tasa de respuesta en 70%. Objetivo: >80%. Aumentar rondas de comunidad."
     }
   ],
   "press": {
