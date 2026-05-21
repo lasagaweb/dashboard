@@ -1,45 +1,25 @@
 {
-  "generated_at": "2026-05-12T17:30:51.158156",
-  "days_to_show": -26,
+  "generated_at": "2026-05-21T09:54:42.639102",
+  "days_to_show": -35,
   "period_days": 7,
   "instagram": {
-    "last_date": "2026-05-11",
-    "followers": 5669,
-    "reach": 9950,
-    "accounts_engaged": 77,
-    "followers_prev": 5656,
-    "followers_change": 13,
-    "followers_pct": 0.2,
+    "last_date": "2026-05-21",
+    "followers": 5724,
+    "reach": 6829,
+    "accounts_engaged": 241,
+    "followers_prev": 5669,
+    "followers_change": 55,
+    "followers_pct": 1.0,
     "period_posts": 2,
-    "period_reach": 5302,
-    "period_engagement": 158,
+    "period_reach": 4097,
+    "period_engagement": 250,
     "top_post": {
-      "date": "2026-05-08",
+      "date": "2026-05-14",
       "type": "reel",
-      "caption": "No nos acordamos las canciones, hay un perro ensayando y uno de nosotros parece ",
-      "reach": 3309
+      "caption": "Algunas cosas nunca se van y otras vuelven cuando nadie lo espera \n\nEntradas en ",
+      "reach": 3324
     },
     "trend": [
-      {
-        "date": "2026-04-12",
-        "followers": 5228,
-        "reach": 1845
-      },
-      {
-        "date": "2026-04-13",
-        "followers": 5239,
-        "reach": 2373
-      },
-      {
-        "date": "2026-04-14",
-        "followers": 5258,
-        "reach": 5465
-      },
-      {
-        "date": "2026-04-17",
-        "followers": 5344,
-        "reach": 4607
-      },
       {
         "date": "2026-04-21",
         "followers": 5443,
@@ -104,31 +84,36 @@
         "date": "2026-05-11",
         "followers": 5669,
         "reach": 9950
+      },
+      {
+        "date": "2026-05-21",
+        "followers": 5724,
+        "reach": 6829
       }
     ],
     "post_types": [
       {
         "type": "carousel",
         "posts": 1,
-        "avg_reach": 3948.0,
-        "avg_engagement": 372.0
+        "avg_reach": 4017.0,
+        "avg_engagement": 374.0
       },
       {
         "type": "reel",
-        "posts": 5,
-        "avg_reach": 2462.0,
-        "avg_engagement": 133.0
+        "posts": 7,
+        "avg_reach": 2601.0,
+        "avg_engagement": 138.0
       }
     ]
   },
   "email": {
-    "last_date": "2026-05-11",
+    "last_date": "2026-05-21",
     "total_subs": 964,
     "subs_prev": 964,
     "subs_change": 0,
     "subs_pct": 0.0,
     "period_gained": 0,
-    "period_lost": 24,
+    "period_lost": 12,
     "campaigns": [
       {
         "name": "Ya no saben qué decir - exclusivo lista del reencuentro",
@@ -164,18 +149,6 @@
     "total_campaigns": 3,
     "trend": [
       {
-        "date": "2026-04-12",
-        "subs": 1668
-      },
-      {
-        "date": "2026-04-13",
-        "subs": 1668
-      },
-      {
-        "date": "2026-04-17",
-        "subs": 1668
-      },
-      {
         "date": "2026-04-21",
         "subs": 1668
       },
@@ -210,69 +183,71 @@
       {
         "date": "2026-05-11",
         "subs": 964
+      },
+      {
+        "date": "2026-05-21",
+        "subs": 964
       }
     ]
   },
   "youtube": {
-    "last_date": "2026-05-11",
-    "subscribers": 3820,
-    "total_views": 1567834,
-    "videos_count": 53,
+    "last_date": "2026-05-21",
+    "subscribers": 0,
+    "total_views": 0,
+    "videos_count": 0,
     "subs_prev": 3820,
-    "subs_change": 0,
-    "subs_pct": 0.0,
+    "subs_change": -3820,
+    "subs_pct": -100.0,
     "period_views": 0,
     "period_likes": 0,
     "period_shares": 0,
     "period_watch_min": 0.0,
     "period_subs_net": 0,
     "unreplied_comments": 9,
-    "top_traffic_source": "PLAYLIST",
-    "top_traffic_views": 5899,
     "traffic_sources": [
       {
         "source": "PLAYLIST",
-        "views": 36285
+        "views": 30040
       },
       {
         "source": "SHORTS",
-        "views": 16597
+        "views": 14100
       },
       {
         "source": "SUBSCRIBER",
-        "views": 12176
+        "views": 9698
       },
       {
         "source": "YT_SEARCH",
-        "views": 10156
+        "views": 8316
       },
       {
         "source": "RELATED_VIDEO",
-        "views": 7680
+        "views": 6060
       },
       {
         "source": "YT_CHANNEL",
-        "views": 2750
+        "views": 2238
       },
       {
         "source": "YT_OTHER_PAGE",
-        "views": 2612
+        "views": 2165
       },
       {
         "source": "NO_LINK_OTHER",
-        "views": 2506
+        "views": 2055
       },
       {
         "source": "EXT_URL",
-        "views": 1902
+        "views": 1520
       },
       {
         "source": "NOTIFICATION",
-        "views": 737
+        "views": 510
       },
       {
         "source": "END_SCREEN",
-        "views": 20
+        "views": 18
       }
     ],
     "top_videos": [
@@ -308,60 +283,6 @@
       }
     ],
     "trend": [
-      {
-        "date": "2026-04-12",
-        "views": 0,
-        "likes": 0,
-        "net_subs": 0
-      },
-      {
-        "date": "2026-04-13",
-        "views": 0,
-        "likes": 0,
-        "net_subs": 0
-      },
-      {
-        "date": "2026-04-14",
-        "views": 0,
-        "likes": 0,
-        "net_subs": 0
-      },
-      {
-        "date": "2026-04-15",
-        "views": 0,
-        "likes": 0,
-        "net_subs": 0
-      },
-      {
-        "date": "2026-04-16",
-        "views": 0,
-        "likes": 0,
-        "net_subs": 0
-      },
-      {
-        "date": "2026-04-17",
-        "views": 0,
-        "likes": 0,
-        "net_subs": 0
-      },
-      {
-        "date": "2026-04-18",
-        "views": 0,
-        "likes": 0,
-        "net_subs": 0
-      },
-      {
-        "date": "2026-04-19",
-        "views": 0,
-        "likes": 0,
-        "net_subs": 0
-      },
-      {
-        "date": "2026-04-20",
-        "views": 0,
-        "likes": 0,
-        "net_subs": 0
-      },
       {
         "date": "2026-04-21",
         "views": 0,
@@ -475,6 +396,60 @@
         "views": 0,
         "likes": 0,
         "net_subs": 0
+      },
+      {
+        "date": "2026-05-10",
+        "views": 0,
+        "likes": 0,
+        "net_subs": 0
+      },
+      {
+        "date": "2026-05-11",
+        "views": 0,
+        "likes": 0,
+        "net_subs": 0
+      },
+      {
+        "date": "2026-05-12",
+        "views": 0,
+        "likes": 0,
+        "net_subs": 0
+      },
+      {
+        "date": "2026-05-13",
+        "views": 0,
+        "likes": 0,
+        "net_subs": 0
+      },
+      {
+        "date": "2026-05-14",
+        "views": 0,
+        "likes": 0,
+        "net_subs": 0
+      },
+      {
+        "date": "2026-05-15",
+        "views": 0,
+        "likes": 0,
+        "net_subs": 0
+      },
+      {
+        "date": "2026-05-16",
+        "views": 0,
+        "likes": 0,
+        "net_subs": 0
+      },
+      {
+        "date": "2026-05-17",
+        "views": 0,
+        "likes": 0,
+        "net_subs": 0
+      },
+      {
+        "date": "2026-05-18",
+        "views": 0,
+        "likes": 0,
+        "net_subs": 0
       }
     ]
   },
@@ -486,11 +461,11 @@
     "super_listeners": 433,
     "saves": 0,
     "playlist_adds": 0,
-    "listeners_prev": 19937,
-    "listeners_change": -236,
-    "listeners_pct": -1.2,
-    "streams_prev": 88811,
-    "streams_change": -2899,
+    "listeners_prev": 19701,
+    "listeners_change": 0,
+    "listeners_pct": 0.0,
+    "streams_prev": 85912,
+    "streams_change": 0,
     "top_tracks": [
       {
         "name": "Color",
@@ -602,7 +577,7 @@
         "listeners": 239
       }
     ],
-    "days_since_collection": 4,
+    "days_since_collection": 13,
     "trend": [
       {
         "date": "2026-02-18",
@@ -848,81 +823,30 @@
   "community": {
     "platforms": {
       "instagram": {
-        "comments_received": 38,
-        "comments_replied": 7,
-        "dms_received": 1,
-        "dms_replied": 0,
-        "mentions_received": 0,
-        "mentions_replied": 0,
-        "likes_given": 13,
-        "response_time_avg_min": 0
-      },
-      "youtube": {
         "comments_received": 8,
-        "comments_replied": 2,
+        "comments_replied": 7,
         "dms_received": 0,
         "dms_replied": 0,
         "mentions_received": 0,
         "mentions_replied": 0,
-        "likes_given": 0,
+        "likes_given": 1,
         "response_time_avg_min": 0
       }
     },
-    "total_received": 47,
-    "total_replied": 9,
-    "response_rate": 19,
-    "total_likes": 13,
+    "total_received": 8,
+    "total_replied": 7,
+    "response_rate": 88,
+    "total_likes": 1,
     "today_grid": [
       {
         "platform": "instagram",
         "shift": "AM",
-        "received": 1,
-        "replied": 1,
-        "pending": 0
-      },
-      {
-        "platform": "instagram",
-        "shift": "PM",
-        "received": 0,
-        "replied": 0,
-        "pending": 0
-      },
-      {
-        "platform": "youtube",
-        "shift": "AM",
-        "received": 2,
-        "replied": 0,
-        "pending": 2
-      },
-      {
-        "platform": "youtube",
-        "shift": "PM",
-        "received": 2,
-        "replied": 0,
-        "pending": 2
+        "received": 8,
+        "replied": 7,
+        "pending": 1
       }
     ],
     "trend": [
-      {
-        "date": "2026-04-12",
-        "received": 11,
-        "replied": 1
-      },
-      {
-        "date": "2026-04-13",
-        "received": 16,
-        "replied": 0
-      },
-      {
-        "date": "2026-04-14",
-        "received": 15,
-        "replied": 1
-      },
-      {
-        "date": "2026-04-17",
-        "received": 15,
-        "replied": 0
-      },
       {
         "date": "2026-04-26",
         "received": 13,
@@ -997,6 +921,11 @@
         "date": "2026-05-12",
         "received": 5,
         "replied": 1
+      },
+      {
+        "date": "2026-05-21",
+        "received": 8,
+        "replied": 7
       }
     ]
   },
@@ -1094,9 +1023,9 @@
   ],
   "suggestions": [
     {
-      "priority": "alta",
-      "area": "Comunidad",
-      "text": "Tasa de respuesta en 19%. Objetivo: >80%. Aumentar rondas de comunidad."
+      "priority": "info",
+      "area": "General",
+      "text": "Todo en orden. Mantener el ritmo actual de contenido y comunidad."
     }
   ],
   "press": {
@@ -1568,6 +1497,12 @@
         "sent": 8,
         "responses": 5,
         "coverage": 1
+      },
+      {
+        "date": "2026-05-21",
+        "sent": 8,
+        "responses": 5,
+        "coverage": 1
       }
     ]
   },
@@ -1699,18 +1634,8 @@
     "total": 13
   },
   "upcoming": {
-    "items": [
-      {
-        "id": 31,
-        "date": "2026-05-05",
-        "platform": "IG Feed/Reel",
-        "type": "Pieza humana",
-        "description": "Post breve post-WannaClap con narrativa de continuidad (\"esto sigue\") para testear conversación e intención hacia el próximo capítulo. Requiere OK de Nicolás + asset post-show/ensayo.",
-        "status": "blocked",
-        "platforms_done": []
-      }
-    ],
-    "source": "upcoming_content"
+    "items": [],
+    "source": "Dylan carga el plan los lunes y jueves"
   },
   "financials": {
     "total_expenses": 0,
@@ -1967,14 +1892,14 @@
     }
   ],
   "platform_status": {
-    "instagram": "2026-05-11T11:04:08.288107+00:00",
+    "instagram": "2026-05-21T12:51:11.201896+00:00",
     "spotify": null,
-    "emailoctopus": "2026-05-11T11:03:15.333207+00:00",
+    "emailoctopus": "2026-05-21T12:51:34.439816+00:00",
     "twitter": null,
     "tiktok": null,
     "meta_ads": null,
     "web": null,
     "shows": null,
-    "youtube": "2026-05-11T19:31:17.151362+00:00"
+    "youtube": "2026-05-21T12:51:18.315534+00:00"
   }
 }
